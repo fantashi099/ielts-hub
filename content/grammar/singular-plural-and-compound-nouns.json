@@ -1,0 +1,217 @@
+{
+  "slug": "singular-plural-and-compound-nouns",
+  "title": "Singular, plural and compound nouns",
+  "titleVi": "Danh từ số ít, số nhiều và danh từ ghép",
+  "level": "B2",
+  "topic": "articles-nouns",
+  "bookUnits": [79, 80, 81],
+  "bandFocus": "7.5",
+  "summary": "Số nhiều bất quy tắc, danh từ luôn ở số nhiều, danh từ ghép và cách chia động từ với chúng.",
+  "whyItMatters": "Trong Task 1 bạn liên tục viết *the number of cars*, *a ten-year period*, *the city's population* — cả ba đều là bẫy số ít/số nhiều. Sai chia động từ với *the number of* hoặc thêm *-s* vào danh từ ghép là lỗi ngữ pháp rõ ràng, và nó xuất hiện đúng ở những câu mô tả số liệu, tức là những câu quan trọng nhất của bài.",
+  "sections": [
+    {
+      "heading": "Plurals: the regular system and its gaps",
+      "body": [
+        "The regular system adds **-s**, with **-es** after *-s, -sh, -ch, -x, -o* (*boxes, watches, tomatoes*) and **-ies** after a consonant + *y* (*city → cities*, but *day → days*).",
+        "Irregular plurals must be memorised: *man/men, woman/women, child/children, person/people, foot/feet, tooth/teeth, mouse/mice, goose/geese, ox/oxen*. Some do not change at all: *sheep, fish, deer, aircraft, series, species, means, crossroads.*",
+        "Academic English is full of Latin and Greek plurals: *analysis/analyses, crisis/crises, thesis/theses, hypothesis/hypotheses, phenomenon/phenomena, criterion/criteria, datum/data, medium/media, stimulus/stimuli, curriculum/curricula.* Using the wrong form here is conspicuous in an academic essay."
+      ],
+      "table": {
+        "headers": ["Singular", "Plural"],
+        "rows": [
+          ["child", "children"],
+          ["analysis", "analyses"],
+          ["criterion", "criteria"],
+          ["phenomenon", "phenomena"],
+          ["hypothesis", "hypotheses"],
+          ["species", "species"],
+          ["medium", "media"],
+          ["crisis", "crises"]
+        ]
+      }
+    },
+    {
+      "heading": "Always plural, and singular in disguise",
+      "body": [
+        "Some nouns exist only in the plural and take a plural verb: **trousers, jeans, shorts, scissors, glasses (spectacles), headphones, belongings, clothes, contents, earnings, savings, surroundings, thanks, congratulations.** To count them, use *a pair of*: *a pair of jeans*, *two pairs of scissors*.",
+        "Others look plural but are singular: **news, mathematics, physics, economics, politics** (the subject), **measles**, and the games **billiards, athletics**. *Economics is my favourite subject.*",
+        "Collective nouns — *team, family, government, staff, committee, audience* — take a singular verb when the group acts as one unit, which is the safer choice in IELTS: *The government has announced new measures.* British English allows a plural verb when the members act individually: *The team are arguing among themselves.*"
+      ],
+      "examples": [
+        { "right": "The news is worse than expected.", "wrong": "The news are worse than expected.", "note": "**news** chia số ít." },
+        { "right": "My trousers are too long.", "wrong": "My trouser is too long.", "note": "Danh từ luôn số nhiều, không bỏ *-s*." },
+        { "right": "The committee has reached a decision.", "note": "Nhóm hành động như một thể → động từ số ít." }
+      ]
+    },
+    {
+      "heading": "Compound nouns: the first noun stays singular",
+      "body": [
+        "In a **noun + noun** compound, the first noun works like an adjective and never takes a plural: *a shoe shop* (not *shoes shop*), *a bus stop*, *a car park*, *a toothbrush*, *a headache*, *a can opener*.",
+        "The same rule applies to measurement compounds before a noun: *a ten-year period*, *a two-hour journey*, *a three-mile walk*, *a 40-hour week*. Note the hyphens and the singular form. When the phrase stands alone after a verb, the plural returns: *The journey took two hours.*",
+        "A few compounds keep a plural first element because the word is inherently plural: *a sports car*, *a customs officer*, *a savings account*, *a glasses case*. Treat these as fixed vocabulary, not as a rule."
+      ],
+      "table": {
+        "headers": ["Incorrect", "Correct"],
+        "rows": [
+          ["a shoes shop", "a shoe shop"],
+          ["a two-hours journey", "a two-hour journey"],
+          ["a five-minutes break", "a five-minute break"],
+          ["a ten-years period", "a ten-year period"],
+          ["a teethbrush", "a toothbrush"]
+        ]
+      }
+    },
+    {
+      "heading": "-'s or of?",
+      "body": [
+        "Use **-'s** mainly for people and animals: *the student's essay*, *the company's profits*, *the government's policy*. Use **of** for things and abstractions: *the results of the survey*, *the cost of living*, *the end of the century*.",
+        "Time expressions take **-'s**: *today's paper*, *yesterday's meeting*, *a week's holiday*, *two hours' delay*. Note the apostrophe after the plural *-s* in *two hours' delay*.",
+        "Places and organisations behave like people: *the city's population*, *Vietnam's exports*, *the university's reputation*. And the **double possessive** — *a friend of mine*, *a colleague of hers* — is standard when one of several is meant."
+      ],
+      "examples": [
+        { "right": "The survey's findings were inconclusive.", "note": "Organisation/institution → **-'s** is acceptable and compact." },
+        { "right": "The cost of living has risen sharply.", "wrong": "The living's cost has risen sharply.", "note": "Abstraction → **of** structure." },
+        { "right": "It was two hours' work.", "note": "Time expression: apostrophe after the plural." }
+      ]
+    },
+    {
+      "heading": "Agreement traps in Task 1 and Task 2",
+      "body": [
+        "**The number of** takes a singular verb; **a number of** takes a plural verb. *The number of electric cars has risen* but *A number of factors influence this trend.* This single distinction decides dozens of Task 1 sentences.",
+        "After **each, every, either, neither** the noun and verb are singular: *Each student receives a laptop.* *Neither option is attractive.* After **none of**, both singular and plural verbs are acceptable, with singular preferred in formal writing.",
+        "**Data** is plural in formal academic English (*the data suggest*) and uncountable in everyday use (*the data suggests*). Choose one and stay consistent — inconsistency is what examiners notice, not the choice itself."
+      ],
+      "table": {
+        "headers": ["Subject", "Verb"],
+        "rows": [
+          ["The number of applicants", "has increased."],
+          ["A number of applicants", "have withdrawn."],
+          ["Each of the studies", "was reviewed."],
+          ["Neither of the proposals", "is affordable."],
+          ["The police", "are investigating."],
+          ["The staff", "is being trained. (BrE: are)"]
+        ]
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "There are three childrens in the picture.",
+      "right": "There are three children in the picture.",
+      "why": "*children* đã là số nhiều của *child*, không thêm *-s* nữa. Lỗi này xuất hiện vì *child* trông như danh từ thường."
+    },
+    {
+      "wrong": "It was a two-hours journey.",
+      "right": "It was a two-hour journey.",
+      "why": "Trong danh từ ghép làm bổ nghĩa, danh từ thứ nhất **không có số nhiều**: *a two-hour journey*, *a ten-year period*."
+    },
+    {
+      "wrong": "The news are very encouraging.",
+      "right": "The news is very encouraging.",
+      "why": "**news** trông như số nhiều nhưng là danh từ không đếm được, luôn chia động từ **số ít**."
+    },
+    {
+      "wrong": "The number of private cars have doubled since 2010.",
+      "right": "The number of private cars has doubled since 2010.",
+      "why": "Chủ ngữ là **the number**, không phải *cars*, nên động từ chia số ít. Ngược lại *a number of cars have* lại chia số nhiều."
+    },
+    {
+      "wrong": "I need to buy a shoes shop's voucher.",
+      "right": "I need to buy a voucher from the shoe shop.",
+      "why": "Danh từ ghép dùng dạng số ít: **a shoe shop**. Thêm *-s* vào từ đầu là lỗi cấu tạo từ, không chỉ là lỗi chia."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, luôn kiểm tra cặp `the number of + has` và `a number of + have` — đây là lỗi chia động từ phổ biến nhất khi mô tả biểu đồ.",
+    "Dùng `a ten-year period`, `a five-year plan`, `a two-hour commute` để câu gọn và chính xác hơn mệnh đề quan hệ.",
+    "Với số liệu của một thành phố hay quốc gia, dùng `the city's population` hoặc `Vietnam's exports` — ngắn hơn `the population of the city`.",
+    "Chọn nhất quán giữa `data suggest` và `data suggests`; giám khảo trừ điểm khi bạn đổi cách chia giữa bài."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The number of households living in rented flats ___ sharply since 2015.",
+      "options": ["have risen", "has risen", "have rose", "are rising"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ là **the number** → động từ số ít: *has risen*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "A number of studies ___ that bilingual children perform better.",
+      "options": ["suggests", "suggest", "is suggesting", "has suggested"],
+      "answerIndex": 1,
+      "explanation": "**a number of** + danh từ số nhiều → động từ số nhiều: *suggest*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The company offers a ___ training programme for new staff.",
+      "options": ["six-weeks", "six-week", "six week's", "six weeks"],
+      "answerIndex": 1,
+      "explanation": "Danh từ ghép bổ nghĩa dùng dạng số ít, có gạch nối: **a six-week training programme**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Economics ___ a popular choice among international students.",
+      "options": ["are", "is", "were", "have been"],
+      "answerIndex": 1,
+      "explanation": "Tên môn học kết thúc bằng *-s* nhưng chia **số ít**: *Economics is*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The police is investigating the incident.",
+        "The police are investigating the incident.",
+        "The police has investigated the incident.",
+        "A police are investigating the incident."
+      ],
+      "answerIndex": 1,
+      "explanation": "**police** luôn là danh từ số nhiều tập hợp: *The police are*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The journey took four ___ (hour).",
+      "answers": ["hours"],
+      "hint": "after a verb, no compound",
+      "explanation": "Khi không đứng trước danh từ, danh từ giữ số nhiều: *four hours*."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "She bought a pair of ___ (jean) for the trip.",
+      "answers": ["jeans"],
+      "hint": "always plural",
+      "explanation": "**jeans** luôn ở số nhiều: *a pair of jeans*."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "One of the main ___ (criterion) for the scholarship is academic writing.",
+      "answers": ["criteria"],
+      "hint": "Latin plural",
+      "explanation": "*criterion* → số nhiều **criteria**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The results of ___ (survey) were published last week.",
+      "answers": ["the survey"],
+      "hint": "of + specific noun",
+      "explanation": "Cấu trúc **of + the + danh từ xác định**: *the results of the survey*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "They moved abroad after two ___ (year) of planning.",
+      "answers": ["years"],
+      "hint": "quantity before of",
+      "explanation": "*two years of planning* — danh từ đứng trước *of* giữ số nhiều."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "slug": "reported-speech-statements",
+  "title": "Reported speech: statements",
+  "titleVi": "Câu tường thuật: câu kể",
+  "level": "B2",
+  "topic": "reported-speech",
+  "bookUnits": [47],
+  "bandFocus": "7.5",
+  "summary": "Lùi thì, đổi đại từ và dùng say/tell đúng — nền tảng để trích dẫn nguồn trong Writing Task 2.",
+  "whyItMatters": "Trong Task 2 bạn liên tục phải trích ý kiến người khác: *Critics argue that...*, *The report claimed that...*. Sai thì khi tường thuật khiến người đọc hiểu sai thời điểm của sự việc, còn lẫn *say* và *tell* là lỗi mà giám khảo xếp vào nhóm lỗi cơ bản — rất khó bù bằng từ vựng đẹp.",
+  "sections": [
+    {
+      "heading": "The one-step backshift",
+      "body": [
+        "When the reporting verb is past (*said*, *told*, *argued*), the verb inside the report usually moves **one step back** in time. The shift is mechanical: present to past, present perfect to past perfect, will to would, can to could.",
+        "Past simple is the exception. It can stay as it is (*He said he woke up late*) or become past perfect (*He said he had woken up late*). Both are correct. Choose the past perfect when the order of events would otherwise be unclear, and the past simple when the report is short and the sequence is obvious.",
+        "The backshift is not decoration: it tells the reader that the words were spoken before now. Drop it and the sentence claims the situation is still true."
+      ],
+      "table": {
+        "headers": ["Direct speech", "Reported speech"],
+        "rows": [
+          ["I am tired.", "He said he was tired."],
+          ["We are moving house.", "They said they were moving house."],
+          ["I have lost my phone.", "She said she had lost her phone."],
+          ["I will call you.", "He said he would call me."],
+          ["I can drive.", "She said she could drive."],
+          ["You must wear a helmet.", "He said I had to wear a helmet."],
+          ["I woke up late.", "He said he woke up late. / he had woken up late."]
+        ]
+      }
+    },
+    {
+      "heading": "say and tell: one takes a person, the other does not",
+      "body": [
+        "**tell** must be followed by the person you are talking to: *She told me that she was leaving.* **say** cannot take that person directly — you need **to**: *She said to me that she was leaving.* The compressed form *She said me* does not exist in English.",
+        "This is the single most common reported-speech error among Vietnamese learners, because *nói tôi* maps word for word onto *said me*. Train the pair until it is automatic: **tell somebody**, **say something (to somebody)**.",
+        "**that** is optional after both verbs. Leaving it out is normal in speech and increasingly common in academic prose; keeping it makes long sentences easier to parse."
+      ],
+      "examples": [
+        { "right": "The manager told us that the deadline had been moved.", "wrong": "The manager said us that the deadline had been moved.", "note": "**tell + person**; *say* would need *to us*." },
+        { "right": "She said that she would send the file.", "wrong": "She told that she would send the file.", "note": "**tell** cannot appear without its person." },
+        { "right": "He said goodbye to everyone and left.", "note": "Fixed phrase **say goodbye to somebody** — do not replace *said* with *told*." }
+      ]
+    },
+    {
+      "heading": "When the verb does not move back",
+      "body": [
+        "No backshift is needed when the situation is **still true** at the moment of reporting: *Paul said his new job is boring* (he still works there and still finds it boring). Backshifting is also optional, never wrong — *Paul said his new job was boring* is equally acceptable.",
+        "Backshift becomes obligatory when the situation has clearly changed. If Rachel told you that Joe was in hospital, and you then meet Joe in the street, you say *Rachel said you were in hospital* — present tense would be absurd.",
+        "General truths and permanent facts normally stay in the present: *The teacher told us that water boils at 100°C.*"
+      ],
+      "examples": [
+        { "right": "Helen told me she wants to study in Canada next year.", "note": "She still wants to go, so the present is natural." },
+        { "right": "Helen told me she wanted to study in Canada next year.", "note": "Also correct; the backshift is always available." },
+        { "right": "He said he had to leave immediately — and he did.", "wrong": "He said he has to leave immediately — and he did.", "note": "Once the moment has passed, the past form is required." }
+      ]
+    },
+    {
+      "heading": "Pronouns, time and place shift too",
+      "body": [
+        "Reported speech re-centres the sentence on the reporter, so pronouns, time expressions and place words move as well: *I* becomes *he/she*, *my* becomes *his/her*, *here* becomes *there*, *tomorrow* becomes *the next day*.",
+        "The shift depends on **when and where you report**, not on a fixed rule. If you report the same day in the same city, *today* and *here* can stay. If time has passed, they must move.",
+        "Academic writing needs very little of this, because citations are usually about ideas rather than about a conversation happening here and now. Keep the full apparatus for narrative writing and Speaking Part 2."
+      ],
+      "table": {
+        "headers": ["Direct", "Reported later"],
+        "rows": [
+          ["now", "then / at that moment"],
+          ["today", "that day"],
+          ["tomorrow", "the next day / the following day"],
+          ["yesterday", "the day before / the previous day"],
+          ["last week", "the week before / the previous week"],
+          ["here", "there"],
+          ["this / these", "that / those"],
+          ["ago", "before"]
+        ]
+      }
+    },
+    {
+      "heading": "Reporting sources in IELTS Writing",
+      "body": [
+        "Task 2 does not require real citations, but it does reward the grammar of attribution: *Nguyen (2021) found that...*, *Several studies have shown that...*, *Critics of the policy argue that...*.",
+        "Note the tense pattern in academic reporting: a study that is finished takes the past (*The survey found that...*), while a body of knowledge still current takes the present perfect (*Research has consistently shown that...*). Both are correct; mixing them randomly inside one paragraph is not.",
+        "Avoid the Vietnamese habit of reporting an opinion and then restating it in the same sentence (*According to him, he said that...*). One reporting verb is enough."
+      ],
+      "examples": [
+        { "right": "The authors conclude that subsidies have little effect on demand.", "note": "Present tense for a conclusion still standing." },
+        { "right": "In 2019 the committee reported that the scheme had failed.", "note": "Past reporting verb plus past perfect for the earlier failure." },
+        { "right": "Economists have argued that rent controls reduce supply.", "wrong": "Economists argued that rent controls have reduced supply since 2010.", "note": "The second clause needs a consistent time frame once the reporting verb is past." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He said me that he was tired.",
+      "right": "He told me that he was tired.",
+      "why": "Tiếng Việt *nói tôi* dịch thẳng thành *said me*, nhưng **say** không nhận người nghe trực tiếp. Dùng **tell + người** hoặc **say to + người**."
+    },
+    {
+      "wrong": "She told that she would be late.",
+      "right": "She said that she would be late. / She told me that she would be late.",
+      "why": "**tell** bắt buộc phải có tân ngữ chỉ người. Thiếu *me/us/him* là câu sai ngữ pháp, không phải văn phong."
+    },
+    {
+      "wrong": "He said that he will help us.",
+      "right": "He said that he would help us.",
+      "why": "Tiếng Việt không lùi thì trong câu tường thuật (*anh ấy nói anh ấy sẽ giúp*), nên người học giữ nguyên *will*. Động từ tường thuật ở quá khứ kéo theo **will → would**."
+    },
+    {
+      "wrong": "She said she has finished the report.",
+      "right": "She said she had finished the report.",
+      "why": "Hiện tại hoàn thành lùi thành **quá khứ hoàn thành** để cho thấy việc hoàn thành xảy ra trước lúc nói."
+    },
+    {
+      "wrong": "He said he would meet me here tomorrow.",
+      "right": "He said he would meet me there the next day.",
+      "why": "Khi tường thuật ở thời điểm/địa điểm khác, *here* thành **there** và *tomorrow* thành **the next day**. Giữ nguyên chỉ đúng khi bạn thuật lại ngay tại chỗ, cùng ngày."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `X argues that` / `X claims that` ở thì hiện tại khi trích một quan điểm còn hiệu lực — đây là mẫu câu an toàn nhất trong Task 2.",
+    "Khi trích số liệu từ một nghiên cứu đã xong, dùng quá khứ: `The 2020 survey found that 62% of respondents...`",
+    "Đừng tường thuật rồi nhắc lại: `According to Nguyen, he said that...` là lỗi lặp. Chọn một trong hai cấu trúc.",
+    "Trong Speaking Part 3, dùng `I read somewhere that...` hoặc `A friend told me that...` để kể nguồn — nhớ lùi thì cho đúng."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Anna ___ me that she had applied for a scholarship.",
+      "options": ["told", "said", "spoke", "explained"],
+      "answerIndex": 0,
+      "explanation": "Có tân ngữ *me* nên phải dùng **tell**: *told me that*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Tom said he ___ finish the assignment by Friday.",
+      "options": ["will", "would", "can", "shall"],
+      "answerIndex": 1,
+      "explanation": "Động từ tường thuật *said* ở quá khứ → **will thành would**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "She said me that she was busy.",
+        "She told that she was busy.",
+        "She told me that she was busy.",
+        "She said to that she was busy."
+      ],
+      "answerIndex": 2,
+      "explanation": "Chỉ **tell + người + (that)** là đúng; *say* cần *to* trước người nghe."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The researcher said the data ___ collected over six months.",
+      "options": ["have been", "had been", "has been", "were being"],
+      "answerIndex": 1,
+      "explanation": "Việc thu thập xảy ra trước lúc phát biểu → hiện tại hoàn thành lùi thành **quá khứ hoàn thành**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "He said he ___ the answer, but he was wrong.",
+      "options": ["knows", "knew", "has known", "is knowing"],
+      "answerIndex": 1,
+      "explanation": "Câu kể lại một trạng thái trong quá khứ, không còn đúng nữa → **knew**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "My tutor ___ (tell) me that my essay needed a clearer thesis statement.",
+      "answers": ["told"],
+      "hint": "tell + person + that",
+      "explanation": "Có *me* phía sau nên dùng **told**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "She said she ___ (can) speak three languages fluently.",
+      "answers": ["could"],
+      "hint": "can → ?",
+      "explanation": "**can** lùi thành **could** sau động từ tường thuật ở quá khứ."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "They said they ___ (be) planning to move to Ha Noi the following month.",
+      "answers": ["were"],
+      "hint": "am/is/are → ?",
+      "explanation": "**are planning** lùi thành **were planning**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The doctor said I ___ (must) rest for at least a week.",
+      "answers": ["had to"],
+      "hint": "must → ?",
+      "explanation": "**must** trong câu tường thuật quá khứ thường chuyển thành **had to**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "He said he ___ (lose) his passport the week before.",
+      "answers": ["had lost"],
+      "hint": "earlier past event",
+      "explanation": "Sự việc xảy ra trước thời điểm tường thuật → quá khứ hoàn thành **had lost**."
+    }
+  ]
+}

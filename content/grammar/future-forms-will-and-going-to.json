@@ -1,0 +1,212 @@
+{
+  "slug": "future-forms-will-and-going-to",
+  "title": "Future forms: will, going to and the present",
+  "titleVi": "Các cách diễn đạt tương lai",
+  "level": "B1",
+  "topic": "tenses",
+  "bookUnits": [19, 20, 21, 23],
+  "bandFocus": "7.0",
+  "summary": "Chọn đúng cách nói về tương lai: quyết định tức thời, dự định trước, sắp xếp cố định và lịch trình.",
+  "whyItMatters": "Tiếng Anh không có một 'thì tương lai' duy nhất, mà có bốn cách diễn đạt phổ biến. Trong Task 2 bạn dự đoán hệ quả (*will*), trong Speaking bạn nói về kế hoạch (*going to*) và lịch hẹn (*present continuous*). Dùng sai dạng khiến người nghe hiểu sai mức độ chắc chắn của kế hoạch.",
+  "sections": [
+    {
+      "heading": "will: decisions made now, offers and predictions",
+      "body": [
+        "Use **will + infinitive** when the decision is made at the moment of speaking, when you offer to do something, or when you make a prediction based on opinion rather than evidence.",
+        "*I'll help you with that bag* is not a plan; it is a spontaneous offer. *The policy will probably reduce emissions* is a prediction, not a certainty.",
+        "**Will** also carries promises, refusals and formal statements: *The government will invest a further 2 billion dollars.*"
+      ],
+      "examples": [
+        { "right": "I'll send you the report this afternoon.", "note": "Decision made now, in response to a request." },
+        { "right": "Higher fees will probably deter poorer applicants.", "note": "Prediction based on opinion — softened by **probably**." },
+        { "right": "I won't accept the offer unless the salary improves.", "note": "**will** for a refusal or condition." }
+      ]
+    },
+    {
+      "heading": "going to: prior plans and evidence-based predictions",
+      "body": [
+        "Use **be going to + infinitive** when the decision was made before speaking, or when the present situation makes the future obvious.",
+        "*I'm going to apply for a master's degree* means I had already decided. *Look at those clouds — it's going to rain* means the evidence is visible now.",
+        "The distinction between *will* and *going to* is often a matter of intention rather than grammar, but examiners notice the difference in Speaking Part 1 when you talk about plans."
+      ],
+      "examples": [
+        { "right": "I'm going to apply for a master's degree next year.", "note": "Plan decided before speaking." },
+        { "right": "Look at the traffic — we're going to be late.", "note": "Prediction based on visible evidence." },
+        { "right": "The council is going to ban cars from the old quarter.", "note": "An announced intention, treated as settled." }
+      ]
+    },
+    {
+      "heading": "Present continuous and present simple for the future",
+      "body": [
+        "Use the present continuous for a fixed personal arrangement with a time and usually another person: *I'm meeting my supervisor on Friday.*",
+        "Use the present simple for timetables and schedules — transport, exams, term dates: *The exam starts at 9 a.m.* Using *will start* here sounds foreign.",
+        "This is the highest-frequency source of error in Speaking Part 1, where candidates often answer *I will meet my friend tomorrow* when they mean an arrangement that already exists."
+      ],
+      "table": {
+        "headers": ["Form", "Meaning", "Example"],
+        "rows": [
+          ["will + V", "decision now / offer / opinion", "I'll take the earlier train."],
+          ["going to + V", "plan made earlier / evidence", "I'm going to take the earlier train."],
+          ["present continuous", "fixed arrangement", "I'm taking the earlier train tomorrow."],
+          ["present simple", "timetable / schedule", "The earlier train leaves at 6.40."]
+        ]
+      }
+    },
+    {
+      "heading": "Choosing between will and going to",
+      "body": [
+        "The practical rule: if you can add *I've decided* before the verb, use **going to**. If you can add *I've just decided*, use **will**.",
+        "Predictions split the same way. With no evidence, **will** is normal (*I think rents will fall*); with visible evidence, **going to** is stronger (*Rents are going to fall — three landlords have already cut prices*).",
+        "In formal writing, **will** is the safer default for projections; **going to** can sound conversational."
+      ],
+      "examples": [
+        { "right": "I've decided — I'm going to take the job.", "note": "Plan made before speaking." },
+        { "right": "That's a good idea. I'll take the job.", "note": "Decision made at the moment of speaking." },
+        { "right": "The report predicts that demand will double by 2035.", "wrong": "The report predicts that demand is going to double by 2035.", "note": "Dự báo học thuật dùng **will** trang trọng hơn." }
+      ]
+    },
+    {
+      "heading": "Talking about the future in IELTS",
+      "body": [
+        "Task 1 sometimes shows a projection to a future year. Report projections with **is expected to**, **is projected to**, **is set to** rather than a bare future tense — this is the register of a band 7.5+ report.",
+        "Task 2 predictions should be hedged. *Will* alone sounds overconfident: *Urbanisation will destroy...* Better: *Urbanisation is likely to put further pressure on...*",
+        "In Speaking Part 3, mix the forms naturally: a plan in **going to**, a prediction in **will**, an arrangement in the present continuous."
+      ],
+      "examples": [
+        { "right": "The population is projected to reach 9.7 billion by 2050.", "note": "Academic projection with **be projected to**." },
+        { "right": "Automation is likely to displace millions of routine jobs.", "note": "Hedged prediction for Task 2." },
+        { "right": "I'm flying to Singapore next month, and I think the conference will be useful.", "note": "Arrangement + prediction in one natural sentence." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "When I will arrive, I will call you.",
+      "right": "When I arrive, I will call you.",
+      "why": "Mệnh đề thời gian với `when`, `after`, `before`, `as soon as` không dùng `will`. Đây là lỗi rất phổ biến vì người học dịch 'khi tôi sẽ đến'."
+    },
+    {
+      "wrong": "Look at those clouds. It will rain.",
+      "right": "Look at those clouds. It's going to rain.",
+      "why": "Khi có bằng chứng trước mắt, dùng `be going to`. `Will` dành cho dự đoán dựa trên ý kiến."
+    },
+    {
+      "wrong": "I will meet my supervisor at 3 p.m. tomorrow — we fixed it last week.",
+      "right": "I'm meeting my supervisor at 3 p.m. tomorrow — we fixed it last week.",
+      "why": "Sắp xếp đã cố định với thời gian cụ thể dùng `present continuous`, không dùng `will`."
+    },
+    {
+      "wrong": "The train will leave at 8.15.",
+      "right": "The train leaves at 8.15.",
+      "why": "Lịch trình giao thông cố định dùng `present simple`. `Will` khiến câu nghe như một dự đoán về tương lai."
+    },
+    {
+      "wrong": "I am going to can speak Japanese after the course.",
+      "right": "I am going to be able to speak Japanese after the course.",
+      "why": "Không dùng hai modal liền nhau. `Can` không có dạng tương lai, phải thay bằng `be able to`."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1 có số liệu dự báo, ưu tiên `is/are projected to`, `is expected to`, `is set to` — giọng học thuật và an toàn hơn `will`.",
+    "Trong Task 2, luôn giảm nhẹ dự đoán: `will` + trạng từ (`probably`, `likely to`) hoặc `may/might` để tránh khẳng định quá tuyệt đối.",
+    "Trong Speaking Part 1, phân biệt rõ kế hoạch (`going to`) và sắp xếp đã cố định (`present continuous`) — giám khảo đánh giá đây là dấu hiệu kiểm soát thì.",
+    "Ghi nhớ: sau `when/if/before/after/as soon as` không dùng `will`; dùng `present simple` cho mệnh đề thời gian và điều kiện."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Look at those dark clouds. It ___.",
+      "options": ["will rain", "is going to rain", "rains", "is raining"],
+      "answerIndex": 1,
+      "explanation": "Bằng chứng trước mắt → **be going to**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence uses the present simple correctly after 'when' for a future event?",
+      "options": [
+        "When I will arrive, I will call you.",
+        "When I arrive, I will call you.",
+        "When I arrive, I call you.",
+        "When I will arrive, I call you."
+      ],
+      "answerIndex": 1,
+      "explanation": "Mệnh đề thời gian sau **when** dùng **present simple**, mệnh đề chính dùng **will**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The timetable says the exam ___ at 9 a.m.",
+      "options": ["will start", "starts", "is starting", "is going to start"],
+      "answerIndex": 1,
+      "explanation": "Lịch trình chính thức dùng **present simple**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "A colleague is struggling with a heavy box. You say:",
+      "options": [
+        "I'm going to help you with that.",
+        "I'll help you with that.",
+        "I help you with that.",
+        "I'm helping you with that."
+      ],
+      "answerIndex": 1,
+      "explanation": "Lời đề nghị ứng khẩu tại thời điểm nói → **will**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence reports an academic projection in the right register?",
+      "options": [
+        "The population will be 9.7 billion by 2050.",
+        "The population is projected to reach 9.7 billion by 2050.",
+        "The population is going to be 9.7 billion by 2050.",
+        "The population reaches 9.7 billion by 2050."
+      ],
+      "answerIndex": 1,
+      "explanation": "**be projected to** là cấu trúc chuẩn trong báo cáo học thuật."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "We ___ (fly) to Singapore next Thursday — the tickets are already booked.",
+      "answers": ["are flying"],
+      "hint": "sắp xếp đã cố định",
+      "explanation": "Sắp xếp cố định có thời gian cụ thể → present continuous."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I've decided — I ___ (study) in Australia next year.",
+      "answers": ["am going to study"],
+      "hint": "I've decided",
+      "explanation": "Quyết định có từ trước → **be going to**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "Don't worry about the invoice — I ___ (send) it this afternoon.",
+      "answers": ["will send"],
+      "hint": "ứng khẩu, trấn an",
+      "explanation": "Quyết định tại thời điểm nói, dạng lời hứa → **will**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "As soon as the results ___ (come) out, I will let you know.",
+      "answers": ["come"],
+      "hint": "as soon as + mệnh đề thời gian",
+      "explanation": "Sau **as soon as** dùng present simple, không dùng **will**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The report ___ (predict) that demand will double by 2035.",
+      "answers": ["predicts"],
+      "hint": "the report + nội dung dự báo",
+      "explanation": "Động từ tường thuật ở hiện tại đơn; mệnh đề sau giữ **will** cho dự báo."
+    }
+  ]
+}

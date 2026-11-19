@@ -1,0 +1,208 @@
+{
+  "slug": "word-order-verb-object-place-time",
+  "title": "Word order: verb, object, place and time",
+  "titleVi": "Trật tự từ: động từ, tân ngữ, nơi chốn, thời gian",
+  "level": "B2",
+  "topic": "word-order",
+  "bookUnits": [109],
+  "bandFocus": "7.5",
+  "summary": "Giữ động từ và tân ngữ sát nhau, xếp nơi chốn trước thời gian — trật tự câu tiếng Anh không linh hoạt như tiếng Việt.",
+  "whyItMatters": "Tiếng Việt cho phép đảo trật tự khá tự do để nhấn mạnh; tiếng Anh thì không. *I very like this policy*, *He explained me the rule*, *She goes every day to work* đều hiểu được nhưng sai. Ở band 7.5, câu sai trật tự từ bị coi là lỗi **Grammatical Range and Accuracy** lặp lại, kéo điểm xuống dù từ vựng tốt.",
+  "sections": [
+    {
+      "heading": "The fixed spine: subject – verb – object",
+      "body": [
+        "English word order is grammatical, not decorative. The basic spine is **subject → verb → object**: *The government introduced a new tax.* Change the order and you change the meaning or destroy the sentence.",
+        "Vietnamese often places the topic first and comments later, and it allows the object to move. English keeps the object after the verb: *The council rejected the plan*, never *The council the plan rejected*.",
+        "When you want to foreground information, do it with **time or place phrases at the front**, not by moving the object: *In 2019, the council rejected the plan.*"
+      ],
+      "examples": [
+        { "right": "The report identifies three causes of urban flooding.", "wrong": "The report three causes of urban flooding identifies.", "note": "Object follows verb." },
+        { "right": "In recent years, many graduates have left the capital.", "note": "Time phrase fronted — normal and formal." },
+        { "right": "The committee reviewed the evidence carefully.", "wrong": "The committee reviewed carefully the evidence.", "note": "Adverb does not split verb and object." }
+      ]
+    },
+    {
+      "heading": "Place before time at the end of a sentence",
+      "body": [
+        "When a sentence ends with both **place** and **time**, the neutral order is **place → time**: *She works **in a hospital** **six days a week**.* *They moved **to Da Nang** **in 2020**.*",
+        "Time can also move to the front for emphasis or to link with the previous sentence: *In 2020, they moved to Da Nang.* What it cannot do is sit between the verb and the place: *They moved in 2020 to Da Nang* is marked and unnatural in an essay.",
+        "With verbs of movement, the destination is part of the verb's core pattern, so it stays close: *arrive at the station*, *go to work*, *return to the office*."
+      ],
+      "examples": [
+        { "right": "The family moved to the suburbs in 2018.", "wrong": "The family moved in 2018 to the suburbs.", "note": "Place before time." },
+        { "right": "Every morning, thousands of commuters crowd the metro.", "note": "Time fronted — cohesive with the previous sentence." },
+        { "right": "The clinic opens at seven in the morning.", "note": "Fixed time expression stays after the verb." }
+      ]
+    },
+    {
+      "heading": "Verb + object are a unit — do not insert adverbs",
+      "body": [
+        "An adverb of manner or degree cannot sit between a verb and its object: *She speaks English fluently*, not *She speaks fluently English*. If the object is long, the adverb goes after it or before the verb.",
+        "The same rule explains why **very much** goes at the end: *I like this policy very much*, not *I like very much this policy*.",
+        "Some verbs take **object + preposition + person**, not two objects: *explain the rule **to** me*, *describe the process **to** us*, *suggest a solution **to** the committee*. *Explain me the rule* is a direct translation of *giải thích cho tôi*."
+      ],
+      "table": {
+        "headers": ["Correct pattern", "Common error", "Why"],
+        "rows": [
+          ["explain the rule to me", "explain me the rule", "explain takes to + person"],
+          ["describe the process to us", "describe us the process", "same pattern"],
+          ["suggest a plan to the board", "suggest the board a plan", "same pattern"],
+          ["give me the report", "give the report me", "give takes two objects"],
+          ["send the file to her", "send her it", "pronoun object prefers to + person"]
+        ]
+      }
+    },
+    {
+      "heading": "Where adverbials go: manner, place, time",
+      "body": [
+        "The full neutral order at the end of a clause is **manner → place → time**: *She sang beautifully at the concert last night.* This is the same order you need in Task 1 descriptions: *The figure rose sharply in 2010.*",
+        "Short frequency adverbs go in **mid position**, before the main verb or after *be*: *The city **always** invests in transport*, *The city is **always** short of funds.*",
+        "Long prepositional phrases prefer the end. Putting a long phrase mid-sentence forces the reader to hold the verb in memory: *The council, after months of consultation with residents and experts, approved the plan* is acceptable because it is set off by commas; without commas it becomes unreadable."
+      ],
+      "examples": [
+        { "right": "The figure rose sharply in the final quarter.", "note": "manner → time." },
+        { "right": "She has always worked in the public sector.", "note": "Frequency adverb after the first auxiliary." },
+        { "right": "The council approved the plan after months of consultation.", "note": "Long phrase at the end, where it is easy to process." }
+      ]
+    },
+    {
+      "heading": "Fronting: when it helps, when it hurts",
+      "body": [
+        "Fronting a **time** or **place** phrase is standard academic practice because it creates a smooth link with the previous sentence: *In rural areas, access to specialist care remains limited.*",
+        "Fronting an **object** is much more restricted. It appears in speech and journalism for contrast — *This problem the government has ignored for years* — but in an essay it reads as inversion without a trigger. Use a cleft instead: *It is this problem that the government has ignored for years.*",
+        "Negative fronting requires **inversion** and belongs to C1 style: *Never has the city faced such pressure.* If you front a negative adverbial without inverting the subject and verb, the sentence is wrong."
+      ],
+      "examples": [
+        { "right": "In coastal provinces, fishing communities face the greatest risk.", "note": "Fronted place phrase — cohesive and formal." },
+        { "right": "It is this problem that the government has ignored for years.", "note": "Cleft keeps the emphasis without breaking order." },
+        { "right": "Never has the city faced such pressure on housing.", "wrong": "Never the city has faced such pressure on housing.", "note": "Negative fronting forces inversion: *has the city*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I very like this policy.",
+      "right": "I really like this policy. / I like this policy very much.",
+      "why": "**very** không đứng trước động từ thường. Dùng *really* trước động từ, hoặc *very much* ở cuối câu."
+    },
+    {
+      "wrong": "The teacher explained me the rule.",
+      "right": "The teacher explained the rule to me.",
+      "why": "**explain** không nhận hai tân ngữ. Cấu trúc là `explain something to somebody`, dịch sát *giải thích cái gì cho ai*."
+    },
+    {
+      "wrong": "She goes every day to the office.",
+      "right": "She goes to the office every day.",
+      "why": "Trật tự cuối câu là **nơi chốn → thời gian**. Đặt thời gian trước nơi chốn nghe rất *Việt*."
+    },
+    {
+      "wrong": "The committee reviewed carefully the proposal.",
+      "right": "The committee reviewed the proposal carefully.",
+      "why": "Trạng từ không chen giữa động từ và tân ngữ. Tân ngữ phải đứng ngay sau động từ."
+    },
+    {
+      "wrong": "Never the city has faced such pressure.",
+      "right": "Never has the city faced such pressure.",
+      "why": "Khi đưa trạng từ phủ định lên đầu câu, phải **đảo ngữ**: trợ động từ đứng trước chủ ngữ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng cụm **thời gian/nơi chốn** ở đầu câu để tạo mạch liên kết giữa các câu trong đoạn Task 2: *In rural districts, the shortage is even more acute.* Câu sau nối trực tiếp với ý trước mà không cần *however* hay *moreover*.",
+    "Trong Task 1, giữ đúng thứ tự **manner → place → time** khi mô tả số liệu: *Unemployment fell sharply in the north in 2019.* Nếu đảo, câu vẫn hiểu được nhưng mất tự nhiên.",
+    "Tuyệt đối không chen trạng từ giữa động từ và tân ngữ. Nếu câu dài, đưa trạng từ ra cuối: *The government introduced the new tax on single-use plastics without warning.*",
+    "Hạn chế đảo tân ngữ lên đầu trong Writing. Muốn nhấn mạnh, dùng **câu chẻ** (*It is this issue that…*) hoặc **đảo ngữ với trạng từ phủ định** (*Never has…*) — cả hai đều đúng chuẩn học thuật."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Which sentence has correct word order?",
+      "options": [
+        "The council the plan rejected.",
+        "The council rejected the plan.",
+        "The council rejected carefully the plan.",
+        "The council very rejected the plan."
+      ],
+      "answerIndex": 1,
+      "explanation": "Subject → verb → object, with no adverb between verb and object."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "They moved ___ .",
+      "options": ["in 2018 to the suburbs", "to the suburbs in 2018", "to in 2018 the suburbs", "the suburbs to in 2018"],
+      "answerIndex": 1,
+      "explanation": "Place before time: **to the suburbs in 2018**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "She speaks ___ .",
+      "options": ["fluently English", "English fluently", "English fluent", "fluent Englishly"],
+      "answerIndex": 1,
+      "explanation": "Verb and object stay together; the adverb follows the object."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Could you ___ ?",
+      "options": ["explain me the rule", "explain the rule to me", "explain to me the rule", "explain me to the rule"],
+      "answerIndex": 1,
+      "explanation": "**explain something to somebody** — no double object."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Never the city has faced such pressure.",
+        "Never has the city faced such pressure.",
+        "Never the city faced has such pressure.",
+        "The city never has faced such pressure."
+      ],
+      "answerIndex": 1,
+      "explanation": "Negative fronting requires inversion: **Never has the city faced…**"
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "I like this policy very ___ .",
+      "answers": ["much"],
+      "hint": "very ___ at the end",
+      "explanation": "**very much** goes at the end, after the object."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The teacher explained the rule ___ me.",
+      "answers": ["to"],
+      "hint": "explain something ___ somebody",
+      "explanation": "**explain something to somebody**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "She goes to the office ___ (every / day).",
+      "answers": ["every day"],
+      "hint": "time at the end",
+      "explanation": "Place (*to the office*) before time (*every day*)."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The figure rose ___ (sharp) in the final quarter.",
+      "answers": ["sharply"],
+      "hint": "adverb of manner",
+      "explanation": "Manner adverb **sharply**, then time phrase."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "___ rural areas, access to specialist care remains limited.",
+      "answers": ["in"],
+      "hint": "fronted place phrase",
+      "explanation": "**In rural areas** — a fronted place phrase needs the preposition."
+    }
+  ]
+}

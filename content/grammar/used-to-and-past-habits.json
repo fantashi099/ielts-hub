@@ -1,0 +1,298 @@
+{
+  "slug": "used-to-and-past-habits",
+  "title": "used to, would and past habits",
+  "titleVi": "used to, would và thói quen trong quá khứ",
+  "level": "B1",
+  "topic": "tenses",
+  "bookUnits": [
+    17,
+    18
+  ],
+  "bandFocus": "7.0",
+  "summary": "Nói về thói quen và trạng thái đã chấm dứt, đồng thời phân biệt với be/get used to + V-ing.",
+  "whyItMatters": "Trong Speaking Part 1 và 2, câu hỏi về tuổi thơ và thay đổi cuộc sống xuất hiện liên tục. `used to` là công cụ gọn nhất để nói 'trước đây thì...', nhưng chỉ cần nhầm với `be used to + V-ing` là câu mất điểm ngay. Đây cũng là cấu trúc ăn điểm khi so sánh quá khứ với hiện tại trong Task 2.",
+  "sections": [
+    {
+      "heading": "used to + infinitive: past states and finished habits",
+      "body": [
+        "**used to + base verb** describes something that was true in the past but is not true now — either a repeated habit or a state.",
+        "It is the only structure that handles both habits (*I used to walk to school*) and states (*There used to be a market here*). The past simple handles habits but not states: *I walked to school* is fine, but *There was a market here* loses the contrast with now.",
+        "Because the meaning already contains 'past', you cannot say *I use to* in the present, and there is no present form of this structure."
+      ],
+      "examples": [
+        {
+          "right": "I used to walk to school every morning.",
+          "note": "A past habit that has stopped."
+        },
+        {
+          "right": "There used to be a market on this corner.",
+          "note": "A past state — no present equivalent."
+        },
+        {
+          "right": "She didn't use to enjoy reading, but now she reads daily.",
+          "wrong": "She didn't used to enjoy reading, but now she reads daily.",
+          "note": "After **didn't**, write **use to**, not **used to**."
+        },
+        {
+          "right": "Did you use to live in the countryside?",
+          "note": "Question form with **did ... use to**."
+        }
+      ]
+    },
+    {
+      "heading": "would: repeated actions, never states",
+      "body": [
+        "**would + base verb** also describes repeated past actions, and it gives a nostalgic, storytelling tone: *Every summer we would visit my grandmother in Hue.*",
+        "The restriction is decisive: **would** cannot describe past states. Say *I used to have a motorbike*, never *I would have a motorbike*.",
+        "In exam writing, **would** is rare outside narrative; **used to** and the past simple with a frequency expression are safer choices."
+      ],
+      "examples": [
+        {
+          "right": "Every summer we would visit my grandmother in Hue.",
+          "note": "Repeated action with a nostalgic tone."
+        },
+        {
+          "right": "My father used to own a small bookshop.",
+          "wrong": "My father would own a small bookshop.",
+          "note": "**own** is a state — only **used to** works."
+        },
+        {
+          "right": "On rainy days, the children would play cards for hours.",
+          "note": "Habitual action in a narrative."
+        }
+      ]
+    },
+    {
+      "heading": "Past simple with frequency expressions",
+      "body": [
+        "The past simple plus a frequency expression can also express a past habit: *I played football every afternoon when I was a child.*",
+        "This is the least marked option and the safest in academic writing. Use **used to** when you want to stress the contrast with the present, and the past simple when the contrast is irrelevant.",
+        "With a definite time span, the past simple is often better: *Between 2005 and 2010, I studied in Da Nang* — not *I used to study*, because the period is bounded and complete."
+      ],
+      "examples": [
+        {
+          "right": "I played football every afternoon when I was a child.",
+          "note": "Past habit without emphasis on the contrast."
+        },
+        {
+          "right": "Between 2005 and 2010, I studied in Da Nang.",
+          "note": "A bounded period → past simple."
+        },
+        {
+          "right": "I used to play football every afternoon, but now I have no time.",
+          "note": "**used to** highlights the contrast with now."
+        }
+      ]
+    },
+    {
+      "heading": "used to + V versus be/get used to + V-ing",
+      "body": [
+        "These two structures look almost identical and mean completely different things. **used to + base verb** = a finished past habit. **be used to + -ing/noun** = be accustomed to something.",
+        "**get used to + -ing** describes the process of becoming accustomed: *It took me a year to get used to the cold.*",
+        "The test is grammatical: if a base verb follows, it is the past habit; if an -ing form or a noun follows, it is familiarity."
+      ],
+      "table": {
+        "headers": [
+          "Structure",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "used to + base verb",
+            "past habit or state, now finished",
+            "I used to live in Hue."
+          ],
+          [
+            "be used to + V-ing/noun",
+            "be accustomed to something",
+            "I am used to living in a big city."
+          ],
+          [
+            "get used to + V-ing/noun",
+            "become accustomed",
+            "She got used to the night shift."
+          ],
+          [
+            "didn't use to + base verb",
+            "negative past habit",
+            "He didn't use to smoke."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Comparing past and present in IELTS",
+      "body": [
+        "Task 2 often contrasts generations: *Thirty years ago, most families used to eat at home, whereas today...* This gives your argument a temporal dimension without extra words.",
+        "In Task 1, **used to** is not appropriate for data. Charts report figures (*In 1990, the figure stood at 20%*), not habits. Reserve **used to** for people and general social behaviour.",
+        "In Speaking Part 2, combine **used to** for background with the past simple for the specific event: *We used to spend every summer at my aunt's farm, and one year I decided to stay for the whole harvest.*"
+      ],
+      "examples": [
+        {
+          "right": "Thirty years ago, most families used to eat at home, whereas today many rely on delivery apps.",
+          "note": "Contrast between past and present in Task 2."
+        },
+        {
+          "right": "In 1990, the figure stood at 20%.",
+          "wrong": "In 1990, the figure used to stand at 20%.",
+          "note": "Số liệu biểu đồ không dùng **used to**."
+        },
+        {
+          "right": "We used to spend every summer at my aunt's farm.",
+          "note": "Background for a Part 2 narrative."
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I am used to walk to school when I was a child.",
+      "right": "I used to walk to school when I was a child.",
+      "why": "`be used to + V-ing` nghĩa là 'quen với', không phải 'đã từng'. Thói quen quá khứ đã chấm dứt dùng `used to + động từ nguyên mẫu`."
+    },
+    {
+      "wrong": "I would have a dog when I was a child.",
+      "right": "I used to have a dog when I was a child.",
+      "why": "`Would` chỉ dùng cho hành động lặp lại, không dùng cho trạng thái. `Have a dog` là trạng thái nên phải dùng `used to`."
+    },
+    {
+      "wrong": "I didn't used to like coffee.",
+      "right": "I didn't use to like coffee.",
+      "why": "Sau trợ động từ `didn't`, dùng `use to` không có `-d`. Đây là lỗi chính tả nhưng bị tính là lỗi ngữ pháp."
+    },
+    {
+      "wrong": "I used to living in Da Nang.",
+      "right": "I used to live in Da Nang.",
+      "why": "`Used to` + động từ nguyên mẫu. Dạng `-ing` chỉ đúng khi đi với `be/get used to`."
+    },
+    {
+      "wrong": "In 2010, the unemployment rate used to be 8%.",
+      "right": "In 2010, the unemployment rate was 8%.",
+      "why": "Số liệu của một năm cụ thể không phải thói quen, nên không dùng `used to`. Đây là lỗi thường gặp khi mô tả biểu đồ Task 1."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `used to` để tạo tương phản quá khứ - hiện tại trong Task 2: `Thirty years ago, families used to ..., whereas now ...`",
+    "Không dùng `used to` cho số liệu Task 1; biểu đồ mô tả con số tại một thời điểm, không mô tả thói quen.",
+    "Trong Speaking Part 2, một câu `used to` ở phần mở đầu giúp dựng bối cảnh nhanh, sau đó chuyển sang `past simple` cho sự kiện chính.",
+    "Kiểm tra nhanh: nếu sau cụm từ là động từ nguyên mẫu thì đó là thói quen quá khứ; nếu là `V-ing` hoặc danh từ thì đó là 'quen với'."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "There ___ a cinema on this street, but it closed in 2005.",
+      "options": [
+        "used to be",
+        "used to being",
+        "is used to be",
+        "would be"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trạng thái trong quá khứ, nay không còn → **used to be**. **Would** không dùng cho trạng thái."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence expresses a past habit correctly?",
+      "options": [
+        "I am used to walk to school when I was a child.",
+        "I used to walk to school when I was a child.",
+        "I used to walking to school when I was a child.",
+        "I would walked to school when I was a child."
+      ],
+      "answerIndex": 1,
+      "explanation": "Thói quen quá khứ đã chấm dứt → **used to + động từ nguyên mẫu**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "After six months in Hanoi, she ___ the traffic.",
+      "options": [
+        "used to",
+        "is used to",
+        "used to get",
+        "would get used"
+      ],
+      "answerIndex": 1,
+      "explanation": "Diễn tả trạng thái 'đã quen với' ở hiện tại → **be used to + noun**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Choose the correct negative form.",
+      "options": [
+        "He didn't used to smoke.",
+        "He didn't use to smoke.",
+        "He doesn't used to smoke.",
+        "He not used to smoke."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sau **didn't** dùng **use to** (không có **-d**)."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is NOT correct?",
+      "options": [
+        "My father used to own a small shop.",
+        "My father would own a small shop.",
+        "My father owned a small shop.",
+        "My father used to work in a small shop."
+      ],
+      "answerIndex": 1,
+      "explanation": "**own** là trạng thái nên không dùng **would** cho thói quen quá khứ."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "We ___ (spend) every summer at my grandmother's house when I was young.",
+      "answers": [
+        "used to spend"
+      ],
+      "hint": "thói quen quá khứ đã chấm dứt",
+      "explanation": "Thói quen lặp lại trong quá khứ, nay không còn → **used to + V**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "It took me a year to ___ (get) the night shift.",
+      "answers": [
+        "get used to"
+      ],
+      "hint": "become accustomed",
+      "explanation": "Quá trình trở nên quen với việc gì → **get used to + noun**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "___ play tennis before your injury? (câu hỏi với used to)",
+      "answers": [
+        "did you use to"
+      ],
+      "hint": "Câu hỏi: did + you + use to + V",
+      "explanation": "Câu hỏi dùng **did + you + use to + V**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "In 1990, the unemployment rate ___ (stand) at 8%.",
+      "answers": [
+        "stood"
+      ],
+      "hint": "số liệu một năm cụ thể",
+      "explanation": "Số liệu tại một thời điểm cụ thể dùng **past simple**, không dùng **used to**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "She ___ (not / use) like spicy food, but now she loves it.",
+      "answers": [
+        "didn't use to"
+      ],
+      "hint": "phủ định của used to",
+      "explanation": "Phủ định là **didn't use to + V** (không có **-d** ở **use**)."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "impersonal-and-causative-passive",
+  "title": "Impersonal and causative passives",
+  "titleVi": "Bị động khách quan và bị động nhờ vả",
+  "level": "C1",
+  "topic": "passive",
+  "bookUnits": [45, 46],
+  "bandFocus": "8.0",
+  "summary": "Hai cấu trúc bị động đưa band lên 8.0: người ta nói rằng (it is said that) và nhờ người khác làm (have something done).",
+  "whyItMatters": "Đây là hai cấu trúc đặc trưng của văn phong học thuật band 8.0. *It is widely believed that* giúp bạn nêu quan điểm chung mà không quy cho ai, còn *have something done* nén cả một câu dài thành bốn từ. Không dùng được chúng, bài viết của bạn vẫn đúng ngữ pháp nhưng nghe rất giống văn nói.",
+  "sections": [
+    {
+      "heading": "Two ways to report what people say",
+      "body": [
+        "When you report an opinion without naming who holds it, English offers two impersonal passive patterns. The **it**-pattern keeps a full clause: *It is widely believed that remote work raises productivity.* The **subject**-pattern promotes the person or thing to subject and turns the verb into a to-infinitive: *Remote work is widely believed to raise productivity.*",
+        "Both patterns exist because academic writing prefers to present a claim as shared knowledge rather than personal opinion. The verb set is small and formal: **allege, believe, consider, estimate, expect, know, report, say, suppose, think, understand**.",
+        "The choice between them is partly rhythm. The **it**-pattern is better when the clause is long or already contains a that-clause; the **subject**-pattern gives you a short, punchy sentence and reads slightly more confident."
+      ],
+      "table": {
+        "headers": ["Impersonal it-pattern", "Subject + passive + to-infinitive"],
+        "rows": [
+          ["It is said that the drug reduces symptoms.", "The drug is said to reduce symptoms."],
+          ["It is thought that the two events are linked.", "The two events are thought to be linked."],
+          ["It is expected that prices will fall.", "Prices are expected to fall."],
+          ["It is understood that the talks have failed.", "The talks are understood to have failed."]
+        ]
+      }
+    },
+    {
+      "heading": "Matching the infinitive to the time of the claim",
+      "body": [
+        "The to-infinitive carries its own time reference. If the claim concerns the present or a general truth, use **to do** or **to be doing**. If it concerns something earlier than the reporting verb, use **to have done**.",
+        "Passive claims stack two passives: *He is said to have been arrested* means people say that he was arrested. Keep the order **to have been + past participle**; do not fall back on *to be arrested* when the arrest is clearly in the past.",
+        "The same logic applies to states: *The building is thought to be unsafe* (now) versus *The building is thought to have been unsafe* (at the time of the fire)."
+      ],
+      "examples": [
+        { "right": "The company is reported to be losing millions.", "wrong": "The company is reported to lose millions.", "note": "An ongoing situation takes **to be + -ing**, not the simple infinitive." },
+        { "right": "She is believed to have left the country in March.", "note": "Earlier event → **to have + past participle**." },
+        { "right": "The manuscript is said to have been written in the twelfth century.", "note": "Earlier event plus passive → **to have been + past participle**." }
+      ]
+    },
+    {
+      "heading": "Fixed frames: there is said to be, supposed to",
+      "body": [
+        "**There is said to be** replaces *People say there is*: *There is said to be a link between the two phenomena.* The frame is fixed, so the verb agrees with the following noun: *There are said to be dozens of cases.*",
+        "**be supposed to** carries three different meanings, and examiners notice when a candidate can use only one. It can report general belief: *The film is supposed to be excellent.* It can report an arrangement or expectation: *You were supposed to be here at nine.* And in the negative it reports prohibition: *You are not supposed to park here.*",
+        "For an expectation that was not fulfilled, add the perfect infinitive: *The train was supposed to have arrived an hour ago.*"
+      ],
+      "examples": [
+        { "right": "The monument is supposed to be the oldest in the region.", "note": "General belief — people say so." },
+        { "right": "The assignment is supposed to have been submitted last Friday.", "note": "Unfulfilled expectation in the past." },
+        { "right": "Passengers are not supposed to use mobile phones during take-off.", "note": "Prohibition, not belief." }
+      ]
+    },
+    {
+      "heading": "have something done: getting someone else to act",
+      "body": [
+        "The causative **have/get + object + past participle** says that you arranged for another person to do something: *We had the data analysed by an independent statistician.* The object is what receives the action; the doer, if you mention it, follows **by**.",
+        "The pattern works in every tense because only **have** changes: *I'm having my eyes tested*, *She had her appendix removed*, *They will have the site inspected*. Questions and negatives use ordinary do-support: *Did you have your hair cut?*",
+        "**get** is more informal and more common in speech: *I got my laptop repaired.* Do not confuse the causative with the past perfect — *I had repaired my laptop* means I did it myself, *I had my laptop repaired* means someone else did it."
+      ],
+      "table": {
+        "headers": ["Meaning", "Form", "Example"],
+        "rows": [
+          ["arrange a service", "have + object + past participle", "She had the report translated."],
+          ["same, informal", "get + object + past participle", "He got his bike fixed."],
+          ["something bad happened", "have + object + past participle", "They had their passports stolen."],
+          ["did it yourself", "past perfect or past simple", "She had translated the report herself."]
+        ]
+      }
+    },
+    {
+      "heading": "The misfortune meaning — and how to use it precisely",
+      "body": [
+        "The same form reports an unwelcome event that someone experienced: *The team had their funding cut.* Nothing was arranged; the subject is a victim. Context, not grammar, separates the two meanings, so keep the doer clear: *They had their bags stolen* (victim) versus *They had their bags searched* (arranged, usually by officials).",
+        "In IELTS Writing the causative is a compact way to describe policy: *Cities should have older buildings retrofitted rather than demolished.* It also removes the clumsy *someone does something for somebody* that appears in so many band-6 essays.",
+        "Keep the object and the participle adjacent. Long objects read badly: *They had the house that they bought last year painted* is grammatical but heavy — split it into two sentences."
+      ],
+      "examples": [
+        { "right": "The council had the unsafe bridge closed to traffic.", "note": "Arranged action: officials caused the closure." },
+        { "right": "Several families had their homes flooded after the storm.", "note": "Misfortune: they did not arrange anything." },
+        { "right": "You should have your thesis proofread before submission.", "note": "Causative in a modal frame — very common advice in academic contexts." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He is said that he has moved to Da Nang.",
+      "right": "He is said to have moved to Da Nang.",
+      "why": "Tiếng Việt giữ nguyên cả mệnh đề sau *nói* (*Người ta nói rằng anh ấy đã chuyển...*), nên người học giữ luôn *that*. Khi đã đưa chủ ngữ lên đầu, tiếng Anh bắt buộc dùng **to + động từ**, không dùng mệnh đề."
+    },
+    {
+      "wrong": "The company is believed to fire 200 workers last year.",
+      "right": "The company is believed to have fired 200 workers last year.",
+      "why": "Hành động xảy ra trước động từ tường thuật phải dùng **to have + V3**. Tiếng Việt không chia thì trong động từ nguyên mẫu nên lỗi này gần như vô hình với người học."
+    },
+    {
+      "wrong": "I had repaired my motorbike at the shop yesterday.",
+      "right": "I had my motorbike repaired at the shop yesterday.",
+      "why": "*Nhờ* ai làm gì phải dùng **have + tân ngữ + V3**. Thiếu tân ngữ và quá khứ phân từ, câu chuyển sang nghĩa tự tay bạn sửa xe — điều bạn không hề muốn nói."
+    },
+    {
+      "wrong": "She got cleaned her apartment before the guests arrived.",
+      "right": "She got her apartment cleaned before the guests arrived.",
+      "why": "Tiếng Việt đặt động từ ngay sau *nhờ/lấy* (*nhờ dọn căn hộ*), còn tiếng Anh cố định khung **have/get + tân ngữ + V3**. Đảo trật tự là lỗi ngữ pháp, không phải lỗi văn phong."
+    },
+    {
+      "wrong": "The building is said to be damaged in the storm.",
+      "right": "The building is said to have been damaged in the storm.",
+      "why": "Vừa bị động vừa chỉ thời gian trước, nên cần **to have been + V3**. Người học dừng ở *to be damaged* vì *bị hư hại* trong tiếng Việt trông giống một trạng thái hơn là một hành động đã xảy ra."
+    }
+  ],
+  "ieltsTips": [
+    "Mở một đoạn thân bài Task 2 bằng bị động khách quan để nêu quan điểm chung, rồi tự nhận trách nhiệm ở câu sau: *It is widely argued that...* ... *This essay contends that...*",
+    "Dùng `is said to` và `is thought to` khi trích một nhận định bạn không kiểm chứng được — cách nói thận trọng này được đánh giá cao hơn *people say* ở band 7.5+.",
+    "Trong Task 1 mô tả quy trình, hãy dùng bị động thường (*the mixture is heated*) chứ không dùng cấu trúc nhờ vả; `have something done` để dành cho con người và chính sách trong Task 2.",
+    "Thay `people say` bằng `it is often claimed that` ngay ở mở bài: chỉ thêm ba từ nhưng câu văn lập tức đọc ra chất C1."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The new stadium ___ to have cost more than two billion dollars.",
+      "options": ["is believed", "believes", "is believing", "has believed"],
+      "answerIndex": 0,
+      "explanation": "Cấu trúc **subject + be + believed + to have done** cho một sự việc đã xảy ra trong quá khứ."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "___ that the two countries will sign the treaty this week.",
+      "options": ["It is expected", "It expects", "It is expecting", "There is expected"],
+      "answerIndex": 0,
+      "explanation": "Mẫu **It is expected that + mệnh đề** là bị động khách quan; *it* không phải chủ ngữ hành động nên không chia chủ động."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "We ___ the kitchen redecorated while we were away on holiday.",
+      "options": ["had", "did", "made", "let"],
+      "answerIndex": 0,
+      "explanation": "**have + tân ngữ + V3** diễn tả việc nhờ người khác làm; *make/let* đi với động từ nguyên mẫu, không đi với quá khứ phân từ."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence means that someone else cut his hair?",
+      "options": ["He cut his hair.", "He had his hair cut.", "He had cut his hair.", "He was cutting his hair."],
+      "answerIndex": 1,
+      "explanation": "Chỉ **had his hair cut** (have + tân ngữ + V3) mới mang nghĩa nhờ người khác cắt; *had cut* là thì quá khứ hoàn thành."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "The witness ___ to have left the country before the trial began.",
+      "options": ["is alleged", "alleges", "is alleging", "has alleged"],
+      "answerIndex": 0,
+      "explanation": "**is alleged to have left** = người ta cáo buộc rằng nhân chứng đã rời đi; *allege* ở đây phải là bị động khách quan."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The minister ___ (report) to be considering a change in policy.",
+      "answers": ["is reported"],
+      "hint": "subject + passive + to be -ing",
+      "explanation": "Hiện tại, đang diễn ra → **is reported to be considering**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The painting ___ (believe) to have been stolen in 1998.",
+      "answers": ["is believed"],
+      "hint": "impersonal passive, present",
+      "explanation": "Niềm tin hiện tại về một sự việc quá khứ: **is believed to have been stolen**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "I must have my eyes ___ (test) before I renew my driving licence.",
+      "answers": ["tested"],
+      "hint": "have + object + ?",
+      "explanation": "Khung nhờ vả cần quá khứ phân từ: **have my eyes tested**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "They ___ their car stolen while they were staying in Da Lat.",
+      "answers": ["had"],
+      "hint": "misfortune meaning",
+      "explanation": "Nghĩa *bị* tai họa: **had their car stolen**, không phải *stole*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "There ___ (say) to be a serious shortage of skilled workers.",
+      "answers": ["is said"],
+      "hint": "there is said to be",
+      "explanation": "Khung cố định **There is said to be + cụm danh từ số ít**, tương đương *People say there is...*."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "slug": "past-simple-and-past-continuous",
+  "title": "Past simple and past continuous",
+  "titleVi": "Thì quá khứ đơn và quá khứ tiếp diễn",
+  "level": "B1",
+  "topic": "tenses",
+  "bookUnits": [5, 6],
+  "bandFocus": "7.0",
+  "summary": "Kể sự kiện đã kết thúc và dựng bối cảnh xung quanh — kỹ năng bắt buộc cho Task 1 quá khứ và Speaking Part 2.",
+  "whyItMatters": "Task 1 thường cho dữ liệu từ những năm đã qua, còn Speaking Part 2 yêu cầu bạn kể một câu chuyện. Dùng `past simple` cho chuỗi sự kiện và `past continuous` cho bối cảnh là cách giám khảo nhận ra bạn kiểm soát được thì, chứ không chỉ liệt kê hành động.",
+  "sections": [
+    {
+      "heading": "Past simple: finished events in sequence",
+      "body": [
+        "The past simple (**worked / went**) reports an action that started and finished in the past, usually with a time reference or inside a clear sequence: *In 2019 the council approved the plan. Two years later, construction began.*",
+        "Negatives and questions use **did**: *didn't approve*, *Did the council approve...?* The main verb returns to its base form after **did**, which is a frequent slip in exam scripts.",
+        "For Task 1, the past simple is the default when every year on the axis is in the past: *Sales rose from 2 to 5 million units between 2005 and 2015.*"
+      ],
+      "examples": [
+        { "right": "The company launched three products last year.", "note": "One completed event with a finished time marker." },
+        { "right": "She didn't attend the seminar because she was ill.", "wrong": "She didn't attended the seminar because she was ill.", "note": "After **didn't**, use the base form." },
+        { "right": "Between 2000 and 2010, enrollment doubled.", "note": "Closed period, closed result." },
+        { "right": "Did the government raise the tax in 2019?", "note": "Question formed with **did** + base verb." }
+      ]
+    },
+    {
+      "heading": "Past continuous: the scene behind the event",
+      "body": [
+        "The past continuous (**was/were + -ing**) describes an action already in progress at a moment in the past. It paints the background rather than reporting a completed fact.",
+        "It is also the tense of atmosphere and description: *The streets were flooding, traffic was crawling, and nobody was listening to the warnings.*",
+        "Because it never expresses a finished, bounded event on its own, avoid it when you want to report a single result. *The government was introducing the tax in 2019* describes an unfolding process, not the completed policy change."
+      ],
+      "examples": [
+        { "right": "At 8 p.m. yesterday, the students were still revising.", "note": "Action in progress at a specified past moment." },
+        { "right": "It was raining heavily when we left the airport.", "note": "Background weather around a shorter event." },
+        { "right": "While the committee was debating the budget, protesters were gathering outside.", "note": "Two simultaneous background actions." },
+        { "right": "The government introduced the new tax in 2019.", "wrong": "The government was introducing the new tax in 2019.", "note": "A single completed policy change needs the past simple." }
+      ]
+    },
+    {
+      "heading": "Interruption: when, while and as",
+      "body": [
+        "The classic pattern is a long background action interrupted by a short event: past continuous + **when** + past simple. *I was waiting for the bus when I met an old colleague.*",
+        "Reverse the order and the meaning stays the same, but the punctuation changes: *When I met an old colleague, I was waiting for the bus.* Note that **when** can introduce either clause; **while** strongly prefers the continuous.",
+        "Do not put the past continuous in both clauses unless the actions really run in parallel. If one action clearly causes or follows the other, one of them must be past simple."
+      ],
+      "examples": [
+        { "right": "While I was walking home, I saw an accident.", "wrong": "While I was walking home, I was seeing an accident.", "note": "**see** here is a single completed perception → past simple." },
+        { "right": "As the lecture was starting, the lights went out.", "note": "**as** marks the overlap point." },
+        { "right": "He was crossing the road when his phone rang.", "note": "Continuous = longer frame; simple = the interruption." }
+      ]
+    },
+    {
+      "heading": "Choosing between them: story versus scene",
+      "body": [
+        "Ask what job the clause is doing. If it moves the narrative forward, use the past simple. If it holds the picture still while something else happens, use the past continuous.",
+        "A useful test: add *all afternoon* or *for two hours* and the continuous fits; add *twice* or *in 2019* and the simple fits."
+      ],
+      "table": {
+        "headers": ["Function", "Past simple", "Past continuous"],
+        "rows": [
+          ["Sequence of events", "He opened the door and walked in.", "not used for sequence"],
+          ["Background", "not used for scenery", "The rain was falling and the wind was rising."],
+          ["Interrupted action", "the interruption: the phone rang", "the frame: I was cooking dinner"],
+          ["Habit in the past", "I played football every afternoon.", "not used for repeated past habits"]
+        ]
+      }
+    },
+    {
+      "heading": "Past tenses in IELTS Task 1 and Speaking Part 2",
+      "body": [
+        "In Task 1, report closed periods in the past simple and keep the continuous for a trend that was visibly unfolding inside the period: *Sales rose overall, although they were falling sharply in 2009.*",
+        "In Speaking Part 2, start with a scene in the past continuous and then switch to the past simple for what actually happened. This single move makes a two-minute answer sound organised instead of like a list.",
+        "In Task 2, use the past simple for historical background (*In the 1990s, many governments deregulated...) and never for general truths."
+      ],
+      "examples": [
+        { "right": "Sales rose from 2 to 5 million units between 2005 and 2015.", "note": "Closed period in a Task 1 report." },
+        { "right": "I was living in a small town at the time, and one afternoon a neighbour knocked on my door.", "note": "Scene-setting, then the event — a natural Part 2 opening." },
+        { "right": "In the 1990s, many governments deregulated the telecommunications sector.", "note": "Historical background in Task 2." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "When I was a child, I was playing football every afternoon.",
+      "right": "When I was a child, I played football every afternoon.",
+      "why": "`Past continuous` diễn tả một hành động đang diễn ra tại một thời điểm, không diễn tả thói quen lặp lại. Thói quen trong quá khứ dùng `past simple` (hoặc `used to`)."
+    },
+    {
+      "wrong": "She didn't attended the conference.",
+      "right": "She didn't attend the conference.",
+      "why": "Sau trợ động từ `did/didn't`, động từ chính phải ở dạng nguyên mẫu. Người học hay chia thì hai lần vì nghĩ rằng câu vẫn cần dấu hiệu quá khứ."
+    },
+    {
+      "wrong": "I was knowing him very well at university.",
+      "right": "I knew him very well at university.",
+      "why": "`know` là stative verb, không có dạng tiếp diễn ở bất kỳ thì nào. Đây là lỗi dịch word-by-word từ 'tôi đang quen/biết anh ấy'."
+    },
+    {
+      "wrong": "The government was introducing the new tax in 2019.",
+      "right": "The government introduced the new tax in 2019.",
+      "why": "Một sự kiện hoàn tất với mốc thời gian rõ ràng dùng `past simple`. Dùng tiếp diễn khiến người đọc hiểu là hành động còn dang dở."
+    },
+    {
+      "wrong": "It was happened during the storm.",
+      "right": "It happened during the storm.",
+      "why": "`happen` là nội động từ, không có dạng bị động. Thêm `was` là lỗi nhầm giữa thì quá khứ đơn và cấu trúc bị động."
+    }
+  ],
+  "ieltsTips": [
+    "Với Task 1 có trục thời gian hoàn toàn trong quá khứ, dùng `past simple` làm thì chính và chỉ dùng `past continuous` khi muốn nhấn mạnh một xu hướng đang diễn ra bên trong giai đoạn đó.",
+    "Mở đầu Speaking Part 2 bằng một câu `past continuous` để dựng bối cảnh, rồi chuyển sang `past simple` cho chuỗi sự kiện — câu chuyện sẽ có nhịp rõ ràng.",
+    "Đừng bắt đầu quá nhiều câu bằng `was + V-ing`; nếu ba câu liên tiếp đều ở tiếp diễn, người nghe sẽ mất dấu sự kiện chính.",
+    "Trong Task 2, dùng `past simple` cho bối cảnh lịch sử (*In the 1990s, many cities expanded...*) và giữ `present simple` cho quan điểm chung để bài viết nhất quán."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "While she ___ the report, the power went out.",
+      "options": ["wrote", "was writing", "has written", "writes"],
+      "answerIndex": 1,
+      "explanation": "Hành động dài đang diễn ra làm nền cho sự kiện ngắn → **past continuous**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence reports a sequence of completed events?",
+      "options": [
+        "He was opening the door and was walking in.",
+        "He opened the door and walked in.",
+        "He was opening the door and walked in.",
+        "He has opened the door and walked in."
+      ],
+      "answerIndex": 1,
+      "explanation": "Chuỗi sự kiện nối tiếp nhau dùng **past simple** cho cả hai động từ."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence uses a state verb correctly in the past simple?",
+      "options": [
+        "I was knowing the answer.",
+        "I knew the answer.",
+        "I was knowing the answer already.",
+        "I am knowing the answer."
+      ],
+      "answerIndex": 1,
+      "explanation": "**know** là stative verb, không có dạng tiếp diễn."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Choose the correct negative sentence.",
+      "options": [
+        "She didn't went to the conference.",
+        "She didn't go to the conference.",
+        "She not went to the conference.",
+        "She doesn't went to the conference."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sau **didn't** dùng động từ nguyên mẫu: **didn't go**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "In a Task 1 report about 1990-2000, which sentence is best?",
+      "options": [
+        "Sales were rising from 2 to 5 million between 1990 and 2000.",
+        "Sales rose from 2 to 5 million between 1990 and 2000.",
+        "Sales have risen from 2 to 5 million between 1990 and 2000.",
+        "Sales rise from 2 to 5 million between 1990 and 2000."
+      ],
+      "answerIndex": 1,
+      "explanation": "Giai đoạn đã kết thúc hoàn toàn → **past simple**. Đáp án C sai vì `present perfect` cần giai đoạn chưa kết thúc."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "While I ___ (wait) for the bus, I met an old colleague.",
+      "answers": ["was waiting"],
+      "hint": "While + hành động nền",
+      "explanation": "**While** + hành động đang diễn ra làm nền → past continuous số ít."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The company ___ (launch) three products last year.",
+      "answers": ["launched"],
+      "hint": "last year",
+      "explanation": "**last year** là mốc thời gian đã kết thúc → past simple."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "At 8 p.m. yesterday, the students ___ (still / revise) for the exam.",
+      "answers": ["were still revising"],
+      "hint": "At 8 p.m. yesterday",
+      "explanation": "Thời điểm cụ thể trong quá khứ + hành động đang diễn ra → past continuous, giữ **still** sau **were**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "He ___ (not / understand) the instructions, so he asked for help.",
+      "answers": ["did not understand"],
+      "hint": "not + động từ trạng thái",
+      "explanation": "Câu phủ định quá khứ dùng **did not** + động từ nguyên mẫu; **understand** là stative verb."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "It ___ (rain) heavily when we left the airport.",
+      "answers": ["was raining"],
+      "hint": "when + sự kiện ngắn",
+      "explanation": "Mưa là bối cảnh kéo dài xung quanh sự kiện ngắn **left** → past continuous."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "third-conditional-and-mixed",
+  "title": "Third conditional and mixed conditionals",
+  "titleVi": "Câu điều kiện loại 3 và hỗn hợp",
+  "level": "C1",
+  "topic": "conditionals",
+  "bookUnits": [40],
+  "bandFocus": "8.0",
+  "summary": "Diễn tả điều đã không xảy ra trong quá khứ và hệ quả của nó, kể cả khi hệ quả rơi vào hiện tại — cấu trúc đắt giá cho lập luận band 8.",
+  "whyItMatters": "Band 8 yêu cầu bạn đánh giá nguyên nhân và giả định phản thực: *Had the policy been implemented earlier, the crisis might have been avoided.* Câu điều kiện loại 3 và hỗn hợp cho phép bạn bàn về quá khứ mà không khẳng định, đồng thời thể hiện khả năng kiểm soát thì phức tạp — tiêu chí Grammatical Range and Accuracy.",
+  "sections": [
+    {
+      "heading": "Third conditional: an unreal past",
+      "body": [
+        "The third conditional is **if + had + V3, would have + V3**. It describes a past situation that did not happen, and the result that would have followed.",
+        "*If the city had invested in drainage, the floods would not have destroyed the market.* The city did not invest; the floods did destroy it. Everything here is contrary to fact.",
+        "The modal in the result clause can vary in strength: **would have** (certain), **could have** (would have been able to), **might have** (possibly would have). The choice carries meaning — do not treat them as interchangeable."
+      ],
+      "examples": [
+        { "right": "If the city had invested in drainage, the floods would not have destroyed the market.", "note": "Unreal past condition + unreal past result." },
+        { "right": "If the committee had consulted residents, the plan could have been revised.", "note": "**could have** = would have been able to." },
+        { "right": "If researchers had released the data earlier, authorities might have acted sooner.", "note": "**might have** = possibly would have." }
+      ]
+    },
+    {
+      "heading": "Mixed conditionals: past condition, present result",
+      "body": [
+        "Mixed conditionals combine time frames. The most common type is **if + had + V3, would + base verb**: a past condition with a present result.",
+        "*If I had studied medicine, I would be a doctor now.* The condition is in the past (I did not study medicine); the result is in the present (I am not a doctor now).",
+        "The reverse mix also exists: **if + past simple, would have + V3** — an unreal present condition with a past result. *If she were more organised, she would have submitted the report on time.*",
+        "Mixed conditionals are frequent in IELTS Task 2 when you trace a historical cause to a current consequence: *If the government had regulated lending in 2005, the housing market would be more stable today.*"
+      ],
+      "examples": [
+        { "right": "If I had studied medicine, I would be a doctor now.", "note": "Past condition → present result." },
+        { "right": "If she were more organised, she would have submitted the report on time.", "note": "Present condition → past result." },
+        { "right": "If the government had regulated lending in 2005, the housing market would be more stable today.", "note": "Historical cause traced to a current outcome." }
+      ]
+    },
+    {
+      "heading": "Formal inversion and other third-conditional patterns",
+      "body": [
+        "In formal writing, drop **if** and invert: *Had the policy been implemented earlier, the crisis might have been avoided.* This is a band-8 sentence shape, but use it sparingly — one per essay is enough.",
+        "**If it had not been for + noun** means *without*: *If it had not been for international aid, the famine would have been catastrophic.*",
+        "**But for + noun** is the compressed equivalent: *But for international aid, the famine would have been catastrophic.*"
+      ],
+      "table": {
+        "headers": ["Pattern", "Form", "Example"],
+        "rows": [
+          ["Third conditional", "if + had + V3, would have + V3", "If they had acted sooner, the outbreak would have been contained."],
+          ["Mixed (past → present)", "if + had + V3, would + V", "If they had acted sooner, the city would be safer today."],
+          ["Mixed (present → past)", "if + past simple, would have + V3", "If the system were reliable, the data would have survived."],
+          ["Inverted formal", "Had + subject + V3, ...", "Had the policy been implemented, the crisis might have been avoided."],
+          ["If it had not been for / But for", "+ noun", "But for international aid, the famine would have been catastrophic."]
+        ]
+      }
+    },
+    {
+      "heading": "Choosing between would, could and might have",
+      "body": [
+        "**would have + V3** states a certain result: *If the bridge had been maintained, it would not have collapsed.*",
+        "**could have + V3** states a possible result that was within reach: *If the bridge had been maintained, engineers could have spotted the cracks.*",
+        "**might have + V3** states a merely possible result: *The cracks might have been detected earlier.* Choosing **might** where **would** is meant weakens your claim, and vice versa overstates it — accuracy here is what examiners reward at band 8."
+      ],
+      "examples": [
+        { "right": "If the bridge had been maintained, it would not have collapsed.", "note": "Certain result — **would have**." },
+        { "right": "If the bridge had been maintained, engineers could have spotted the cracks.", "note": "Result within reach — **could have**." },
+        { "right": "The cracks might have been detected earlier if inspections had been stricter.", "wrong": "If inspections would have been stricter, the cracks might have been detected earlier.", "note": "Không dùng **would have** trong mệnh đề **if**." }
+      ]
+    },
+    {
+      "heading": "Third conditionals in Task 2 evaluation",
+      "body": [
+        "Use the third conditional to evaluate a past decision: *If the government had subsidised public transport a decade ago, congestion in the capital would be far less severe today.*",
+        "Pair it with a concession to sound balanced: *Although the policy was well intentioned, it might have succeeded had local authorities been consulted.*",
+        "Keep the reference point clear. If your result clause is in the present, the sentence must be mixed — using **would have** there signals a time-frame error, not sophistication."
+      ],
+      "examples": [
+        { "right": "If the government had subsidised public transport a decade ago, congestion in the capital would be far less severe today.", "note": "Mixed conditional evaluating a past policy." },
+        { "right": "Although the policy was well intentioned, it might have succeeded had local authorities been consulted.", "note": "Concession + inverted third conditional." },
+        { "right": "Had tuition remained free, access would probably have widened.", "note": "Formal inversion in an argument." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "If I would have known, I would have told you.",
+      "right": "If I had known, I would have told you.",
+      "why": "Mệnh đề `if` của câu điều kiện loại 3 dùng `had + V3`, không dùng `would have`. Người Việt hay dịch 'nếu tôi đã biết' thành `would have known`."
+    },
+    {
+      "wrong": "If she had studied harder, she would pass the exam now.",
+      "right": "If she had studied harder, she would have passed the exam.",
+      "why": "Kết quả quá khứ phải dùng `would have + V3`; nếu muốn kết quả hiện tại thì phải dùng câu điều kiện hỗn hợp một cách nhất quán."
+    },
+    {
+      "wrong": "If I had studied medicine, I would have been a doctor now.",
+      "right": "If I had studied medicine, I would be a doctor now.",
+      "why": "Có `now` thì kết quả ở hiện tại → dùng `would + V` (câu điều kiện hỗn hợp), không dùng `would have + V3`."
+    },
+    {
+      "wrong": "Had I would have known, I would have acted differently.",
+      "right": "Had I known, I would have acted differently.",
+      "why": "Dạng đảo ngữ dùng `Had + S + V3`, không mang theo `would`."
+    },
+    {
+      "wrong": "If it had not been for the rain, we would go to the beach.",
+      "right": "If it had not been for the rain, we would have gone to the beach.",
+      "why": "`If it had not been for` mở đầu tình huống quá khứ phản thực, nên kết quả cũng phải ở quá khứ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng đảo ngữ `Had + S + V3` đúng một lần trong bài Task 2 để thể hiện ngữ pháp band 8, tránh lặp lại nhiều lần gây nặng nề.",
+    "Khi kết quả rơi vào hiện tại, bắt buộc dùng câu điều kiện hỗn hợp: `If the policy had been adopted, the city would be cleaner today.`",
+    "Phân biệt `would have`, `could have`, `might have` theo mức độ chắc chắn — đây là điểm phân biệt band 7.5 và 8.0.",
+    "Trong Writing Task 2, câu điều kiện loại 3 rất hữu ích để đánh giá một quyết định trong quá khứ mà không khẳng định lại sự thật."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "If the city ___ in drainage, the floods would not have destroyed the market.",
+      "options": ["invested", "would have invested", "had invested", "has invested"],
+      "answerIndex": 2,
+      "explanation": "Câu điều kiện loại 3: mệnh đề **if** dùng **had + V3**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence forms the third conditional correctly?",
+      "options": [
+        "If I would have known, I would have told you.",
+        "If I had known, I would have told you.",
+        "If I knew, I would have told you.",
+        "If I had known, I would tell you."
+      ],
+      "answerIndex": 1,
+      "explanation": "Loại 3 chuẩn: **if + had + V3, would have + V3**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "If I had studied medicine, I ___ a doctor now.",
+      "options": ["would be", "would have been", "will be", "am"],
+      "answerIndex": 0,
+      "explanation": "Có **now** → kết quả hiện tại → câu điều kiện hỗn hợp dùng **would + V**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "___ the policy been implemented earlier, the crisis might have been avoided.",
+      "options": ["If", "Had", "Have", "Should"],
+      "answerIndex": 1,
+      "explanation": "Đảo ngữ trang trọng của loại 3: **Had + S + V3**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is a mixed conditional (present condition, past result)?",
+      "options": [
+        "If she were more organised, she would have submitted the report on time.",
+        "If she had been more organised, she would have submitted the report on time.",
+        "If she is more organised, she will submit the report on time.",
+        "If she were more organised, she would submit the report on time."
+      ],
+      "answerIndex": 0,
+      "explanation": "Điều kiện hiện tại (**were**) + kết quả quá khứ (**would have submitted**) = hỗn hợp."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "If the committee ___ (consult) residents, the plan could have been revised.",
+      "answers": ["had consulted"],
+      "hint": "if + had + V3",
+      "explanation": "Mệnh đề **if** của loại 3 dùng **had consulted**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "If the government had regulated lending, the housing market ___ (be) more stable today.",
+      "answers": ["would be"],
+      "hint": "kết quả hiện tại",
+      "explanation": "Điều kiện quá khứ + kết quả hiện tại → hỗn hợp: **would be**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "But for international aid, the famine ___ (be) catastrophic.",
+      "answers": ["would have been"],
+      "hint": "but for + N = nếu không có",
+      "explanation": "**But for** thay cho mệnh đề **if** phủ định; kết quả quá khứ dùng **would have been**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Had tuition ___ (remain) free, access would probably have widened.",
+      "answers": ["remained"],
+      "hint": "Had + S + V3",
+      "explanation": "Đảo ngữ loại 3: **Had tuition remained**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "If researchers had released the data earlier, authorities ___ (might / act) sooner.",
+      "answers": ["might have acted"],
+      "hint": "might have + V3",
+      "explanation": "Khả năng có thể xảy ra trong quá khứ → **might have acted**."
+    }
+  ]
+}

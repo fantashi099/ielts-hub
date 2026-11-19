@@ -1,0 +1,207 @@
+{
+  "slug": "future-perfect-and-future-continuous",
+  "title": "Future perfect and future continuous",
+  "titleVi": "Tương lai hoàn thành và tương lai tiếp diễn",
+  "level": "C1",
+  "topic": "tenses",
+  "bookUnits": [24],
+  "bandFocus": "8.0",
+  "summary": "Diễn đạt việc sẽ hoàn tất trước một mốc tương lai và việc đang diễn ra tại mốc đó — cấu trúc ghi điểm ở band 8.",
+  "whyItMatters": "Hai thì này cho phép bạn nói chính xác *trước* và *tại* một thời điểm tương lai, điều mà `will` không làm được. Trong Task 2 về chính sách dài hạn hay Task 1 có năm dự báo, chúng tạo ra sắc thái thời gian mà giám khảo coi là dấu hiệu của band 8.0.",
+  "sections": [
+    {
+      "heading": "Future continuous: in progress at a future moment",
+      "body": [
+        "The future continuous is **will be + -ing**. It describes an activity that will be in progress at a particular time in the future, or a future event that is simply expected to happen in the normal course of things.",
+        "It is the natural answer to *What will you be doing at this time next year?* — a very common Speaking Part 1 and 3 question.",
+        "It also softens a request or an assumption: *You'll be needing a visa for that trip* sounds more considerate than *You will need a visa*."
+      ],
+      "examples": [
+        { "right": "At this time next year, I will be working in a research institute.", "note": "Activity in progress at a future moment." },
+        { "right": "Don't call me at eight — I'll be presenting at the conference.", "note": "Future arrangement in progress." },
+        { "right": "By 2035, most households will be using smart meters.", "note": "Expected future state of affairs." }
+      ]
+    },
+    {
+      "heading": "Future perfect: completed before a future deadline",
+      "body": [
+        "The future perfect is **will have + past participle**. It says that an action will be finished before a stated future point.",
+        "The deadline is usually introduced by **by**, **by the time**, **before**, or **by then**: *By 2030, the city will have built three new metro lines.*",
+        "The difference from the future continuous is completion. *At 8 p.m. I will be writing the report* (still in progress) versus *By 8 p.m. I will have written the report* (finished before then)."
+      ],
+      "examples": [
+        { "right": "By 2030, the city will have built three new metro lines.", "note": "Completed before a future deadline." },
+        { "right": "By the time you arrive, I will have finished the presentation.", "note": "**by the time** + present simple in the time clause." },
+        { "right": "The committee will have reviewed all applications by Friday.", "wrong": "The committee will review all applications by Friday.", "note": "**by Friday** + a completion focus needs the perfect form." }
+      ]
+    },
+    {
+      "heading": "Future perfect continuous: duration up to a future point",
+      "body": [
+        "The future perfect continuous is **will have been + -ing**. It emphasises how long an activity will have lasted by a future moment.",
+        "It is the rarest of the three and usually needs an explicit duration: *By next June, I will have been studying English for ten years.*",
+        "Use it when the duration is the point. If you only need to say the action is finished, the future perfect is enough."
+      ],
+      "examples": [
+        { "right": "By next June, I will have been studying English for ten years.", "note": "Duration measured up to a future point." },
+        { "right": "By 2040, the plant will have been operating for half a century.", "note": "Long duration before a future date." },
+        { "right": "When the project ends, the team will have been working together for eight years.", "note": "Duration at the end of a future period." }
+      ]
+    },
+    {
+      "heading": "The time clause rule: no will after by the time",
+      "body": [
+        "In a clause introduced by **by the time**, **when**, **before**, **after** or **as soon as**, use the present simple (or present perfect), never **will**.",
+        "*By the time you arrive* — not *by the time you will arrive*. The main clause carries the future perfect.",
+        "This mirrors the rule for the first conditional and is tested constantly in advanced exams."
+      ],
+      "table": {
+        "headers": ["Form", "Focus", "Example"],
+        "rows": [
+          ["will be + V-ing", "in progress at a future moment", "At 9 a.m. I'll be teaching."],
+          ["will have + V3", "completed before a future point", "By 9 a.m. I'll have taught two classes."],
+          ["will have been + V-ing", "duration up to a future point", "By 9 a.m. I'll have been teaching for two hours."],
+          ["present simple in time clause", "the future reference point", "By the time you arrive, ..."]
+        ]
+      }
+    },
+    {
+      "heading": "Using the forms in IELTS Task 1 and Task 2",
+      "body": [
+        "Task 1 projections often cover a period ending in a future year. Use **will have + V3** when the chart implies completion by that year, and **will be + -ing** when it implies an ongoing state.",
+        "Task 2 long-term arguments benefit from both: *By 2050, many coastal cities will have invested heavily in flood defences, and their populations will be adapting to permanent flooding.*",
+        "Keep the register formal: contract to *will* rather than *'ll*, and avoid combining these forms with vague adverbs like *soon*."
+      ],
+      "examples": [
+        { "right": "By 2050, the figure will have doubled to around 40%.", "note": "Completion by a projected year in Task 1." },
+        { "right": "By 2050, most of the workforce will be working remotely at least two days a week.", "note": "Ongoing state in a Task 2 projection." },
+        { "right": "By the time the policy is reviewed, the government will have spent over 5 billion dollars.", "wrong": "By the time the policy will be reviewed, the government will have spent over 5 billion dollars.", "note": "Mệnh đề **by the time** không dùng **will**." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "By 2030, I will finish my degree.",
+      "right": "By 2030, I will have finished my degree.",
+      "why": "`By + mốc tương lai` nhấn mạnh việc hoàn tất trước mốc đó, nên cần `future perfect`. `Will finish` chỉ nói việc sẽ xảy ra, không nói đã xong trước mốc."
+    },
+    {
+      "wrong": "At this time tomorrow, I will work in the lab.",
+      "right": "At this time tomorrow, I will be working in the lab.",
+      "why": "Hành động đang diễn ra tại một thời điểm tương lai cụ thể cần `future continuous`."
+    },
+    {
+      "wrong": "By the time you will arrive, I will have left.",
+      "right": "By the time you arrive, I will have left.",
+      "why": "Mệnh đề thời gian với `by the time` dùng `present simple`, không dùng `will`."
+    },
+    {
+      "wrong": "I will have been knowing her for ten years by next month.",
+      "right": "I will have known her for ten years by next month.",
+      "why": "`know` là stative verb, không có dạng tiếp diễn. Dùng `future perfect` đơn giản."
+    },
+    {
+      "wrong": "By 2050, the population will be doubled.",
+      "right": "By 2050, the population will have doubled.",
+      "why": "`double` ở đây là nội động từ (tự tăng gấp đôi), không phải bị động. Dùng `will have doubled` để chỉ kết quả hoàn tất."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1 có năm dự báo, dùng `will have + V3` khi biểu đồ ngụ ý hoàn tất, và `will be + V-ing` khi ngụ ý trạng thái đang tiếp diễn tại năm đó.",
+    "Trong Task 2, kết hợp hai thì trong một câu để tạo chiều sâu thời gian: `By 2050, cities will have invested ..., and residents will be adapting ...`",
+    "Giữ đúng quy tắc mệnh đề thời gian: sau `by the time`, `when`, `before` dùng `present simple` hoặc `present perfect`, tuyệt đối không dùng `will`.",
+    "Viết đầy đủ `will` thay vì `'ll` trong Writing Task 1 và Task 2 để giữ văn phong trang trọng."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "By 2030, the government ___ the new rail network.",
+      "options": ["will complete", "will have completed", "will be completing", "completes"],
+      "answerIndex": 1,
+      "explanation": "**By 2030** + hoàn tất trước mốc đó → **future perfect**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Don't phone at seven — I ___ dinner then.",
+      "options": ["will have", "will be having", "will have had", "have"],
+      "answerIndex": 1,
+      "explanation": "Hành động đang diễn ra tại thời điểm tương lai → **future continuous**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence uses the present simple correctly after 'by the time'?",
+      "options": [
+        "By the time you will arrive, I will have left.",
+        "By the time you arrive, I will have left.",
+        "By the time you arrive, I have left.",
+        "By the time you will arrive, I leave."
+      ],
+      "answerIndex": 1,
+      "explanation": "Mệnh đề **by the time** dùng **present simple**; mệnh đề chính dùng **future perfect**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "By next June, she ___ English for ten years.",
+      "options": ["will study", "will have been studying", "will be studying", "studies"],
+      "answerIndex": 1,
+      "explanation": "Thời lượng kéo dài tính đến một mốc tương lai → **future perfect continuous**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence describes a completed result by a future date?",
+      "options": [
+        "At 8 p.m. I will be writing the report.",
+        "By 8 p.m. I will have written the report.",
+        "At 8 p.m. I will write the report.",
+        "By 8 p.m. I write the report."
+      ],
+      "answerIndex": 1,
+      "explanation": "**By 8 p.m. + will have written** = hoàn tất trước mốc 8 giờ."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "By 2050, the figure ___ (double) to around 40%.",
+      "answers": ["will have doubled"],
+      "hint": "By 2050",
+      "explanation": "**By + năm tương lai** + kết quả hoàn tất → future perfect."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "At this time tomorrow, the delegates ___ (listen) to the opening speech.",
+      "answers": ["will be listening"],
+      "hint": "At this time tomorrow",
+      "explanation": "Hành động đang diễn ra tại thời điểm tương lai cụ thể → future continuous."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "By the time the project ends, the team ___ (work) together for eight years.",
+      "answers": ["will have been working"],
+      "hint": "By the time ... for eight years",
+      "explanation": "Thời lượng kéo dài đến mốc tương lai → future perfect continuous."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The city ___ (invest) over 5 billion dollars in flood defences by 2040.",
+      "answers": ["will have invested"],
+      "hint": "by 2040",
+      "explanation": "Hoàn tất trước mốc **by 2040** → future perfect."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "When the new terminal opens, passenger numbers ___ (rise) for a decade.",
+      "answers": ["will have been rising"],
+      "hint": "for a decade + when",
+      "explanation": "Quá trình kéo dài tính đến mốc tương lai **opens** → future perfect continuous."
+    }
+  ]
+}

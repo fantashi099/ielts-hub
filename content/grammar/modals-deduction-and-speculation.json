@@ -1,0 +1,209 @@
+{
+  "slug": "modals-deduction-and-speculation",
+  "title": "Modals of deduction and speculation",
+  "titleVi": "Động từ khuyết thiếu: suy đoán",
+  "level": "B2",
+  "topic": "modals",
+  "bookUnits": [28, 29, 30],
+  "bandFocus": "7.5",
+  "summary": "Suy luận theo mức độ chắc chắn với must, can't, may, might, could — kỹ năng hedge bắt buộc trong Task 2.",
+  "whyItMatters": "Bài viết band 7.5+ không khẳng định tuyệt đối khi chưa đủ bằng chứng. `Must`, `might`, `could` cho phép bạn thể hiện mức độ tin cậy khác nhau trong cùng một câu, và `can't` là cách phủ định suy đoán mà nhiều thí sinh Việt Nam dùng sai thành `mustn't`.",
+  "sections": [
+    {
+      "heading": "must and can't: confident deduction",
+      "body": [
+        "**must + base verb** means the evidence makes you certain something is true: *You must be tired after such a long flight.*",
+        "**can't + base verb** means the evidence makes you certain something is impossible: *You can't be hungry — you ate twenty minutes ago.*",
+        "Note the asymmetry: there is no *mustn't* for deduction. To deny a deduction, use **can't** (or **couldn't**)."
+      ],
+      "examples": [
+        { "right": "The lights are on, so she must be at home.", "note": "Strong deduction from visible evidence." },
+        { "right": "He can't be serious about resigning.", "wrong": "He mustn't be serious about resigning.", "note": "Phủ định suy đoán dùng **can't**, không dùng **mustn't**." },
+        { "right": "They must have left early — the office is empty.", "note": "Deduction about the past uses **must have + V3**." }
+      ]
+    },
+    {
+      "heading": "may, might and could: degrees of possibility",
+      "body": [
+        "**may**, **might** and **could** all mark possibility, with **might** and **could** slightly less certain than **may** in many contexts.",
+        "The negative of a possibility is **may not / might not** (= perhaps not). This is very different from **can't** (= definitely not).",
+        "*It may rain tomorrow* means rain is possible; *It can't rain tomorrow* means it is impossible.",
+        "**May** is the most formal of the three and appears often in academic writing: *This may explain the discrepancy in the data.*"
+      ],
+      "examples": [
+        { "right": "The delay may be caused by the new customs procedure.", "note": "Formal possibility in a report." },
+        { "right": "She might not accept the offer — the salary is lower than expected.", "note": "**might not** = perhaps not." },
+        { "right": "This approach could reduce costs by 15%.", "note": "Hedged claim — safer than **will reduce**." }
+      ]
+    },
+    {
+      "heading": "Structures after the modal",
+      "body": [
+        "Deduction modals combine with different verb forms to place the speculation in time: **modal + be** (state now), **modal + be + -ing** (activity now), **modal + base verb** (future or general), **modal + have + V3** (past).",
+        "So: *She must be at work* (now, state) / *She must be working* (now, activity) / *She must have left* (past).",
+        "The participle after **have** is always V3: *must have gone*, never *must have went*."
+      ],
+      "table": {
+        "headers": ["Certainty", "Form", "Example"],
+        "rows": [
+          ["certain it is true", "must + V", "He must be exhausted."],
+          ["certain it is impossible", "can't + V", "He can't be serious."],
+          ["possible, formal", "may + V", "It may take longer than planned."],
+          ["possible, less certain", "might / could + V", "It might work; it could fail."],
+          ["perhaps not", "may not / might not", "She might not agree."]
+        ]
+      }
+    },
+    {
+      "heading": "may be, maybe and might in unreal situations",
+      "body": [
+        "**maybe** is one word and means *perhaps*; **may be** is a modal + verb. Compare *Maybe the report is late* with *The report may be late.*",
+        "In conditional or unreal contexts, use **might**, not **may**: *If they paid teachers better, more graduates might enter the profession.*",
+        "**Might as well** means there is no better alternative: *The bus is delayed, so we might as well walk.*"
+      ],
+      "examples": [
+        { "right": "Maybe the figures are wrong.", "wrong": "May be the figures are wrong.", "note": "Câu mở đầu bằng trạng từ cần **maybe** (một từ)." },
+        { "right": "If funding increased, more rural clinics might stay open.", "note": "Unreal condition → **might**, not **may**." },
+        { "right": "The venue is closed, so we might as well cancel.", "note": "**might as well** = no better option." }
+      ]
+    },
+    {
+      "heading": "Hedging in IELTS Task 2",
+      "body": [
+        "Strong claims without evidence lower your score in Task Response and can sound naive. Replace flat assertions with a modal of possibility.",
+        "Instead of *Advertising destroys consumer choice*, write *Advertising may distort consumer choice, particularly among younger buyers.*",
+        "Combine a modal with a qualifying phrase (*in some cases*, *to a certain extent*, *particularly among*) to produce the balanced register examiners reward at band 7.5 and above."
+      ],
+      "examples": [
+        { "right": "Advertising may distort consumer choice, particularly among younger buyers.", "note": "Hedged central claim." },
+        { "right": "Remote work could reduce urban congestion, although the effect might be limited.", "note": "Two hedges in one balanced sentence." },
+        { "right": "The policy can't be the only cause of the decline.", "wrong": "The policy mustn't be the only cause of the decline.", "note": "**can't** cho suy đoán phủ định." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He mustn't be at home — all the lights are off.",
+      "right": "He can't be at home — all the lights are off.",
+      "why": "`Mustn't` nghĩa là 'không được phép', không dùng để suy đoán phủ định. Phủ định của `must` trong suy đoán là `can't`."
+    },
+    {
+      "wrong": "May be the report is late.",
+      "right": "Maybe the report is late.",
+      "why": "`Maybe` (một từ) là trạng từ 'có lẽ'. `May be` là modal + động từ, không đứng đầu câu theo cách này."
+    },
+    {
+      "wrong": "It can be true, but I am not sure.",
+      "right": "It could be true, but I am not sure.",
+      "why": "`Can` diễn tả khả năng chung hoặc năng lực; khả năng xảy ra không chắc chắn dùng `could/may/might`."
+    },
+    {
+      "wrong": "She might comes to the meeting.",
+      "right": "She might come to the meeting.",
+      "why": "Sau modal là động từ nguyên mẫu, không chia `-s`."
+    },
+    {
+      "wrong": "He must have went home early.",
+      "right": "He must have gone home early.",
+      "why": "Sau `must have` phải là quá khứ phân từ (V3), không phải quá khứ đơn."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `may`, `might`, `could` để hedge những khẳng định mạnh trong Task 2; điều này cải thiện cả Task Response lẫn Grammatical Range.",
+    "Tránh `mustn't` khi suy đoán phủ định; dùng `can't` để nói 'không thể nào'.",
+    "Trong Task 1, dùng `may` và `could` khi giải thích nguyên nhân có thể có của xu hướng, thay vì khẳng định chắc chắn khi biểu đồ không cho dữ liệu.",
+    "Trong Speaking Part 3, dùng `might` cho dự đoán xã hội (`People might become more isolated`) và `must` khi suy luận từ bằng chứng trước mắt."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The lights are off and the car is gone. He ___ at home.",
+      "options": ["mustn't be", "can't be", "might not be", "shouldn't be"],
+      "answerIndex": 1,
+      "explanation": "Suy đoán phủ định chắc chắn dựa trên bằng chứng → **can't be**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "You've been travelling for twenty hours. You ___ exhausted.",
+      "options": ["can't be", "must be", "might not be", "mustn't be"],
+      "answerIndex": 1,
+      "explanation": "Suy đoán khẳng định chắc chắn từ bằng chứng → **must be**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence uses 'maybe' correctly?",
+      "options": [
+        "May be the figures are wrong.",
+        "Maybe the figures are wrong.",
+        "May be figures wrong.",
+        "Maybe the figures is wrong."
+      ],
+      "answerIndex": 1,
+      "explanation": "**Maybe** (một từ) = có lẽ, đứng đầu câu làm trạng từ."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "If teachers were paid better, more graduates ___ the profession.",
+      "options": ["may enter", "might enter", "can enter", "must enter"],
+      "answerIndex": 1,
+      "explanation": "Trong tình huống giả định (unreal), dùng **might**, không dùng **may**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is the most appropriately hedged for Task 2?",
+      "options": [
+        "Advertising destroys consumer choice.",
+        "Advertising may distort consumer choice in some cases.",
+        "Advertising must distort consumer choice.",
+        "Advertising can't distort consumer choice."
+      ],
+      "answerIndex": 1,
+      "explanation": "**May ... in some cases** giảm nhẹ khẳng định, phù hợp văn phong học thuật."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The office is dark and the door is locked — everyone ___ (must / leave) already.",
+      "answers": ["must have left"],
+      "hint": "suy đoán về quá khứ",
+      "explanation": "Suy đoán chắc chắn về quá khứ → **must have + V3**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "She ___ (can / not) have finished the thesis in one week — it is 200 pages long.",
+      "answers": ["can't"],
+      "hint": "không thể nào",
+      "explanation": "Suy đoán phủ định chắc chắn → **can't have + V3**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The delay ___ (may / cause) by the new customs procedure.",
+      "answers": ["may be caused", "may have been caused"],
+      "hint": "nguyên nhân có thể + bị động",
+      "explanation": "Khả năng hiện tại dùng **may be + V3**; nếu sự việc đã xảy ra trong quá khứ thì **may have been caused**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "This approach ___ (could / reduce) costs by around 15%.",
+      "answers": ["could reduce"],
+      "hint": "khả năng có thể xảy ra",
+      "explanation": "**Could + V** diễn tả khả năng được hedge, phù hợp Task 2."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The museum is closed today, so we ___ (might as well) come back tomorrow.",
+      "answers": ["might as well"],
+      "hint": "không có lựa chọn nào tốt hơn",
+      "explanation": "**Might as well + V** = không có cách nào tốt hơn."
+    }
+  ]
+}

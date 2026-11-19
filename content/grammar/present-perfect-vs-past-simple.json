@@ -1,0 +1,299 @@
+{
+  "slug": "present-perfect-vs-past-simple",
+  "title": "Present perfect vs past simple",
+  "titleVi": "Hiện tại hoàn thành và quá khứ đơn",
+  "level": "B2",
+  "topic": "tenses",
+  "bookUnits": [
+    7,
+    8,
+    13,
+    14
+  ],
+  "bandFocus": "7.5",
+  "summary": "Chọn đúng thì khi kể trải nghiệm, nêu số liệu và mô tả xu hướng — lỗi phổ biến nhất của band 6.5.",
+  "whyItMatters": "Trong Writing Task 2, bạn liên tục phải nói về xu hướng kéo dài đến hiện tại (*Rents have risen since 2010*) và về sự kiện đã kết thúc (*The government raised the tax in 2019*). Trộn hai thì này là lỗi ngữ pháp khiến giám khảo khó cho điểm Grammatical Range & Accuracy trên 7.0, dù ý tưởng của bạn tốt.",
+  "sections": [
+    {
+      "heading": "The core difference: finished time vs unfinished time",
+      "body": [
+        "The present perfect (**have/has + past participle**) connects a past action to *now*. The past simple (**verb + -ed / irregular form**) places the action entirely in the past.",
+        "Ask yourself one question before you choose: **is the time period finished or unfinished?** *Yesterday*, *in 2019*, *last century* are finished — use the past simple. *Since 2010*, *so far*, *over the past decade*, *this year* are unfinished — use the present perfect.",
+        "This is why you cannot say *I have visited Hue in 2018*: the year 2018 is closed, so the present perfect has nothing to connect to."
+      ],
+      "examples": [
+        {
+          "right": "The city has invested heavily in public transport since 2015.",
+          "wrong": "The city invested heavily in public transport since 2015.",
+          "note": "**since 2015** reaches into the present, so the period is unfinished."
+        },
+        {
+          "right": "The city invested heavily in public transport in 2015.",
+          "note": "**in 2015** is a finished point in time."
+        },
+        {
+          "right": "Unemployment has fallen by 3% over the past five years.",
+          "wrong": "Unemployment fell by 3% over the past five years.",
+          "note": "**over the past five years** continues up to now."
+        }
+      ]
+    },
+    {
+      "heading": "Time markers that decide the tense",
+      "body": [
+        "Most exam errors come from ignoring the time marker. Learn these two lists as pairs — they are the fastest way to check a sentence in the exam.",
+        "One important exception: **just**, **already** and **yet** belong to the present perfect in British English, while **ago** always takes the past simple."
+      ],
+      "table": {
+        "headers": [
+          "Present perfect markers",
+          "Past simple markers"
+        ],
+        "rows": [
+          [
+            "since 2010 / for ten years",
+            "in 2010 / ten years ago"
+          ],
+          [
+            "so far / up to now / to date",
+            "yesterday / last year / then"
+          ],
+          [
+            "over the past decade / recently / lately",
+            "when I was a child"
+          ],
+          [
+            "already / just / yet / ever / never",
+            "in the 1990s / at that time"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Experience, result and news",
+      "body": [
+        "Use the present perfect for **experience** when you do not say when: *Few policymakers have addressed the housing crisis.* Add *ever/never* for the first or zero occurrence: *This is the highest figure the survey has ever recorded.*",
+        "Use it for a **result that matters now**: *The council has closed the road* (= it is closed now). Compare *The council closed the road* (= a fact about the past; it may be open again).",
+        "Use the past simple for **finished narratives**: *In 2020 the council closed the road for six months.*"
+      ],
+      "examples": [
+        {
+          "right": "Researchers have found a strong link between screen time and poor sleep.",
+          "note": "New finding, no time given — present perfect."
+        },
+        {
+          "right": "Researchers found a strong link in a 2019 study.",
+          "note": "The study is a finished event."
+        },
+        {
+          "right": "I have never seen such a rapid decline in birth rates.",
+          "note": "**never** + experience, no specific time."
+        }
+      ]
+    },
+    {
+      "heading": "Duration: for, since and the continuous form",
+      "body": [
+        "**for** + a length of time (*for a decade*), **since** + a starting point (*since 2012*). Both need the present perfect when the situation continues.",
+        "When you want to stress that the activity is still going on — or that it explains a present result — use the present perfect continuous: *House prices have been rising steadily since 2016.* The simple form sounds more like a completed statistic; the continuous form emphasises the ongoing process, which is exactly the tone IELTS examiners reward in trend descriptions.",
+        "Stative verbs (know, believe, own, consist of) normally stay in the simple form: *The committee has known about the risk for years.*"
+      ],
+      "table": {
+        "headers": [
+          "Form",
+          "Example",
+          "Focus"
+        ],
+        "rows": [
+          [
+            "present perfect simple",
+            "The population has grown by 12%.",
+            "result / completed statistic"
+          ],
+          [
+            "present perfect continuous",
+            "The population has been growing since 2005.",
+            "ongoing process"
+          ],
+          [
+            "past simple",
+            "The population grew by 12% between 2005 and 2015.",
+            "finished period"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "In IELTS Task 1: choosing between the two",
+      "body": [
+        "Task 1 graphs usually show a period that ends in the past, so the **past simple is the default**: *Sales rose sharply between 2010 and 2015.*",
+        "Switch to the present perfect only when the data clearly runs up to the present or the chart has no end date: *Sales have climbed steadily since 2018.* Never mix the two inside one description of the same period — inconsistency reads as a grammar error even when each sentence is individually correct."
+      ],
+      "examples": [
+        {
+          "right": "Between 2000 and 2020, the number of cars doubled.",
+          "note": "Both ends are in the past → past simple throughout."
+        },
+        {
+          "right": "Since 2020, the number of cars has doubled.",
+          "note": "Open-ended period → present perfect."
+        },
+        {
+          "right": "The figure stood at 20% in 2010 and has remained stable since then.",
+          "note": "Past simple for the anchor date, present perfect for the open period."
+        }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Vietnam has recorded strong growth in 2019.",
+      "right": "Vietnam recorded strong growth in 2019.",
+      "why": "Một năm đã kết thúc thì không dùng hiện tại hoàn thành. Tiếng Việt không phân biệt thì này, nên người học hay dịch *đã* thành *have + V3*."
+    },
+    {
+      "wrong": "I have seen this documentary last night.",
+      "right": "I saw this documentary last night.",
+      "why": "**last night** là thời gian đã chấm dứt. Nếu trả lời được câu hỏi *when?* bằng một mốc quá khứ thì phải dùng quá khứ đơn."
+    },
+    {
+      "wrong": "The government has introduced the policy since three years.",
+      "right": "The government introduced the policy three years ago.",
+      "why": "**since** cần một điểm bắt đầu, không nhận khoảng thời gian; còn *three years ago* là mốc đã kết thúc. Chỉ dùng **for three years** khi tình huống còn tiếp diễn."
+    },
+    {
+      "wrong": "Since 2015, the city invested in metro lines.",
+      "right": "Since 2015, the city has invested in metro lines.",
+      "why": "**Since + năm** mở ra một giai đoạn chưa kết thúc, nên bắt buộc dùng hiện tại hoàn thành."
+    },
+    {
+      "wrong": "The rate of crime has decreased last decade.",
+      "right": "The rate of crime decreased last decade.",
+      "why": "*Last decade* là giai đoạn đã đóng. Cẩn thận với những cụm nghe như còn tiếp diễn nhưng thực ra đã kết thúc."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **hiện tại hoàn thành** để mở một đoạn thân bài Task 2 về vấn đề còn tiếp diễn: *Housing affordability has deteriorated in most major cities.* Rồi chống đỡ bằng một số liệu ở **quá khứ đơn**: *In 2023, the average rent reached 45% of median income.*",
+    "Trong Task 1, chọn một thì cho cả thân bài và giữ nguyên. Giám khảo chấm cả tính nhất quán — đổi thì giữa đoạn khiến người đọc thấy bạn chưa kiểm soát được dạng thức.",
+    "Với ngôn ngữ xu hướng, `have/has + V3` đi tự nhiên với *over the past decade*, *in recent years*, *since the outbreak* — ba cụm khiến câu văn nghe thời sự và đúng chất band 8.",
+    "Đừng dùng `have been` ở mọi câu. Điểm nằm ở **độ đa dạng**: luân phiên hiện tại hoàn thành tiếp diễn (*has been rising*) với quá khứ đơn (*rose*) khi mốc thời gian thật sự thay đổi."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The proportion of remote workers ___ sharply since the pandemic began.",
+      "options": [
+        "rose",
+        "has risen",
+        "had risen",
+        "was rising"
+      ],
+      "answerIndex": 1,
+      "explanation": "**since the pandemic began** opens a period that continues to now → present perfect **has risen**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "In 2019, the government ___ a new tax on single-use plastics.",
+      "options": [
+        "has introduced",
+        "introduced",
+        "has been introducing",
+        "introduces"
+      ],
+      "answerIndex": 1,
+      "explanation": "**In 2019** is finished time → past simple."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "This is the highest level of air pollution the city ___ in a decade.",
+      "options": [
+        "recorded",
+        "has recorded",
+        "records",
+        "had recorded"
+      ],
+      "answerIndex": 1,
+      "explanation": "After **This is the highest level ...**, the experience up to now takes the present perfect."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I have visited Da Nang last summer.",
+        "I visited Da Nang last summer.",
+        "I have been visiting Da Nang last summer.",
+        "I visit Da Nang last summer."
+      ],
+      "answerIndex": 1,
+      "explanation": "**last summer** is finished, so the past simple is the only correct choice."
+    },
+    {
+      "id": "ex5",
+      "type": "gap",
+      "question": "Over the past twenty years, average class sizes ___ (increase) steadily.",
+      "answers": [
+        "have increased",
+        "have been increasing"
+      ],
+      "hint": "over the past twenty years",
+      "explanation": "**Over the past twenty years** reaches the present. Both the simple and continuous present perfect are natural here."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The council ___ (approve) the new housing plan two months ago.",
+      "answers": [
+        "approved"
+      ],
+      "hint": "two months ago",
+      "explanation": "**ago** always signals finished time → past simple."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The number of electric cars ___ (double) since 2018.",
+      "answers": [
+        "has doubled"
+      ],
+      "hint": "since + year",
+      "explanation": "**since 2018** is an unfinished period → present perfect."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "Between 2005 and 2015, the city ___ (build) three new metro lines.",
+      "answers": [
+        "built"
+      ],
+      "hint": "between ... and ...",
+      "explanation": "A closed period with two past dates → past simple."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Researchers ___ (find) no evidence of a link so far.",
+      "answers": [
+        "have found"
+      ],
+      "hint": "so far",
+      "explanation": "**so far** means *up to now* → present perfect."
+    },
+    {
+      "id": "ex10",
+      "type": "mcq",
+      "question": "Choose the sentence that describes an open-ended trend.",
+      "options": [
+        "Sales fell between 2010 and 2020.",
+        "Sales have fallen since 2020.",
+        "Sales fell in 2020.",
+        "Sales were falling in 2020."
+      ],
+      "answerIndex": 1,
+      "explanation": "Only **since 2020** leaves the period open, so only the present perfect is appropriate."
+    }
+  ]
+}

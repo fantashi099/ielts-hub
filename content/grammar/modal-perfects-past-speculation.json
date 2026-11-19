@@ -1,0 +1,214 @@
+{
+  "slug": "modal-perfects-past-speculation",
+  "title": "Modal perfects: must have, could have, should have",
+  "titleVi": "Modal hoàn thành: phỏng đoán và nuối tiếc trong quá khứ",
+  "level": "C1",
+  "topic": "modals",
+  "bookUnits": [27, 40, 35],
+  "bandFocus": "8.0",
+  "summary": "Nói về điều gần như chắc chắn đã xảy ra, điều có thể đã xảy ra và điều lẽ ra nên làm — sắc thái chỉ band 8 mới dùng đúng.",
+  "whyItMatters": "Modal perfect cho phép bạn đánh giá lại quá khứ: điều gì chắc đã xảy ra, điều gì đã có thể, điều gì lẽ ra phải khác. Trong Task 2, đây là cấu trúc để phê phán chính sách đã qua (*The policy should have been reviewed sooner*) mà không cần thêm mệnh đề phụ.",
+  "sections": [
+    {
+      "heading": "must have done: a confident deduction about the past",
+      "body": [
+        "**must have + past participle** means the evidence makes you almost certain that something happened: *The streets are wet — it must have rained overnight.*",
+        "The deduction is about a past event, not a present state. *She must be tired* is about now; *She must have been tired* is about then.",
+        "The continuous form **must have been + -ing** describes an activity in progress in the past: *They must have been waiting for hours.*"
+      ],
+      "examples": [
+        { "right": "The streets are wet — it must have rained overnight.", "note": "Deduction about a completed past event." },
+        { "right": "They must have been waiting for hours when the office opened.", "note": "Past activity in progress before a past point." },
+        { "right": "The document must have been sent to the wrong address.", "note": "Passive modal perfect." }
+      ]
+    },
+    {
+      "heading": "can't have and couldn't have: past impossibility",
+      "body": [
+        "**can't have + V3** (or **couldn't have + V3**) means it is impossible that something happened: *She can't have finished the thesis in one week.*",
+        "**Mustn't have** is not used for deduction. It only appears in the sense of prohibition in the past, which is rare.",
+        "The contrast with **might not have** matters: *She can't have seen the email* = definitely not; *She might not have seen the email* = perhaps not."
+      ],
+      "examples": [
+        { "right": "He can't have written this report in one afternoon.", "wrong": "He mustn't have written this report in one afternoon.", "note": "Phủ định suy đoán quá khứ dùng **can't have**." },
+        { "right": "She might not have received the invitation.", "note": "Khả năng phủ định — khác hoàn toàn với **can't have**." },
+        { "right": "They couldn't have known about the delay when they booked.", "note": "**couldn't have** = không thể nào biết." }
+      ]
+    },
+    {
+      "heading": "may/might/could have done: unrealised possibility",
+      "body": [
+        "**may/might/could have + V3** all mean it was possible that something happened. **Could have** also carries the strong sense of an opportunity not taken.",
+        "Context decides. *She may have missed the train* is neutral speculation; *She could have caught the earlier train* suggests she did not.",
+        "With **could have**, the regret reading is the default in British English, which is why it appears so often in Task 2 criticism: *The city could have avoided this congestion by investing a decade earlier.*"
+      ],
+      "table": {
+        "headers": ["Form", "Meaning", "Example"],
+        "rows": [
+          ["must have + V3", "almost certainly happened", "They must have cancelled the flight."],
+          ["can't / couldn't have + V3", "certainly did not happen", "He can't have read the whole file."],
+          ["may / might have + V3", "possibly happened", "She might have taken the wrong bus."],
+          ["could have + V3", "was possible but did not happen", "You could have warned me."],
+          ["should have + V3", "did not happen, but ought to have", "The council should have consulted residents."]
+        ]
+      }
+    },
+    {
+      "heading": "should have, needn't have and would have",
+      "body": [
+        "**should have + V3** = it did not happen, and it would have been right. **shouldn't have + V3** = it happened, and it was wrong.",
+        "**needn't have + V3** = it happened, but it was unnecessary. Compare **didn't need to + V**, which says it was unnecessary without telling us whether it happened.",
+        "**would have + V3** is the result clause of a third conditional and also a polite regret: *I would have preferred a written reply.*"
+      ],
+      "examples": [
+        { "right": "The council should have consulted residents before approving the plan.", "note": "Criticism of a past omission." },
+        { "right": "You needn't have booked a hotel — we had a spare room.", "note": "The booking happened; it was unnecessary." },
+        { "right": "I would have attended, but I was in Hanoi that week.", "note": "Unrealised past result." },
+        { "right": "I shouldn't have submitted the draft without proofreading.", "note": "Past action evaluated as a mistake." }
+      ]
+    },
+    {
+      "heading": "Using modal perfects in academic argument",
+      "body": [
+        "In Task 2, modal perfects let you criticise or evaluate a past decision in a single clause, which keeps your sentences compact and your argument dense.",
+        "They also express caution about historical claims: *The decline may have been accelerated by the 2008 crisis, although the data cannot confirm causality.*",
+        "Do not stack them. One modal perfect per sentence is usually enough; two make the prose opaque and increase the chance of a form error."
+      ],
+      "examples": [
+        { "right": "The policy should have been reviewed sooner, given the evidence available in 2015.", "note": "Evaluation of a past omission in a Task 2 body." },
+        { "right": "The decline may have been accelerated by the 2008 crisis.", "note": "Cautious historical claim." },
+        { "right": "Had the funding been approved earlier, the project could have been completed by 2020.", "wrong": "If the funding was approved earlier, the project could be completed by 2020.", "note": "Mốc quá khứ cần **had been approved** + **could have been completed**." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He must has left his keys at home.",
+      "right": "He must have left his keys at home.",
+      "why": "Sau modal luôn là `have`, không chia theo chủ ngữ. Cấu trúc là `must have + V3`."
+    },
+    {
+      "wrong": "He mustn't have received the message.",
+      "right": "He can't have received the message.",
+      "why": "`Mustn't have` không dùng để suy đoán phủ định trong quá khứ; dùng `can't have` hoặc `couldn't have`."
+    },
+    {
+      "wrong": "You should have came to the workshop.",
+      "right": "You should have come to the workshop.",
+      "why": "Sau `should have` phải là quá khứ phân từ (V3), không phải quá khứ đơn."
+    },
+    {
+      "wrong": "I might have went to the wrong platform.",
+      "right": "I might have gone to the wrong platform.",
+      "why": "`Have` + V3 là cấu trúc cố định; `went` là quá khứ đơn nên sai."
+    },
+    {
+      "wrong": "I needn't have to book a hotel.",
+      "right": "I needn't have booked a hotel.",
+      "why": "`Needn't have` + V3, không có `to`. Dạng có `to` chỉ xuất hiện trong `didn't need to + V`."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `should have + V3` để phê phán một quyết định trong quá khứ ở Task 2: `Authorities should have regulated short-term rentals much earlier.`",
+    "Dùng `may/might have + V3` để giữ thái độ thận trọng với tuyên bố lịch sử khi dữ liệu không đủ mạnh.",
+    "Phân biệt `needn't have done` và `didn't need to do` khi kể lại trải nghiệm trong Speaking Part 2 để thể hiện độ chính xác ngữ pháp.",
+    "Tránh dùng `mustn't have` cho suy đoán; chuyển sang `can't have` để không mắc lỗi đảo nghĩa."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The ground is covered in leaves. It ___ windy last night.",
+      "options": ["must be", "must have been", "can't have been", "should have been"],
+      "answerIndex": 1,
+      "explanation": "Suy đoán chắc chắn về trạng thái trong quá khứ → **must have been**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "She ___ the whole thesis in one week — it is 200 pages long.",
+      "options": [
+        "mustn't have written",
+        "can't have written",
+        "shouldn't have written",
+        "might not write"
+      ],
+      "answerIndex": 1,
+      "explanation": "Điều không thể xảy ra trong quá khứ → **can't have + V3**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "You ___ me about the change — I would have adjusted the schedule.",
+      "options": ["could have told", "could tell", "must tell", "should tell"],
+      "answerIndex": 0,
+      "explanation": "Cơ hội đã có nhưng không thực hiện → **could have told**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "I printed forty copies but only five were needed. I ___ so many.",
+      "options": [
+        "needn't have printed",
+        "didn't need to print",
+        "mustn't have printed",
+        "shouldn't print"
+      ],
+      "answerIndex": 0,
+      "explanation": "Đã in rồi và không cần thiết → **needn't have printed**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence forms the modal perfect correctly?",
+      "options": [
+        "He must has left his keys at home.",
+        "He must have left his keys at home.",
+        "He must have leave his keys at home.",
+        "He must left his keys at home."
+      ],
+      "answerIndex": 1,
+      "explanation": "Cấu trúc cố định **must have + V3**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The door was unlocked and the window was open — the cleaner ___ (must / forget) to lock up.",
+      "answers": ["must have forgotten"],
+      "hint": "suy đoán chắc chắn về quá khứ",
+      "explanation": "Bằng chứng hiện tại dẫn đến suy đoán chắc chắn về quá khứ → **must have forgotten**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "You ___ (should / check) the figures before submitting the report.",
+      "answers": ["should have checked"],
+      "hint": "lẽ ra nên làm nhưng đã không làm",
+      "explanation": "Hành động không xảy ra nhưng lẽ ra nên xảy ra → **should have + V3**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The decline ___ (may / accelerate) by the 2008 financial crisis.",
+      "answers": ["may have been accelerated"],
+      "hint": "khả năng + bị động trong quá khứ",
+      "explanation": "Khả năng trong quá khứ ở dạng bị động → **may have been + V3**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Had the funding been approved earlier, the project ___ (could / complete) by 2020.",
+      "answers": ["could have been completed"],
+      "hint": "kết quả giả định trong quá khứ + bị động",
+      "explanation": "Mệnh đề kết quả của câu điều kiện loại 3 ở dạng bị động → **could have been completed**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "We ___ (not / need) to book a hotel — the university provided accommodation.",
+      "answers": ["didn't need"],
+      "hint": "không cần thiết (không rõ đã làm hay chưa)",
+      "explanation": "**Didn't need to + V** nói việc đó không cần thiết, khác với **needn't have + V3** (đã làm rồi)."
+    }
+  ]
+}

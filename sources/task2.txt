@@ -1,0 +1,919 @@
+   NGUYỄN HOÀNG HUY
+
+
+
+
+IELTS Writing Task 2
+Nhận diện dạng đề
+
+Yêu cầu của Task 2
+IELTS Writing Task 2 yêu cầu bài viết dài ít nhất 250 từ. Thí sinh nên dành khoảng 40
+phút cho phần này trong tổng thời gian 60 phút của bài thi Writing. Task 2 có trọng số
+gấp đôi Task 1. Khi luyện tập, người học có thể đặt mục tiêu khoảng 270–300 từ nếu
+dung lượng ấy đủ để trả lời câu hỏi và phát triển các ý chính. Số từ này chỉ là gợi ý
+luyện tập; chất lượng bài viết vẫn phụ thuộc vào cách đáp ứng đề và triển khai nội
+dung.
+
+Bài viết được đánh giá theo bốn tiêu chí gồm Task Response, Coherence and
+Cohesion, Lexical Resource và Grammatical Range and Accuracy. Người viết cần chú
+ý đến mức độ đáp ứng đề, cách tổ chức lập luận, lựa chọn từ ngữ và độ chính xác của
+câu. Một bài dài hoặc có nhiều từ ít gặp vẫn có thể chưa trả lời đầy đủ câu hỏi.
+
+Đọc câu hỏi trước khi tìm ý
+Trước khi lập dàn ý, người viết cần xác định vấn đề, yêu cầu của câu hỏi và câu trả
+lời chính. Người học có thể ghi câu trả lời bằng tiếng Việt để kiểm tra ý trước khi
+chuyển sang tiếng Anh. Những từ như all và mainly giới hạn mức độ khẳng định, còn
+individuals và society xác định đối tượng cần bàn đến. Bỏ qua những từ này có thể
+khiến bài viết trả lời thiếu hoặc sai phạm vi.
+
+Câu hỏi về làm việc tại nhà    Nhiệm vụ của bài viết
+
+Why are more employees         Giải thích nguyên nhân của xu hướng.
+working from home?
+
+What are the advantages and    Phân tích cả lợi ích và bất lợi.
+disadvantages of working
+from home?
+
+Do the advantages of working   Phân tích hai phía và đánh giá phía nào quan trọng hơn.
+from home outweigh the
+disadvantages?
+
+Should all employees be        Đánh giá đề xuất áp dụng cho mọi nhân viên, có xét đến sự
+allowed to work from home?     khác nhau giữa các công việc.
+
+
+
+
+                                               2
+Nhận định “làm việc tại nhà giúp tiết kiệm thời gian” có thể liên quan đến nhiều câu
+hỏi trong bảng. Với câu hỏi về nguyên nhân, người viết cần giải thích vì sao lợi ích ấy
+khiến người lao động lựa chọn làm tại nhà. Với câu hỏi có từ all, bài viết cần xem lợi
+ích đó có đủ để ủng hộ việc áp dụng cho mọi công việc hay không. Cùng một ý, cách
+triển khai sẽ thay đổi theo nhiệm vụ của đề.
+
+Những cách hỏi thường gặp
+Bảng sau phân biệt các yêu cầu thường gặp khi luyện tập. Một đề có thể kết hợp
+nhiều cách hỏi nên người viết vẫn cần xác định từng nội dung phải trả lời.
+
+Cách hỏi               Cách tổ chức hai đoạn thân bài        Yêu cầu cần chú ý
+
+Agree or disagree      Hai lý do cho lập trường, hoặc hai    Nêu rõ mức độ đồng ý. Không bắt
+                       khía cạnh của một lập trường có       buộc dành một đoạn để đồng ý và
+                       giới hạn.                             một đoạn để phản đối.
+
+Discuss both views     Mỗi đoạn giải thích cơ sở của một     Thảo luận cả hai quan điểm và đưa
+and give your          quan điểm; quan điểm riêng được       ra ý kiến của người viết.
+opinion                thể hiện xuyên suốt.
+
+Advantages and         Mỗi đoạn phân tích một phía.          Trả lời đầy đủ cả lợi ích và bất lợi;
+disadvantages                                                mức độ đánh giá phụ thuộc vào
+                                                             câu hỏi cụ thể.
+
+Do the advantages      Phân tích hai phía và giải thích cơ   Kết luận rõ phía nào quan trọng
+outweigh the           sở so sánh.                           hơn; số lượng ý không quyết định
+disadvantages?                                               kết luận.
+
+Causes, problems       Chia đoạn theo đúng những nội         Phân biệt nguyên nhân, tác hại và
+and solutions          dung được hỏi.                        giải pháp. Nếu đề hỏi ba nội dung,
+                                                             cần xử lý đủ cả ba.
+
+Two questions          Thường có thể dành một đoạn cho       Kiểm tra đầy đủ các đối tượng và
+                       mỗi câu hỏi.                          phạm vi trong từng câu hỏi.
+
+Positive or negative   Phát triển các lý do cho đánh giá     Đánh giá rõ xu hướng tích cực, tiêu
+development            chung; có thể cân nhắc mặt còn lại.   cực hoặc tích cực/tiêu cực trong
+                                                             những điều kiện nào.
+
+
+
+
+                                                3
+Tư duy và cách tiếp cận
+
+Tổ chức bài viết
+Bố cục gồm một đoạn mở bài, hai đoạn thân bài và một đoạn kết luận phù hợp với
+các bài mẫu trong tài liệu. IELTS không quy định bài Task 2 phải có đúng bốn đoạn.
+Người viết có thể điều chỉnh số đoạn theo nhiệm vụ nhưng mỗi đoạn cần có trọng
+tâm rõ và đóng góp vào câu trả lời chung.
+
+Đoạn                Chức năng                              Câu hỏi kiểm tra
+
+Introduction        Giới thiệu vấn đề và nêu câu trả lời   Người đọc đã hiểu lập trường hoặc
+                    chính hoặc định hướng trả lời.         hướng giải quyết các câu hỏi chưa?
+
+Body 1              Phát triển luận điểm hoặc nhiệm vụ     Đã giải thích vì sao và bằng cách
+                    thứ nhất.                              nào chưa?
+
+Body 2              Phát triển phần còn lại của câu trả    Đoạn này bổ sung điều gì so với
+                    lời.                                   đoạn trước?
+
+Conclusion          Khái quát câu trả lời dựa trên phần    Có xuất hiện một luận điểm mới
+                    đã phân tích.                          chưa được giải thích không?
+
+
+
+
+Xác lập câu trả lời chính
+Thesis là phát biểu nêu câu trả lời chính của bài. Với đề yêu cầu đánh giá, thesis cần
+thể hiện lập trường. Với đề hỏi nguyên nhân và khó khăn, câu này có thể khái quát
+hai nội dung ấy mà không cần thêm nhận xét về mặt tích cực hay tiêu cực của xu
+hướng.
+
+Với đề cho rằng thư viện công cộng không còn cần thiết vì thông tin đã có trên mạng,
+câu sau chưa thể hiện lập trường.
+
+  This essay will discuss the importance of libraries in modern society.
+
+
+
+
+                                             4
+Câu này thông báo chủ đề sẽ bàn đến nhưng chưa cho biết người viết có đồng ý với
+nhận định trong đề hay không. Cách diễn đạt sau nêu rõ câu trả lời và hai cơ sở để
+triển khai.
+
+  I do not agree that public libraries are no longer necessary, because access to
+  online information still depends on suitable facilities and the ability to use it
+  effectively.
+
+Từ câu trả lời ấy, đoạn thân bài thứ nhất có thể bàn về điều kiện tiếp cận thông tin,
+còn đoạn thứ hai giải thích nhu cầu được hướng dẫn sử dụng thông tin. Hai luận
+điểm cùng làm rõ vì sao thư viện vẫn cần thiết.
+
+Nếu chỉ đồng ý một phần, người viết cần chỉ rõ phần đồng ý và giới hạn của lập
+trường. Chẳng hạn, với đề xuất cho phép mọi nhân viên làm việc tại nhà, giới hạn ấy
+có thể dựa trên tính chất công việc.
+
+  I support working from home for tasks that can be completed independently, but
+  not as a universal arrangement for every job.
+
+Câu “I partly agree because there are both advantages and disadvantages” chưa xác
+định phần nào được chấp nhận. Việc một đề xuất có cả lợi ích lẫn hạn chế chưa đủ để
+cho thấy mức độ đồng ý.
+
+Với đề thảo luận hai quan điểm, người viết cần giải thích cơ sở của từng phía trước
+khi đánh giá. Trong bố cục bốn đoạn, quan điểm riêng có thể xuất hiện ở mở bài,
+được làm rõ qua phần phân tích và được khẳng định lại ở kết luận. Bài viết không bắt
+buộc phải có một đoạn riêng để trình bày ý kiến cá nhân.
+
+Phát triển một luận điểm
+Một đoạn thân bài cần có trọng tâm và phần giải thích đủ rõ để người đọc theo được
+lập luận. Người viết có thể phát triển ý bằng nguyên nhân, cách thức xảy ra, tình
+huống cụ thể, hệ quả hoặc so sánh. Độ dài đoạn tùy thuộc vào nội dung cần giải thích;
+không có quy định chung về số câu hay yêu cầu mọi đoạn đều phải dùng For
+example.
+
+Khi lập dàn ý, người viết nên xác định điều muốn khẳng định rồi giải thích vì sao
+điều đó có thể xảy ra. Một tình huống cụ thể sẽ giúp người đọc hình dung rõ hơn. Sau
+đó, người viết cần kiểm tra xem phần giải thích đã trả lời đúng câu hỏi chưa. Các
+bước này giúp phát triển nội dung, không ấn định mỗi chức năng phải nằm trong
+một câu riêng.
+
+
+                                          5
+Phân tích ví dụ
+
+Với đề về thư viện, đoạn sau mới dừng ở những nhận định chung.
+
+  Public libraries are important because they provide information. This is beneficial
+  for students and workers. Therefore, governments should continue to support
+  them.
+
+Đề đã nêu rằng thông tin có sẵn trên mạng nên bài viết cần giải thích vì sao thư viện
+vẫn cần thiết trong hoàn cảnh ấy. Cụm “This is beneficial” mới đánh giá lợi ích, chưa
+cho thấy thư viện đáp ứng nhu cầu nào của người sử dụng.
+
+  The availability of information online does not guarantee that everyone can use it.
+  Someone applying for a job may have a phone but no computer on which to
+  prepare a CV or complete a lengthy application. A library with computers and
+  staff assistance can remove that practical barrier. For this person, the library
+  remains useful precisely because more of everyday life has moved online.
+
+Chi tiết trong đoạn sửa        Chức năng trong lập luận
+
+does not guarantee that        Phân biệt sự tồn tại của thông tin với khả năng sử dụng thông
+everyone can use it            tin.
+
+a phone but no computer        Xác định một trở ngại thực tế khi thực hiện công việc trực
+                               tuyến.
+
+computers and staff assistance Giải thích thư viện có thể hỗ trợ người sử dụng bằng cách nào.
+
+precisely because more of      Liên hệ trở lại lý do mà đề đưa ra để phủ nhận sự cần thiết của
+everyday life has moved        thư viện.
+online
+
+
+
+Đoạn sửa làm rõ một trở ngại cụ thể và cách thư viện hỗ trợ người gặp trở ngại ấy.
+Với các đề khác, người viết cũng có thể bắt đầu từ nhu cầu của đối tượng, xác định
+điều đang cản trở họ rồi giải thích tác dụng của giải pháp.
+
+Tìm ý từ hoàn cảnh cụ thể
+
+So sánh trước và sau một thay đổi
+
+TCA, viết tắt của Temporal Contrast Analysis, là cách tìm ý bằng việc so sánh trước và
+sau một thay đổi rồi xem xét hệ quả. Chẳng hạn, khi một số thủ tục chuyển sang trực
+
+
+
+                                              6
+tuyến, người thiếu thiết bị hoặc kỹ năng số có thể cần nơi hỗ trợ truy cập. Nhu cầu ấy
+giúp giải thích vì sao thư viện tiếp tục cần thiết dù cách tìm kiếm thông tin đã thay
+đổi.
+
+Sự đối chiếu trước và sau chỉ có ích khi liên quan đến câu hỏi. Những nhận định như
+“trước kia ai cũng…” dễ dẫn đến khái quát thiếu căn cứ. Khi chưa có dữ kiện chắc
+chắn, người viết nên giới hạn nhận định vào một hoàn cảnh cụ thể, hợp lý.
+
+Phân tích đặc điểm và nhu cầu của đối tượng
+
+CTA, viết tắt của Characteristic-Trait Association, là cách tìm ý từ đặc điểm liên quan
+của đối tượng để giải thích nhu cầu hoặc hành vi. Người vừa đi làm vừa học phải sắp
+xếp thời gian học bên cạnh công việc và trách nhiệm gia đình. Một khóa học có bài
+giảng ghi sẵn có thể giúp họ học bù khi bỏ lỡ buổi học trực tiếp.
+
+Trong ví dụ này, lịch làm việc và trách nhiệm gia đình là cơ sở của lập luận. Người
+viết cần tránh suy rộng thành nhận xét về năng lực của mọi người học trưởng thành.
+TCA và CTA được dùng để hỗ trợ tìm ý trong tài liệu; hệ thống chấm điểm IELTS
+không sử dụng hai thuật ngữ này.
+
+Xác định điều kiện để lợi ích xảy ra
+
+Một lợi ích thường phụ thuộc vào điều kiện thực tế. Xác định điều kiện ấy giúp tránh
+những kết luận quá rộng.
+
+  Free bus travel may encourage people to use public transport, but only if services
+  are frequent enough for their daily journeys.
+
+Chính sách miễn phí giúp giảm chi phí đi lại. Tuy nhiên, người dân vẫn có thể ít sử
+dụng xe buýt nếu phải chờ lâu hoặc tuyến xe không phù hợp với hành trình hằng
+ngày. Khi đánh giá chính sách, người viết cần xác định những điều kiện ảnh hưởng
+trực tiếp đến hiệu quả. Việc nêu điều kiện phải phục vụ lập luận, tránh thêm ngoại lệ
+chỉ để tạo vẻ cân bằng.
+
+Sử dụng ví dụ
+Ví dụ cần làm rõ tình huống mà luận điểm đề cập. Câu “For example, many countries
+have this problem” còn chung chung vì chưa cho thấy vấn đề xảy ra thế nào. Với giao
+thông công cộng, tình huống một người tan ca sau chuyến xe buýt cuối cùng sẽ giải
+thích rõ hạn chế về giờ hoạt động.
+
+
+
+                                           7
+Người viết có thể dùng tình huống giả định hợp lý, mở đầu bằng A worker who…,
+Consider a student who… hoặc If a family…. Ví dụ tự xây dựng cần được trình bày
+như một tình huống minh họa, tránh gán thêm số liệu, tên nghiên cứu hay tổ chức để
+tạo độ tin cậy. Phần giải thích sau ví dụ phải chỉ ra nó hỗ trợ luận điểm như thế nào.
+
+Sáu bài mẫu minh họa
+Sáu đề sau dùng để luyện tập. Trước khi đọc bài mẫu, người học nên viết một câu trả
+lời chính và dự kiến nội dung của hai đoạn thân bài. Khi đối chiếu, người học cần chú
+ý cách bài viết giải thích từng luận điểm và xem kết luận đã trả lời đúng câu hỏi hay
+chưa.
+
+Bài 1
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ Public libraries are no longer necessary because information is available online.
+
+ To what extent do you agree or disagree?
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Bài thuộc dạng Agree or disagree và chọn lập trường không đồng ý. Đoạn thân bài
+thứ nhất giải thích nhu cầu về thiết bị và không gian sử dụng thông tin. Đoạn thứ hai
+bàn về sự hỗ trợ khi lựa chọn nguồn. Hai luận điểm cùng trả lời vì sao thư viện vẫn
+cần thiết khi thông tin đã có trên mạng.
+
+
+
+
+                                           8
+ Bài mẫu
+
+ The availability of information online has led some people to question whether public
+ libraries are still needed. I do not agree that they have become unnecessary, because
+ finding information on the internet still requires both practical access and the ability
+ to judge what is worth using.
+
+ First, an online resource is only useful to someone who has the equipment and space
+ to use it properly. A person may own a phone but have no suitable computer for
+ preparing a job application or completing a course assignment. Others may share a
+ crowded home where sustained study is difficult. A library that provides computers,
+ internet access and a quiet place to work can address these barriers. Its value
+ therefore extends beyond the books on its shelves. Closing such a facility because
+ information is available online would overlook the conditions people need to benefit
+ from that information in the first place.
+
+ Libraries can also help people make better use of what they find. A search engine may
+ produce thousands of results without making it obvious which sources are suitable
+ for a particular purpose. A student researching an unfamiliar topic, for instance, may
+ need guidance on where to begin and how to distinguish a reliable reference from an
+ unsupported claim. Librarians can provide this support and direct users towards
+ relevant collections, including digital ones. As the amount of available material grows,
+ assistance with selecting and understanding it can remain valuable.
+
+ Public libraries should therefore adapt to the way information is now used rather
+ than be treated as redundant. Their continuing role lies in making knowledge
+ practically accessible and helping people use it with greater confidence.
+
+Phân tích cách triển khai
+
+Câu “Its value therefore extends beyond the books on its shelves” khái quát ý nghĩa
+của các tiện ích vừa được nêu. Người đọc thấy giá trị của thư viện còn gắn với điều
+kiện học tập và làm việc. Ở đoạn tiếp theo, bài viết chuyển từ khả năng tiếp cận sang
+khả năng lựa chọn thông tin nên tránh lặp lại luận điểm trước. Kết luận tổng hợp
+đúng hai chức năng đã phân tích.
+
+Với lập trường không đồng ý, hai đoạn thân bài có thể cùng bảo vệ một phía. Bài viết
+cần trả lời trực tiếp lý do mà đề dùng để phủ nhận sự cần thiết của thư viện. Một
+đoạn riêng về lợi ích của thông tin trực tuyến chỉ cần thiết khi góp phần làm rõ lập
+trường ấy.
+
+
+                                            9
+Bài 2
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ Some people believe that students should learn mainly from online materials,
+ while others think printed materials are better.
+
+ Discuss both views and give your own opinion.
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Bài thuộc dạng Discuss both views and give your opinion. Đoạn thân bài thứ nhất giải
+thích lợi thế của tài liệu số, còn đoạn thứ hai trình bày cơ sở của việc ưu tiên tài liệu
+in. Người viết chọn tài liệu in cho việc đọc tập trung và dùng thêm tài liệu số khi cần
+minh họa, cập nhật hoặc tìm hiểu sâu hơn. Quan điểm này xác định rõ mục đích sử
+dụng từng loại tài liệu.
+
+ Bài mẫu
+
+ Students can now obtain much of their learning material online, although printed
+ resources remain widely used. Digital materials offer clear advantages in access and
+ flexibility, while print can support more focused reading. I favour printed texts for
+ sustained study, supplemented by online resources when they serve a specific
+ purpose.
+
+
+
+
+                                           10
+ Bài mẫu
+
+ The case for online materials rests largely on how easily they can be accessed and
+ adapted. A student who encounters an unfamiliar concept can move from a written
+ explanation to a video demonstration without waiting for another lesson. Materials
+ can also be updated when a course changes, and a teacher can share the revised
+ version with an entire class immediately. This is particularly useful for learners who
+ study away from campus or need to revisit a difficult explanation outside class hours.
+ With a suitable device and connection, they can reach the same material from
+ different locations and return to it when needed.
+
+ Those who prefer print place greater emphasis on the experience of working through
+ a text. A printed chapter provides a stable sequence that students can annotate, revisit
+ and compare without switching between applications. It also allows them to put
+ connected devices aside for the duration of a reading session. For a student who
+ repeatedly checks messages while studying, this separation can make it easier to
+ follow an argument across several pages. These qualities are especially relevant when
+ understanding depends on patient reading rather than finding one isolated fact.
+
+ I would therefore use print as the foundation for concentrated reading and digital
+ resources for demonstrations, updates and further exploration. Assigning each format
+ a clear role offers a more useful approach than expecting either one to meet every
+ learning need.
+
+Phân tích cách triển khai
+
+Câu “These qualities are especially relevant when understanding depends on patient
+reading rather than finding one isolated fact” xác định nhu cầu học mà tài liệu in có
+thể đáp ứng tốt. Ví dụ về người thường xuyên kiểm tra tin nhắn giải thích vì sao đặt
+thiết bị sang bên có thể giúp họ đọc tập trung hơn. Nhận định được giới hạn vào hoàn
+cảnh cụ thể, tránh khái quát rằng mọi tài liệu số đều gây mất tập trung.
+
+Mỗi phía được trình bày với lý do và tình huống minh họa. Quan điểm kết hợp ở cuối
+bài vẫn rõ vì người viết xác định chức năng riêng cho từng loại tài liệu. Nếu chỉ kết
+luận rằng cả hai đều có ích, người đọc sẽ chưa thấy cơ sở lựa chọn.
+
+
+
+
+                                           11
+Bài 3
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ More companies are allowing employees to work from home.
+
+ Do the advantages of this development outweigh the disadvantages?
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Bài yêu cầu đánh giá liệu lợi ích có lớn hơn bất lợi hay không. Người viết cho rằng lợi
+ích lớn hơn. Đoạn thân bài thứ nhất thừa nhận khó khăn về đào tạo và phối hợp.
+Đoạn thứ hai giải thích lợi ích về cơ hội việc làm rồi so sánh lợi ích ấy với những hạn
+chế có thể giảm bớt. Phạm vi đánh giá được giới hạn ở các công việc phù hợp với làm
+việc từ xa.
+
+ Bài mẫu
+
+ Allowing employees to work from home changes both the practical demands of a job
+ and the way colleagues interact. Although this can make training and coordination
+ more difficult, I believe the wider availability of home working brings greater benefits
+ than drawbacks, especially by opening suitable jobs to more people.
+
+ The main disadvantage is the loss of easy access to other people during the working
+ day. In an office, a new employee can observe how experienced colleagues handle
+ tasks and ask a brief question as a problem arises. At home, the same employee may
+ hesitate to arrange a call for something that seems minor. Small uncertainties can
+ then remain unresolved, while managers may struggle to notice that someone needs
+ help. Tasks involving several people can also become slower if each decision requires
+ another exchange of messages. These are meaningful costs, particularly for staff who
+ are still learning their roles.
+
+
+
+                                           12
+ Bài mẫu
+
+ However, working from home can make a suitable job accessible to people who would
+ otherwise struggle to take it. Someone living far from a major employment centre
+ may be able to accept a position without moving away from family. Existing
+ employees can also recover time previously spent travelling and use it for rest or
+ responsibilities outside work. These benefits affect whether people can take and
+ sustain a job at all. By comparison, at least some coordination problems can be
+ reduced through scheduled training, clear procedures and occasional meetings. This
+ makes the gains in access and flexibility more substantial than the manageable
+ drawbacks in suitable roles.
+
+ On balance, I believe the benefits of expanding home working outweigh its
+ drawbacks. Its strongest benefit is widening access to employment, provided that
+ flexibility is accompanied by a workable system of support.
+
+Phân tích cách triển khai
+
+Câu “These benefits affect whether people can take and sustain a job at all” giải thích
+tầm quan trọng của lợi ích đối với người lao động. Bài viết tiếp tục xem xét khả năng
+giảm khó khăn phối hợp bằng đào tạo, quy trình rõ ràng và những cuộc gặp cần thiết.
+Phần so sánh này giúp lý giải kết luận rằng lợi ích lớn hơn bất lợi.
+
+Số lượng lợi ích và bất lợi không quyết định phía nào quan trọng hơn. Người viết cần
+giải thích mức độ ảnh hưởng của mỗi phía. Trong bài này, cơ hội nhận và duy trì
+công việc được đánh giá cao hơn những khó khăn phối hợp có thể khắc phục phần
+nào.
+
+
+
+
+                                           13
+Bài 4
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ In some cities, residents make little use of public parks.
+
+ Why is this the case? What can local authorities do to encourage more people to
+ use them?
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Bài thuộc dạng Causes and solutions. Hai nguyên nhân được nêu là khó tiếp cận công
+viên và thiếu tiện ích phù hợp. Các giải pháp ở đoạn sau giải quyết lần lượt hai
+nguyên nhân ấy. Một đoạn riêng liệt kê lợi ích của cây xanh sẽ ít giúp trả lời câu hỏi
+về nguyên nhân công viên vắng người và cách khuyến khích người dân sử dụng.
+
+ Bài mẫu
+
+ Public parks can remain underused even in cities where residents have limited
+ private outdoor space. This may happen because parks are difficult to reach or do not
+ meet people's everyday needs. Local authorities should therefore focus on making
+ them both accessible and useful.
+
+ One possible reason for low attendance is the inconvenience of getting to a park. A
+ green space may be close to a residential area on a map but separated from it by a
+ busy road with few safe crossings. Parents with small children or residents with
+ limited mobility may then find a short visit impractical. A second problem is what
+ people find when they arrive. A park with little shade, insufficient seating or no
+ usable toilets may not be comfortable for a longer stay. Residents can appreciate the
+ idea of having a park while still finding few occasions when they would actually use
+ it.
+
+
+
+                                           14
+ Bài mẫu
+
+ The response should address these barriers directly. Councils could improve
+ pedestrian crossings, provide clear entrances and connect parks to existing walking
+ routes. These changes would make visiting easier without requiring residents to travel
+ by car. Within the parks, authorities should consult local users before choosing
+ improvements. Families might need toilets and places to sit near play areas, while
+ older visitors may value shaded paths and regular seating. Maintaining these basic
+ facilities would also matter, since an unusable toilet or damaged bench quickly loses
+ its practical value. Investment should target the barriers that currently discourage
+ people from visiting.
+
+ Low park use is therefore not necessarily a sign that residents dislike outdoor activity.
+ Better access and facilities suited to local routines would give them stronger practical
+ reasons to return.
+
+Phân tích cách triển khai
+
+Chi tiết “close to a residential area on a map but separated from it by a busy road”
+phân biệt khoảng cách địa lý với khả năng tiếp cận thực tế. Vì vậy, đề xuất cải thiện
+chỗ sang đường ở đoạn sau có căn cứ rõ. Những thiếu sót về bóng mát, ghế ngồi và
+nhà vệ sinh cũng giải thích vì sao công viên cần được bổ sung tiện ích và bảo trì
+thường xuyên.
+
+Giải pháp cần phù hợp với nguyên nhân đã phân tích. Câu “Investment should target
+the barriers that currently discourage people from visiting” khái quát nguyên tắc
+chọn giải pháp của cả đoạn. Khi lập dàn ý, người viết nên đối chiếu từng đề xuất với
+trở ngại mà nó có thể giải quyết.
+
+
+
+
+                                            15
+Bài 5
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ Many adults return to formal education after several years of work.
+
+ Why do they decide to study again? What challenges do they face?
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Đề gồm hai câu hỏi. Đoạn thân bài thứ nhất giải thích động lực quay lại học, còn đoạn
+thứ hai phân tích khó khăn về thời gian và tài chính. Bài viết tập trung vào hai nội
+dung này vì đề không yêu cầu giải pháp hay đánh giá xu hướng tích cực hoặc tiêu
+cực.
+
+ Bài mẫu
+
+ Returning to formal education after years of employment can be a deliberate step
+ towards a different future. Adults may want qualifications that open new career
+ options or allow them to pursue an interest more seriously. Their main difficulties are
+ often fitting study around existing commitments and meeting its financial costs.
+
+ Work experience can help people recognise what they want from further education.
+ Someone may discover an interest in a different field but lack the qualification needed
+ to enter it. Studying then provides a route towards a specific goal, rather than simply
+ continuing the educational path they began at school. Others may find that changes in
+ their occupation require knowledge beyond what they learned during their initial
+ training. A structured course can give them an organised way to acquire it and a
+ recognised qualification to demonstrate their progress. The decision to return can
+ therefore reflect a clearer understanding of their interests and professional needs.
+
+
+
+
+                                           16
+ Bài mẫu
+
+ The challenge is that these learners already have responsibilities that cannot easily be
+ set aside. Classes and assignments must compete with working hours, household tasks
+ and, for some, caring for children or relatives. Missing a study session may be difficult
+ to recover from when the rest of the week is already full. There is also a financial
+ tradeoff. Tuition and materials add to existing expenses, while reducing working
+ hours to study may mean losing income. Even a highly motivated adult can
+ consequently struggle to keep up with a course that assumes students have ample
+ time and few other obligations.
+
+ Adults often return to education with a specific purpose shaped by experience. The
+ difficulty lies in pursuing that purpose alongside a life already organised around
+ work, financial commitments and family responsibilities.
+
+Phân tích cách triển khai
+
+Câu “Work experience can help people recognise what they want from further
+education” nối trải nghiệm làm việc với động lực học tiếp. Sau đó, bài viết giải thích
+hai tình huống là chuyển lĩnh vực và bổ sung kiến thức cho nghề nghiệp hiện tại.
+Cách triển khai này phù hợp với hướng tìm ý từ đặc điểm và nhu cầu của đối tượng.
+
+Đoạn kết luận nhắc lại cả động lực lẫn khó khăn. Đề xuất mới về trợ cấp học phí
+không cần thiết vì câu hỏi chưa yêu cầu giải pháp. Với dạng bài có hai câu hỏi, người
+viết cần kiểm tra xem kết luận đã khái quát đủ cả hai câu trả lời chưa.
+
+
+
+
+                                            17
+Bài 6
+
+ Đề bài
+
+ WRITING TASK 2
+
+ You should spend about 40 minutes on this task.
+
+ Write about the following topic:
+
+ People increasingly expect to receive products and services almost immediately.
+
+ Is this a positive or negative development?
+
+ Give reasons for your answer and include any relevant examples from your own
+ knowledge or experience.
+
+ Write at least 250 words.
+
+
+Nhận diện và dàn ý
+
+Bài thuộc dạng Positive or negative development và đánh giá xu hướng chủ yếu tiêu
+cực. Đoạn thân bài thứ nhất phân tích ảnh hưởng của kỳ vọng được đáp ứng ngay
+đến quyết định mua hàng. Đoạn thứ hai bàn về áp lực lên doanh nghiệp và người lao
+động. Người viết vẫn thừa nhận giá trị của phản ứng nhanh trong tình huống khẩn
+cấp để xác định rõ giới hạn của nhận định.
+
+ Bài mẫu
+
+ Fast delivery and quick access to services can make daily life easier. However, the
+ growing expectation that almost everything should be available immediately is, in my
+ view, largely negative. It can distort purchasing decisions and place unnecessary
+ pressure on the people providing these services.
+
+ For consumers, the expectation of immediate access can distort purchasing priorities,
+ even when an item is not urgently needed. The appeal of having something now may
+ draw attention away from whether it is suitable or worth its price. A shopper might
+ choose a more expensive retailer simply because it promises delivery that evening,
+ although receiving the item the next day would serve the same purpose. They may
+ also overlook a cheaper or more appropriate alternative that requires a short wait. In
+ such cases, instant availability becomes a reason to buy, while price and suitability
+ carry less weight in the decision.
+
+
+
+                                          18
+ Bài mẫu
+
+ The same expectation can create pressure for businesses and their workers. A
+ company that promises extremely short delivery times has less room to accommodate
+ traffic, unexpected demand or a staff shortage. Employees may then be pushed to
+ work faster or take on additional tasks to protect a promise they did not make. In
+ services that require careful attention, such as repairing equipment, rushing can also
+ make it harder to check the work thoroughly. While rapid responses are valuable in
+ genuinely urgent situations, extending that standard to ordinary requests can impose
+ costs that are disproportionate to the convenience gained.
+
+ I therefore see the expectation of immediate service as more harmful than beneficial.
+ Speed is useful when it meets a real need, but making it the default for every
+ transaction can weaken judgement and create avoidable pressure.
+
+Phân tích cách triển khai
+
+Cụm “costs that are disproportionate to the convenience gained” nêu cơ sở đánh giá
+sự đánh đổi giữa mức tiện lợi và chi phí phải chịu. Ví dụ giao hàng trong ngày cho
+thấy tốc độ có thể được ưu tiên dù chờ thêm một ngày vẫn đáp ứng nhu cầu. Ví dụ
+sửa chữa thiết bị tiếp tục làm rõ hệ quả của áp lực về thời gian đối với chất lượng
+công việc.
+
+Dịch vụ nhanh và kỳ vọng mọi yêu cầu đều phải được đáp ứng ngay là hai nội dung
+cần phân biệt. Bài viết đánh giá kỳ vọng đang gia tăng cùng các hệ quả của nó nên
+giữ đúng phạm vi câu hỏi.
+
+
+
+
+                                          19
+Mẫu câu và cách diễn đạt
+
+Diễn đạt chính xác theo ngữ cảnh
+Trước khi thay từ, người viết cần xác định rõ đối tượng, hành động và hệ quả muốn
+diễn đạt. Câu cụ thể giúp người đọc hiểu cơ sở của nhận định nhưng nội dung bổ
+sung vẫn phải phù hợp với phạm vi đề bài.
+
+Câu khái quát                    Cách diễn đạt cụ thể hơn
+
+Online learning is convenient.   Recorded lessons allow students to study around their working
+                                 hours.
+
+Technology makes people          When software completes every step of a task, users may have
+lazy.                            fewer opportunities to practise the underlying skill.
+
+The government should raise      Local councils could publish clear information about park
+awareness.                       opening hours and available facilities.
+
+This is very beneficial for      This would allow residents without private gardens to spend
+society.                         time outdoors without paying an entrance fee.
+
+
+
+Câu về bài giảng ghi sẵn phù hợp với hình thức học cho phép xem lại nội dung. Câu
+về phần mềm giới hạn nhận định vào trường hợp phần mềm thực hiện toàn bộ các
+bước. Hai bản sửa đã bổ sung điều kiện cụ thể nên người viết không thể xem chúng là
+cách diễn đạt tương đương với câu gốc trong mọi ngữ cảnh.
+
+Cấu trúc theo chức năng lập luận
+
+Chức năng                        Cấu trúc và ví dụ
+
+Giải thích nguyên nhân           because + mệnh đề. Some adults postpone study because they
+                                 cannot afford to stop working.
+
+Nêu điều kiện                    if + mệnh đề. If a course offers evening classes, employees can
+                                 attend after work.
+
+Xác định nhóm đối tượng          Danh từ + mệnh đề quan hệ với who/that. Workers who live far
+                                 from the office may benefit most from remote work.
+
+Thừa nhận một điểm               although + mệnh đề. Although printed books are useful for
+                                 sustained reading, digital materials are easier to update.
+
+
+
+                                               20
+Chức năng                    Cấu trúc và ví dụ
+
+Giới hạn mức khẳng định      can/may + động từ nguyên mẫu; tend to + động từ nguyên mẫu.
+                             Constant notifications can interrupt a reading session.
+
+Nêu sự đánh đổi              at the cost of + danh từ hoặc V-ing. Faster delivery should not
+                             come at the cost of workers' safety.
+
+Nêu sự phụ thuộc             depend on + danh từ hoặc whether + mệnh đề. The value of a
+                             course depends on whether its content matches the learner's
+                             needs.
+
+So sánh mức độ quan trọng    outweigh + tân ngữ. The gains in access can outweigh the
+                             inconvenience of arranging occasional meetings.
+
+
+
+Can thường diễn đạt khả năng hoặc tác động có thể xảy ra, may nêu một khả năng
+chưa được khẳng định chắc chắn, còn tend to diễn đạt xu hướng. Người viết cần lựa
+chọn theo mức độ khẳng định phù hợp với lập luận. Từ may làm nhận định thận
+trọng hơn nhưng phần giải thích vẫn phải cho thấy vì sao khả năng ấy có cơ sở.
+
+Depend on diễn đạt sự phụ thuộc vào một yếu tố; cụm này không phải lúc nào cũng
+xác lập một điều kiện cần theo nghĩa logic. Khi muốn nhấn mạnh rằng kết quả chỉ có
+thể xảy ra nếu điều kiện được đáp ứng, người viết có thể dùng only if. Với outweigh,
+phần phân tích cần làm rõ cơ sở so sánh, chẳng hạn phạm vi ảnh hưởng, thời gian
+kéo dài hoặc khả năng khắc phục hạn chế.
+
+Liên kết bằng từ ngữ quy chiếu
+  Some adults cannot attend classes during working hours. Evening courses give
+  these learners another route into education. This flexibility matters because it
+  allows them to keep earning while they study.
+
+These learners nhắc lại nhóm some adults. This flexibility khái quát khả năng học
+ngoài giờ làm. Nhờ các liên kết ấy, mỗi câu tiếp tục phát triển nội dung của câu trước.
+Moreover và Furthermore chỉ phù hợp khi quan hệ giữa các ý thực sự là bổ sung.
+
+Nếu câu trước có nhiều nội dung mà this có thể nhắc đến, người viết nên thêm danh
+từ để xác định rõ nghĩa, chẳng hạn this schedule, this cost hoặc this restriction. Từ
+quy chiếu chỉ hỗ trợ Cohesion khi người đọc nhận ra nó đang nhắc đến nội dung nào.
+
+
+
+
+                                           21
+Chuyên đề ngữ pháp
+
+Mệnh đề điều kiện trong lập luận
+Mệnh đề điều kiện giúp người viết xác định hoàn cảnh mà một kết quả có thể xảy ra.
+Trong Task 2, cách diễn đạt này đặc biệt hữu ích khi đánh giá giải pháp hoặc giới hạn
+một nhận định. Người viết vừa nêu kết quả dự kiến vừa cho thấy điều kiện để kết quả
+ấy có cơ sở.
+
+Câu sau được trích từ bài mẫu về làm việc tại nhà.
+
+  Tasks involving several people can also become slower if each decision requires
+  another exchange of messages.
+
+Mệnh đề if each decision requires another exchange of messages xác định tình huống
+có thể làm công việc chậm lại. Can become slower diễn đạt khả năng xảy ra hệ quả.
+Hiện tại đơn ở mệnh đề if phù hợp với một điều kiện mang tính khái quát. Câu không
+khẳng định rằng mọi hình thức làm việc tại nhà đều khiến công việc chậm hơn.
+
+Lựa chọn động từ trong mệnh đề chính
+Với điều kiện được trình bày như một khả năng còn để ngỏ, người viết có thể dùng
+hiện tại đơn sau if và chọn động từ ở mệnh đề chính theo ý nghĩa. Will thường diễn
+đạt kết quả được dự đoán, can nhấn mạnh khả năng hoặc cơ hội, còn may nêu một
+kết quả có thể xảy ra. Mệnh đề chính không bắt buộc phải dùng will.
+
+  If a course offers evening classes, employees can attend after work.
+
+Câu này nêu cơ hội tham gia lớp học khi lịch học phù hợp. Nếu đổi can thành will,
+người viết sẽ dự đoán rằng người lao động thực sự tham gia. Mức khẳng định mạnh
+hơn ấy cần có căn cứ tương ứng.
+
+Khi trình bày một hoàn cảnh giả định xa thực tế hơn, người viết có thể dùng if + quá
+khứ đơn và would/could + động từ nguyên mẫu.
+
+  If local parks had more shaded seating, older residents could spend longer there.
+
+Had trong câu này không chỉ thời gian quá khứ. Dạng quá khứ cho thấy người viết
+đang xét một tình huống giả định, còn could diễn đạt khả năng có thêm nếu điều kiện
+được đáp ứng. Người viết cần chọn cấu trúc theo cách nhìn nhận hoàn cảnh, tránh
+dùng dạng giả định chỉ để làm câu phức tạp hơn.
+
+
+
+                                         22
+Phân biệt if và only if
+If giới thiệu điều kiện trong lập luận. Only if nhấn mạnh rằng điều kiện ấy là cần
+thiết đối với kết quả đang bàn đến. Người viết chỉ nên dùng only if khi phần giải thích
+đủ cơ sở cho mức khẳng định này.
+
+  Free bus travel may encourage people to use public transport, but only if services
+  are frequent enough for their daily journeys.
+
+Trong câu này, tần suất xe buýt đủ đáp ứng nhu cầu đi lại được xem là điều kiện cần
+để chính sách miễn phí phát huy tác dụng. Tuy nhiên, tần suất phù hợp vẫn chưa bảo
+đảm người dân sẽ đi xe buýt vì tuyến đường và thời gian di chuyển cũng ảnh hưởng
+đến lựa chọn. Nếu chỉ muốn nêu một điều kiện thuận lợi, người viết có thể dùng if
+hoặc especially when để tránh khẳng định quá mạnh.
+
+Dấu câu và lỗi thường gặp
+Khi đặt mệnh đề if trước mệnh đề chính, người viết thường dùng dấu phẩy để ngăn
+cách hai vế. Khi mệnh đề if đứng sau và gắn chặt với ý chính, dấu phẩy thường không
+cần thiết. Cả hai trật tự đều đúng; lựa chọn phụ thuộc vào thông tin cần nhấn mạnh
+và mạch liên kết của đoạn.
+
+  If services are frequent, more residents may use the bus.
+
+  More residents may use the bus if services are frequent.
+
+Trong câu điều kiện thông thường về tương lai, người viết dùng hiện tại đơn sau if,
+chẳng hạn If the council improves the crossings, more families may visit the park.
+Một sự việc nằm ở tương lai không tự động đòi hỏi will trong mệnh đề if. Tuy nhiên,
+will vẫn có thể xuất hiện sau if với những ý nghĩa khác, chẳng hạn sự sẵn lòng.
+
+Trong các câu điều kiện đang xét, mệnh đề bắt đầu bằng if cần đi cùng mệnh đề
+chính để tạo thành câu hoàn chỉnh. Người viết cũng cần kiểm tra quan hệ giữa hai vế.
+Dù đúng ngữ pháp, câu vẫn thiếu sức thuyết phục nếu kết quả không có quan hệ hợp
+lý với điều kiện được nêu.
+
+
+
+
+                                          23
+

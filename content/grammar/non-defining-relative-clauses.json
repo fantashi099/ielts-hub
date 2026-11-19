@@ -1,0 +1,206 @@
+{
+  "slug": "non-defining-relative-clauses",
+  "title": "Non-defining relative clauses",
+  "titleVi": "Mệnh đề quan hệ không xác định",
+  "level": "C1",
+  "topic": "relative-clauses",
+  "bookUnits": [95, 96],
+  "bandFocus": "8.0",
+  "summary": "Dấu phẩy đổi nghĩa câu, which thay cho cả mệnh đề, và cấu trúc many of whom.",
+  "whyItMatters": "Ở band 8, câu của bạn cần thêm thông tin mà không chia thành câu mới — đó chính là việc của mệnh đề không xác định. Nhưng đặt thiếu dấu phẩy sẽ đổi nghĩa hoàn toàn: *The students who failed* là một nhóm, *The students, who failed,* là tất cả. Dùng *that* trong mệnh đề này là lỗi ngữ pháp rõ ràng, và dùng *which* để thay cho cả một ý là cấu trúc đặc trưng của văn học thuật.",
+  "sections": [
+    {
+      "heading": "Commas decide the meaning",
+      "body": [
+        "A **defining** clause identifies which person or thing you mean: *The students who failed the exam had to retake it* (only some students failed). A **non-defining** clause adds extra information about something already identified: *The students, who failed the exam, had to retake it* (all of them failed).",
+        "The commas are not optional decoration. Written without them, the clause restricts; written with them, the clause comments. In academic writing this distinction carries real meaning, and misplacing a comma can invert your claim.",
+        "The same logic applies to proper nouns, which are already identified: *Hanoi, which is the capital, has a housing shortage* — never *Hanoi which is the capital*."
+      ],
+      "table": {
+        "headers": ["Defining (no commas)", "Non-defining (commas)"],
+        "rows": [
+          ["The employees who work remotely save money.", "The employees, who work remotely, save money."],
+          ["My sister who lives in Da Nang is a nurse.", "My sister, who lives in Da Nang, is a nurse."],
+          ["The report which was leaked caused a scandal.", "The report, which was leaked, caused a scandal."],
+          ["People who drive to work face higher costs.", "Commuting, which many people do daily, is expensive."]
+        ]
+      }
+    },
+    {
+      "heading": "No that, no omission",
+      "body": [
+        "Non-defining clauses use **who, which, whose, where, when, whom** — but never **that**. *The policy, that was introduced in 2019, failed* is wrong; use *which*.",
+        "The pronoun cannot be omitted either, because it is the only signal that a clause is coming: *The policy, introduced in 2019, failed* is acceptable only as a reduced participial phrase, not as a full clause.",
+        "The clause sits between two commas (or a comma and a full stop) and can be removed without breaking the sentence. Test it: if the sentence still works after deleting the clause, the commas belong there."
+      ],
+      "examples": [
+        { "right": "The minister, who resigned last week, denied the allegations.", "wrong": "The minister, that resigned last week, denied the allegations.", "note": "Không dùng **that** trong mệnh đề không xác định." },
+        { "right": "The scheme, which cost £2 million, was abandoned.", "note": "Có thể bỏ cả mệnh đề mà câu vẫn hoàn chỉnh." },
+        { "right": "Researchers, whose funding was cut, had to scale back the trial.", "note": "**whose** hoạt động bình thường trong mệnh đề không xác định." }
+      ]
+    },
+    {
+      "heading": "which referring to a whole clause",
+      "body": [
+        "In non-defining clauses, **which** can refer not to a noun but to the entire previous clause. This is a compact way to comment on a fact: *The trial was cancelled, which surprised the participants.* *Fares rose by 40%, which made commuting unaffordable for many.*",
+        "The related structure **in which case** is even tighter: *The deadline may be extended, in which case we should revise the schedule.*",
+        "Use this device sparingly — two or three times in an essay. Overused, it produces the loose, trailing sentences that examiners describe as under-controlled."
+      ],
+      "table": {
+        "headers": ["Structure", "Example"],
+        "rows": [
+          ["..., which + verb", "Enrolment fell by half, which forced the college to close."],
+          ["..., which is why", "The data were incomplete, which is why the report was delayed."],
+          ["..., in which case", "The grant may be renewed, in which case we can expand."],
+          ["..., a fact that", "Fewer than 10% responded, a fact that weakens the conclusion."]
+        ]
+      }
+    },
+    {
+      "heading": "Quantifier + of whom / of which",
+      "body": [
+        "To talk about a part of a group already mentioned, use a quantifier plus **of whom** (people) or **of which** (things): *Twenty candidates applied, only three of whom were shortlisted.* *The city has ten districts, most of which are overcrowded.*",
+        "This structure is a band-8 marker because it packs two ideas into one sentence without a conjunction. It replaces *and only three of them were shortlisted*, which is looser.",
+        "Note that the pronoun is obligatory: *most of them are* becomes *most of which are*. Dropping it — *ten districts, most are overcrowded* — produces a comma splice."
+      ],
+      "examples": [
+        { "right": "The survey covered 400 households, half of whom lived in rented flats.", "wrong": "The survey covered 400 households, half of them lived in rented flats.", "note": "Cần **of whom** để nối thành mệnh đề quan hệ." },
+        { "right": "The library holds 200,000 volumes, many of which are out of print.", "note": "*many of which* — vật." },
+        { "right": "Several factors, none of which is decisive, explain the trend.", "note": "Số ít sau *none of which* trong văn trang trọng." }
+      ]
+    },
+    {
+      "heading": "Reduction and the appositive alternative",
+      "body": [
+        "Non-defining clauses reduce to participial phrases: *The report, which was published in May, ...* → *The report, published in May, ...*; *The students, who were waiting outside, ...* → *The students, waiting outside, ...*",
+        "An **appositive** — a noun phrase in commas — often does the same job more elegantly: *Hanoi, the capital of Vietnam, ...* rather than *Hanoi, which is the capital of Vietnam, ...*",
+        "In Task 1, prefer appositives and reduced clauses; in Task 2, one full non-defining clause per paragraph is enough to demonstrate the structure without bloating sentences."
+      ],
+      "examples": [
+        { "right": "The bridge, completed in 2010, carries 40,000 vehicles a day.", "note": "Rút gọn bị động — gọn hơn *which was completed*." },
+        { "right": "Da Nang, Vietnam's third-largest city, relies heavily on tourism.", "note": "Appositive thay cho *which is the third-largest city*." },
+        { "right": "The policy failed, which undermined public trust in the ministry.", "note": "Một mệnh đề *which* đủ mạnh; không cần thêm mệnh đề thứ hai." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "My father, that works in Hanoi, comes home at weekends.",
+      "right": "My father, who works in Hanoi, comes home at weekends.",
+      "why": "Mệnh đề **không xác định không dùng *that***. Với người phải dùng **who**, với vật dùng **which**."
+    },
+    {
+      "wrong": "Hanoi, where I visited last year, has changed a lot.",
+      "right": "Hanoi, which I visited last year, has changed a lot.",
+      "why": "**where** thay cho cụm trạng ngữ chỉ nơi chốn, không thay cho tân ngữ. *Visit* cần tân ngữ nên phải dùng **which**."
+    },
+    {
+      "wrong": "The scheme which cost two million pounds was abandoned.",
+      "right": "The scheme, which cost two million pounds, was abandoned.",
+      "why": "Thiếu cặp dấu phẩy khiến câu thành mệnh đề xác định — nghĩa đổi thành *chỉ kế hoạch tốn hai triệu mới bị hủy*, trong khi ý là thông tin bổ sung."
+    },
+    {
+      "wrong": "The report, which it was published in May, was criticised.",
+      "right": "The report, which was published in May, was criticised.",
+      "why": "Đại từ quan hệ đã là chủ ngữ của mệnh đề, nên không thêm *it*. Đây là lỗi lặp chủ ngữ giống *the book which I bought it*."
+    },
+    {
+      "wrong": "The city has ten districts, most of them are overcrowded.",
+      "right": "The city has ten districts, most of which are overcrowded.",
+      "why": "Hai mệnh đề chính nối bằng dấu phẩy là lỗi *comma splice*. Cần đại từ quan hệ **most of which** để biến vế sau thành mệnh đề phụ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `..., which is why...` để nêu hệ quả trong Task 2: `Few households recycle, which is why landfill sites are filling up.`",
+    "Trong Task 1, dùng `..., most of which...` / `..., half of whom...` để gộp số liệu vào một câu thay vì liệt kê.",
+    "Rút gọn mệnh đề không xác định thành cụm phân từ: `The study, conducted in 2021, found...` — ngắn hơn và đúng band 8.",
+    "Chỉ dùng một hoặc hai mệnh đề `which` trong cả bài; dùng quá nhiều sẽ bị đánh giá là câu thiếu kiểm soát."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The minister, ___ resigned last week, has denied the allegations.",
+      "options": ["that", "who", "which", "whom"],
+      "answerIndex": 1,
+      "explanation": "Mệnh đề không xác định, chỉ người → **who** (không dùng *that*)."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The bridge, ___ was completed in 2010, carries 40,000 vehicles a day.",
+      "options": ["that", "who", "which", "where"],
+      "answerIndex": 2,
+      "explanation": "Chỉ vật trong mệnh đề không xác định → **which**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Fares rose by 40%, ___ made commuting unaffordable for many.",
+      "options": ["that", "what", "which", "it"],
+      "answerIndex": 2,
+      "explanation": "**which** thay cho cả mệnh đề phía trước."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Twenty candidates applied, only three of ___ were shortlisted.",
+      "options": ["them", "whom", "which", "who"],
+      "answerIndex": 1,
+      "explanation": "Người + giới từ *of* → **whom**: *three of whom*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is punctuated correctly?",
+      "options": [
+        "My sister who lives in Da Nang is a nurse.",
+        "My sister, who lives in Da Nang, is a nurse.",
+        "My sister, who lives in Da Nang is a nurse.",
+        "My sister who lives in Da Nang, is a nurse."
+      ],
+      "answerIndex": 1,
+      "explanation": "Mệnh đề bổ sung thông tin cần **cặp dấu phẩy** đầy đủ."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The library holds 200,000 volumes, many of ___ are out of print.",
+      "answers": ["which"],
+      "hint": "thing + of + ?",
+      "explanation": "Vật → **many of which**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The deadline may be extended, in ___ case we should revise the schedule.",
+      "answers": ["which"],
+      "hint": "in ___ case",
+      "explanation": "Cấu trúc **in which case**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The study, ___ (conduct) in 2021, surveyed 400 households.",
+      "answers": ["conducted"],
+      "hint": "reduced passive clause",
+      "explanation": "Rút gọn bị động: *conducted in 2021*."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Da Nang, ___ is Vietnam's third-largest city, relies on tourism.",
+      "answers": ["which"],
+      "hint": "thing, non-defining",
+      "explanation": "**which** — không dùng *that* trong mệnh đề không xác định."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Few households recycle, ___ is why landfill sites are filling up.",
+      "answers": ["which"],
+      "hint": "sentence-relative",
+      "explanation": "**which is why** nối hệ quả với cả mệnh đề trước."
+    }
+  ]
+}

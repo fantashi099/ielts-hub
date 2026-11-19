@@ -1,0 +1,212 @@
+{
+  "slug": "superlatives-and-so-such",
+  "title": "Superlatives, so and such",
+  "titleVi": "So sánh nhất, so và such",
+  "level": "B1",
+  "topic": "comparison",
+  "bookUnits": [102, 108],
+  "bandFocus": "7.0",
+  "summary": "Dùng the -est / the most chuẩn xác, và phân biệt so + tính từ với such + cụm danh từ.",
+  "whyItMatters": "Hai lỗi này xuất hiện ở mọi bài band 6: *the most biggest problem*, *such an important issues*. Trong Task 2, *one of the most pressing issues* và *such a rapid rise* là những khung câu xuất hiện liên tục — dùng đúng thì câu tự nhiên và trang trọng, dùng sai thì giám khảo thấy ngay bạn chưa kiểm soát được cấu trúc so sánh.",
+  "sections": [
+    {
+      "heading": "The superlative form",
+      "body": [
+        "Short adjectives take **the + -est**: *the cheapest*, *the largest*, *the biggest*. Longer adjectives take **the most**: *the most expensive*, *the most efficient*. Adjectives ending in **-y** become **-iest**: *the easiest*, *the earliest*.",
+        "The irregulars are **the best**, **the worst**, **the furthest** (or *the farthest*). Never combine the two markers: *the most biggest* is a double superlative.",
+        "Use **the least** for the bottom of a scale: *the least affordable housing in the region*. It is the natural opposite of *the most* and is far more precise than *the least cheap*."
+      ],
+      "table": {
+        "headers": ["Adjective", "Superlative", "Rule"],
+        "rows": [
+          ["cheap", "the cheapest", "one syllable → the -est"],
+          ["large", "the largest", "silent -e → the -st"],
+          ["big", "the biggest", "double the final consonant"],
+          ["easy", "the easiest", "-y → -iest"],
+          ["expensive", "the most expensive", "long adjective → the most"],
+          ["good", "the best", "irregular"],
+          ["bad", "the worst", "irregular"],
+          ["far", "the furthest / the farthest", "irregular"]
+        ]
+      }
+    },
+    {
+      "heading": "in, of, and one of the",
+      "body": [
+        "Use **in + place or group** when the superlative describes a whole area: *the highest life expectancy **in** Japan*, *the most competitive sector **in** the economy*.",
+        "Use **of + a specific set** when you compare named members: *the most expensive **of** the three options*, *the best **of** both worlds*.",
+        "**One of the + superlative + plural noun** is the workhorse of IELTS introductions: *one of the most pressing issues **facing** urban planners*. The noun must be **plural** — *one of the most pressing issue* is wrong because *one of* selects a member from a set."
+      ],
+      "examples": [
+        { "right": "Hanoi is one of the fastest-growing cities in Southeast Asia.", "wrong": "Hanoi is one of the fastest-growing city in Southeast Asia.", "note": "**one of the …** requires a plural noun." },
+        { "right": "It is the most expensive of the four proposals.", "note": "**of** + a defined set." },
+        { "right": "The country has the second highest literacy rate in the region.", "note": "Ordinal + superlative: *the second highest*." }
+      ]
+    },
+    {
+      "heading": "so + adjective, such + noun phrase",
+      "body": [
+        "**so** goes before an adjective or adverb with no noun: *so expensive*, *so rapidly*. **such** goes before a noun phrase, with or without an adjective: *such a rapid increase*, *such problems*.",
+        "The article sits inside the *such* phrase: **such a rapid increase**, not *a such rapid increase*. With plural or uncountable nouns there is no article: *such severe congestion*, *such high rents*.",
+        "With quantity words, use **so many / so much / so few / so little**: *so many applicants*, *so much waste*. **Such a lot of** is the informal equivalent: *such a lot of traffic*."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example", "Watch out"],
+        "rows": [
+          ["so + adjective", "The gap is so wide that…", "no noun after so"],
+          ["so + adverb", "Prices rose so rapidly that…", "no noun after so"],
+          ["such + a/an + adj + noun", "such a rapid increase", "article after such"],
+          ["such + adj + plural noun", "such severe delays", "no article"],
+          ["such + adj + uncountable", "such high demand", "no article"],
+          ["so many / much / few / little", "so many applicants", "quantity words take so"]
+        ]
+      }
+    },
+    {
+      "heading": "so ... that and such ... that: result clauses",
+      "body": [
+        "Both patterns introduce a **result**: *The rent was **so** high **that** few nurses could afford to live centrally.* *It was **such** a rapid change **that** regulators struggled to respond.*",
+        "Keep the *that* clause complete — a subject and a verb. Dropping *that* is common in speech but reads as careless in an essay: *The demand was so great that the scheme collapsed within a year.*",
+        "Do not confuse the result clause with **too … to**: *The rent was too high to afford* means it was impossible, not that a result followed. **So … that** reports a consequence; **too … to** reports an impossibility."
+      ],
+      "examples": [
+        { "right": "The city grew so quickly that its transport network could not keep pace.", "note": "**so + adverb + that** result clause." },
+        { "right": "It was such a controversial proposal that the council postponed the vote.", "note": "**such + a + adj + noun + that**." },
+        { "right": "Waiting lists were so long that some patients waited over a year.", "wrong": "Waiting lists were so long that some patients waited over a year more.", "note": "The *that* clause needs no extra quantity word." }
+      ]
+    },
+    {
+      "heading": "Superlatives and so/such in IELTS writing",
+      "body": [
+        "Superlatives are strongest when they are **qualified**. *The most expensive city in the world* is a claim you must be able to support; *one of the most expensive cities in the region* is safer and just as impressive.",
+        "In Task 1, use **the highest / the lowest / the steepest** to identify extremes, then compare: *The steepest decline occurred in manufacturing, which fell by almost a third.*",
+        "In Task 2, **such** is an elegant way to name a phenomenon without repeating it: *Cities face **such** severe congestion **that** many now ration road space.* The sentence does the work of two."
+      ],
+      "examples": [
+        { "right": "One of the most striking features of the chart is the gap between the two groups.", "note": "Safe, formal, and plural after *one of the*." },
+        { "right": "The steepest fall came in 2008, when construction lost a quarter of its workforce.", "note": "Superlative + specific data." },
+        { "right": "Such was the demand for housing that prices doubled in five years.", "wrong": "Such the demand for housing was that prices doubled in five years.", "note": "Formal inversion **Such was … that**; keep the word order fixed." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Air pollution is the most biggest problem in the city.",
+      "right": "Air pollution is the biggest problem in the city.",
+      "why": "Không dùng đồng thời **the most** và `-est`. Chọn một dạng so sánh nhất."
+    },
+    {
+      "wrong": "Housing is one of the most pressing issue for young people.",
+      "right": "Housing is one of the most pressing issues for young people.",
+      "why": "**one of the + superlative** luôn đi với danh từ **số nhiều**, vì nó chọn một phần tử từ một tập hợp."
+    },
+    {
+      "wrong": "It was a such rapid increase that regulators could not respond.",
+      "right": "It was such a rapid increase that regulators could not respond.",
+      "why": "Mạo từ **a** đứng sau *such*, không đứng trước: `such a + adj + noun`."
+    },
+    {
+      "wrong": "The rent was so high prices that nurses moved away.",
+      "right": "The rent was so high that nurses moved away.",
+      "why": "**so** đứng trước tính từ, không đi với danh từ. Nếu có danh từ, dùng **such high rents that**."
+    },
+    {
+      "wrong": "There were so much traffic that the road was unusable.",
+      "right": "There was so much traffic that the road was unusable.",
+      "why": "**traffic** không đếm được → *much*, và động từ số ít *was*. Lỗi này thường đi kèm với việc dùng *many* cho danh từ không đếm được."
+    }
+  ],
+  "ieltsTips": [
+    "Mở bài Task 2 bằng **one of the most + adj + plural noun**: *One of the most contested questions in education policy is whether…* Cấu trúc an toàn, trang trọng, và luôn đúng số ít/số nhiều nếu bạn nhớ danh từ phải ở dạng số nhiều.",
+    "Trong Task 1, ưu tiên **the highest / the lowest / the steepest / the smallest** thay vì *very high*: *The steepest decline occurred in manufacturing.* Nêu được cực trị là một trong những tiêu chí của Task Achievement.",
+    "Dùng **such + cụm danh từ** để gọi tên một hiện tượng mà không lặp lại cả câu: ***Such** persistent inequality undermines public trust.* Gọn và học thuật hơn *This inequality is very persistent and it undermines…*",
+    "Dùng **so … that** cho quan hệ nhân quả mạnh, nhưng chỉ một lần trong bài. Nếu lặp lại, chuyển sang *as a result*, *which means that*, hoặc *consequently* để tránh đơn điệu."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "It is ___ city in the region.",
+      "options": ["the most expensive", "the most expensive of", "most expensive", "the more expensive"],
+      "answerIndex": 0,
+      "explanation": "Long adjective → **the most expensive**; *in the region* follows."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The service is one of the ___ in the country.",
+      "options": ["worst", "worse", "most bad", "baddest"],
+      "answerIndex": 0,
+      "explanation": "Irregular superlative of *bad* → **the worst**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "It was ___ that the council postponed the vote.",
+      "options": ["such a controversial proposal", "a such controversial proposal", "so controversial proposal", "such controversial a proposal"],
+      "answerIndex": 0,
+      "explanation": "**such + a + adjective + noun**; the article follows *such*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "There was ___ demand that the website crashed.",
+      "options": ["so much", "so many", "such", "such a"],
+      "answerIndex": 0,
+      "explanation": "*Demand* is uncountable → **so much**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Hanoi is one of the fastest-growing city in Asia.",
+        "Hanoi is one of the fastest-growing cities in Asia.",
+        "Hanoi is the one of fastest-growing cities in Asia.",
+        "Hanoi is one of fastest-growing cities in Asia."
+      ],
+      "answerIndex": 1,
+      "explanation": "**one of the + superlative + plural noun** — *cities*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The ___ (high) life expectancy in the world is found in Japan.",
+      "answers": ["highest"],
+      "hint": "superlative of high",
+      "explanation": "Short adjective → **the highest**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Rents rose ___ rapidly that many families were priced out.",
+      "answers": ["so"],
+      "hint": "before an adverb",
+      "explanation": "**so + adverb + that**: *so rapidly that*."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The city faces ___ severe congestion that journey times have doubled.",
+      "answers": ["such"],
+      "hint": "before adj + uncountable noun",
+      "explanation": "**such + adj + uncountable noun**: *such severe congestion*."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "It is the second ___ (large) economy in the region.",
+      "answers": ["largest"],
+      "hint": "ordinal + superlative",
+      "explanation": "**the second largest** + noun."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The ___ (little) affordable housing is found in the city centre.",
+      "answers": ["least"],
+      "hint": "opposite of the most",
+      "explanation": "**the least affordable** = the bottom of the scale."
+    }
+  ]
+}

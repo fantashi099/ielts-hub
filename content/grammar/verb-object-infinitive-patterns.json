@@ -1,0 +1,210 @@
+{
+  "slug": "verb-object-infinitive-patterns",
+  "title": "Verb + object + infinitive patterns",
+  "titleVi": "Cấu trúc động từ + tân ngữ + nguyên mẫu",
+  "level": "B2",
+  "topic": "verb-patterns",
+  "bookUnits": [55, 67],
+  "bandFocus": "7.5",
+  "summary": "tell/advise/persuade somebody to do, make/let + động từ nguyên mẫu, và see somebody do/doing.",
+  "whyItMatters": "Cấu trúc *động từ + tân ngữ + to V* là xương sống của câu học thuật: *The policy encourages firms to invest*, *Students are required to attend*. Nhưng chỉ một nhóm động từ dùng được cấu trúc này; nhóm khác cần mệnh đề *that*. Nhầm nhóm là lỗi ngữ pháp nặng, và lỗi *suggest me to do* xuất hiện trong phần lớn bài Writing band 6.5.",
+  "sections": [
+    {
+      "heading": "Verb + object + to-infinitive: the persuasion group",
+      "body": [
+        "These verbs need a person between the verb and the infinitive: **tell, advise, remind, warn, invite, encourage, persuade, force, teach, allow, enable, expect, ask, want, would like**. *The tutor advised me to rewrite the introduction.*",
+        "The object is not optional. *She advised to rewrite* is incomplete English; you must say who was advised. The only exception is when the object is obvious from context in very informal speech, which is not a register you want in Task 2.",
+        "**get** works in the same slot with a more informal flavour: *I got my brother to check the figures.* **enable** and **allow** sound formal and are ideal for describing policy effects: *Flexible hours enable parents to combine work and childcare.*"
+      ],
+      "table": {
+        "headers": ["Verb", "Example"],
+        "rows": [
+          ["tell / ask", "The editor asked me to cut 200 words."],
+          ["advise / recommend (that)", "My tutor advised me to narrow the topic."],
+          ["remind / warn", "The sign warns visitors not to feed the animals."],
+          ["encourage / persuade", "The scheme encourages households to insulate their homes."],
+          ["force / get", "Rising rents forced many families to move out."],
+          ["allow / enable", "Online portals enable citizens to track applications."],
+          ["expect / want / would like", "Voters expect the government to act quickly."],
+          ["teach / show", "The course teaches students how to read critically."]
+        ]
+      }
+    },
+    {
+      "heading": "Verbs that refuse the pattern",
+      "body": [
+        "A second group cannot take *object + to-infinitive*. They need a **that-clause** or a preposition: **suggest, recommend, propose, insist, explain, complain, apologise, admit, deny, announce**.",
+        "*She suggested that I apply early* or *She suggested applying early* — never *She suggested me to apply*. *He explained the rule to me* — never *explained me the rule*. *They insisted on paying* — never *insisted me to pay*.",
+        "This is a lexical fact, not a logic problem: *advise* and *suggest* mean similar things but belong to different pattern groups. Learn them with their pattern attached."
+      ],
+      "examples": [
+        { "right": "The report recommends that the city invest in cycle lanes.", "wrong": "The report recommends the city to invest in cycle lanes.", "note": "**recommend + that-clause** or **recommend + -ing**." },
+        { "right": "She explained the procedure to the new staff.", "wrong": "She explained the new staff the procedure.", "note": "**explain something to somebody**, never two objects." },
+        { "right": "They insisted on checking every document.", "note": "**insist on + -ing**." }
+      ]
+    },
+    {
+      "heading": "make, let and help: no to",
+      "body": [
+        "**make** and **let** take the **bare infinitive** — no *to*: *The film made me cry*, *My manager let me leave early*. **help** accepts both: *She helped me (to) carry the boxes.*",
+        "In the passive, *make* takes *to* back: *He was made to apologise.* *Let* has no natural passive, so English uses **be allowed to** or **be permitted to**: *Students are not allowed to use phones in the exam hall.*",
+        "**had better**, **would rather** and **why not** also take the bare infinitive, which is why *We'd better to leave* is wrong."
+      ],
+      "table": {
+        "headers": ["Active", "Passive"],
+        "rows": [
+          ["The law makes employers provide safety training.", "Employers are made to provide safety training."],
+          ["They let visitors park for free.", "Visitors are allowed to park for free."],
+          ["The scheme helped residents (to) reduce bills.", "Residents were helped to reduce their bills."],
+          ["Nothing made him change his mind.", "He could not be made to change his mind."]
+        ]
+      }
+    },
+    {
+      "heading": "see somebody do / see somebody doing",
+      "body": [
+        "Perception verbs — **see, hear, watch, notice, feel, observe** — take either the bare infinitive or the -ing form, with a real difference in meaning.",
+        "**Bare infinitive** = you saw the whole completed action: *I saw him cross the road* (from one side to the other). **-ing form** = you saw it in progress, part of it: *I saw him crossing the road* (he was in the middle of it when you looked).",
+        "In the passive, the bare infinitive becomes a to-infinitive: *He was seen to leave the building at midnight.* *She was heard singing in the corridor.* Academic writing about observation and evidence uses exactly these forms."
+      ],
+      "examples": [
+        { "right": "Researchers observed the children share toys more readily.", "note": "Completed action, bare infinitive." },
+        { "right": "Researchers observed the children sharing toys.", "note": "Ongoing behaviour, -ing form — the more natural choice for describing a pattern." },
+        { "right": "The suspect was seen entering the car park.", "wrong": "The suspect was seen enter the car park.", "note": "Passive needs **to**: *was seen to enter*; *was seen entering* is also correct." }
+      ]
+    },
+    {
+      "heading": "Turning the pattern into academic distance",
+      "body": [
+        "The *object + to-infinitive* pattern lets you describe what institutions do to people without naming an agent — very useful in Task 2: *Employees are encouraged to work from home*, *Applicants are required to provide two references*, *Households were forced to cut consumption.*",
+        "Note the reporting verbs that already carry evaluation: **require, oblige, permit, entitle, urge, prompt**. *The crisis prompted the government to intervene* is far stronger than *The government decided to intervene because of the crisis.*",
+        "One caution: do not stack two *to* patterns. *The government encouraged people to try to reduce to use cars* collapses. Keep one infinitive chain per clause and start a new sentence."
+      ],
+      "examples": [
+        { "right": "The regulation requires airlines to offset their emissions.", "note": "Formal passive-friendly pattern: *are required to*." },
+        { "right": "Higher fees may deter students from applying.", "wrong": "Higher fees may deter students to apply.", "note": "*deter* belongs to the preposition group: **deter somebody from -ing**." },
+        { "right": "The campaign urged residents to report faulty streetlights.", "note": "**urge somebody to do** — a strong reporting verb for Task 2." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "My teacher suggested me to write a longer conclusion.",
+      "right": "My teacher suggested that I write a longer conclusion. / My teacher suggested writing a longer conclusion.",
+      "why": "**suggest** thuộc nhóm không nhận *tân ngữ + to V*; tiếng Việt *gợi ý tôi viết* khiến người học áp thẳng cấu trúc *advise/tell*. Phải dùng mệnh đề *that* hoặc **-ing**."
+    },
+    {
+      "wrong": "My parents made me to study medicine.",
+      "right": "My parents made me study medicine.",
+      "why": "**make + tân ngữ + động từ nguyên mẫu không có to**. Người học thêm *to* vì đa số cấu trúc khác đều có."
+    },
+    {
+      "wrong": "She was made apologise for the delay.",
+      "right": "She was made to apologise for the delay.",
+      "why": "Ở dạng bị động, **make** lấy lại *to*: *be made to do*. Đây là ngoại lệ duy nhất của nhóm này."
+    },
+    {
+      "wrong": "I heard him to sing in the next room.",
+      "right": "I heard him sing in the next room. / I heard him singing in the next room.",
+      "why": "Động từ tri giác (**hear, see, watch**) đi với động từ nguyên mẫu hoặc **-ing**, không dùng *to* ở dạng chủ động."
+    },
+    {
+      "wrong": "The manager explained me the new policy.",
+      "right": "The manager explained the new policy to me.",
+      "why": "**explain** không nhận hai tân ngữ. Tiếng Việt *giải thích cho tôi quy định mới* dịch thẳng thành *explained me*, nhưng tiếng Anh cần **explain something to somebody**."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `enable/allow somebody to do` để mô tả lợi ích chính sách: `Flexible working allows employees to balance career and family.`",
+    "Dùng `be required/expected/encouraged to do` để tạo giọng văn khách quan trong Task 2 mà không cần nêu chủ thể.",
+    "Với động từ tri giác, chọn **-ing** khi mô tả hành vi lặp lại, chọn nguyên mẫu khi mô tả một hành động trọn vẹn — khác biệt này được tính vào độ chính xác ngữ pháp.",
+    "Tránh chuỗi *to V* liên tiếp; nếu câu có hai ý sai khiến, tách thành hai câu hoặc dùng mệnh đề *that*."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The campaign encourages households ___ less water in summer.",
+      "options": ["using", "to use", "use", "for using"],
+      "answerIndex": 1,
+      "explanation": "**encourage + tân ngữ + to-infinitive**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The committee recommended that the building ___ immediately.",
+      "options": ["is renovated", "be renovated", "to be renovated", "renovating"],
+      "answerIndex": 1,
+      "explanation": "Sau **recommend that** dùng dạng nguyên mẫu không *to* (subjunctive): *that the building be renovated*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Passengers are not ___ to carry liquids over 100 ml.",
+      "options": ["allowed", "let", "made", "suggested"],
+      "answerIndex": 0,
+      "explanation": "**be allowed to do** là dạng bị động tương ứng với *let*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "I watched the technician ___ the machine twice before signing the form.",
+      "options": ["to check", "checking", "check", "to checking"],
+      "answerIndex": 2,
+      "explanation": "Hành động trọn vẹn, có kết thúc rõ ràng → động từ nguyên mẫu **check** (dạng *checking* cũng đúng ngữ pháp nhưng đổi nghĩa sang đang diễn ra)."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "They forced us to wait outside.",
+        "They forced us wait outside.",
+        "They forced that we wait outside.",
+        "They forced to us wait outside."
+      ],
+      "answerIndex": 0,
+      "explanation": "**force + tân ngữ + to-infinitive**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The sign warns visitors ___ (not / touch) the exhibits.",
+      "answers": ["not to touch"],
+      "hint": "warn + object + negative infinitive",
+      "explanation": "**warn somebody not to do**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Online systems enable applicants ___ (submit) documents from home.",
+      "answers": ["to submit"],
+      "hint": "enable + object + ?",
+      "explanation": "**enable + tân ngữ + to-infinitive**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The teacher let the class ___ (leave) ten minutes early.",
+      "answers": ["leave"],
+      "hint": "let + object + bare infinitive",
+      "explanation": "**let + tân ngữ + động từ nguyên mẫu không to**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "She was made ___ (redo) the entire experiment.",
+      "answers": ["to redo"],
+      "hint": "passive of make",
+      "explanation": "Bị động của **make** cần *to*: *was made to redo*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "He explained the procedure ___ (prep) the new interns.",
+      "answers": ["to"],
+      "hint": "explain something ___ somebody",
+      "explanation": "**explain something to somebody**."
+    }
+  ]
+}

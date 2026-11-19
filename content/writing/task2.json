@@ -1,0 +1,787 @@
+{
+  "slug": "task2",
+  "title": "Writing Task 2 — the band 8 essay",
+  "titleVi": "Writing Task 2 — bài luận band 8",
+  "subtitle": "Từ việc đọc đề, chốt thesis đến từng đoạn thân bài: cách viết một bài 270–310 từ đạt band 8, kèm 6 bài mẫu được chú thích đến từng câu.",
+  "sections": [
+    {
+      "heading": "The four criteria, as an examiner applies them",
+      "intro": "Task 2 counts for twice as much as Task 1, and every script is judged against the same four criteria. Knowing what each one rewards changes how you plan, not only how you proofread.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Each criterion contributes roughly a quarter of your Writing band. They are not independent in practice: a script that answers only half the question loses more in **Task Response** than any vocabulary upgrade can recover elsewhere, and a paragraph without a controlling idea drags down **Coherence and Cohesion** however sophisticated its grammar."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Criterion",
+              "What band 8 looks like on the page",
+              "What pulls a script down"
+            ],
+            "rows": [
+              [
+                "Task Response",
+                "A position held throughout; every part of the question answered; ideas developed rather than listed",
+                "A thesis that merely restates the topic; one half of a two-part question ignored; examples that do not support the claim"
+              ],
+              [
+                "Coherence and Cohesion",
+                "One controlling idea per paragraph; links that name a real logical relation; reference words that carry meaning",
+                "A new idea in every sentence; linkers used as decoration; paragraphs organised by firstly/secondly instead of by argument"
+              ],
+              [
+                "Lexical Resource",
+                "Precise topic vocabulary in natural collocations; occasional slips that do not obscure meaning",
+                "Memorised phrases dropped in regardless of context; important/beneficial repeated as all-purpose praise"
+              ],
+              [
+                "Grammatical Range and Accuracy",
+                "Conditionals, relatives and concession used because the meaning needs them; errors are slips, not patterns",
+                "Long sentences that collapse halfway; tense shifts inside one example; article and agreement errors in every paragraph"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Band 8 is less about ambition than about **control**. The descriptors talk about flexibility and precision, which means the examiner should never have to guess what you meant. A simple sentence that is exactly right scores better than a complex sentence that has to be re-read."
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "Read your essay twice with a single question each time. First pass: *does this answer the question?* Second pass: *where is the evidence for this claim?* These two passes fix more marks than a grammar check."
+        }
+      ]
+    },
+    {
+      "heading": "Read the question before you look for ideas",
+      "intro": "Most band-6 essays are lost in the first two minutes, when the writer decides what the topic is instead of what the task is.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A Task 2 question contains three separate things: a **topic** (what it is about), a **task word** (discuss, to what extent, why, what can be done) and **scope words** (*all*, *mainly*, *some countries*, *individuals and society*). The topic tells you what to write about; the other two tell you what to do with it."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Question wording",
+              "What the essay must actually do"
+            ],
+            "rows": [
+              [
+                "To what extent do you agree or disagree?",
+                "State a position and its limits. Both body paragraphs may defend the same side."
+              ],
+              [
+                "Discuss both views and give your own opinion.",
+                "Explain the basis of each view, then commit to a position and defend it."
+              ],
+              [
+                "Do the advantages outweigh the disadvantages?",
+                "Weigh the two sides against a stated criterion; do not simply list them."
+              ],
+              [
+                "Why is this the case? What can be done?",
+                "Give causes and measures that answer each other, not two unconnected lists."
+              ],
+              [
+                "Is this a positive or negative development?",
+                "Evaluate the trend as a whole; acknowledge the other side only to define your limit."
+              ],
+              [
+                "Two direct questions",
+                "Answer both explicitly. One body paragraph each is usually enough."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Scope words are instructions, not decoration. *Should **all** employees be allowed to work from home?* invites you to test the word *all*: the benefits may hold for tasks completed independently but not for jobs that depend on physical presence. Ignoring that word produces a fluent essay that has answered a different question."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Underline the task words and the scope words before anything else.",
+            "Write your answer in one sentence, in Vietnamese if that is faster. If you cannot, you do not yet have an answer.",
+            "Choose the two claims that will support that sentence, one per body paragraph.",
+            "Check each claim against the question: does it answer the task, or only describe the topic?",
+            "Only then start writing. Five minutes here saves ten minutes of rewriting."
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "If your thesis could be copied into an essay on a different question, it is not a thesis. *This essay will discuss the importance of libraries* fits almost any library question and therefore answers none of them."
+        }
+      ]
+    },
+    {
+      "heading": "Thesis statements that answer the question",
+      "intro": "The thesis is the sentence that commits you to an answer. Everything after it should be traceable back to it.",
+      "blocks": [
+        {
+          "type": "compare",
+          "left": {
+            "title": "Band 6",
+            "body": [
+              "*This essay will discuss the advantages and disadvantages of working from home.*",
+              "*I partly agree because there are both advantages and disadvantages.*"
+            ]
+          },
+          "right": {
+            "title": "Band 8",
+            "body": [
+              "*I support home working for tasks that can be completed independently, but not as a universal arrangement for every job.*",
+              "*Public libraries remain necessary, because online information is only useful to those who have the equipment and the skills to use it.*"
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "A band-8 thesis does three things at once: it answers the exact question, it names the grounds on which the answer rests, and it is specific enough that a reader could predict your two body paragraphs. Notice that the second example above also sets up a **concession** (*information is available, but access is not equal*), which gives the essay somewhere to go."
+        },
+        {
+          "type": "p",
+          "text": "For *discuss both views*, the thesis can take a side while conceding the strength of the other: *Although printed materials support sustained reading, digital resources are more effective for revision, provided that students are taught to evaluate them.* The concession is not politeness; it is the condition under which your position holds."
+        },
+        {
+          "type": "p",
+          "text": "For *outweigh* questions, the thesis must state the **criterion** of comparison, not just the verdict. *The benefits outweigh the drawbacks because they affect whether people can work at all, while the costs can be reduced by better management.* A verdict without a criterion reads as an assertion the rest of the essay cannot prove."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "Partial agreement is only credible when you say *which part*. *I partly agree* on its own tells the examiner nothing; *I agree that fees should rise for high earners, but not for students from low-income families* tells them everything."
+        }
+      ]
+    },
+    {
+      "heading": "Body paragraphs: one claim, fully developed",
+      "intro": "A body paragraph is an argument, not a container for sentences. It should be summarisable in one line, and every sentence in it should serve that line.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The reliable shape is **claim, explanation, illustration, link**. The claim is a topic sentence that could be disagreed with; the explanation shows the mechanism (why or how it is true); the illustration makes it concrete; the link returns to the question. The illustration does not have to begin with *For example*, and not every paragraph needs one: a causal explanation or a comparison can do the same work."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Function",
+              "The question your reader is asking",
+              "Typical failure"
+            ],
+            "rows": [
+              [
+                "Topic sentence",
+                "What is this paragraph claiming?",
+                "A fact or a definition instead of a claim"
+              ],
+              [
+                "Explanation",
+                "Why would that be true? By what mechanism?",
+                "Repeating the claim in different words"
+              ],
+              [
+                "Illustration",
+                "What does that look like in practice?",
+                "For example, many countries have this problem."
+              ],
+              [
+                "Link",
+                "So what? How does this support your answer?",
+                "A linker bolted on with no logical relation"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "compare",
+          "left": {
+            "title": "Band 6 — description",
+            "body": [
+              "*Public libraries are important because they provide information. This is beneficial for students and workers. Therefore, governments should continue to support them.*"
+            ]
+          },
+          "right": {
+            "title": "Band 8 — explanation",
+            "body": [
+              "*Access to a website is not the same as the ability to use it. A job-seeker may be able to read a posting on a phone but still need a laptop, a printer and a quiet hour to produce the application it asks for. A library supplies all three, which is why its value has not disappeared with the arrival of the internet.*"
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "The revised paragraph works because it identifies a **specific barrier** and a **specific remedy**, then connects both to the claim in the question. It does not add statistics or invented research; a plausible situation, introduced as an illustration, is enough. Length is not the target: two paragraphs of 110 developed words beat four paragraphs that list eight undeveloped ideas."
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "Test each topic sentence by adding *because*. If you cannot complete the clause, the sentence is a description rather than an argument, and the paragraph will drift."
+        }
+      ]
+    },
+    {
+      "heading": "Introductions and conclusions that earn their words",
+      "intro": "The introduction has one job: tell the examiner what your answer is. The conclusion has one job: confirm it.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Two sentences are usually enough. The first paraphrases the question without copying its wording; the second is the thesis. A single line of context is acceptable if it sharpens the issue, but a history of the topic, a definition of a common word, or a remark about how society is changing all consume words that could develop an argument."
+        },
+        {
+          "type": "compare",
+          "left": {
+            "title": "Band 6 — announcement",
+            "body": [
+              "*Nowadays, with the development of society, education is becoming more and more important. There are many opinions about this topic. In this essay I will discuss both views and give my opinion.*"
+            ]
+          },
+          "right": {
+            "title": "Band 8 — answer",
+            "body": [
+              "*Assessment shapes what students learn, so the choice between final examinations and continuous assessment is more than an administrative one. In my view, coursework gives a fuller picture of ability, but it needs external safeguards.*"
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Paraphrase by changing the **grammar**, not just the vocabulary. *Governments should invest more in public transport than in new roads* can become *buses and trains deserve a larger share of transport spending than new roads do*: the subject changes, the claim does not. Replacing *important* with *crucial* is not paraphrase, and changing the claim is a Task Response error."
+        },
+        {
+          "type": "p",
+          "text": "The conclusion restates the answer in fresh words and states its implication or condition. It introduces no new argument, no new example and no rhetorical question. Avoid *In a nutshell* and *To sum up*; the examiner knows the last paragraph is a conclusion."
+        },
+        {
+          "type": "compare",
+          "left": {
+            "title": "Band 6 — refuses to decide",
+            "body": [
+              "*In conclusion, both have advantages and disadvantages, so we should consider them carefully.*"
+            ]
+          },
+          "right": {
+            "title": "Band 8 — confirms the answer",
+            "body": [
+              "*A sensible system would therefore combine the two: moderated coursework to assess sustained work, and examinations to verify individual performance under controlled conditions.*"
+            ]
+          }
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "If your conclusion contains an idea that is not in the body, delete it or move it into a body paragraph and develop it. A conclusion is a place to close, not to open."
+        }
+      ]
+    },
+    {
+      "heading": "Cohesion without mechanical linkers",
+      "intro": "Cohesion is the reader's ability to see how each sentence connects to the last. Linkers are one tool; reference, substitution and parallel structure are usually better.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The strongest cohesion in a band-8 essay is often invisible. A phrase such as *these learners* or *this measure* picks up the previous sentence and carries it forward, so the reader feels the argument move rather than watching it being signposted. When you use *this*, add a noun: *this schedule*, *this restriction*, *this cost*. Bare *this* leaves the reader to guess."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Weak",
+              "Stronger",
+              "Why"
+            ],
+            "rows": [
+              [
+                "Firstly, ... Secondly, ... Thirdly, ...",
+                "Topic sentences that themselves signal the relation",
+                "Numbering announces structure but does not create it"
+              ],
+              [
+                "Moreover, used for a contrast",
+                "By contrast / Even so / That said",
+                "The linker must name the relation that actually exists"
+              ],
+              [
+                "This is good for society.",
+                "This gives families without a garden somewhere to spend an afternoon.",
+                "Vague reference plus vague evaluation says nothing"
+              ],
+              [
+                "In addition, another reason is ...",
+                "A second pressure is ...",
+                "Another reason adds words, not information"
+              ],
+              [
+                "For example, many countries have this problem.",
+                "In cities where a single road separates a district from its park, ...",
+                "An example has to show the problem happening"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Two further habits raise the score. First, **given-new ordering**: begin a sentence with information the reader already has, and end it with the new information the next sentence can pick up. Second, **parallel structure**: three solutions introduced as *For transport... For domestic fuel... For construction...* are easier to follow than the same three solutions joined by *also* and *furthermore*."
+        },
+        {
+          "type": "p",
+          "text": "Use contrastive linkers sparingly and precisely. *Although*, *while* and *whereas* belong inside a sentence; *however* and *by contrast* belong between sentences. *On the one hand / on the other hand* is only appropriate when you genuinely present two sides of one question, not as a decorative pair."
+        },
+        {
+          "type": "callout",
+          "tone": "info",
+          "text": "Cover every linker in your essay with your finger. If the argument still reads clearly, your cohesion is real. If it collapses, you were using connectives to hold together ideas that were never connected."
+        }
+      ]
+    },
+    {
+      "heading": "Lexical precision, not memorised phrases",
+      "intro": "Lexical Resource rewards words that are right for this sentence, not words that are rare. A misplaced idiom does more damage than a plain word used well.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Precision operates at three levels: the **collocation** (do these words normally go together? *heavy traffic*, not *strong traffic*), the **connotation** (*regime* and *government* are not interchangeable), and the **register** (*kids* does not belong in an academic essay). A band-8 essay is not full of unusual words; it is full of words that would survive a substitution test."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Vague or memorised",
+              "Precise for the context",
+              "Why it scores"
+            ],
+            "rows": [
+              [
+                "Technology makes people lazy.",
+                "When software completes every step of a task, users have fewer chances to practise the underlying skill.",
+                "Names the mechanism instead of labelling a group"
+              ],
+              [
+                "The government should raise awareness.",
+                "Local councils could publish opening hours and facilities online.",
+                "Names an action that someone could actually carry out"
+              ],
+              [
+                "This is very beneficial.",
+                "This allows residents without gardens to spend time outdoors at no cost.",
+                "Specifies the benefit and the beneficiary"
+              ],
+              [
+                "There are a lot of problems.",
+                "Congestion, respiratory illness and lost working hours.",
+                "Names the problems rather than counting them"
+              ],
+              [
+                "It is a double-edged sword.",
+                "The same tool that saves time can also remove the practice a skill depends on.",
+                "Keeps the idea and drops the cliché"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "**Hedging** is part of precision, not weakness. *Can*, *may*, *tend to*, *in most cities*, *for many learners* keep a claim inside the evidence you have. Absolute claims (*everyone knows*, *all governments must*) are easy to disprove and make the essay look unexamined. The reverse error is hedging everything until nothing is claimed."
+        },
+        {
+          "type": "p",
+          "text": "Memorised phrases are recognisable as a set: *every coin has two sides*, *the tip of the iceberg*, *last but not least*, *in the modern era*. They usually carry no specific meaning and often sit awkwardly in the sentence. Examiners have read them thousands of times; they signal a template rather than a command of English."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "If you cannot explain why a phrase fits *this* sentence, do not use it. A simple word chosen correctly reads as more advanced than a rare word chosen at random."
+        }
+      ]
+    },
+    {
+      "heading": "Band-6 patterns to eliminate",
+      "intro": "These are the habits that hold otherwise competent writers at 6.0–6.5. Each one can be fixed in a single revision pass.",
+      "blocks": [
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Pattern",
+              "Why it caps the score",
+              "Replace with"
+            ],
+            "rows": [
+              [
+                "Nowadays, with the development of society ...",
+                "Generic opening; the examiner learns nothing about the question",
+                "A specific claim about the issue"
+              ],
+              [
+                "This essay will discuss ...",
+                "Announces the topic instead of answering it",
+                "The thesis itself"
+              ],
+              [
+                "Every coin has two sides / a double-edged sword",
+                "Cliché; signals memorised language",
+                "A concessive clause: Although X, Y"
+              ],
+              [
+                "I totally agree",
+                "Absolute position with no limits",
+                "A qualified position: I largely agree, provided that ..."
+              ],
+              [
+                "For example, many countries have this problem.",
+                "An example with no detail",
+                "One named situation or hypothetical person"
+              ],
+              [
+                "Firstly ... Secondly ... Last but not least ...",
+                "Mechanical sequencing",
+                "Topic sentences that carry the logic"
+              ],
+              [
+                "In conclusion, both have advantages and disadvantages.",
+                "The conclusion refuses to decide",
+                "Restate the answer and its implication"
+              ],
+              [
+                "People should ...",
+                "Unattributed obligation; nobody is responsible",
+                "Name the agent: councils, employers, households"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "None of these patterns is a grammar mistake, which is why they survive so long. They are **rhetorical** habits: they fill space, they sound like an essay, and they postpone the moment when you have to commit to a claim. The cure is the same in every case: say something that could be false, then explain why it is not."
+        },
+        {
+          "type": "p",
+          "text": "A final read-through should look for these eight patterns specifically, one at a time. It is faster than reading for general quality, and it catches the sentences you would otherwise skim because you remember writing them."
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "Take one band-6 sentence from your last essay and rewrite it as a band-8 sentence every day for a week. The improvement transfers to new essays faster than learning another vocabulary list."
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "t2-opinion-transport",
+      "prompt": "Some people believe that governments should invest more in public transport than in new roads. To what extent do you agree or disagree?",
+      "band": "8.0",
+      "wordCount": 271,
+      "essay": "The transport budget of a city is finite, so the argument that public transport should take precedence over new roads is a reasonable starting point. I largely agree, particularly in dense urban areas, although I would not treat road building as unnecessary everywhere.\n\nThe strongest case for prioritising buses, trams and trains is that they move far more people per unit of space. A single tram line can carry the passengers of several traffic lanes, which means that investment in rail or bus corridors raises the capacity of a crowded city far more efficiently than adding lanes does. Public transport also distributes the benefit more widely: a new road mainly serves those who can afford a car, whereas a frequent bus service is available to students, low-income workers and older residents. In addition, shifting commuters out of private vehicles reduces both congestion and the exhaust emissions that damage urban air quality.\n\nNone of this means that road spending can be abandoned. Deliveries, emergency services and tradespeople depend on a functioning road network, and rural communities may have no realistic alternative to the car. The distinction that matters is between building new urban roads to accommodate projected traffic and maintaining the roads that already exist. The former often generates the congestion it is meant to relieve, because extra capacity encourages more driving; the latter is a basic public duty.\n\nGovernments should therefore give public transport the larger share of transport funding, especially where population density makes it viable, while reserving road investment for maintenance and for places without a workable alternative. Prioritising one mode does not require pretending the other is obsolete.",
+      "outline": [
+        "Introduction: paraphrase the budget trade-off, state qualified agreement",
+        "Body 1: capacity per unit of space, equity of access, emissions",
+        "Body 2: concede road freight and rural needs, distinguish new capacity from maintenance",
+        "Conclusion: funding rule plus the principle behind it"
+      ],
+      "annotations": [
+        {
+          "quote": "I largely agree, particularly in dense urban areas, although I would not treat road building as unnecessary everywhere.",
+          "note": "Thesis nêu rõ **mức độ đồng ý** và giới hạn phạm vi. Đây là điều giám khảo tìm ở Task Response band 8, thay vì câu *I totally agree* không có điều kiện."
+        },
+        {
+          "quote": "A single tram line can carry the passengers of several traffic lanes",
+          "note": "Giải thích bằng **cơ chế** (sức chứa trên một đơn vị không gian) thay vì nhận xét chung *public transport is convenient*."
+        },
+        {
+          "quote": "a new road mainly serves those who can afford a car, whereas a frequent bus service is available to students, low-income workers and older residents",
+          "note": "Tương phản bằng `whereas` + nhóm đối tượng cụ thể. Câu này vừa chứng minh luận điểm vừa cho thấy **ai** hưởng lợi, tránh câu *everyone benefits*."
+        },
+        {
+          "quote": "The distinction that matters is between building new urban roads to accommodate projected traffic and maintaining the roads that already exist.",
+          "note": "Tách hai nghĩa của *spend on roads*. Thao tác này tránh phản biện rơm và thể hiện **lexical precision** ở cấp lập luận."
+        },
+        {
+          "quote": "The former often generates the congestion it is meant to relieve, because extra capacity encourages more driving",
+          "note": "Mệnh đề quan hệ + `because` giải thích *induced demand*. Cấu trúc phức nhưng vẫn đọc một lần là hiểu, đúng chuẩn GRA band 8."
+        },
+        {
+          "quote": "Prioritising one mode does not require pretending the other is obsolete.",
+          "note": "Câu kết sắc gọn, không thêm ý mới, khép lại đúng lập trường đã nêu ở mở bài."
+        }
+      ],
+      "keyLanguage": [
+        "take precedence over",
+        "per unit of space",
+        "raises the capacity of",
+        "distributes the benefit more widely",
+        "generates the congestion it is meant to relieve",
+        "reserving road investment for maintenance",
+        "a workable alternative",
+        "is a basic public duty"
+      ]
+    },
+    {
+      "id": "t2-discussion-assessment",
+      "prompt": "Some people believe that formal examinations are the fairest way to assess students, while others argue that continuous assessment gives a more accurate picture of their ability. Discuss both views and give your own opinion.",
+      "band": "8.0",
+      "wordCount": 276,
+      "essay": "Assessment shapes what students learn, so the choice between final examinations and continuous assessment is more than an administrative one. In my view, coursework gives a fuller picture of ability, but it needs external safeguards; examinations remain useful as one component rather than the whole system.\n\nThe defence of formal examinations rests on fairness of procedure. Every candidate answers the same questions under the same conditions, and scripts are marked anonymously against a common scheme. This makes comparisons between students, schools and years relatively straightforward, which matters when university places or jobs depend on results. Examinations are also difficult to influence through personal connections: a student cannot improve a grade by being likeable or by submitting work completed with help. For a large education system with limited resources, a single timed paper is a practical and transparent instrument.\n\nContinuous assessment, by contrast, can capture abilities that a three-hour paper cannot. A portfolio assembled over a term shows how a student researches, revises and responds to feedback, and it samples a much wider range of content than an examination covering a few predictable topics. It also reduces the influence of a single bad day, which is a genuine source of unfairness in high-stakes tests. The weakness is that judgements are made by teachers who know their students, and standards may drift between classrooms; without moderation by an external body, coursework can become a measure of effort and compliance rather than understanding.\n\nA sensible system would therefore combine the two: moderated coursework to assess sustained work, and examinations to verify individual performance under controlled conditions. Neither method, used alone, gives a complete account of what a student knows.",
+      "outline": [
+        "Introduction: why assessment design matters, thesis favouring moderated coursework",
+        "Body 1: the case for exams (standardised conditions, anonymity, comparability)",
+        "Body 2: the case for coursework plus its credibility risk",
+        "Conclusion: a combined system, restated as a principle"
+      ],
+      "annotations": [
+        {
+          "quote": "In my view, coursework gives a fuller picture of ability, but it needs external safeguards",
+          "note": "Với đề *discuss both views*, quan điểm vẫn phải xuất hiện ngay mở bài. Câu này nêu ý kiến kèm **điều kiện**, nên không phải câu ngoại giao *both are important*."
+        },
+        {
+          "quote": "The defence of formal examinations rests on fairness of procedure.",
+          "note": "Topic sentence nêu **luận điểm** (fairness of procedure), không phải câu mô tả *exams are common*. Người đọc biết ngay đoạn này bảo vệ điều gì."
+        },
+        {
+          "quote": "a student cannot improve a grade by being likeable or by submitting work completed with help",
+          "note": "Cụ thể hoá *fairness* bằng hai tình huống. Cấu trúc song song `by ... or by ...` giúp câu dài vẫn cân."
+        },
+        {
+          "quote": "Continuous assessment, by contrast, can capture abilities that a three-hour paper cannot.",
+          "note": "`by contrast` dùng đúng chức năng chuyển phía. Cohesion đến từ **quan hệ logic**, không phải từ việc chèn thêm linker."
+        },
+        {
+          "quote": "it samples a much wider range of content than an examination covering a few predictable topics",
+          "note": "So sánh có đối tượng cụ thể (*wider range* so với *a few predictable topics*). Đây là **precision**, không phải tính từ khen chung."
+        },
+        {
+          "quote": "The weakness is that judgements are made by teachers who know their students, and standards may drift between classrooms",
+          "note": "Thừa nhận điểm yếu của phía mình ủng hộ. Sự cân bằng này giúp Task Response band 8 vì bài không một chiều."
+        },
+        {
+          "quote": "Neither method, used alone, gives a complete account of what a student knows.",
+          "note": "Kết luận không lặp nguyên văn mở bài; chốt bằng **tiêu chí** (a complete account) thay vì liệt kê lại hai phía."
+        }
+      ],
+      "keyLanguage": [
+        "fairness of procedure",
+        "marked anonymously against a common scheme",
+        "high-stakes tests",
+        "standards may drift between classrooms",
+        "moderation by an external body",
+        "samples a much wider range of content",
+        "a measure of effort and compliance",
+        "verify individual performance"
+      ]
+    },
+    {
+      "id": "t2-advantage-disadvantage-ai",
+      "prompt": "A growing number of people use artificial intelligence tools to complete everyday tasks such as writing emails, planning trips and managing finances. What are the advantages and disadvantages of this trend?",
+      "band": "8.0",
+      "wordCount": 289,
+      "essay": "Artificial intelligence has moved from research laboratories into ordinary routines: people now ask a chatbot to draft a message, plan a holiday or categorise their spending. This brings genuine convenience, but it also transfers a degree of judgement from the user to a system whose reasoning is often hidden.\n\nThe clearest advantage is the time saved on tasks that are repetitive or that require a first draft rather than a final one. A worker who needs to summarise a long report or reply to routine correspondence can produce a usable draft in seconds and spend the remaining time on decisions that require context. These tools also widen access in a modest way: someone without specialist training can obtain an explanation of a legal clause or a medical term in plain language, which previously required access to an expert. For people with disabilities, voice-controlled assistants can make everyday administration considerably easier.\n\nThe disadvantages are less visible but more serious. When a system produces fluent output, users may accept it without checking, and an error in a generated summary or financial calculation can be costly. There is also a skills effect: if software performs every step of a task, the person using it has fewer opportunities to practise the underlying skill, whether that is writing, mental arithmetic or planning. Privacy is a further concern, since these tools often require users to disclose personal information, and it is rarely clear how that information is stored or used.\n\nThe technology is most useful when it is treated as an assistant rather than an authority. Users who check important outputs, keep sensitive data out of casual prompts and retain the skills to work without the tool can enjoy the convenience while limiting the risks.",
+      "outline": [
+        "Introduction: the shift into daily routines, both sides previewed",
+        "Body 1: time saved, access to explanation, assistive uses",
+        "Body 2: unchecked errors, skills atrophy, privacy",
+        "Conclusion: a criterion for using the tools well"
+      ],
+      "annotations": [
+        {
+          "quote": "This brings genuine convenience, but it also transfers a degree of judgement from the user to a system whose reasoning is often hidden.",
+          "note": "Mở bài hai vế, định hướng cả lợi ích lẫn rủi ro. Mệnh đề `whose reasoning is often hidden` gói cả một lập luận vào một cụm."
+        },
+        {
+          "quote": "The clearest advantage is the time saved on tasks that are repetitive or that require a first draft rather than a final one.",
+          "note": "Topic sentence **giới hạn phạm vi** lợi ích (việc lặp lại, bản nháp đầu). Nhờ vậy đoạn sau không phải chứng minh *AI is useful* nói chung."
+        },
+        {
+          "quote": "These tools also widen access in a modest way",
+          "note": "`in a modest way` là **hedging**: giữ mức khẳng định đúng với bằng chứng, tránh tuyên bố quá mức kiểu *AI changes everything*."
+        },
+        {
+          "quote": "When a system produces fluent output, users may accept it without checking",
+          "note": "Câu điều kiện + `may` giải thích **cơ chế** của rủi ro. Đây là phát triển ý, không phải liệt kê thêm một nhược điểm."
+        },
+        {
+          "quote": "if software performs every step of a task, the person using it has fewer opportunities to practise the underlying skill",
+          "note": "Điều kiện giới hạn (*every step*), nên nhận định không bị hiểu là mọi phần mềm đều gây hại. Điều kiện hoá là dấu hiệu của band 8."
+        },
+        {
+          "quote": "The technology is most useful when it is treated as an assistant rather than an authority.",
+          "note": "Kết bài đưa ra **tiêu chí sử dụng** thay vì tóm tắt lại danh sách ưu nhược điểm."
+        }
+      ],
+      "keyLanguage": [
+        "transfers a degree of judgement from the user to a system",
+        "a usable draft",
+        "widen access in a modest way",
+        "fluent output",
+        "the underlying skill",
+        "disclose personal information",
+        "treated as an assistant rather than an authority",
+        "keep sensitive data out of casual prompts"
+      ]
+    },
+    {
+      "id": "t2-problem-solution-air",
+      "prompt": "Air pollution in many cities is becoming worse. What are the main causes of this problem, and what measures could governments take to address it?",
+      "band": "8.0",
+      "wordCount": 275,
+      "essay": "Urban air quality has deteriorated in many rapidly growing cities, and the consequences are measured in hospital admissions and lost working days. The main causes are transport, domestic energy use and the pace at which cities have expanded; each points to a different kind of remedy.\n\nThe largest single contributor in most cities is road traffic. Older diesel vehicles, especially those stuck in congested traffic, emit fine particles and nitrogen oxides close to the ground, where people breathe them. A second cause is the burning of coal, wood or waste for heating and cooking in low-income neighbourhoods, which produces smoke that settles over dense housing. A third is construction: unregulated building sites release dust for months at a time, and clearing trees to make way for new development strips away the vegetation that would otherwise absorb some pollutants.\n\nSolutions have to match these sources rather than appeal to public awareness in general. For transport, the effective measures are usually structural: low-emission zones that exclude the most polluting vehicles, reliable and affordable bus services, and cycle lanes that make short journeys practical without a car. For domestic fuel, subsidies for cleaner stoves and electricity, combined with enforcement against illegal waste burning, address the source rather than the symptom. For construction, dust screens, watering and replanting along new roads would limit the damage from growth that cities cannot simply stop.\n\nNone of these measures is popular in the short term, because each imposes a visible cost on a specific group. Their justification is that the alternative, a city where children cannot play outside and respiratory illness is routine, is more expensive still, in money and in lives.",
+      "outline": [
+        "Introduction: the problem, its cost, three causes mapped to remedies",
+        "Body 1: traffic, domestic fuel, construction (one mechanism each)",
+        "Body 2: a structural solution matched to each cause",
+        "Conclusion: the political cost of the measures, weighed against inaction"
+      ],
+      "annotations": [
+        {
+          "quote": "The main causes are transport, domestic energy use and the pace at which cities have expanded; each points to a different kind of remedy.",
+          "note": "Mở bài lập **bản đồ nguyên nhân → giải pháp**. Câu này cam kết cấu trúc của cả bài nên phần sau không cần linker đánh số."
+        },
+        {
+          "quote": "Older diesel vehicles, especially those stuck in congested traffic, emit fine particles and nitrogen oxides close to the ground, where people breathe them.",
+          "note": "Chi tiết kỹ thuật + hai mệnh đề quan hệ. Cụ thể hoá *pollution* thành chất gây hại và vị trí phát thải, nên lập luận không chung chung."
+        },
+        {
+          "quote": "A second cause is the burning of coal, wood or waste for heating and cooking in low-income neighbourhoods",
+          "note": "`A second cause` giữ mạch mà không cần *Moreover*. Liệt kê có kiểm soát giúp người đọc theo dõi cấu trúc."
+        },
+        {
+          "quote": "Solutions have to match these sources rather than appeal to public awareness in general.",
+          "note": "Topic sentence nêu **nguyên tắc chọn giải pháp**. `rather than` tạo tương phản ngay trong câu, thay vì mở đoạn bằng một linker rỗng."
+        },
+        {
+          "quote": "For transport, the effective measures are usually structural",
+          "note": "Cấu trúc song song theo từng nguồn (*For transport... For domestic fuel... For construction...*) là cohesion bằng hình thức, rất được đánh giá ở C&C."
+        },
+        {
+          "quote": "because each imposes a visible cost on a specific group",
+          "note": "Thừa nhận **ràng buộc chính trị** của giải pháp. Bài problem-solution band 8 giải thích vì sao giải pháp khó, không chỉ liệt kê giải pháp."
+        },
+        {
+          "quote": "a city where children cannot play outside and respiratory illness is routine",
+          "note": "Hệ quả được cụ thể hoá bằng hình ảnh, không dùng *serious consequences*. Mệnh đề quan hệ `where` gọn và tự nhiên."
+        }
+      ],
+      "keyLanguage": [
+        "has deteriorated",
+        "fine particles and nitrogen oxides",
+        "low-emission zones",
+        "address the source rather than the symptom",
+        "enforcement against",
+        "imposes a visible cost on",
+        "respiratory illness is routine",
+        "the effective measures are usually structural"
+      ]
+    },
+    {
+      "id": "t2-two-part-cooking",
+      "prompt": "In many countries, people now spend less time cooking at home than in the past. Why is this the case? What effects does this have on individuals and families?",
+      "band": "8.0",
+      "wordCount": 276,
+      "essay": "Home cooking has declined in many countries, not because people have stopped valuing food but because the organisation of daily life has changed around it. The main reasons are time, convenience and the changing shape of the household; the effects on health and on family life are mixed.\n\nThe most obvious explanation is the length and structure of the working day. In households where both adults commute, the time available for shopping, preparing and washing up may be less than an hour, and ordering a takeaway removes a task that nobody has the energy for at the end of the day. Convenience has also been industrialised: supermarkets now sell partly prepared ingredients, and delivery apps make restaurant food available within minutes, often for less than the cost of the ingredients. Households have also become smaller, so cooking for one or two people feels less worthwhile than cooking for a family, and the skills that once passed from parent to child are no longer routinely taught.\n\nThe effects on individuals are largely health-related. Meals prepared outside the home tend to contain more salt, sugar and saturated fat, and portions are larger, which contributes to weight gain and associated conditions. The effects on families are less direct but no less significant. Shared meals are one of the few routines in which members of a household talk without screens, and their disappearance can weaken the daily contact that sustains relationships.\n\nThe trend is therefore not simply a matter of laziness or declining skill. It reflects a genuine squeeze on time, and the costs to health and to family life follow from that pressure rather than from any single choice.",
+      "outline": [
+        "Introduction: reject the moral explanation, preview reasons and mixed effects",
+        "Body 1: working day, industrialised convenience, smaller households",
+        "Body 2: health effects on individuals, relational effects on families",
+        "Conclusion: the trend reflects time pressure, not personal failing"
+      ],
+      "annotations": [
+        {
+          "quote": "not because people have stopped valuing food but because the organisation of daily life has changed around it",
+          "note": "Mở bài từ chối cách giải thích **đạo đức hoá** (*people are lazy*). Cấu trúc `not because ... but because` tạo tương phản ngay trong một câu."
+        },
+        {
+          "quote": "the time available for shopping, preparing and washing up may be less than an hour",
+          "note": "Cụ thể hoá *lack of time* bằng chuỗi hành động và con số hợp lý. `may` giữ mức khẳng định phù hợp với bằng chứng."
+        },
+        {
+          "quote": "Convenience has also been industrialised",
+          "note": "Câu chủ đề ngắn, dùng bị động có chủ đích. `industrialised` chính xác hơn *become more convenient* vì nói về quy mô công nghiệp."
+        },
+        {
+          "quote": "Households have also become smaller, so cooking for one or two people feels less worthwhile",
+          "note": "Giải thích **cơ chế tâm lý** (nấu cho một người không đáng công), không chỉ nêu hiện tượng. Đây là phát triển ý thực sự."
+        },
+        {
+          "quote": "Meals prepared outside the home tend to contain more salt, sugar and saturated fat",
+          "note": "`tend to` + danh sách chất cụ thể. Tránh tính từ chung *unhealthy*, vốn không chứng minh được gì."
+        },
+        {
+          "quote": "Shared meals are one of the few routines in which members of a household talk without screens",
+          "note": "Mệnh đề quan hệ với giới từ (`in which`) + chi tiết đời thường. Câu này làm rõ luận điểm về quan hệ gia đình mà không cần số liệu."
+        },
+        {
+          "quote": "It reflects a genuine squeeze on time, and the costs to health and to family life follow from that pressure rather than from any single choice.",
+          "note": "Câu ngắn chốt nguyên nhân gốc. Đa dạng độ dài câu là một phần của GRA band 8, không phải mọi câu đều phải phức."
+        }
+      ],
+      "keyLanguage": [
+        "the organisation of daily life",
+        "partly prepared ingredients",
+        "portions are larger",
+        "saturated fat",
+        "a genuine squeeze on time",
+        "associated conditions",
+        "the daily contact that sustains relationships",
+        "not simply a matter of laziness or declining skill"
+      ]
+    },
+    {
+      "id": "t2-outweigh-remote-work",
+      "prompt": "More employers are allowing their staff to work from home. Do the advantages of this development outweigh the disadvantages?",
+      "band": "8.0",
+      "wordCount": 277,
+      "essay": "Remote work has moved from an occasional arrangement to a standard feature of many professional jobs. In my view, its advantages outweigh its disadvantages, though the balance depends on the nature of the work and on how deliberately the arrangement is managed.\n\nThe most significant benefit is access to employment. A parent with young children, a person caring for an elderly relative or someone living far from a city centre can accept a job that would otherwise be closed to them, and can do so without relocating. Remote work also removes the commute, which returns time and money to the employee and reduces the emissions generated by daily travel. Employers benefit too: they can recruit from a wider pool and, in some cases, reduce spending on office space.\n\nThe disadvantages are real. Informal learning suffers when a new employee cannot overhear how experienced colleagues handle a problem, and coordination becomes slower when every decision requires a message. There is also a risk of isolation, and the boundary between work and rest can erode when the office is the kitchen table. These costs fall most heavily on junior staff and on people who live alone.\n\nThe question is whether these costs are greater than the gains. They are serious, but they are also manageable: scheduled training, clear procedures and occasional team meetings can restore much of what is lost, while the gains in access and time are difficult to obtain by any other means. For roles that can be performed independently, the advantages therefore carry more weight.\n\nRemote work is not suitable for every role, but where it widens access and reduces unnecessary travel, its benefits clearly predominate.",
+      "outline": [
+        "Introduction: the shift, verdict, and the condition on which it depends",
+        "Body 1: access to employment, commute time and emissions, recruitment pool",
+        "Body 2: informal learning, coordination, isolation, who bears the cost",
+        "Body 3: weigh the costs against the gains and judge them manageable",
+        "Conclusion: restate the verdict with its limit"
+      ],
+      "annotations": [
+        {
+          "quote": "In my view, its advantages outweigh its disadvantages, though the balance depends on the nature of the work and on how deliberately the arrangement is managed.",
+          "note": "Thesis trả lời trực tiếp câu hỏi *outweigh* và nêu **điều kiện** của câu trả lời. `deliberately managed` gợi tiêu chí so sánh cho cả bài."
+        },
+        {
+          "quote": "A parent with young children, a person caring for an elderly relative or someone living far from a city centre can accept a job that would otherwise be closed to them",
+          "note": "Ba ví dụ song song cụ thể hoá *access*. `would otherwise` là cấu trúc giả định gọn, thể hiện rõ lợi ích chỉ có được nhờ thay đổi này."
+        },
+        {
+          "quote": "which returns time and money to the employee and reduces the emissions generated by daily travel",
+          "note": "Mệnh đề quan hệ nối hai hệ quả trong một câu. Thay vì viết *This is good*, câu nêu **ai** nhận lợi ích và **bao nhiêu** khía cạnh."
+        },
+        {
+          "quote": "Informal learning suffers when a new employee cannot overhear how experienced colleagues handle a problem",
+          "note": "Công nhận bất lợi bằng **cơ chế** (overhear), không bằng nhận xét *it is bad for teamwork*. Đây là cách thừa nhận phía đối lập mà vẫn giữ chất lập luận."
+        },
+        {
+          "quote": "These costs fall most heavily on junior staff and on people who live alone.",
+          "note": "Câu ngắn xác định **nhóm chịu ảnh hưởng**. Precision ở đây đến từ việc phân bổ tác động, không phải từ tính từ mạnh."
+        },
+        {
+          "quote": "They are serious, but they are also manageable",
+          "note": "Đánh giá trực tiếp mở đường cho phần so sánh. Câu ngắn, nhịp rõ, cho thấy người viết **kiểm soát** lập luận."
+        },
+        {
+          "quote": "while the gains in access and time are difficult to obtain by any other means",
+          "note": "Tiêu chí so sánh: lợi ích này **không thể thay thế**. Đây là cơ sở để kết luận *outweigh*, thay vì đếm số lượng ưu nhược điểm."
+        }
+      ],
+      "keyLanguage": [
+        "a standard feature of",
+        "access to employment",
+        "the balance depends on",
+        "informal learning",
+        "the boundary between work and rest",
+        "restore much of what is lost",
+        "carry more weight",
+        "difficult to obtain by any other means"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "adjective-and-preposition-patterns",
+  "title": "Adjective and preposition patterns",
+  "titleVi": "Tính từ và giới từ đi kèm",
+  "level": "B2",
+  "topic": "verb-patterns",
+  "bookUnits": [62, 65, 66],
+  "bandFocus": "7.5",
+  "summary": "Cặp tính từ + giới từ cố định, khung It is ... to ..., và sự khác biệt afraid to do / afraid of doing.",
+  "whyItMatters": "Giới từ không theo quy luật nào — nó thuộc về từng tính từ, nên giám khảo coi đây là thước đo chính xác từ vựng. *Interested on*, *good in*, *married with* là những lỗi nhỏ nhưng xuất hiện dày đặc, và mỗi lỗi đều làm giảm điểm Lexical Resource vì người đọc thấy bạn chưa kiểm soát được cụm từ.",
+  "sections": [
+    {
+      "heading": "Adjective + to-infinitive: two frames",
+      "body": [
+        "The impersonal frame **It is + adjective + to do** lets you comment on a whole action: *It is difficult to measure happiness*, *It would be unwise to ignore these figures.* This is one of the most useful evaluation structures in Task 2.",
+        "The same meaning can be personal: **subject + be + adjective + to do**. *It is hard to understand him* becomes *He is hard to understand* — and note that the pronoun **disappears**. *He is hard to understand it* is wrong.",
+        "The pattern also works with a noun in the middle: *a difficult question to answer*, *an easy mistake to make*, *a good place to start*. This compresses a relative clause and sounds noticeably more advanced."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example"],
+        "rows": [
+          ["It is + adj + to do", "It is unrealistic to expect immediate results."],
+          ["Subject + be + adj + to do", "The data is hard to interpret."],
+          ["adj + noun + to do", "This is a difficult trend to reverse."],
+          ["the first/last/only + to do", "She was the first to question the figures."],
+          ["sure/likely/bound + to do", "Prices are likely to rise again."]
+        ]
+      }
+    },
+    {
+      "heading": "of somebody or for somebody?",
+      "body": [
+        "Use **of** when the adjective describes the person's character: *It was kind of you to help*, *It was careless of me to forget*, *silly, stupid, generous, thoughtful, rude, polite* all take *of*.",
+        "Use **for** when the adjective describes the situation rather than the person: *It is important for students to read widely*, *It was difficult for her to concentrate*, *necessary, essential, possible, unusual, normal* take *for*.",
+        "The test is simple: if you can say \"that was a kind/careless act\", use **of**. If the adjective would describe a situation, use **for**."
+      ],
+      "examples": [
+        { "right": "It was generous of them to fund the whole project.", "wrong": "It was generous for them to fund the whole project.", "note": "*generous* describes character → **of**." },
+        { "right": "It is essential for governments to act before 2030.", "wrong": "It is essential of governments to act before 2030.", "note": "*essential* describes the situation → **for**." },
+        { "right": "It was stupid of me to leave the passport at home.", "note": "Self-criticism with **of** is the natural idiom." }
+      ]
+    },
+    {
+      "heading": "Adjective + preposition: learn them as pairs",
+      "body": [
+        "Many adjectives are locked to one preposition, and the choice is arbitrary: **interested in, good at, afraid of, capable of, responsible for, aware of, dependent on, familiar with, keen on, opposed to, committed to, similar to, different from, married to**.",
+        "After a preposition, a verb must be in the **-ing** form: *interested in learning*, *capable of managing*, *responsible for collecting*, *committed to reducing*. This is why *look forward to see* is wrong — *to* here is a preposition, not part of an infinitive.",
+        "Some adjectives take both a preposition and a to-infinitive with a change of meaning: *sorry for doing* (apologising) against *sorry to hear* (reacting to news); *interested in doing* against *interested to hear/see/know* (curiosity about a fact)."
+      ],
+      "table": {
+        "headers": ["Pair", "Example"],
+        "rows": [
+          ["interested in + -ing", "She is interested in studying abroad."],
+          ["good / bad at + -ing", "He is good at explaining complex ideas."],
+          ["afraid of + -ing", "Many people are afraid of flying."],
+          ["capable of + -ing", "The system is capable of processing thousands of forms."],
+          ["responsible for + -ing", "The ministry is responsible for enforcing the rules."],
+          ["aware of / opposed to", "Voters are aware of the costs and opposed to the tax."],
+          ["dependent on / familiar with", "The region is dependent on tourism."],
+          ["committed to + -ing", "The company is committed to cutting waste."],
+          ["married to / similar to / different from", "Her approach is similar to mine."]
+        ]
+      }
+    },
+    {
+      "heading": "afraid to do and afraid of doing",
+      "body": [
+        "**afraid to do** means you avoid the action because it feels dangerous: *She was afraid to swim in the river.* **afraid of doing** means you fear the consequence: *She was afraid of falling.* In practice *afraid of -ing* is far more common, and it is the safe default.",
+        "The same logic separates **sorry to do** (regret about news you are giving) from **sorry for doing** (apology for your own action): *I'm sorry to tell you that the grant was refused* versus *I'm sorry for missing the meeting.*",
+        "**interested to hear/see/know** reports a reaction to information: *I was interested to learn that the scheme had failed.* **interested in -ing** reports a lasting interest: *I'm interested in learning Portuguese.*"
+      ],
+      "examples": [
+        { "right": "I'm sorry for arriving late.", "note": "Apology for my own action → **for + -ing**." },
+        { "right": "I'm sorry to hear about your father.", "note": "Reaction to news → **sorry to**." },
+        { "right": "He was afraid of being rejected, so he never applied.", "wrong": "He was afraid to being rejected, so he never applied.", "note": "Fear of a consequence → **afraid of + -ing**." }
+      ]
+    },
+    {
+      "heading": "Verb + preposition + -ing: the same machinery",
+      "body": [
+        "Verbs behave identically. Two lists cover most of what you need. Without an object: **approve of, decide against, dream of, feel like, insist on, look forward to, succeed in, think of/about, end up**. *They succeeded in cutting costs by 12%.*",
+        "With an object: **accuse somebody of, congratulate somebody on, prevent somebody from, stop somebody from, suspect somebody of, thank somebody for, blame somebody for**. *The weather prevented us from finishing the survey.*",
+        "One verb deserves special attention: **apologise to somebody for something**. It needs both prepositions, in that order — *She apologised to the class for the delay.* Learners frequently drop the first one."
+      ],
+      "examples": [
+        { "right": "I look forward to hearing from you.", "wrong": "I look forward to hear from you.", "note": "*look forward to* + **-ing** (to is a preposition)." },
+        { "right": "They accused the firm of misleading customers.", "note": "**accuse somebody of + -ing**." },
+        { "right": "She apologised to the committee for submitting the report late.", "wrong": "She apologised the committee for submitting the report late.", "note": "**apologise TO somebody FOR something**." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He is very good in mathematics.",
+      "right": "He is very good at mathematics.",
+      "why": "Tiếng Việt *giỏi về* dẫn tới *good in/about*. Cụm cố định là **good at** (và **bad at**), không có ngoại lệ."
+    },
+    {
+      "wrong": "I am interested on studying abroad.",
+      "right": "I am interested in studying abroad.",
+      "why": "*Quan tâm đến* khiến người học chọn *on* hoặc *about*. Cụm đúng là **interested in + -ing**."
+    },
+    {
+      "wrong": "It was very kind for you to help me.",
+      "right": "It was very kind of you to help me.",
+      "why": "**kind** mô tả phẩm chất con người nên dùng **of you**, không dùng *for*. *For* chỉ dùng với tính từ mô tả tình huống (*important, necessary, difficult*)."
+    },
+    {
+      "wrong": "This question is difficult to answer it.",
+      "right": "This question is difficult to answer.",
+      "why": "Trong cấu trúc **adj + to V**, tân ngữ đã là chủ ngữ của câu nên không lặp lại đại từ. Tiếng Việt *khó trả lời nó* khiến người học thêm *it*."
+    },
+    {
+      "wrong": "I look forward to see you next week.",
+      "right": "I look forward to seeing you next week.",
+      "why": "Trong **look forward to**, *to* là giới từ chứ không phải dấu hiệu nguyên mẫu, nên phía sau phải là **-ing**. Đây là lỗi rất phổ biến trong email và thư."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng khung `It is + adj + to do` để đánh giá trong Task 2: `It is unrealistic to expect all students to attend university.`",
+    "Học tính từ theo cụm hoàn chỉnh trong sổ tay: `capable of -ing`, `committed to -ing`, `responsible for -ing` — đừng học từ đơn.",
+    "`be likely to`, `be bound to`, `be the first to` là ba cấu trúc Band 7.5+ giúp câu dự đoán và xếp hạng nghe tự nhiên.",
+    "Trong thư học thuật, `I look forward to hearing from you` là câu kết chuẩn — nhớ **-ing**."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The region is heavily dependent ___ tourism.",
+      "options": ["of", "on", "in", "to"],
+      "answerIndex": 1,
+      "explanation": "Cụm cố định **dependent on**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "It was careless ___ me to leave the document unsigned.",
+      "options": ["for", "of", "to", "with"],
+      "answerIndex": 1,
+      "explanation": "**careless** mô tả phẩm chất người → **of me**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The company is committed ___ its carbon emissions by 40%.",
+      "options": ["to reduce", "to reducing", "reducing", "for reducing"],
+      "answerIndex": 1,
+      "explanation": "**committed to + -ing**: *to* là giới từ."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Many graduates are afraid ___ their first interview.",
+      "options": ["to fail", "of failing", "to failing", "for failing"],
+      "answerIndex": 1,
+      "explanation": "Sợ hậu quả → **afraid of + -ing**; *afraid to fail* cũng tồn tại nhưng ít tự nhiên ở đây."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "It is important of us to act now.",
+        "It is important for us to act now.",
+        "It is important to us acting now.",
+        "It is important that us to act now."
+      ],
+      "answerIndex": 1,
+      "explanation": "Tính từ mô tả tình huống dùng **for + tân ngữ + to V**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "She is very good ___ (prep) managing large teams.",
+      "answers": ["at"],
+      "hint": "good ___ something",
+      "explanation": "**good at + -ing**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I am looking forward to ___ (hear) from you.",
+      "answers": ["hearing"],
+      "hint": "preposition + ?",
+      "explanation": "Sau giới từ *to* phải là **-ing**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The storm prevented the team from ___ (complete) the survey.",
+      "answers": ["completing"],
+      "hint": "prevent somebody from + ?",
+      "explanation": "**prevent somebody from + -ing**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "This is a difficult problem ___ (solve) without more data.",
+      "answers": ["to solve"],
+      "hint": "adjective + noun + ?",
+      "explanation": "**adj + noun + to-infinitive**: *a difficult problem to solve*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "He apologised ___ (prep) the class for arriving late.",
+      "answers": ["to"],
+      "hint": "apologise ___ somebody ___ something",
+      "explanation": "**apologise to somebody for something**."
+    }
+  ]
+}

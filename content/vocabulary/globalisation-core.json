@@ -1,0 +1,466 @@
+{
+  "slug": "globalisation-core",
+  "title": "Globalisation — core set",
+  "titleVi": "Toàn cầu hoá — bộ từ cốt lõi",
+  "topic": "globalisation",
+  "description": "Bộ từ về thương mại quốc tế, chuỗi cung ứng và những hệ quả văn hoá của toàn cầu hoá. Nhóm này cho bạn vốn từ để bàn cả mặt lợi và mặt hại thay vì chỉ khen hoặc chỉ chê.",
+  "ieltsUse": "Dùng cho Task 2 các đề về thương mại tự do, việc làm bị chuyển ra nước ngoài, đồng hoá văn hoá và khoảng cách giàu nghèo giữa các quốc gia.",
+  "words": [
+    {
+      "word": "globalisation",
+      "pos": "noun",
+      "ipa": "/ˌɡləʊbəlaɪˈzeɪʃən/",
+      "band": "7.0",
+      "vi": "toàn cầu hoá",
+      "def": "the process by which economies and cultures become connected worldwide",
+      "example": "Globalisation has lowered prices for consumers but weakened job security in older industries.",
+      "collocations": [
+        "economic globalisation",
+        "the pace of globalisation"
+      ],
+      "synonyms": [
+        "international integration",
+        "worldwide integration"
+      ],
+      "family": [
+        "globalise (v)",
+        "globalised (adj)"
+      ]
+    },
+    {
+      "word": "interconnected",
+      "pos": "adjective",
+      "ipa": "/ˌɪntəkəˈnektɪd/",
+      "band": "7.5",
+      "vi": "liên kết chặt chẽ với nhau",
+      "def": "linked so that changes in one part affect the others",
+      "example": "National economies are now so interconnected that a crisis in one region spreads within days.",
+      "collocations": [
+        "highly interconnected",
+        "interconnected world"
+      ],
+      "synonyms": [
+        "interlinked",
+        "mutually dependent"
+      ],
+      "family": [
+        "interconnection (n)"
+      ]
+    },
+    {
+      "word": "multinational corporation",
+      "pos": "collocation",
+      "ipa": "/ˌmʌltiˈnæʃənl ˌkɔːpəˈreɪʃən/",
+      "band": "7.5",
+      "vi": "công ty đa quốc gia",
+      "def": "a company operating in several countries",
+      "example": "A multinational corporation can shift production abroad when wages rise at home.",
+      "collocations": [
+        "large multinational corporation",
+        "multinational corporation profits"
+      ],
+      "synonyms": [
+        "transnational company",
+        "global firm"
+      ]
+    },
+    {
+      "word": "outsourcing",
+      "pos": "noun",
+      "ipa": "/ˈaʊtsɔːsɪŋ/",
+      "band": "7.5",
+      "vi": "việc thuê ngoài",
+      "def": "paying an outside company to perform work previously done internally",
+      "example": "Outsourcing customer service has cut costs but damaged brand loyalty.",
+      "collocations": [
+        "outsourcing jobs",
+        "business process outsourcing"
+      ],
+      "synonyms": [
+        "contracting out",
+        "subcontracting"
+      ],
+      "family": [
+        "outsource (v)"
+      ]
+    },
+    {
+      "word": "offshoring",
+      "pos": "noun",
+      "ipa": "/ˈɒfʃɔːrɪŋ/",
+      "band": "8.0",
+      "vi": "việc chuyển sản xuất ra nước ngoài",
+      "def": "moving a company's operations to another country",
+      "example": "Offshoring has eliminated thousands of manufacturing jobs in the region.",
+      "collocations": [
+        "offshoring production",
+        "manufacturing offshoring"
+      ],
+      "synonyms": [
+        "relocation abroad",
+        "overseas transfer"
+      ],
+      "family": [
+        "offshore (v)"
+      ]
+    },
+    {
+      "word": "trade liberalisation",
+      "pos": "collocation",
+      "ipa": "/ˌtreɪd ˌlɪbrəlaɪˈzeɪʃən/",
+      "band": "7.5",
+      "vi": "tự do hoá thương mại",
+      "def": "the removal of barriers to international trade",
+      "example": "Trade liberalisation lifted millions out of poverty but also exposed small farmers to competition.",
+      "collocations": [
+        "pursue trade liberalisation",
+        "trade liberalisation agreement"
+      ],
+      "synonyms": [
+        "market opening",
+        "trade openness"
+      ]
+    },
+    {
+      "word": "tariff",
+      "pos": "noun",
+      "ipa": "/ˈtærɪf/",
+      "band": "7.5",
+      "vi": "thuế quan",
+      "def": "a tax on goods entering or leaving a country",
+      "example": "A tariff on imported steel raises costs for domestic carmakers.",
+      "collocations": [
+        "impose a tariff",
+        "reduce tariffs"
+      ],
+      "synonyms": [
+        "import duty",
+        "levy"
+      ]
+    },
+    {
+      "word": "free trade",
+      "pos": "collocation",
+      "ipa": "/ˌfriː ˈtreɪd/",
+      "band": "7.0",
+      "vi": "thương mại tự do",
+      "def": "trade between countries without taxes or restrictions",
+      "example": "Advocates of free trade argue that consumers gain from cheaper imports.",
+      "collocations": [
+        "free trade agreement",
+        "promote free trade"
+      ],
+      "synonyms": [
+        "open trade",
+        "unrestricted trade"
+      ]
+    },
+    {
+      "word": "foreign direct investment",
+      "pos": "collocation",
+      "ipa": "/ˌfɒrən dəˈrekt ɪnˈvestmənt/",
+      "band": "8.0",
+      "vi": "đầu tư trực tiếp nước ngoài",
+      "def": "money invested by a foreign company in local production",
+      "example": "Foreign direct investment built the factories that now export electronics worldwide.",
+      "collocations": [
+        "attract foreign direct investment",
+        "foreign direct investment inflows"
+      ],
+      "synonyms": [
+        "overseas investment",
+        "inward investment"
+      ]
+    },
+    {
+      "word": "supply chain",
+      "pos": "collocation",
+      "ipa": "/səˈplaɪ tʃeɪn/",
+      "band": "7.5",
+      "vi": "chuỗi cung ứng",
+      "def": "the network of companies that produce and deliver a product",
+      "example": "A single blocked port can disrupt an entire global supply chain.",
+      "collocations": [
+        "global supply chain",
+        "disrupt the supply chain"
+      ],
+      "synonyms": [
+        "production network",
+        "logistics chain"
+      ]
+    },
+    {
+      "word": "cultural homogenisation",
+      "pos": "collocation",
+      "ipa": "/ˌkʌltʃərəl həˌmɒdʒənaɪˈzeɪʃən/",
+      "band": "7.5",
+      "vi": "sự đồng nhất hoá văn hoá",
+      "def": "the process by which local cultures become increasingly similar",
+      "example": "Critics warn of cultural homogenisation as the same chains appear in every city.",
+      "collocations": [
+        "fear of cultural homogenisation",
+        "cultural homogenisation process"
+      ],
+      "synonyms": [
+        "cultural flattening",
+        "standardisation of culture"
+      ]
+    },
+    {
+      "word": "lingua franca",
+      "pos": "noun",
+      "ipa": "/ˌlɪŋɡwə ˈfræŋkə/",
+      "band": "8.0",
+      "vi": "ngôn ngữ chung, ngôn ngữ cầu nối",
+      "def": "a shared language used between speakers of different mother tongues",
+      "example": "English now functions as the lingua franca of science and international business.",
+      "collocations": [
+        "global lingua franca",
+        "serve as a lingua franca"
+      ],
+      "synonyms": [
+        "common language",
+        "bridge language"
+      ]
+    },
+    {
+      "word": "brain drain",
+      "pos": "collocation",
+      "ipa": "/ˈbreɪn dreɪn/",
+      "band": "7.5",
+      "vi": "chảy máu chất xám",
+      "def": "the emigration of skilled workers to richer countries",
+      "example": "Brain drain leaves hospitals in poorer countries chronically short of doctors.",
+      "collocations": [
+        "reverse brain drain",
+        "combat brain drain"
+      ],
+      "synonyms": [
+        "skills emigration",
+        "talent flight"
+      ]
+    },
+    {
+      "word": "remittance",
+      "pos": "noun",
+      "ipa": "/rɪˈmɪtns/",
+      "band": "8.0",
+      "vi": "khoản tiền chuyển về nước của người di cư",
+      "def": "money sent home by workers abroad",
+      "example": "Remittance flows now exceed foreign aid in several developing economies.",
+      "collocations": [
+        "remittance flows",
+        "send remittances"
+      ],
+      "synonyms": [
+        "money transfer",
+        "overseas payment"
+      ],
+      "family": [
+        "remit (v)"
+      ]
+    },
+    {
+      "word": "developing country",
+      "pos": "collocation",
+      "ipa": "/dɪˈveləpɪŋ ˈkʌntri/",
+      "band": "6.5",
+      "vi": "nước đang phát triển",
+      "def": "a country with a lower level of industrialisation and income",
+      "example": "A developing country may lack the infrastructure needed to process its own raw materials.",
+      "collocations": [
+        "developing country economy",
+        "in developing countries"
+      ],
+      "synonyms": [
+        "emerging nation",
+        "low-income country"
+      ]
+    },
+    {
+      "word": "interdependence",
+      "pos": "noun",
+      "ipa": "/ˌɪntədɪˈpendəns/",
+      "band": "8.0",
+      "vi": "sự phụ thuộc lẫn nhau",
+      "def": "the state in which countries or groups rely on each other",
+      "example": "Economic interdependence makes war between trading partners far more costly.",
+      "collocations": [
+        "economic interdependence",
+        "global interdependence"
+      ],
+      "synonyms": [
+        "mutual reliance",
+        "interconnection"
+      ],
+      "family": [
+        "interdependent (adj)"
+      ]
+    },
+    {
+      "word": "protectionism",
+      "pos": "noun",
+      "ipa": "/prəˈtekʃənɪzəm/",
+      "band": "8.0",
+      "vi": "chủ nghĩa bảo hộ",
+      "def": "the policy of restricting imports to protect domestic industry",
+      "example": "Rising protectionism threatens the export-led growth of smaller economies.",
+      "collocations": [
+        "trade protectionism",
+        "rise of protectionism"
+      ],
+      "synonyms": [
+        "trade barriers",
+        "import restriction"
+      ],
+      "family": [
+        "protectionist (adj)"
+      ]
+    },
+    {
+      "word": "comparative advantage",
+      "pos": "collocation",
+      "ipa": "/kəmˌpærətɪv ədˈvɑːntɪdʒ/",
+      "band": "7.5",
+      "vi": "lợi thế so sánh",
+      "def": "the ability to produce a good at a lower opportunity cost than others",
+      "example": "Each country should specialise where it has a comparative advantage, according to classical theory.",
+      "collocations": [
+        "exploit comparative advantage",
+        "theory of comparative advantage"
+      ],
+      "synonyms": [
+        "relative advantage",
+        "competitive edge"
+      ]
+    },
+    {
+      "word": "commodity",
+      "pos": "noun",
+      "ipa": "/kəˈmɒdəti/",
+      "band": "7.5",
+      "vi": "hàng hoá (nguyên liệu thô)",
+      "def": "a raw material or product traded in bulk",
+      "example": "Economies that depend on a single commodity are vulnerable to price swings.",
+      "collocations": [
+        "commodity prices",
+        "commodity export"
+      ],
+      "synonyms": [
+        "raw material",
+        "traded good"
+      ]
+    },
+    {
+      "word": "export",
+      "pos": "verb",
+      "ipa": "/ɪkˈspɔːt/",
+      "band": "6.5",
+      "vi": "xuất khẩu",
+      "def": "to sell goods to another country",
+      "example": "The country exports coffee to more than forty markets worldwide.",
+      "collocations": [
+        "export goods",
+        "export earnings"
+      ],
+      "synonyms": [
+        "sell abroad",
+        "ship overseas"
+      ],
+      "antonyms": [
+        "import"
+      ],
+      "family": [
+        "exporter (n)"
+      ]
+    },
+    {
+      "word": "cultural imperialism",
+      "pos": "collocation",
+      "ipa": "/ˌkʌltʃərəl ɪmˈpɪəriəlɪzəm/",
+      "band": "7.5",
+      "vi": "chủ nghĩa đế quốc văn hoá",
+      "def": "the dominance of one culture's values and media over others",
+      "example": "Some argue that Hollywood represents a form of cultural imperialism.",
+      "collocations": [
+        "accusations of cultural imperialism",
+        "Western cultural imperialism"
+      ],
+      "synonyms": [
+        "cultural dominance",
+        "cultural colonisation"
+      ]
+    },
+    {
+      "word": "global village",
+      "pos": "collocation",
+      "ipa": "/ˌɡləʊbl ˈvɪlɪdʒ/",
+      "band": "7.5",
+      "vi": "thế giới phẳng, làng toàn cầu",
+      "def": "the idea that the world has become closely connected like a small community",
+      "example": "The internet has turned the world into a global village for young learners.",
+      "collocations": [
+        "concept of the global village",
+        "shrink into a global village"
+      ],
+      "synonyms": [
+        "connected world",
+        "worldwide community"
+      ]
+    },
+    {
+      "word": "deregulation",
+      "pos": "noun",
+      "ipa": "/ˌdiːreɡjuˈleɪʃən/",
+      "band": "7.5",
+      "vi": "sự bãi bỏ quy định",
+      "def": "the removal of government rules from an industry",
+      "example": "Financial deregulation in the 1990s is widely blamed for the later banking crisis.",
+      "collocations": [
+        "financial deregulation",
+        "deregulation of the market"
+      ],
+      "synonyms": [
+        "liberalisation",
+        "removal of controls"
+      ],
+      "family": [
+        "deregulate (v)"
+      ]
+    },
+    {
+      "word": "emerging economy",
+      "pos": "collocation",
+      "ipa": "/ɪˌmɜːdʒɪŋ ɪˈkɒnəmi/",
+      "band": "7.5",
+      "vi": "nền kinh tế mới nổi",
+      "def": "a country whose economy is growing rapidly",
+      "example": "An emerging economy can grow quickly yet remain vulnerable to capital flight.",
+      "collocations": [
+        "rapidly growing emerging economy",
+        "emerging economy markets"
+      ],
+      "synonyms": [
+        "developing market",
+        "fast-growing economy"
+      ]
+    },
+    {
+      "word": "cosmopolitan",
+      "pos": "adjective",
+      "ipa": "/ˌkɒzməˈpɒlɪtən/",
+      "band": "8.0",
+      "vi": "mang tính quốc tế, đa văn hoá",
+      "def": "containing people and influences from many countries",
+      "example": "The city has become thoroughly cosmopolitan, with restaurants from every continent.",
+      "collocations": [
+        "cosmopolitan city",
+        "cosmopolitan outlook"
+      ],
+      "synonyms": [
+        "international",
+        "multicultural"
+      ]
+    }
+  ]
+}

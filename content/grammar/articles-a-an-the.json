@@ -1,0 +1,216 @@
+{
+  "slug": "articles-a-an-the",
+  "title": "Articles: a, an and the",
+  "titleVi": "Mạo từ a, an và the",
+  "level": "B1",
+  "topic": "articles-nouns",
+  "bookUnits": [69, 70, 71, 72, 73],
+  "bandFocus": "7.0",
+  "summary": "Khi nào dùng a/an, khi nào dùng the, và vì sao tiếng Việt khiến ta bỏ sót mạo từ.",
+  "whyItMatters": "Tiếng Việt không có mạo từ, nên đây là lỗi khó sửa nhất và cũng dễ thấy nhất: *I am student*, *I like the dogs*. Giám khảo gặp lỗi mạo từ ở gần như mọi câu của thí sinh Việt Nam, và nó kéo điểm Grammatical Accuracy xuống đều đặn dù các cấu trúc khác đã tốt.",
+  "sections": [
+    {
+      "heading": "a/an: one of many",
+      "body": [
+        "Use **a/an** with a **singular countable noun** when you mean \"one of a group, not a specific one\": *I saw a dog in the garden* (some dog, not a particular one).",
+        "This is why jobs and descriptions need an article: *She is a teacher*, *He is an engineer*, *Vietnam is a member of ASEAN.* The noun is countable and singular, so it cannot stand alone.",
+        "Choose **a** or **an** by **sound**, not spelling: *a university* (y-sound), *an hour* (silent h), *a European country*, *an MBA*, *a one-way street*."
+      ],
+      "table": {
+        "headers": ["Use a/an", "Example"],
+        "rows": [
+          ["first mention", "I bought a laptop yesterday."],
+          ["jobs and roles", "My sister is a pharmacist."],
+          ["one of a type", "Hanoi is a busy city."],
+          ["rates and frequency", "Take it twice a day. / 60 km an hour."],
+          ["singular countable after there is", "There is a problem with the data."]
+        ]
+      }
+    },
+    {
+      "heading": "the: you know which one",
+      "body": [
+        "Use **the** when the listener can identify the noun. That happens in four common ways: it was mentioned before, it is unique, it is defined by a phrase, or it is obvious from the situation.",
+        "*I bought a laptop. The laptop crashed.* (second mention) *The sun rose at six.* (unique) *The book on the table is mine.* (defined by *on the table*) *Could you close the door?* (only one door in the room).",
+        "**the** works with singular, plural and uncountable nouns: *the student, the students, the information.* This is the key difference from *a/an*, which only ever works with singular countable nouns."
+      ],
+      "table": {
+        "headers": ["Reason for the", "Example"],
+        "rows": [
+          ["second mention", "She adopted a cat. The cat is enormous."],
+          ["only one exists", "The moon was bright last night."],
+          ["defined by a phrase", "The results of the survey were surprising."],
+          ["superlative / ordinal", "It was the worst year on record."],
+          ["shared situation", "Let's meet at the station."]
+        ]
+      }
+    },
+    {
+      "heading": "a/an and the in the same paragraph",
+      "body": [
+        "Academic and narrative writing alternate between the two constantly. The first mention introduces with *a/an*; every later mention uses *the*. Breaking this chain makes your writing sound like a list of unrelated facts.",
+        "Read the sequence: *A recent study examined a group of 200 students. The students were asked to keep a diary. The study found that...* Each *the* points back to something already established.",
+        "If you introduce a plural or uncountable noun, there is no *a/an* stage. *Researchers collected data from three schools. The data showed...* — the first mention has no article, the second takes *the*."
+      ],
+      "examples": [
+        { "right": "The government introduced a new tax. The tax was unpopular.", "wrong": "The government introduced new tax. Tax was unpopular.", "note": "*tax* is countable here, so the first mention needs *a*." },
+        { "right": "We interviewed a farmer and a shop owner. The farmer had lived there for 40 years.", "note": "Second mention of one specific member." },
+        { "right": "She wrote an essay on migration. The essay won a prize.", "wrong": "She wrote essay on migration. Essay won prize.", "note": "Singular countable nouns cannot stand alone." }
+      ]
+    },
+    {
+      "heading": "Where Vietnamese speakers drop the article",
+      "body": [
+        "Vietnamese marks definiteness with *một* (one) and with word order, not with a separate article. When you translate *Tôi là sinh viên*, nothing in the Vietnamese sentence corresponds to *a*, so the article disappears in English.",
+        "The fix is mechanical: before you finish a sentence, check every noun. If it is **singular and countable**, it needs **a/an**, **the**, **my/this/each**, or a number. A bare singular countable noun is almost always an error.",
+        "The reverse error also happens: learners add *the* to general plurals. *I like the dogs* means specific dogs you both know. For the species as a whole, English says *I like dogs.*"
+      ],
+      "examples": [
+        { "right": "My brother is a doctor at the city hospital.", "wrong": "My brother is doctor at city hospital.", "note": "Job → **a**; specific hospital → **the**." },
+        { "right": "Dogs make loyal companions.", "wrong": "The dogs make loyal companions.", "note": "General plural = no article." },
+        { "right": "Vietnam exports rice to the Philippines.", "wrong": "The Vietnam exports rice to Philippines.", "note": "Most country names take no article; *the Philippines* is a fixed exception." }
+      ]
+    },
+    {
+      "heading": "Fixed expressions worth memorising",
+      "body": [
+        "Some phrases are frozen and do not follow the logic above. Learn them whole rather than deriving them.",
+        "With *a/an*: *a few, a little, a lot of, as a result, in a hurry, have a look, make a decision, take a break, once a week.* With *the*: *in the morning, in the end, at the same time, on the whole, the other day, the more ... the more.*",
+        "With no article: *at home, at work, by car, on foot, in fact, for example, at night, go to bed.* These are the ones that most often get an unwanted *the*."
+      ],
+      "table": {
+        "headers": ["Expression", "Article"],
+        "rows": [
+          ["as a result", "a"],
+          ["in the long term", "the"],
+          ["at night / at noon", "none"],
+          ["go to bed / go to work", "none"],
+          ["by bus / by train / on foot", "none"],
+          ["in the end (= finally)", "the"],
+          ["for example / in fact", "none"],
+          ["the more, the better", "the"]
+        ]
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I am student at Hanoi University.",
+      "right": "I am a student at Hanoi University.",
+      "why": "Tiếng Việt *Tôi là sinh viên* không có mạo từ, nên người học bỏ luôn *a*. Danh từ đếm được số ít luôn cần mạo từ hoặc từ hạn định."
+    },
+    {
+      "wrong": "I like the dogs because they are friendly.",
+      "right": "I like dogs because they are friendly.",
+      "why": "Nói về cả loài thì dùng danh từ số nhiều **không có mạo từ**. *The dogs* chỉ đúng khi nói về những con chó cụ thể mà người nghe đã biết."
+    },
+    {
+      "wrong": "She is best student in my class.",
+      "right": "She is the best student in my class.",
+      "why": "So sánh nhất luôn đi với **the**: *the best, the most important, the first*. Đây là một trong số ít quy tắc không có ngoại lệ."
+    },
+    {
+      "wrong": "He gave me an useful advice.",
+      "right": "He gave me a useful piece of advice.",
+      "why": "Hai lỗi: *advice* không đếm được nên không dùng *an*, và *useful* bắt đầu bằng phụ âm /j/ nên phải là **a**. Đếm được thì dùng *a piece of advice*."
+    },
+    {
+      "wrong": "I have lived in the Vietnam for five years.",
+      "right": "I have lived in Vietnam for five years.",
+      "why": "Tên quốc gia thường **không có mạo từ**: *Vietnam, Japan, France*. Chỉ một số tên đặc biệt mới dùng *the*: *the Philippines, the Netherlands, the United States*."
+    }
+  ],
+  "ieltsTips": [
+    "Trước khi nộp bài, quét lại mọi danh từ đếm được số ít — mỗi danh từ đó phải có `a/an`, `the`, `my`, `this` hoặc một số đứng trước.",
+    "Trong Task 1, dùng `the` cho số liệu đã xác định: `The figure for 2019 was 24%.` — không dùng *a figure* khi đã nói rõ năm.",
+    "Học cụm cố định theo khối: `as a result`, `in the long term`, `by bus`, `at night` — đừng suy luận từng từ.",
+    "Câu khái quát trong Task 2 thường **không có mạo từ**: `Unemployment remains a serious problem` — đừng viết *The unemployment*."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "My father is ___ engineer at a factory in Bac Ninh.",
+      "options": ["a", "an", "the", "no article"],
+      "answerIndex": 1,
+      "explanation": "*engineer* bắt đầu bằng nguyên âm /e/ nên dùng **an**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "I bought a phone last week, but ___ phone keeps freezing.",
+      "options": ["a", "an", "the", "no article"],
+      "answerIndex": 2,
+      "explanation": "Lần nhắc thứ hai, người nghe đã biết chiếc điện thoại nào → **the**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "___ unemployment in the north has fallen slightly.",
+      "options": ["A", "An", "The", "No article"],
+      "answerIndex": 3,
+      "explanation": "*unemployment* là danh từ không đếm được, dùng khái quát nên **không có mạo từ**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "It took me ___ hour to finish the test.",
+      "options": ["a", "an", "the", "no article"],
+      "answerIndex": 1,
+      "explanation": "*hour* có âm /aʊ/ bắt đầu bằng nguyên âm (h câm) nên dùng **an**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Children need the stability and the routine.",
+        "Children need stability and routine.",
+        "The children need the stability and routine.",
+        "A children need stability and a routine."
+      ],
+      "answerIndex": 1,
+      "explanation": "Hai danh từ không đếm được dùng khái quát → không mạo từ."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "She wants to become ___ pilot after she graduates.",
+      "answers": ["a"],
+      "hint": "job + consonant sound",
+      "explanation": "*pilot* bắt đầu bằng phụ âm → **a**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Could you pass me ___ salt, please?",
+      "answers": ["the"],
+      "hint": "shared situation, unique on the table",
+      "explanation": "Người nghe biết lọ muối nào → **the**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "He goes to work ___ bus every morning.",
+      "answers": ["by"],
+      "hint": "transport expression, no article",
+      "explanation": "Cụm cố định **by bus** — không dùng mạo từ."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "This is ___ most interesting book I have read this year.",
+      "answers": ["the"],
+      "hint": "superlative",
+      "explanation": "So sánh nhất **the most interesting**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "He is ___ only person who knows the password.",
+      "answers": ["the"],
+      "hint": "only + noun",
+      "explanation": "*the only* là cụm cố định — *only* luôn đi với **the**."
+    }
+  ]
+}

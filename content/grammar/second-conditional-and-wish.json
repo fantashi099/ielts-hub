@@ -1,0 +1,208 @@
+{
+  "slug": "second-conditional-and-wish",
+  "title": "Second conditional and wish",
+  "titleVi": "Câu điều kiện loại 2 và wish",
+  "level": "B2",
+  "topic": "conditionals",
+  "bookUnits": [39, 41],
+  "bandFocus": "7.5",
+  "summary": "Diễn tả điều không có thật ở hiện tại và nuối tiếc — cấu trúc để đề xuất chính sách giả định trong Task 2.",
+  "whyItMatters": "Để bàn về một giải pháp chưa tồn tại, bạn cần câu điều kiện loại 2: *If the state funded childcare, female participation would rise.* Đây là cấu trúc band 7.5+ dùng để mở rộng lập luận mà không khẳng định điều không có thật. `wish` thì xử lý phần nuối tiếc trong Speaking Part 3.",
+  "sections": [
+    {
+      "heading": "Second conditional: unreal present or future",
+      "body": [
+        "The second conditional is **if + past simple, would + base verb**. It describes a situation that is imagined, unlikely or contrary to fact — in the present or the future, never the past.",
+        "*If I had more time, I would learn Japanese* does not mean I had time; it means I do not. The past form signals distance from reality, not distance in time.",
+        "This is why the second conditional is the natural structure for policy proposals that do not currently exist: *If governments taxed sugary drinks, consumption would fall.*"
+      ],
+      "examples": [
+        { "right": "If the state funded childcare, female participation would rise.", "note": "Unreal present condition + hypothetical result." },
+        { "right": "If I had more time, I would learn Japanese.", "note": "Contrary to present fact." },
+        { "right": "If the city pedestrianised the old quarter, air quality would improve.", "note": "A proposal that is not current policy." }
+      ]
+    },
+    {
+      "heading": "was/were, could and might in the result clause",
+      "body": [
+        "After **if** and **wish**, both **was** and **were** are acceptable, but **were** is the formal choice: *If I were the minister, I would...* In the fixed phrase **If I were you**, only **were** is standard.",
+        "The result clause can use **could** (= would be able to) or **might** (= maybe would) instead of **would**: *If she had a visa, she could attend the conference.*",
+        "Never put **would** in the **if** clause. *If I would have money* is a classic error that mixes the second and third conditional."
+      ],
+      "examples": [
+        { "right": "If I were the minister, I would ring-fence the education budget.", "note": "**were** — formal variant in a hypothetical role." },
+        { "right": "If she had a visa, she could attend the conference.", "note": "**could** = would be able to." },
+        { "right": "If the library extended its hours, students might use it more.", "wrong": "If the library would extend its hours, students might use it more.", "note": "Không dùng **would** trong mệnh đề **if**." }
+      ]
+    },
+    {
+      "heading": "wish + past simple: regret about the present",
+      "body": [
+        "**wish + past simple** expresses a regret about a present state that you would like to be different: *I wish I spoke better English.*",
+        "The past form here does not refer to past time. *I wish I had a car* means I do not have one now.",
+        "**wish + could** handles ability: *I wish I could help you, but I'm abroad.* Use **could**, not **would**, when the subject of both clauses is the same."
+      ],
+      "examples": [
+        { "right": "I wish I spoke better English.", "note": "Present regret about ability." },
+        { "right": "I wish I could help you, but I'm abroad until Friday.", "note": "**wish + could** for ability." },
+        { "right": "She wishes she lived closer to her family.", "wrong": "She wishes she lives closer to her family.", "note": "Sau **wish** dùng **past simple**, không dùng **present simple**." }
+      ]
+    },
+    {
+      "heading": "wish + would and wish + had done",
+      "body": [
+        "**wish + would** expresses impatience or a desire for a change, usually about someone else's behaviour: *I wish the council would fix the pavement.* It is not used about yourself (*I wish I would...* is wrong).",
+        "**wish + had + V3** expresses a regret about the past: *I wish I had applied for the scholarship.* This is the wish-counterpart of the third conditional.",
+        "For a neutral future hope, use **hope**, not **wish**: *I hope the application succeeds*, not *I wish the application succeeds*."
+      ],
+      "table": {
+        "headers": ["Structure", "Time reference", "Example"],
+        "rows": [
+          ["wish + past simple", "present regret", "I wish I had more free time."],
+          ["wish + could", "present ability regret", "I wish I could drive."],
+          ["wish + would", "desire for change / complaint", "I wish it would stop raining."],
+          ["wish + had + V3", "past regret", "I wish I had studied medicine."],
+          ["hope + present/future", "neutral future hope", "I hope you get the job."]
+        ]
+      }
+    },
+    {
+      "heading": "Using hypotheticals in IELTS Task 2",
+      "body": [
+        "Second conditionals let you evaluate a policy without claiming it exists: *If governments invested more in vocational training, youth unemployment would fall.*",
+        "They also support counter-arguments: *If this argument were correct, we would expect...* This move is highly valued at band 7.5 and above because it shows critical reasoning.",
+        "Keep the hypothetical consistent. Once you start with **if + past**, the result clause must use **would/could/might**, not **will**."
+      ],
+      "examples": [
+        { "right": "If governments invested more in vocational training, youth unemployment would fall.", "note": "Hypothetical policy evaluation." },
+        { "right": "If this argument were correct, we would expect similar trends in comparable countries.", "note": "Counter-argument move for band 8." },
+        { "right": "I wish more employers recognised vocational qualifications.", "note": "Regret used as a soft policy critique." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "If I would have more money, I would travel.",
+      "right": "If I had more money, I would travel.",
+      "why": "Không dùng `would` trong mệnh đề `if`. Đây là lỗi kinh điển, thường do dịch trực tiếp từ 'nếu tôi sẽ có nhiều tiền'."
+    },
+    {
+      "wrong": "I wish I am taller.",
+      "right": "I wish I were taller.",
+      "why": "Sau `wish` diễn tả ước muốn hiện tại phải dùng `past simple` (hoặc `were`), không dùng `present simple`."
+    },
+    {
+      "wrong": "I wish he will come to the meeting.",
+      "right": "I wish he would come to the meeting.",
+      "why": "Ước muốn ai đó thay đổi hành vi dùng `wish + would`, không dùng `will`."
+    },
+    {
+      "wrong": "I wish I would have studied harder.",
+      "right": "I wish I had studied harder.",
+      "why": "Nuối tiếc về quá khứ dùng `wish + had + V3`, không dùng `would have`."
+    },
+    {
+      "wrong": "I wish the application succeeds.",
+      "right": "I hope the application succeeds.",
+      "why": "`Wish` không dùng cho hy vọng tương lai trung tính. Dùng `hope + present/future`."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng câu điều kiện loại 2 để đánh giá một chính sách giả định trong Task 2: `If the government invested in childcare, more women would return to work.`",
+    "Dùng `If this argument were correct, we would expect...` để phản biện — cấu trúc này thể hiện tư duy phản biện ở band 7.5+.",
+    "Trong Speaking Part 3, dùng `I wish + past` để trả lời câu hỏi về điều bạn muốn thay đổi, tự nhiên hơn nhiều so với `I want to change`.",
+    "Giữ nhất quán: đã mở đầu bằng `if + past` thì mệnh đề kết quả phải dùng `would/could/might`, không dùng `will`."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "If the state ___ childcare, female participation would rise.",
+      "options": ["funds", "funded", "will fund", "would fund"],
+      "answerIndex": 1,
+      "explanation": "Câu điều kiện loại 2: **if + past simple**, mệnh đề kết quả dùng **would**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence forms the second conditional correctly?",
+      "options": [
+        "If I would have more money, I would travel.",
+        "If I had more money, I would travel.",
+        "If I have more money, I would travel.",
+        "If I had more money, I will travel."
+      ],
+      "answerIndex": 1,
+      "explanation": "Không dùng **would** trong mệnh đề **if**; kết quả phải là **would + V**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "I wish I ___ taller.",
+      "options": ["am", "were", "will be", "would be"],
+      "answerIndex": 1,
+      "explanation": "Ước muốn hiện tại không có thật → **wish + past simple**, dạng trang trọng là **were**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "I wish the council ___ the pavement outside our school.",
+      "options": ["fixes", "would fix", "will fix", "fixed"],
+      "answerIndex": 1,
+      "explanation": "Ước muốn ai đó thay đổi hành vi → **wish + would + V**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence expresses a past regret?",
+      "options": [
+        "I wish I studied medicine.",
+        "I wish I had studied medicine.",
+        "I wish I could study medicine.",
+        "I hope I study medicine."
+      ],
+      "answerIndex": 1,
+      "explanation": "Nuối tiếc quá khứ → **wish + had + V3**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "If the city ___ (pedestrianise) the old quarter, air quality would improve.",
+      "answers": ["pedestrianised", "pedestrianized"],
+      "hint": "if + past simple",
+      "explanation": "Câu điều kiện loại 2 dùng **past simple** trong mệnh đề **if**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I wish I ___ (can) help you, but I'm abroad until Friday.",
+      "answers": ["could"],
+      "hint": "wish + could",
+      "explanation": "Ước muốn về khả năng hiện tại → **wish + could**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "If she ___ (have) a visa, she could attend the conference.",
+      "answers": ["had"],
+      "hint": "if + past simple",
+      "explanation": "Điều kiện không có thật ở hiện tại → **had**, kết quả dùng **could**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "I wish I ___ (apply) for the scholarship last year.",
+      "answers": ["had applied"],
+      "hint": "nuối tiếc quá khứ",
+      "explanation": "Nuối tiếc về quá khứ → **wish + had + V3**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "If this argument ___ (be) correct, we would expect similar trends elsewhere.",
+      "answers": ["were", "was"],
+      "hint": "if + were (giả định)",
+      "explanation": "Giả định không có thật → **were** (hoặc **was** trong văn nói); mệnh đề chính dùng **would**."
+    }
+  ]
+}

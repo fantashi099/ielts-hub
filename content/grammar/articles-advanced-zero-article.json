@@ -1,0 +1,214 @@
+{
+  "slug": "articles-advanced-zero-article",
+  "title": "Articles: zero article and generic reference",
+  "titleVi": "Mạo từ: không dùng mạo từ và danh từ khái quát",
+  "level": "C1",
+  "topic": "articles-nouns",
+  "bookUnits": [74, 75, 76, 77, 78],
+  "bandFocus": "8.0",
+  "summary": "Khi nào bỏ mạo từ hoàn toàn, cách dùng the với tổ chức và địa danh, và the + tính từ chỉ nhóm người.",
+  "whyItMatters": "Ở band 7.5–8.0, lỗi mạo từ là thứ duy nhất còn giữ điểm Grammatical Accuracy ở mức 7. Người học thường thêm *the* trước danh từ khái quát (*the society*, *the unemployment*) hoặc trước địa danh (*the Mount Everest*), và bỏ *the* ở những chỗ bắt buộc (*in hospital* với nghĩa bệnh nhân). Đây là nhóm lỗi mà giám khảo nhận ra ngay lập tức.",
+  "sections": [
+    {
+      "heading": "Institutions versus buildings",
+      "body": [
+        "When a place is used **for its purpose**, English drops the article: *go to school* (as a pupil), *go to university*, *be in hospital* (as a patient), *be in prison* (as a prisoner), *go to church* (to worship), *go to bed*, *go to work*, *go home*.",
+        "When you mean the **building**, keep the article: *The school was built in 1920*, *I went to the school to meet the head teacher*, *She was in the hospital visiting her aunt.*",
+        "The same distinction explains *at home* versus *in the house*, and *at sea* (as a sailor) versus *on the sea* (a boat). The article is not decoration: it changes the meaning."
+      ],
+      "table": {
+        "headers": ["Purpose (no article)", "Building (with the)"],
+        "rows": [
+          ["He is at school.", "He is in the school building."],
+          ["She is in hospital.", "She is in the hospital (as a visitor)."],
+          ["He went to prison for fraud.", "The prison is being renovated."],
+          ["They go to church on Sundays.", "The church dates from 1700."],
+          ["Classes start at 8; I go to university.", "The university has 20,000 students."]
+        ]
+      }
+    },
+    {
+      "heading": "the + adjective: whole groups of people",
+      "body": [
+        "**the + adjective** creates a plural noun meaning a social group: *the poor, the rich, the elderly, the unemployed, the homeless, the disabled, the young.* The verb is plural: *The elderly need better access to healthcare.*",
+        "The same pattern produces nationalities: *the French, the Dutch, the Vietnamese, the Japanese*. These take a plural verb even though they look singular: *The French are famous for their cuisine.*",
+        "Do not add a noun: *the poor people* is not wrong but shifts the meaning to specific poor people you can see. For the social category, *the poor* is the precise form — and it is exactly the register Task 2 needs."
+      ],
+      "examples": [
+        { "right": "The unemployed receive a monthly allowance.", "note": "Group + plural verb." },
+        { "right": "Housing policy has done little for the homeless.", "note": "**the + adjective** as the object of a preposition." },
+        { "right": "The young are more likely to rent than to buy.", "wrong": "The youngs are more likely to rent than to buy.", "note": "Never add *-s*; the adjective already carries the plural meaning." }
+      ]
+    },
+    {
+      "heading": "the with unique objects, inventions and instruments",
+      "body": [
+        "Singular nouns that are unique in context take **the**: *the sun, the moon, the sky, the sea, the government, the economy, the environment, the internet.* This is why Task 2 environmental writing is full of *the*: *the planet, the climate, the ozone layer*.",
+        "For inventions and machines, **the + singular** refers to the whole class: *The bicycle is the most efficient vehicle ever invented.* Musical instruments follow the same rule: *play the piano, play the guitar* — while sports and games take no article: *play football, play chess*.",
+        "Two more fixed patterns: **the + comparative**, as in *the more we consume, the more we waste*, and **the + decade**, as in *the 1990s*, *the early 2000s*."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example"],
+        "rows": [
+          ["the + unique noun", "The internet has transformed retail."],
+          ["the + invention (whole class)", "The telephone changed how we work."],
+          ["play + the + instrument", "She plays the violin in an orchestra."],
+          ["play + sport (no article)", "He plays badminton every morning."],
+          ["the + comparative, the + comparative", "The higher the income, the greater the consumption."],
+          ["the + decade", "The 1990s saw rapid urbanisation."]
+        ]
+      }
+    },
+    {
+      "heading": "Names with and without the",
+      "body": [
+        "Most place names take **no article**: cities, countries (*Vietnam, Japan, Brazil*), continents, single mountains (*Everest, Fuji*), single lakes, streets, airports, universities named after a place (*Hanoi University*).",
+        "**the** appears with: rivers (*the Mekong, the Thames*), seas and oceans (*the Pacific*), mountain ranges (*the Andes, the Himalayas*), groups of islands (*the Philippines, the Maldives*), and country names containing *republic, kingdom, states, union* or a plural (*the UK, the US, the Netherlands, the Czech Republic*).",
+        "Institutions follow the same logic. **the** with organisations, newspapers and famous buildings: *the UN, the EU, the Guardian, the Louvre*. **no article** with companies, shops and banks: *Samsung, HSBC, Vinamilk*."
+      ],
+      "table": {
+        "headers": ["No article", "With the"],
+        "rows": [
+          ["Vietnam, France, Japan", "the Philippines, the Netherlands, the UK"],
+          ["Mount Everest, Mount Fuji", "the Andes, the Himalayas"],
+          ["Lake Baikal", "the Mekong, the Red River"],
+          ["Hanoi University, Noi Bai Airport", "the United Nations, the European Union"],
+          ["Oxford Street, Tran Hung Dao Street", "the Thames, the Pacific Ocean"]
+        ]
+      }
+    },
+    {
+      "heading": "Zero article: the academic default",
+      "body": [
+        "Generic statements — the backbone of Task 2 — use **no article** with plural countables and uncountables: *Governments should invest in education*, *Research suggests that pollution reduces life expectancy*, *Data from the survey indicate a clear trend.*",
+        "Fixed prepositional phrases also drop the article: *in conclusion, in practice, in theory, on average, by contrast, at present, for example, in addition, in general.* Adding *the* to these is one of the most visible article errors in essays: *In the conclusion* is wrong when you mean *In conclusion*.",
+        "Languages, school subjects, meals, sports, seasons and transport take no article: *She speaks Japanese*, *He studies economics*, *We had lunch at noon*, *in summer*, *by train*. Note *in the summer* is also correct when you mean a specific summer."
+      ],
+      "examples": [
+        { "right": "In conclusion, the benefits outweigh the drawbacks.", "wrong": "In the conclusion, the benefits outweigh the drawbacks.", "note": "Fixed phrase **in conclusion**." },
+        { "right": "Society has become more dependent on technology.", "wrong": "The society has become more dependent on technology.", "note": "*society* as an abstraction takes no article." },
+        { "right": "She is studying economics at university.", "note": "Subject + institution-as-purpose: both without articles." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "My grandfather is in the hospital with pneumonia.",
+      "right": "My grandfather is in hospital with pneumonia.",
+      "why": "Khi nói về **bệnh nhân**, tiếng Anh bỏ mạo từ: *in hospital*. *In the hospital* chỉ đúng khi nói về tòa nhà hoặc người đến thăm."
+    },
+    {
+      "wrong": "We climbed the Mount Everest last year.",
+      "right": "We climbed Mount Everest last year.",
+      "why": "Tên **một ngọn núi riêng lẻ** không dùng *the*: *Everest, Fuji*. Chỉ dãy núi mới dùng: *the Andes, the Himalayas*."
+    },
+    {
+      "wrong": "I usually go to the bed at eleven.",
+      "right": "I usually go to bed at eleven.",
+      "why": "*Bed* ở đây là **hoạt động ngủ**, không phải cái giường cụ thể, nên bỏ mạo từ — giống *go to school*, *go to work*."
+    },
+    {
+      "wrong": "The society is becoming more individualistic.",
+      "right": "Society is becoming more individualistic.",
+      "why": "Danh từ trừu tượng dùng khái quát **không có mạo từ**. *The society* chỉ đúng khi nói về một tổ chức cụ thể."
+    },
+    {
+      "wrong": "She plays the tennis every weekend.",
+      "right": "She plays tennis every weekend.",
+      "why": "Môn thể thao **không dùng mạo từ** (*play tennis, play football*), trong khi nhạc cụ lại **bắt buộc** có *the* (*play the piano*). Đây là cặp dễ lẫn."
+    }
+  ],
+  "ieltsTips": [
+    "Bắt đầu kết bài bằng `In conclusion,` — không bao giờ `In the conclusion,`. Đây là lỗi mạo từ bị trừ điểm thấy rõ nhất.",
+    "Câu khái quát trong Task 2 dùng danh từ số nhiều hoặc không đếm được **không mạo từ**: `Governments should fund public transport.`",
+    "Khi viết về môi trường, dùng `the` cho vật thể duy nhất: `the planet`, `the climate`, `the ozone layer` — nhưng `Nature` thì không.",
+    "Kiểm tra tên riêng trước khi nộp: thành phố, quốc gia, đường phố, trường đại học hầu như **không** có `the`."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "After the accident, he spent three weeks in ___ hospital.",
+      "options": ["a", "the", "no article", "some"],
+      "answerIndex": 2,
+      "explanation": "Với nghĩa **nằm viện điều trị**, bỏ mạo từ: *in hospital*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "___ unemployment has risen sharply since 2020.",
+      "options": ["A", "The", "No article", "An"],
+      "answerIndex": 2,
+      "explanation": "Danh từ trừu tượng không đếm được dùng khái quát → không mạo từ."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "She has played ___ violin since she was six.",
+      "options": ["a", "the", "no article", "one"],
+      "answerIndex": 1,
+      "explanation": "Nhạc cụ luôn đi với **the**: *play the violin*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which is correct?",
+      "options": [
+        "The poverty remains a major challenge.",
+        "Poverty remains a major challenge.",
+        "A poverty remains a major challenge.",
+        "Poverty remains the major challenge for all the societies."
+      ],
+      "answerIndex": 1,
+      "explanation": "*poverty* không đếm được, dùng khái quát → không mạo từ; *societies* số nhiều khái quát cũng không mạo từ."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "___ more people move to cities, ___ greater the pressure on housing.",
+      "options": ["The / the", "More / more", "The / a", "A / the"],
+      "answerIndex": 0,
+      "explanation": "Cấu trúc **the more ..., the more ...** dùng *the* ở cả hai vế."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "___ prison where he served his sentence was built in 1890.",
+      "answers": ["the"],
+      "hint": "the building, not the purpose",
+      "explanation": "Ở đây nói về **tòa nhà** cụ thể → dùng *the*, khác với *sent to prison* (mục đích)."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "___ elderly often face isolation in large cities.",
+      "answers": ["the"],
+      "hint": "the + adjective = group",
+      "explanation": "**The elderly** = nhóm người cao tuổi, động từ chia số nhiều."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "We crossed ___ Mekong by ferry.",
+      "answers": ["the"],
+      "hint": "river names",
+      "explanation": "Tên sông luôn dùng **the**: *the Mekong*."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "___ conclusion of the report needs rewriting.",
+      "answers": ["the"],
+      "hint": "defined by an of-phrase",
+      "explanation": "Có cụm *of the report* xác định rõ → dùng **the**, khác với cụm cố định *in conclusion*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "She is studying economics at ___ University of Hanoi.",
+      "answers": ["the"],
+      "hint": "names containing of",
+      "explanation": "Tên có cấu trúc **the ... of ...** luôn dùng *the*: *the University of Hanoi*, *the Bank of England*."
+    }
+  ]
+}

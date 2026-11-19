@@ -1,0 +1,810 @@
+[
+  {
+    "id": "t1-line-01",
+    "task": "1",
+    "type": "line-graph",
+    "prompt": "The line graph below shows the number of overseas students enrolled at four universities in Australia between 2010 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Số liệu tham chiếu: University A tăng từ 12,000 (2010) lên 31,000 (2020); University B tăng mạnh nhất, 8,000 lên 26,000; University C gần như đi ngang quanh 15,000; University D giảm từ 18,000 xuống 11,000.",
+      "Xu hướng tổng: ba trường tăng, một trường giảm; A dẫn đầu trong suốt giai đoạn nhưng khoảng cách với B thu hẹp về cuối.",
+      "Cách nhóm dữ liệu: nhóm tăng (A, B, C) và nhóm giảm (D) — đừng mô tả lần lượt từng trường theo thứ tự trong hình.",
+      "Mốc đáng chú ý: B vượt C vào khoảng 2016; D là trường duy nhất mất sinh viên.",
+      "Thì: quá khứ đơn cho số liệu gắn với năm cụ thể, quá khứ hoàn thành khi nói một mốc xảy ra trước một mốc khác (by 2016, B had overtaken C)."
+    ],
+    "structure": [
+      "Introduction — paraphrase đề, nêu đơn vị (số sinh viên) và khung thời gian 2010–2020.",
+      "Overview — hai đặc điểm chính: phần lớn các trường tăng, và A giữ vị trí dẫn đầu dù bị thu hẹp khoảng cách.",
+      "Body 1 — nhóm tăng: A và B, nêu số liệu đầu và cuối kỳ, nhấn mạnh tốc độ của B.",
+      "Body 2 — C đi ngang, D giảm, so sánh với nhóm tăng để làm nổi bật sự trái chiều."
+    ],
+    "usefulLanguage": [
+      "rose steadily from 12,000 to 31,000 over the decade",
+      "saw the sharpest increase, more than tripling its intake",
+      "overtook University C at some point around 2016",
+      "remained broadly stable at roughly 15,000 throughout",
+      "was the only institution to lose students, falling from 18,000 to 11,000",
+      "the gap between A and B narrowed considerably by 2020",
+      "over the ten-year period"
+    ],
+    "bandBooster": [
+      "Band 7 thường chỉ nói `most universities increased`. Band 8 chỉ ra **hướng trái chiều** ngay trong `overview` (`while three grew, one declined`) — đây chính là `main features` mà `Task Achievement` tìm kiếm.",
+      "Đừng kể số liệu theo trình tự thời gian. Gom theo nhóm (`those that rose` / `the one that fell`) làm cả `Task Achievement` và Coherence cùng tăng, vì người đọc thấy được logic chứ không thấy một danh sách.",
+      "Band 8 dùng ít số liệu hơn nhưng chính xác hơn: mỗi đoạn 3–4 con số là đủ, miễn là có so sánh (`twice as many as`, `narrowly overtook`) thay vì đọc toàn bộ biểu đồ."
+    ]
+  },
+  {
+    "id": "t1-line-02",
+    "task": "1",
+    "type": "line-graph",
+    "prompt": "The line graph below shows the amount of electricity generated from coal, wind and nuclear power in one European country between 2000 and 2020, measured in terawatt-hours (TWh). Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Số liệu tham chiếu: coal giảm từ 180 TWh xuống 90 TWh; wind tăng từ 5 TWh lên 110 TWh; nuclear gần như phẳng, 60 xuống 55 TWh.",
+      "Điểm cốt lõi: wind tăng hơn hai mươi lần và vượt coal vào khoảng 2017 — đây là `the most striking feature`.",
+      "Tổng sản lượng gần như không đổi, nhưng **cơ cấu** nguồn thay đổi hoàn toàn: từ chủ yếu than sang hỗn hợp gió và hạt nhân.",
+      "Cách nhóm: nguồn giảm (coal), nguồn tăng (wind), nguồn ổn định (nuclear) — ba nhóm, hai đoạn thân bài.",
+      "Cẩn thận với đơn vị: viết `TWh` một lần ở mở bài, sau đó chỉ dùng con số để tránh lặp."
+    ],
+    "structure": [
+      "Introduction — paraphrase: sản lượng điện từ ba nguồn, 2000–2020, đơn vị TWh.",
+      "Overview — coal giảm một nửa, wind bùng nổ và vượt coal, nuclear gần như không đổi.",
+      "Body 1 — coal và nuclear: số liệu đầu/cuối, nhận xét tốc độ giảm khác nhau.",
+      "Body 2 — wind: mốc tăng, thời điểm vượt coal, và vị trí dẫn đầu vào 2020."
+    ],
+    "usefulLanguage": [
+      "fell by half, from 180 TWh to 90 TWh",
+      "surged from a negligible 5 TWh to 110 TWh",
+      "overtook coal in around 2017 and had become the leading source by 2020",
+      "remained almost unchanged at just over 55 TWh",
+      "accounted for the largest share of generation by the end of the period",
+      "a marked shift in the energy mix",
+      "the figure for wind rose more than twentyfold"
+    ],
+    "bandBooster": [
+      "Điểm 7 → 8 nằm ở chỗ bạn nhận ra **điều gì không đổi**: tổng sản lượng ổn định nhưng cơ cấu thay đổi. Nhận xét kiểu này thể hiện bạn đọc biểu đồ như một hệ thống, không chỉ đọc từng đường.",
+      "Dùng `had become` cho trạng thái đã hoàn tất trước một mốc trong quá khứ (`by 2020, wind had become the leading source`) — một cấu trúc phức tự nhiên, không gượng.",
+      "Tránh mô tả cả ba đường theo cùng một khuôn (`X increased, Y increased, Z increased`). Band 8 đổi cấu trúc theo bản chất dữ liệu: giảm mạnh, tăng gấp bội, gần như phẳng."
+    ]
+  },
+  {
+    "id": "t1-bar-01",
+    "task": "1",
+    "type": "bar-chart",
+    "prompt": "The bar chart below shows the percentage of household income spent on housing, food, transport and leisure in four countries in 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Số liệu tham chiếu: Nhật Bản 22% housing, 18% food, 12% transport, 10% leisure; Anh 26/12/14/12; Nigeria 15/45/10/4; Đức 24/14/13/11.",
+      "Đặc điểm nổi bật: Nigeria dồn gần một nửa thu nhập cho thực phẩm, trong khi ba nước còn lại chi nhiều nhất cho nhà ở.",
+      "Điểm chung: leisure là khoản nhỏ nhất ở cả bốn nước — dùng `in all four countries` để gộp thay vì lặp bốn lần.",
+      "Cách nhóm: nhóm chi phí thiết yếu (housing + food) và nhóm chi phí linh hoạt (transport + leisure).",
+      "Đơn vị là `percentage of household income`, không phải số tiền — đừng viết `Nigerians spend more on food` mà phải là `a larger share of income`."
+    ],
+    "structure": [
+      "Introduction — paraphrase: tỉ trọng chi tiêu của hộ gia đình ở bốn nước, 2019.",
+      "Overview — housing là khoản lớn nhất ở ba nước; Nigeria là ngoại lệ với food; leisure nhỏ nhất ở tất cả.",
+      "Body 1 — housing và food: so sánh bốn nước, làm nổi bật Nigeria.",
+      "Body 2 — transport và leisure: mức tương đồng giữa các nước, chênh lệch nhỏ."
+    ],
+    "usefulLanguage": [
+      "accounted for the largest proportion of household expenditure",
+      "just under half of household income went on food",
+      "spent a considerably smaller share on transport, at around 10%",
+      "the figures for transport and leisure were broadly similar across the four countries",
+      "leisure attracted the smallest proportion everywhere, ranging from 4% to 12%",
+      "by contrast, housing absorbed only 15% of income in Nigeria",
+      "respectively"
+    ],
+    "bandBooster": [
+      "Band 8 không đọc đủ 16 con số. Chọn 6–8 số có ý nghĩa so sánh, phần còn lại gộp bằng `similarly`, `in all four countries`, `ranging from … to …`.",
+      "`Overview` phải nêu **quy luật**, không phải liệt kê: `housing dominates in the three wealthier countries, whereas food dominates in Nigeria` mạnh hơn nhiều so với `Japan spent 22%, the UK 26%, Germany 24%`.",
+      "Chú ý đơn vị: `percentage of income` khác `amount of money`. Viết sai đơn vị là lỗi `Task Achievement`, không chỉ lỗi từ vựng."
+    ]
+  },
+  {
+    "id": "t1-bar-02",
+    "task": "1",
+    "type": "bar-chart",
+    "prompt": "The bar chart below shows the main reasons why male and female students chose a particular university in 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Lý do khảo sát: course reputation, campus facilities, proximity to home, scholarship availability, family tradition.",
+      "Số liệu tham chiếu (nữ/nam): course reputation 68/55; campus facilities 40/38; proximity to home 35/30; scholarship 22/28; family tradition 12/18.",
+      "Điểm chung lớn nhất: `course reputation` đứng đầu ở cả hai giới — phải nêu trong `overview`.",
+      "Khác biệt đáng chú ý: nam quan tâm học bổng và truyền thống gia đình hơn; nữ quan tâm uy tín ngành hơn.",
+      "Cách nhóm: lý do học thuật (reputation) và lý do thực tế/cá nhân (facilities, distance, money, family) — hai đoạn thân bài."
+    ],
+    "structure": [
+      "Introduction — paraphrase: lý do chọn trường của sinh viên nam và nữ, 2024.",
+      "Overview — course reputation dẫn đầu ở cả hai giới; khác biệt giới rõ nhất ở học bổng và truyền thống gia đình.",
+      "Body 1 — nhóm lý do học thuật và cơ sở vật chất: số liệu hai giới, nhận xét mức tương đồng.",
+      "Body 2 — nhóm lý do cá nhân: khoảng cách, học bổng, gia đình; so sánh chênh lệch."
+    ],
+    "usefulLanguage": [
+      "was the most frequently cited reason by both groups",
+      "cited by 68% of women, compared with 55% of men",
+      "the two genders differed most sharply over scholarship availability",
+      "male students were nearly twice as likely to cite family tradition",
+      "was of roughly equal importance to both groups",
+      "accounted for the smallest share of responses",
+      "a gap of some 13 percentage points"
+    ],
+    "bandBooster": [
+      "Band 8 nêu **độ lớn của chênh lệch**, không chỉ nêu hai con số: `a gap of 13 percentage points`, `nearly twice as likely`. Đó là ngôn ngữ so sánh thật, không phải chép số.",
+      "Nhóm theo **loại lý do** (học thuật / thực tế / cá nhân) giúp phần Coherence mạnh hơn hẳn việc đi từng thanh bar từ trái sang phải.",
+      "Đừng bỏ qua điểm giống nhau. Một câu `both groups ranked course reputation first` là một `main feature` thực sự và tiết kiệm 4 con số."
+    ]
+  },
+  {
+    "id": "t1-pie-01",
+    "task": "1",
+    "type": "pie-chart",
+    "prompt": "The pie charts below show the composition of household waste in one city in 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Số liệu tham chiếu 2000 → 2020: food waste 30% → 22%; plastic 12% → 24%; paper 28% → 18%; glass 10% → 8%; other 20% → 28%.",
+      "Xu hướng chính: plastic tăng gấp đôi tỉ trọng, food và paper giảm, `other` tăng đáng kể.",
+      "Lưu ý: đây là **tỉ lệ phần trăm**, không phải khối lượng — không được kết luận rằng lượng rác giảm.",
+      "Cách nhóm: nhóm tăng (plastic, other) và nhóm giảm (food, paper, glass).",
+      "Glass gần như không đổi (10% → 8%) — có thể gộp vào câu cuối thay vì mở đoạn riêng."
+    ],
+    "structure": [
+      "Introduction — paraphrase: thành phần rác thải sinh hoạt của một thành phố, hai năm.",
+      "Overview — plastic tăng mạnh nhất, food và paper giảm; cơ cấu rác dịch chuyển khỏi chất hữu cơ.",
+      "Body 1 — nhóm tăng: plastic và other, nêu số liệu và mức tăng.",
+      "Body 2 — nhóm giảm: food, paper, glass; so sánh mức giảm giữa các loại."
+    ],
+    "usefulLanguage": [
+      "the proportion of plastic waste doubled, rising from 12% to 24%",
+      "food waste, which had accounted for 30% in 2000, fell to 22%",
+      "paper declined by ten percentage points",
+      "glass remained a minor category, at 8%",
+      "the share of waste classified as other grew markedly",
+      "the composition shifted away from organic waste towards packaging materials",
+      "by 2020 plastic had overtaken paper as the second largest category"
+    ],
+    "bandBooster": [
+      "Lỗi mất điểm phổ biến nhất ở pie chart là kết luận về **khối lượng**. Band 8 luôn giữ đúng khung `share` / `proportion` / `percentage` và không suy diễn ngoài dữ liệu.",
+      "Đừng mô tả hai hình lần lượt (2000 hết, rồi 2020 hết). So sánh theo **từng loại rác** giữa hai năm — đó là `comparisons where relevant` mà đề yêu cầu.",
+      "Một câu quan hệ như `food waste, which had accounted for 30% in 2000, fell to 22%` vừa tăng Grammatical Range vừa nén được hai dữ kiện — hiệu quả hơn hai câu đơn."
+    ]
+  },
+  {
+    "id": "t1-table-01",
+    "task": "1",
+    "type": "table",
+    "prompt": "The table below shows the number of international tourist arrivals (in millions) and tourism revenue (in billions of US dollars) in five countries in 2019 and 2023. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Số liệu tham chiếu (lượt khách 2019 → 2023, triệu): Pháp 90 → 100; Thái Lan 40 → 28; Nhật Bản 32 → 25; Ai Cập 13 → 15; Brazil 6 → 6.",
+      "Doanh thu (tỉ USD): Pháp 65 → 82; Thái Lan 60 → 45; Nhật Bản 46 → 36; Ai Cập 13 → 18; Brazil 6 → 7.",
+      "Điểm nổi bật: Pháp dẫn đầu cả hai chỉ số và vẫn tăng sau đại dịch; Thái Lan và Nhật Bản giảm mạnh nhất.",
+      "Nhận xét band 8: doanh thu trên mỗi lượt khách của Thái Lan cao hơn Pháp (khoảng 1,600 USD so với 720 USD) — so sánh **dẫn xuất**, không chỉ đọc ô.",
+      "Cẩn thận: hai đơn vị khác nhau (triệu lượt và tỉ USD) — phải nêu rõ trước khi so sánh."
+    ],
+    "structure": [
+      "Introduction — paraphrase: lượng khách quốc tế và doanh thu du lịch ở năm nước, hai năm.",
+      "Overview — Pháp dẫn đầu cả hai chỉ số; phần lớn các nước vẫn dưới mức 2019; Ai Cập là nước tăng ở cả hai.",
+      "Body 1 — lượt khách: nhóm tăng (Pháp, Ai Cập), nhóm giảm (Thái Lan, Nhật Bản), Brazil ổn định.",
+      "Body 2 — doanh thu: tương quan với lượt khách, nhưng nhấn mạnh Thái Lan thu nhiều hơn trên mỗi khách."
+    ],
+    "usefulLanguage": [
+      "received 100 million international arrivals, the highest of the five",
+      "welcomed 12 million fewer visitors than in 2019",
+      "tourism revenue rose from 65 billion to 82 billion dollars",
+      "generated roughly 1,600 dollars per arrival, more than double the figure for France",
+      "remained unchanged at around 6 million",
+      "was the only country to record growth in both categories",
+      "neither country had recovered to its pre-pandemic level"
+    ],
+    "bandBooster": [
+      "Table dễ khiến người viết biến bài thành bảng đọc số. Band 8 chọn **3–4 ô có ý nghĩa nhất** và bỏ phần còn lại, vì `Task Achievement` chấm `selecting`, không chấm `reporting everything`.",
+      "Một phép chia đơn giản (doanh thu ÷ lượt khách) tạo ra nhận xét mà không ai khác trong phòng thi có — đây là khác biệt rõ nhất giữa 7 và 8 ở dạng table.",
+      "Nêu đơn vị ngay ở mở bài (`millions of arrivals` và `billions of dollars`), sau đó không lặp lại đơn vị nữa; lặp đơn vị ở mọi câu là dấu hiệu của band 6."
+    ]
+  },
+  {
+    "id": "t1-process-01",
+    "task": "1",
+    "type": "process",
+    "prompt": "The diagram below shows the process by which used glass bottles are recycled and turned into new bottles. Summarise the information by selecting and reporting the main features.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Các bước: thu gom (`collection`) → phân loại theo màu (`sorting by colour`) → rửa (`washing`) → nghiền thành cullet → nấu chảy ở 1,500°C cùng cát và soda ash → tạo khuôn (`moulding`) → làm nguội → đóng chai và đưa ra thị trường.",
+      "Đặc điểm: đây là quy trình **tuần hoàn**, có thể lặp lại nhiều lần; khoảng 8 giai đoạn chính.",
+      "Ngôn ngữ bắt buộc: bị động hiện tại đơn (`is collected`, `is then melted`) vì tác nhân không quan trọng.",
+      "Mốc thời gian: dùng `first`, `once`, `after this`, `the final stage` — không dùng `then` cho mọi bước.",
+      "Nhấn mạnh điểm đáng chú ý: bước nấu chảy là bước duy nhất cần nhiệt độ cao, và sản phẩm quay lại chu trình thu gom."
+    ],
+    "structure": [
+      "Introduction — một câu: quy trình tái chế chai thuỷ tinh gồm tám giai đoạn chính, từ thu gom đến đóng chai mới.",
+      "Overview — hai đặc điểm: quy trình khép kín và chia làm hai nửa (xử lý nguyên liệu / sản xuất chai).",
+      "Body 1 — ba bước đầu: thu gom, phân loại, rửa; nêu mục đích của từng bước.",
+      "Body 2 — nghiền, nấu chảy, tạo khuôn, làm nguội, đóng chai; kết bằng việc chai mới quay lại chu trình."
+    ],
+    "usefulLanguage": [
+      "Used bottles are collected from households and taken to a recycling plant",
+      "Once they have been sorted by colour, the bottles are washed",
+      "are crushed into small fragments known as cullet",
+      "is then melted in a furnace at around 1,500°C together with sand and soda ash",
+      "the molten glass is poured into moulds",
+      "After cooling, the new bottles are filled and dispatched to retailers",
+      "at which point the cycle can begin again"
+    ],
+    "bandBooster": [
+      "Band 8 giữ **một giọng bị động nhất quán** và dùng mệnh đề thời gian để nối bước (`Once they have been sorted…`, `After cooling…`) thay vì lặp `Then… Then… Then…`.",
+      "Đừng chỉ kể lại hình. Thêm **mục đích** của bước (`in order to remove labels and debris`) — đó là điều giúp `Task Achievement` đạt `sufficiently addresses` thay vì chỉ liệt kê.",
+      "Kết bài bằng một câu về tính tuần hoàn (`the cycle can begin again`) thể hiện bạn hiểu quy trình như một hệ thống, không phải một dãy hình."
+    ]
+  },
+  {
+    "id": "t1-map-01",
+    "task": "1",
+    "type": "map",
+    "prompt": "The maps below show the changes that have taken place in a coastal village between 1985 and the present day. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "timeMinutes": 20,
+    "minWords": 150,
+    "ideaBank": [
+      "Thay đổi chính: bến cá nhỏ (`fishing harbour`) thành bến du thuyền; ruộng phía đông thành khách sạn và bãi đỗ xe; rừng phía bắc bị thay bằng sân golf; đường mòn ven biển nâng cấp thành đường nhựa.",
+      "Điều **không** thay đổi: nhà thờ ở trung tâm và bãi biển phía nam — phải nêu để cân bằng.",
+      "Xu hướng tổng: làng chuyển từ kinh tế đánh cá sang du lịch; diện tích tự nhiên thu hẹp, hạ tầng giao thông mở rộng.",
+      "Cách nhóm: theo **vị trí** (bắc, trung tâm, nam) hoặc theo **chức năng** (giao thông, du lịch, tự nhiên) — chọn một cách và giữ nhất quán.",
+      "Giới từ vị trí: `to the north of`, `in the centre`, `along the coast`, `on the site of the former…`."
+    ],
+    "structure": [
+      "Introduction — paraphrase: hai bản đồ của cùng một làng ven biển, 1985 và hiện nay.",
+      "Overview — chuyển dịch từ làng chài sang điểm du lịch; rừng và ruộng bị thay bằng hạ tầng du lịch, trong khi nhà thờ và bãi biển vẫn giữ nguyên.",
+      "Body 1 — khu vực phía bắc và phía đông: rừng thành sân golf, ruộng thành khách sạn và bãi xe.",
+      "Body 2 — trung tâm và ven biển: bến cá thành bến du thuyền, đường mòn thành đường nhựa; nêu phần không đổi."
+    ],
+    "usefulLanguage": [
+      "the fishing harbour was replaced by a marina for pleasure boats",
+      "the farmland to the east has given way to a hotel complex",
+      "a golf course was laid out on the site of the former forest",
+      "the coastal path was upgraded to a paved road",
+      "the church in the centre of the village remains unchanged",
+      "the village has been transformed from a fishing community into a tourist destination",
+      "to the north of the main road"
+    ],
+    "bandBooster": [
+      "Band 8 nêu **xu hướng tổng** trước khi nêu chi tiết: `a shift from fishing to tourism`. Nếu chỉ liệt kê từng toà nhà, bài sẽ dừng ở band 6 dù từ vựng tốt.",
+      "Đừng bỏ qua những gì còn nguyên. Một câu `the church and the southern beach are the only features that have survived` là nhận xét so sánh thực sự và làm `overview` chắc hơn.",
+      "Dùng đa dạng cấu trúc bị động: `was replaced by`, `has been converted into`, `was laid out`, `was upgraded to` — bốn động từ khác nhau cho bốn kiểu thay đổi, tránh lặp `was changed`."
+    ]
+  },
+  {
+    "id": "t2-edu-01",
+    "task": "2",
+    "type": "opinion",
+    "prompt": "Some people believe that university education should be free for all students, regardless of their family income. To what extent do you agree or disagree?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Lập luận ủng hộ: giáo dục đại học là `a public good` — tạo ra năng suất, nghiên cứu và dân trí, nên chi phí nên do nhà nước chia sẻ.",
+      "Lập luận phản đối: người có bằng đại học hưởng lợi cá nhân rất lớn (thu nhập trọn đời cao hơn), nên miễn phí toàn bộ là chuyển tiền từ người không học đại học sang người học.",
+      "Giải pháp trung dung (dùng cho bài `to what extent`): miễn phí cho các ngành thiết yếu (y, sư phạm, kỹ thuật) + `income-contingent loans` cho phần còn lại + học bổng theo nhu cầu.",
+      "Bằng chứng so sánh: Bắc Âu miễn phí nhưng thuế cao; Anh dùng vay trả theo thu nhập và tỉ lệ nhập học vẫn tăng ở nhóm thu nhập thấp.",
+      "Rủi ro cần nêu: miễn phí tràn lan có thể gây quá tải, giảm chất lượng, và trợ cấp cho cả gia đình giàu — `regressive`."
+    ],
+    "structure": [
+      "Introduction — paraphrase đề + thesis rõ: tôi ủng hộ miễn phí **có mục tiêu**, nhưng không đồng ý miễn phí cho tất cả bất kể thu nhập.",
+      "Body 1 — lý do ủng hộ: lợi ích xã hội, mở rộng cơ hội cho nhóm yếu thế, tránh `debt aversion` khiến người nghèo không dám học.",
+      "Body 2 — giới hạn của miễn phí toàn bộ: gánh nặng ngân sách, trợ cấp ngược, chất lượng; đề xuất mô hình vay trả theo thu nhập.",
+      "Conclusion — khẳng định lại lập trường có điều kiện, không thêm ý mới."
+    ],
+    "usefulLanguage": [
+      "higher education is a public good rather than a private privilege",
+      "would widen access to students from low-income backgrounds",
+      "place an unsustainable burden on the public purse",
+      "the returns to a degree accrue largely to the individual graduate",
+      "an income-contingent loan scheme",
+      "a targeted subsidy rather than universal free provision",
+      "risk-averse students from poorer families are deterred by the prospect of debt"
+    ],
+    "bandBooster": [
+      "Đề `to what extent` thưởng cho lập trường **có điều kiện**. Band 7 trả lời `I agree`. Band 8 nói rõ `I agree in principle, but only if the subsidy is targeted` — phức tạp hơn nhưng vẫn nhất quán, và `Task Response` được chấm là `well-developed`.",
+      "Đưa **con số hoặc mô hình cụ thể** (`income-contingent loans`, thuế cao ở Bắc Âu) thay vì chỉ nói `it costs a lot`. Ví dụ cụ thể là thứ phân biệt `supported` với `asserted`.",
+      "Xử lý phản biện thay vì bỏ qua: một đoạn thừa nhận điểm mạnh của phe đối lập rồi bẻ lại sẽ nâng cả `Task Response` lẫn Coherence."
+    ]
+  },
+  {
+    "id": "t2-edu-02",
+    "task": "2",
+    "type": "positive-negative",
+    "prompt": "An increasing number of students choose to study at a university in another country. Is this a positive or negative development?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Tích cực với sinh viên: tiếp cận chương trình tốt hơn, `cross-cultural competence`, tự lập, mạng lưới quốc tế, ngoại ngữ tiến bộ nhanh.",
+      "Tích cực với quốc gia tiếp nhận: học phí và chi tiêu của du học sinh, nguồn nhân lực chất lượng cao, mềm hoá quyền lực (`soft power`).",
+      "Tiêu cực: `brain drain` ở nước cử đi, gánh nặng chi phí cho gia đình, rủi ro bị bóc lột lao động hoặc `visa abuse`, cô lập văn hoá.",
+      "Lập trường gợi ý: tích cực nhiều hơn, **với điều kiện** có khung hỗ trợ (học bổng, tư vấn, quy định minh bạch về việc làm sau tốt nghiệp).",
+      "Sắc thái: dùng `on balance` để thể hiện bạn cân nhắc hai chiều, tránh tuyệt đối hoá."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: đây là xu hướng tích cực, dù lợi ích không phân bổ đều.",
+      "Body 1 — lợi ích: với cá nhân (kỹ năng, cơ hội) và với nước tiếp nhận (kinh tế, nhân lực).",
+      "Body 2 — mặt trái: brain drain, chi phí, rủi ro bị lợi dụng; nêu cách giảm thiểu.",
+      "Conclusion — khẳng định lại `on balance` là tích cực, gắn với điều kiện chính sách."
+    ],
+    "usefulLanguage": [
+      "studying abroad has become an attainable ambition rather than a luxury",
+      "develops cross-cultural competence that cannot easily be acquired at home",
+      "represents a substantial drain on the talent pool of sending countries",
+      "international students contribute significantly to the host economy",
+      "on balance, the benefits outweigh the drawbacks",
+      "provided that transparent rules on post-study work are in place",
+      "the risk of exploitation in unregulated institutions"
+    ],
+    "bandBooster": [
+      "Câu hỏi `positive or negative` không cho phép ngồi trên hàng rào. Band 8 chọn một phía trong mở bài và dùng đoạn còn lại để **giới hạn** phía đó (`although the benefits are unevenly distributed`).",
+      "Đừng chỉ nói `it is good for the economy`. Nêu **cơ chế**: học phí và chi tiêu sinh hoạt tạo doanh thu, và sinh viên tốt nghiệp ở lại làm việc bù đắp thiếu hụt lao động.",
+      "Band 8 phân biệt `brain drain` và `brain circulation` — một sắc thái nhỏ nhưng cho thấy bạn kiểm soát được khái niệm, không chỉ dùng từ khoá."
+    ]
+  },
+  {
+    "id": "t2-env-01",
+    "task": "2",
+    "type": "discussion",
+    "prompt": "Some people argue that individuals can do little to protect the environment and that only government regulation can make a real difference. Others believe that changes in individual behaviour are the key. Discuss both views and give your own opinion.",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Quan điểm 1 (nhà nước): chỉ chính phủ mới đặt được giá carbon, tiêu chuẩn khí thải, cấm túi nilon; hành vi cá nhân bị giới hạn bởi hạ tầng (không có xe buýt thì không bỏ xe được).",
+      "Quan điểm 2 (cá nhân): tiêu dùng quyết định sản xuất; cá nhân tạo `political pressure`; thay đổi quy mô lớn từ việc nhỏ (giảm thịt, tái chế, đi xe đạp).",
+      "Tổng hợp: hai bên phụ thuộc nhau — quy định tạo khung, cá nhân tạo `demand` và tuân thủ; thiếu một bên thì bên kia thất bại.",
+      "Ví dụ cụ thể: thuế carbon ở Thụy Điển giảm phát thải nhưng cần người dân chấp nhận; tái chế ở Nhật hiệu quả vì cả quy định lẫn thói quen.",
+      "Lập trường gợi ý: quy định là điều kiện cần (`necessary condition`), hành vi cá nhân là điều kiện đủ về lâu dài."
+    ],
+    "structure": [
+      "Introduction — paraphrase hai quan điểm + thesis: quy định tạo ra thay đổi nhanh nhất, nhưng thiếu thay đổi hành vi thì không bền.",
+      "Body 1 — quan điểm nhà nước: công cụ cụ thể, lý do cá nhân không thể tự làm (hạ tầng, `collective action problem`).",
+      "Body 2 — quan điểm cá nhân: sức mua, áp lực chính trị, hiệu ứng lan toả; thừa nhận giới hạn.",
+      "Body 3 (ngắn) — tổng hợp: hai cấp độ bổ trợ, ví dụ Thụy Điển hoặc Nhật.",
+      "Conclusion — lập trường rõ, không lặp nguyên văn mở bài."
+    ],
+    "usefulLanguage": [
+      "only coordinated regulation can internalise the cost of pollution",
+      "individual choices are constrained by the infrastructure available to them",
+      "a classic collective action problem",
+      "consumer demand ultimately determines what is produced",
+      "the two levels of action are complementary rather than mutually exclusive",
+      "regulation sets the framework within which behavioural change becomes feasible",
+      "carbon pricing has proved effective only where public acceptance was cultivated"
+    ],
+    "bandBooster": [
+      "Đề `discuss both views and give your opinion` cần **ba** phần rõ: quan điểm A, quan điểm B, ý kiến của bạn. Thiếu phần thứ ba là lỗi `Task Response` nghiêm trọng nhất ở dạng này.",
+      "Band 8 không dựng `straw man`. Hãy trình bày quan điểm đối lập ở dạng mạnh nhất của nó (`individual choices are constrained by infrastructure`) rồi mới phản biện — giám khảo gọi đó là `well-developed response`.",
+      "Dùng một ví dụ quốc gia cụ thể và đúng (`carbon tax in Sweden`, `waste sorting in Japan`) thay vì nói chung `many countries`. Chi tiết kiểm chứng được là dấu hiệu của band 8."
+    ]
+  },
+  {
+    "id": "t2-tech-01",
+    "task": "2",
+    "type": "advantage-disadvantage",
+    "prompt": "An increasing number of workplace tasks are now carried out by artificial intelligence rather than by human employees. Do the advantages of this development outweigh the disadvantages?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Lợi ích: năng suất và độ chính xác cao hơn ở việc lặp lại; giảm lỗi; giải phóng con người khỏi công việc nguy hiểm; dịch vụ 24/7; chi phí giảm.",
+      "Bất lợi: mất việc ở nhóm kỹ năng thấp và trung bình; `algorithmic bias`; thiếu trách nhiệm khi sai (`accountability gap`); kỹ năng bị mai một; giám sát lao động quá mức.",
+      "Lợi ích dài hạn có điều kiện: việc làm mới xuất hiện nhưng cần `reskilling` — nếu không, bất bình đẳng tăng.",
+      "Lập trường gợi ý: lợi ích lớn hơn, **với điều kiện** có chính sách đào tạo lại và quy định trách nhiệm.",
+      "Ví dụ: AI trong chẩn đoán hình ảnh phát hiện khối u sớm hơn; nhưng hệ thống tuyển dụng tự động từng bị phát hiện phân biệt giới."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: lợi ích vượt trội, nhưng chỉ khi việc tái đào tạo được đầu tư nghiêm túc.",
+      "Body 1 — lợi ích: năng suất, an toàn, chất lượng dịch vụ; ví dụ cụ thể trong y tế hoặc sản xuất.",
+      "Body 2 — bất lợi: dịch chuyển lao động, thiên lệch thuật toán, câu hỏi trách nhiệm; nêu ai chịu tác động nặng nhất.",
+      "Conclusion — cân lại và khẳng định điều kiện để lợi ích thành hiện thực."
+    ],
+    "usefulLanguage": [
+      "automation performs repetitive tasks with a speed and consistency no human team could match",
+      "displaces workers whose skills are no longer in demand",
+      "the accountability gap when an algorithm causes harm",
+      "reskilling programmes are the price of admission for these gains",
+      "algorithmic bias can entrench existing inequalities",
+      "on balance, the productivity gains are too substantial to forgo",
+      "frees staff to concentrate on judgement-based work"
+    ],
+    "bandBooster": [
+      "Dạng `outweigh` đòi hỏi bạn **cân** chứ không chỉ liệt kê. Band 8 dành một câu trong mỗi đoạn để so sánh trọng lượng (`this cost is transitional, whereas the productivity gain is permanent`).",
+      "Bất lợi phải cụ thể về **ai** chịu: `workers in routine clerical roles` mạnh hơn `people`. `Task Response` chấm mức độ phát triển ý, và chi tiết cụ thể là cách phát triển.",
+      "Điều kiện hoá lập trường (`provided that reskilling is funded`) giúp bạn tránh cả hai cái bẫy: lạc quan ngây thơ và bi quan tuyệt đối."
+    ]
+  },
+  {
+    "id": "t2-health-01",
+    "task": "2",
+    "type": "problem-solution",
+    "prompt": "In many countries, people are spending more time sitting at desks and screens and less time being physically active. What problems does this cause, and what measures could be taken to address them?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Vấn đề sức khoẻ: béo phì, tiểu đường type 2, bệnh tim mạch; đau lưng và `repetitive strain`; sức khoẻ tâm thần giảm (lo âu, cô lập).",
+      "Vấn đề kinh tế - xã hội: chi phí y tế công tăng, năng suất giảm (`sick days`), bất bình đẳng vì nhóm thu nhập thấp ít có không gian tập luyện.",
+      "Giải pháp nơi làm việc: bàn đứng, giờ vận động, `active commuting` được hỗ trợ (tắm, để xe đạp), họp đi bộ.",
+      "Giải pháp chính sách: thiết kế đô thị đi bộ được, giờ thể dục bắt buộc ở trường, chiến dịch y tế công, đánh thuế đồ uống có đường (gián tiếp).",
+      "Giải pháp cá nhân: `habit stacking`, đặt mục tiêu nhỏ (10 phút đi bộ sau bữa trưa), theo dõi bằng ứng dụng."
+    ],
+    "structure": [
+      "Introduction — paraphrase xu hướng + báo trước hai phần: vấn đề sức khoẻ/kinh tế và giải pháp ở ba cấp.",
+      "Body 1 — vấn đề: bệnh mạn tính, chi phí y tế, năng suất; nêu ai chịu ảnh hưởng nặng nhất.",
+      "Body 2 — giải pháp cấp chính sách và nơi làm việc: thiết kế đô thị, quy định giờ vận động, hỗ trợ đi lại chủ động.",
+      "Body 3 (ngắn) — giải pháp cá nhân và điều kiện thành công: thay đổi phải dễ hơn (`make the healthy choice the easy choice`).",
+      "Conclusion — tóm tắt có định hướng, không thêm ý mới."
+    ],
+    "usefulLanguage": [
+      "a sedentary lifestyle is now implicated in a range of chronic conditions",
+      "places a growing strain on publicly funded healthcare",
+      "the remedy lies less in individual willpower than in the design of everyday environments",
+      "make the healthy choice the easy choice",
+      "protected time for physical activity during the working day",
+      "pedestrian-friendly streets and protected cycle lanes",
+      "reduces absenteeism and improves concentration"
+    ],
+    "bandBooster": [
+      "Dạng `problem–solution` mất điểm khi giải pháp không khớp vấn đề. Band 8 ánh xạ rõ: vấn đề về **hạ tầng** thì giải pháp phải ở cấp **thiết kế đô thị**, không phải `tell people to exercise more`.",
+      "Nêu **cơ chế tác động** của giải pháp (`protected lanes lower the perceived risk of cycling, which is the main barrier for women and older adults`) — đó là `extended` chứ không phải `asserted`.",
+      "Một câu về điều kiện thành công (`without enforcement, these measures remain symbolic`) làm bài có chiều sâu chính sách, rất khó đạt ở band 6–7."
+    ]
+  },
+  {
+    "id": "t2-work-01",
+    "task": "2",
+    "type": "two-part",
+    "prompt": "Most people spend a large part of their adult lives working. Why do people work, and what factors make a job satisfying?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Lý do làm việc: thu nhập (nhu cầu sinh tồn), an sinh và bảo hiểm, ý nghĩa và bản sắc (`identity`), cấu trúc thời gian, quan hệ xã hội.",
+      "Phân tầng lý do: `extrinsic motivation` (lương, thưởng) và `intrinsic motivation` (hứng thú, tự chủ, thành tựu).",
+      "Yếu tố tạo hài lòng: `autonomy`, `mastery`, `purpose`; môi trường tôn trọng; cân bằng công việc - cuộc sống; lộ trình thăng tiến rõ; đồng nghiệp tốt.",
+      "Điều **không** tạo hài lòng lâu dài: lương cao nhưng công việc vô nghĩa; nghiên cứu cho thấy sau ngưỡng đủ sống, tiền giảm tác dụng.",
+      "Ví dụ: y tá và giáo viên thường hài lòng nhờ `purpose` dù lương khiêm tốn; nhân viên công nghệ có thể `burn out` dù lương cao."
+    ],
+    "structure": [
+      "Introduction — paraphrase hai câu hỏi + báo trước hướng trả lời: làm việc vì sinh kế trước hết, nhưng sự hài lòng đến từ quyền tự chủ và ý nghĩa.",
+      "Body 1 — trả lời câu hỏi 1: ba tầng lý do (sinh kế, an sinh, bản sắc); nêu thứ tự quan trọng.",
+      "Body 2 — trả lời câu hỏi 2: autonomy, mastery, purpose; yếu tố tổ chức (quản lý, lộ trình); phản biện quan điểm `chỉ cần lương cao`.",
+      "Conclusion — trả lời trực tiếp cả hai câu hỏi trong hai câu, không lặp từ."
+    ],
+    "usefulLanguage": [
+      "work is first and foremost a means of subsistence",
+      "beyond a certain threshold, pay ceases to be the decisive factor",
+      "a sense of autonomy over how the work is done",
+      "intrinsic motivation is far more durable than financial reward",
+      "employees who see their contribution as meaningful report higher satisfaction",
+      "a clear route for progression",
+      "the distinction between extrinsic and intrinsic rewards"
+    ],
+    "bandBooster": [
+      "Dạng `two-part` chấm nặng nếu bạn trả lời lệch: mỗi câu hỏi phải có **một đoạn riêng** và câu trả lời phải trực tiếp (`People work primarily because…`, `Satisfaction, by contrast, depends on…`).",
+      "Band 8 đưa ra **ngưỡng** thay vì tuyệt đối: `beyond a certain threshold, pay ceases to be decisive`. Đây là loại nhận định có sắc thái, giám khảo coi là `fully developed`.",
+      "Một phản ví dụ ngắn (giáo viên hài lòng với lương khiêm tốn) làm lập luận có sức nặng hơn ba câu khẳng định chung chung."
+    ]
+  },
+  {
+    "id": "t2-media-01",
+    "task": "2",
+    "type": "positive-negative",
+    "prompt": "In many countries, people now get most of their news from social media rather than from newspapers or television. Is this a positive or negative development?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Tích cực: tin tức tiếp cận nhanh và miễn phí; tiếng nói đa dạng, nhóm yếu thế được lên tiếng; `citizen journalism` phơi bày vấn đề địa phương; tương tác hai chiều.",
+      "Tiêu cực: `misinformation` lan nhanh hơn tin đúng; `echo chambers` và phân cực; thuật toán ưu tiên cảm xúc; báo chí chuyên nghiệp mất doanh thu → giảm `investigative journalism`.",
+      "Cơ chế: thuật toán tối ưu cho `engagement` khuyến khích nội dung gây phẫn nộ; kiểm chứng (`fact-checking`) đến sau khi tin đã lan.",
+      "Lập trường gợi ý: tiêu cực nhiều hơn, **nhưng** không thể quay lại mô hình cũ; giải pháp là `media literacy` và minh bạch nguồn.",
+      "Ví dụ: trong thiên tai, mạng xã hội cứu người nhờ tốc độ; trong bầu cử, tin sai lệch làm suy giảm niềm tin."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: nhìn chung là tiêu cực, dù lợi ích về tốc độ và tiếp cận là thật.",
+      "Body 1 — mặt tích cực: tốc độ, chi phí, đa dạng tiếng nói; ví dụ cụ thể.",
+      "Body 2 — mặt tiêu cực: misinformation, echo chamber, tổn hại báo chí chuyên nghiệp; giải thích cơ chế thuật toán.",
+      "Conclusion — khẳng định lại đánh giá và nêu điều kiện để giảm hại (`media literacy`, minh bạch thuật toán)."
+    ],
+    "usefulLanguage": [
+      "news now reaches audiences within minutes of an event",
+      "platforms are optimised for engagement rather than accuracy",
+      "falsehoods travel faster than corrections",
+      "reinforce existing beliefs inside echo chambers",
+      "the collapse of advertising revenue has hollowed out investigative journalism",
+      "media literacy is the most defensible long-term remedy",
+      "on balance, the shift has done more harm than good"
+    ],
+    "bandBooster": [
+      "Band 8 giải thích **cơ chế kinh tế/kỹ thuật** đằng sau hiện tượng: `platforms are optimised for engagement` giải thích vì sao tin sai lan nhanh. Band 6 chỉ nói `social media has fake news`.",
+      "Tránh tuyệt đối hoá. Cụm `on balance` + một ngoại lệ được thừa nhận (mạng xã hội hữu ích trong thiên tai) cho thấy bạn cân nhắc, không phản xạ.",
+      "Đừng để phần giải pháp biến bài thành `problem–solution`. Ở dạng `positive/negative`, giải pháp chỉ nên là **một câu** trong kết bài."
+    ]
+  },
+  {
+    "id": "t2-urban-01",
+    "task": "2",
+    "type": "problem-solution",
+    "prompt": "Traffic congestion is becoming a serious problem in many large cities. What are the main causes of this problem, and what solutions can be implemented?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Nguyên nhân: dân số và `car ownership` tăng nhanh; hạ tầng không theo kịp; quy hoạch tách rời khu ở và khu làm việc; giao thông công cộng kém; giá đỗ xe quá thấp.",
+      "Hệ quả (nêu ngắn để tăng chiều sâu): mất thời gian, ô nhiễm, tai nạn, thiệt hại kinh tế (`congestion cost`).",
+      "Giải pháp cấp giá: `congestion charge`, phí đỗ xe theo giờ, thuế nhiên liệu — hiệu quả nhưng dễ bị phản đối (`politically unpopular`).",
+      "Giải pháp cấp hạ tầng: metro, `bus rapid transit`, làn xe buýt riêng, `park-and-ride`, đường dành cho xe đạp.",
+      "Giải pháp cấp quy hoạch: `mixed-use development`, làm việc từ xa, phân bố lại trường học và bệnh viện."
+    ],
+    "structure": [
+      "Introduction — paraphrase + báo trước: nguyên nhân chủ yếu là tăng trưởng xe cá nhân và quy hoạch tách rời; giải pháp phải kết hợp giá, hạ tầng và quy hoạch.",
+      "Body 1 — nguyên nhân: nêu 2–3 nguyên nhân có giải thích, ưu tiên nguyên nhân gốc (`induced demand`).",
+      "Body 2 — giải pháp: nhóm theo cấp độ (giá / hạ tầng / quy hoạch), mỗi giải pháp kèm cơ chế hoạt động.",
+      "Conclusion — nhấn mạnh giải pháp hiệu quả nhất là làm cho việc đi lại không cần ô tô trở nên dễ dàng."
+    ],
+    "usefulLanguage": [
+      "congestion is largely a product of induced demand",
+      "public transport has failed to keep pace with suburban expansion",
+      "a congestion charge shifts the cost of road use onto drivers",
+      "dedicated bus lanes and park-and-ride schemes offer a cheaper alternative to new roads",
+      "mixed-use development shortens the distances people must travel",
+      "such measures are politically unpopular but demonstrably effective",
+      "the economic cost of lost productivity"
+    ],
+    "bandBooster": [
+      "Band 8 phân biệt **nguyên nhân gốc** và **triệu chứng**. `Too many cars` là triệu chứng; `cheap parking and zoning that separates homes from workplaces` là nguyên nhân — và chỉ nguyên nhân gốc mới dẫn tới giải pháp đúng.",
+      "Mỗi giải pháp cần một câu về **rào cản thực thi** (`politically unpopular`, `requires years of construction`). Điều này thể hiện tư duy chính sách thực tế, rất hiếm ở band 7.",
+      "Đừng liệt kê năm giải pháp hời hợt. Hai giải pháp được triển khai sâu (cơ chế + ví dụ + rào cản) ăn điểm cao hơn nhiều."
+    ]
+  },
+  {
+    "id": "t2-family-01",
+    "task": "2",
+    "type": "opinion",
+    "prompt": "Some people believe that it is better for children to grow up in the countryside than in a large city. To what extent do you agree or disagree?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Ủng hộ nông thôn: không khí sạch, không gian an toàn để chơi tự do, cộng đồng gần gũi, nhịp sống chậm, trẻ vận động nhiều hơn.",
+      "Phản đối: thiếu cơ hội học tập (trường tốt, lớp chuyên), thiếu dịch vụ y tế chuyên khoa, ít bạn bè đa dạng, thiếu hoạt động văn hoá - thể thao.",
+      "Yếu tố quyết định thực ra là **gia đình và môi trường nuôi dưỡng**, không phải địa lý: `parenting`, thời gian cha mẹ dành cho con, chất lượng trường học gần nhất.",
+      "Lập trường gợi ý: không đồng ý với mệnh đề tuyệt đối; tuỳ `stage of childhood` — tuổi nhỏ cần không gian, tuổi lớn cần cơ hội.",
+      "Giải pháp trung dung: ngoại ô hoặc thành phố vừa (`small and mid-sized cities`) cân bằng cả hai."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: tôi không đồng ý với mệnh đề tuyệt đối; lợi thế phụ thuộc vào độ tuổi và chất lượng môi trường.",
+      "Body 1 — thừa nhận ưu thế của nông thôn ở giai đoạn đầu đời (không gian, an toàn, vận động).",
+      "Body 2 — nhưng thành phố cung cấp cơ hội mà nông thôn thiếu (giáo dục, y tế, đa dạng xã hội) khi trẻ lớn hơn.",
+      "Conclusion — chốt lại: cân bằng và chất lượng gia đình quan trọng hơn địa lý."
+    ],
+    "usefulLanguage": [
+      "the countryside offers the kind of unstructured outdoor play that urban children rarely experience",
+      "access to specialist healthcare and competitive schools is far more limited in rural areas",
+      "the decisive variable is the quality of parenting rather than geography",
+      "what matters most shifts as children move into adolescence",
+      "small and mid-sized cities can offer many of the advantages of both",
+      "a degree of freedom that city parents are understandably reluctant to grant",
+      "this is not to suggest that rural childhoods are idyllic"
+    ],
+    "bandBooster": [
+      "Mệnh đề `better … than` là tuyệt đối; band 8 phá nó bằng **điều kiện** (`it depends on the child's age and the quality of the local environment`) và giữ lập trường đó suốt bài.",
+      "Tránh lí tưởng hoá nông thôn. Một câu `this is not to suggest that rural childhoods are idyllic` thể hiện bạn thấy cả hai mặt — dấu hiệu của `critical thinking` mà giám khảo tìm.",
+      "Câu `the decisive variable is X rather than Y` là cấu trúc so sánh nâng cao, vừa tăng Grammatical Range vừa làm lập luận sắc hơn."
+    ]
+  },
+  {
+    "id": "t2-crime-01",
+    "task": "2",
+    "type": "discussion",
+    "prompt": "Some people believe that the main purpose of prison should be to punish offenders. Others argue that prisons should focus on rehabilitating them so that they can return to society. Discuss both views and give your own opinion.",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Quan điểm trừng phạt: công lý cho nạn nhân, `retribution`, răn đe (`deterrence`), bảo vệ xã hội bằng cách cách ly người nguy hiểm.",
+      "Quan điểm cải tạo: phần lớn tù nhân sẽ được ra tù; nếu không có kỹ năng thì tái phạm (`recidivism`) tăng; giáo dục nghề, trị liệu tâm lý, hỗ trợ tái hoà nhập giảm tái phạm.",
+      "Bằng chứng: Na Uy dùng mô hình cải tạo, tỉ lệ tái phạm khoảng 20% so với mức cao hơn nhiều ở các hệ thống thiên về trừng phạt.",
+      "Tổng hợp: trừng phạt là **chức năng hợp pháp** nhưng không đủ; cải tạo là cách duy nhất để giảm tội phạm dài hạn.",
+      "Chi phí: giam giữ rất tốn kém; đầu tư giáo dục trong tù rẻ hơn xây thêm nhà tù."
+    ],
+    "structure": [
+      "Introduction — paraphrase hai quan điểm + thesis: trừng phạt cần thiết để duy trì niềm tin vào công lý, nhưng cải tạo mới quyết định an toàn lâu dài.",
+      "Body 1 — quan điểm trừng phạt: công lý, răn đe, bảo vệ xã hội; nêu giới hạn (răn đe yếu với tội phạm bốc đồng).",
+      "Body 2 — quan điểm cải tạo: recidivism, giáo dục nghề, ví dụ Na Uy; thừa nhận khó khăn (nguồn lực, định kiến cộng đồng).",
+      "Conclusion — lập trường: hai mục tiêu không loại trừ nhau; ưu tiên cải tạo vì lợi ích dài hạn."
+    ],
+    "usefulLanguage": [
+      "retribution gives victims and their families a sense of closure",
+      "deterrence works best for premeditated offences",
+      "the vast majority of prisoners will eventually be released",
+      "high rates of recidivism suggest that punishment alone does not reform",
+      "vocational training and psychological support substantially reduce reoffending",
+      "the two aims are not mutually exclusive",
+      "imprisonment is an expensive way of making bad people worse"
+    ],
+    "bandBooster": [
+      "Band 8 nêu **điều kiện áp dụng** của mỗi quan điểm: trừng phạt răn đe tốt với tội phạm có tính toán, kém với tội phạm bốc đồng. Sự phân biệt này là `well-developed`, không phải `asserted`.",
+      "Dùng số liệu so sánh cụ thể (Na Uy khoảng 20% tái phạm) — một con số đúng và có nguồn gốc mạnh hơn mười câu chung chung.",
+      "Trích dẫn ý tưởng phê phán nổi tiếng (`an expensive way of making bad people worse`) cho thấy bạn đọc ngoài giáo trình, nhưng phải diễn đạt lại bằng lời của mình."
+    ]
+  },
+  {
+    "id": "t2-gov-01",
+    "task": "2",
+    "type": "two-part",
+    "prompt": "Several governments have introduced taxes on sugary drinks. Why have they done this, and is taxation the most effective way to improve public health?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Lý do: chi phí y tế do béo phì và tiểu đường; thuế là công cụ `behavioural economics` — tăng giá thì tiêu thụ giảm; tạo doanh thu để tài trợ chương trình y tế.",
+      "Bằng chứng: thuế đồ uống có đường ở Mexico giảm mua khoảng 6–12%; ở Anh, công thức đồ uống bị thay đổi để tránh thuế (`reformulation`).",
+      "Hạn chế của thuế: `regressive` (ảnh hưởng người thu nhập thấp nặng hơn), dễ bị lách (mua nước ép, đồ uống thay thế), chỉ giải quyết một phần chế độ ăn.",
+      "Công cụ khác hiệu quả hơn/ bổ trợ: dán nhãn dinh dưỡng rõ, hạn chế quảng cáo nhắm trẻ em, cải thiện bữa ăn học đường, trợ giá thực phẩm lành mạnh, thiết kế đô thị.",
+      "Kết luận gợi ý: thuế là một phần của gói biện pháp, không phải giải pháp duy nhất."
+    ],
+    "structure": [
+      "Introduction — paraphrase hai câu hỏi + báo trước: thuế nhằm giảm tiêu thụ và bù chi phí y tế; nhưng hiệu quả nhất khi đi cùng biện pháp khác.",
+      "Body 1 — trả lời vì sao: gánh nặng bệnh tật, cơ chế giá, doanh thu; ví dụ Mexico/Anh.",
+      "Body 2 — trả lời có phải hiệu quả nhất: ưu điểm (reformulation), hạn chế (regressive, substitution), so sánh với biện pháp khác.",
+      "Conclusion — chốt: thuế là công cụ mạnh nhưng cần `a package of measures`."
+    ],
+    "usefulLanguage": [
+      "sugar-sweetened beverages are a major driver of diet-related disease",
+      "a levy raises the relative price of the least healthy option",
+      "the tax is regressive, falling disproportionately on low-income households",
+      "manufacturers reformulated their products to avoid the charge",
+      "taxation works best as part of a package of measures",
+      "front-of-pack labelling and restrictions on advertising to children",
+      "substitution effects can undermine the intended benefit"
+    ],
+    "bandBooster": [
+      "Câu hỏi thứ hai (`is taxation the most effective way`) yêu cầu **so sánh**, không chỉ mô tả. Band 8 nêu rõ thuế mạnh ở đâu (`reformulation`) và yếu ở đâu (`substitution`, `regressive`) rồi mới kết luận.",
+      "Đưa **phản ứng của doanh nghiệp** vào bài (`manufacturers reformulated to avoid the charge`) — đây là góc nhìn hệ thống mà ít thí sinh nghĩ tới, và nó chứng minh hiểu biết thật.",
+      "Band 8 dùng thuật ngữ chính sách chính xác (`levy`, `regressive`, `substitution effect`) nhưng không nhồi; mỗi từ xuất hiện đúng một lần và đúng ngữ cảnh."
+    ]
+  },
+  {
+    "id": "t2-glob-01",
+    "task": "2",
+    "type": "advantage-disadvantage",
+    "prompt": "The spread of global media, international brands and English-language entertainment is making cultures around the world increasingly similar. Do the advantages of this trend outweigh the disadvantages?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Lợi ích: tiếp cận văn hoá đa dạng với chi phí thấp; hiểu biết liên văn hoá; cơ hội kinh tế cho nghệ sĩ địa phương qua nền tảng toàn cầu; chia sẻ tri thức và chuẩn mực (y tế, giáo dục).",
+      "Bất lợi: `cultural homogenisation`, mất ngôn ngữ và nghề truyền thống; `cultural imperialism` — giá trị của nước mạnh lấn át; thế hệ trẻ xa rời bản sắc địa phương.",
+      "Phản biện quan trọng: văn hoá luôn lai (`hybridisation`) — ví dụ K-pop kết hợp hip-hop Mỹ, ẩm thực fusion; đồng nhất hoá không hoàn toàn như lo ngại.",
+      "Lập trường gợi ý: lợi ích nhiều hơn, **với điều kiện** có chính sách bảo tồn (ngôn ngữ, bảo tàng, quỹ nghệ thuật, hạn ngạch nội dung địa phương).",
+      "Ví dụ: điện ảnh Hàn Quốc thành công toàn cầu nhờ vừa bản địa vừa phổ quát — chứng minh toàn cầu hoá không nhất thiết xoá bản sắc."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: lợi ích lớn hơn, nhưng chỉ khi bản sắc địa phương được chủ động bảo vệ.",
+      "Body 1 — lợi ích: tiếp cận, hiểu biết, cơ hội kinh tế; ví dụ cụ thể.",
+      "Body 2 — bất lợi: đồng nhất hoá, mất ngôn ngữ, bất cân xứng quyền lực; phản biện bằng `hybridisation`.",
+      "Conclusion — cân lại, khẳng định vai trò của chính sách bảo tồn."
+    ],
+    "usefulLanguage": [
+      "cultural products now circulate at a speed and scale previously unimaginable",
+      "risks eroding the distinctiveness of local traditions",
+      "a form of cultural imperialism that privileges the values of dominant economies",
+      "cultures have always borrowed and blended rather than remained sealed",
+      "hybrid forms such as Korean cinema demonstrate that global reach need not erase local identity",
+      "the advantages accrue broadly, whereas the losses are concentrated",
+      "preservation requires active policy, not nostalgia"
+    ],
+    "bandBooster": [
+      "Band 8 phản biện **chính tiền đề** của đề: đề giả định văn hoá đang trở nên giống nhau, nhưng `hybridisation` cho thấy chúng đang biến đổi chứ không chỉ đồng nhất. Đây là mức tư duy đẩy `Task Response` lên 8.",
+      "Nêu **phân bổ lợi ích và tổn thất** (`the advantages accrue broadly, whereas the losses are concentrated`) — một câu so sánh cấu trúc, vừa ngữ pháp cao vừa làm lập luận sắc.",
+      "Ví dụ nên cụ thể và kiểm chứng được (điện ảnh Hàn Quốc, K-pop) thay vì `many countries`. Chi tiết đúng là bằng chứng; chi tiết mơ hồ là khẳng định."
+    ]
+  },
+  {
+    "id": "t2-society-01",
+    "task": "2",
+    "type": "opinion",
+    "prompt": "Some people argue that inequality between rich and poor is an inevitable consequence of economic growth and that governments should not try to reduce it. To what extent do you agree or disagree?",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Đồng ý một phần: tăng trưởng luôn tạo ra người thắng và người thua trong ngắn hạn; khuyến khích đổi mới cần thưởng khác biệt (`incentives`).",
+      "Phản đối: bất bình đẳng quá mức **cản trở** tăng trưởng — giảm `social mobility`, tăng chi phí y tế và tội phạm, giảm `human capital`.",
+      "Bằng chứng: các nước Bắc Âu có bất bình đẳng thấp và tăng trưởng cao; `Great Gatsby curve` — bất bình đẳng cao đi kèm di động xã hội thấp.",
+      "Công cụ của chính phủ: thuế luỹ tiến, giáo dục công, an sinh, nhà ở xã hội, lương tối thiểu — không triệt tiêu động lực mà san bằng `starting line`.",
+      "Phân biệt quan trọng: `inequality of outcome` vs `inequality of opportunity` — chính phủ nên tấn công cái thứ hai."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: tôi phản đối mạnh mệnh đề `không nên can thiệp`; bất bình đẳng cơ hội phải được giảm.",
+      "Body 1 — thừa nhận phần đúng: tăng trưởng cần động lực, chênh lệch thu nhập ở mức nào đó là không tránh khỏi.",
+      "Body 2 — phản biện: bất bình đẳng quá mức gây hại cho chính tăng trưởng; dẫn chứng (Bắc Âu, Great Gatsby curve).",
+      "Conclusion — phân biệt outcome/opportunity và khẳng định vai trò chính phủ."
+    ],
+    "usefulLanguage": [
+      "some degree of inequality is an unavoidable by-product of a market economy",
+      "beyond a certain point, inequality undermines the very growth that produced it",
+      "restricts social mobility and consigns talent to the margins",
+      "the distinction between inequality of outcome and inequality of opportunity",
+      "progressive taxation and universal public education level the starting line",
+      "this is not a question of penalising success",
+      "intergenerational mobility is markedly lower in more unequal societies"
+    ],
+    "bandBooster": [
+      "Band 8 tách khái niệm: `inequality of outcome` và `inequality of opportunity` là hai thứ khác nhau, và đề chỉ đúng một phần. Việc phân biệt này là `fully developed position`.",
+      "Thừa nhận phần đúng của phe đối lập trước khi phản biện (`some degree of inequality is unavoidable`) — cấu trúc concession này là dấu hiệu của band 8, không phải sự do dự.",
+      "Tránh từ ngữ tuyên truyền (`greedy rich`, `unfair system`). Band 8 giữ giọng phân tích: `beyond a certain point…` thay vì `the rich are too rich`."
+    ]
+  },
+  {
+    "id": "t2-culture-01",
+    "task": "2",
+    "type": "discussion",
+    "prompt": "Some people believe that tourism damages local cultures, while others argue that it helps to preserve them. Discuss both views and give your own opinion.",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Du lịch làm hại: `commodification` văn hoá — lễ hội thành sản phẩm biểu diễn; `overtourism` đẩy giá nhà, dân bản địa rời trung tâm; kiến trúc truyền thống bị thay bằng khách sạn.",
+      "Du lịch bảo tồn: doanh thu tài trợ trùng tu di tích; nghề thủ công có thị trường; người trẻ học lại nhạc cụ, ngôn ngữ để biểu diễn; `pride` văn hoá tăng.",
+      "Điều kiện quyết định: **ai kiểm soát** du lịch — cộng đồng địa phương hay công ty nước ngoài; quy định về `carrying capacity`; phân bổ doanh thu.",
+      "Ví dụ: Nhật Bản giới hạn khách leo Phú Sĩ và thu phí; Venice thu phí vào thành phố; Bali có quy định trang phục và thuế du lịch.",
+      "Lập trường gợi ý: du lịch vừa bảo tồn vừa phá huỷ — kết quả phụ thuộc vào quản trị, không vào bản chất du lịch."
+    ],
+    "structure": [
+      "Introduction — paraphrase hai quan điểm + thesis: du lịch có thể làm hại hoặc bảo tồn, tuỳ vào việc cộng đồng địa phương có kiểm soát được hay không.",
+      "Body 1 — quan điểm 1: commodification, overtourism, hệ quả cụ thể (giá nhà, di dân).",
+      "Body 2 — quan điểm 2: doanh thu trùng tu, thị trường cho nghề thủ công, phục hưng ngôn ngữ và nghệ thuật.",
+      "Body 3 (ngắn) — điều kiện: quy định sức chứa, thuế du lịch, sở hữu cộng đồng; ví dụ Nhật/Venice.",
+      "Conclusion — khẳng định lại lập trường `governance decides`."
+    ],
+    "usefulLanguage": [
+      "heritage becomes a performance staged for visitors",
+      "overtourism drives residents out of historic centres",
+      "revenue from entrance fees funds restoration work",
+      "gives young people an economic reason to learn traditional crafts",
+      "carrying capacity and community ownership determine the outcome",
+      "the same industry can both erode and sustain cultural practice",
+      "a levy on day visitors to limit numbers"
+    ],
+    "bandBooster": [
+      "Lập trường `depends on governance` là dạng cao nhất của bài `discuss`: bạn không chọn phe mà chỉ ra **biến số quyết định**. Điều này thể hiện tư duy phân tích và tránh được bài hai chiều máy móc.",
+      "Band 8 dùng ngôn ngữ chuyên ngành chính xác (`commodification`, `carrying capacity`, `overtourism`) — mỗi thuật ngữ gắn với một hiện tượng cụ thể, không phải từ trang trí.",
+      "Ví dụ chính sách thật (Venice thu phí du khách trong ngày, Nhật giới hạn số người leo Phú Sĩ) chứng minh bạn có kiến thức nền, thứ giám khảo phân biệt rất rõ."
+    ]
+  },
+  {
+    "id": "t2-science-01",
+    "task": "2",
+    "type": "discussion",
+    "prompt": "Some people think that governments should spend more money on space exploration, while others believe this money would be better spent on public services such as healthcare and education. Discuss both views and give your own opinion.",
+    "timeMinutes": 40,
+    "minWords": 250,
+    "ideaBank": [
+      "Ủng hộ chi cho vũ trụ: `spillover technologies` (GPS, vật liệu, hình ảnh y tế, vệ tinh khí tượng); truyền cảm hứng giáo dục STEM; giám sát khí hậu và thiên tai; phát hiện tiểu hành tinh.",
+      "Phản đối: chi phí cơ hội — cùng số tiền có thể xây bệnh viện; lợi ích đến chậm và không chắc chắn; nhu cầu cơ bản chưa được đáp ứng.",
+      "Thực tế ngân sách: chi cho vũ trụ thường dưới 0.5% ngân sách quốc gia — không phải nguyên nhân chính của thiếu hụt y tế.",
+      "Tổng hợp: không phải `either/or`; tỉ lệ hợp lý cho nghiên cứu cơ bản là cần thiết, nhưng phải minh bạch và có đánh giá lợi ích.",
+      "Ví dụ: NASA chiếm chưa đến 0.5% ngân sách liên bang Mỹ; ESA tạo ra lợi ích thương mại lớn."
+    ],
+    "structure": [
+      "Introduction — paraphrase + thesis: chi cho vũ trụ nên tiếp tục nhưng ở mức khiêm tốn và minh bạch, không thay thế chi cho dịch vụ công.",
+      "Body 1 — lợi ích của thám hiểm vũ trụ: công nghệ lan toả, khí hậu, giáo dục, cảm hứng.",
+      "Body 2 — phản biện chi phí cơ hội + dữ liệu ngân sách thực tế; thừa nhận ưu tiên y tế và giáo dục.",
+      "Conclusion — lập trường cân bằng: `a modest, well-justified share`."
+    ],
+    "usefulLanguage": [
+      "space programmes generate technologies that spill over into everyday life",
+      "satellites underpin weather forecasting and climate monitoring",
+      "the opportunity cost of every launch is measured in hospital beds",
+      "space agencies typically account for less than half a percent of national budgets",
+      "this is not a choice between exploration and healthcare",
+      "a modest, well-justified share of public spending",
+      "inspires a generation of students to pursue science and engineering"
+    ],
+    "bandBooster": [
+      "Band 8 dùng **dữ liệu ngân sách** để phá thế `either/or` của đề (`less than half a percent`). Đây là lúc kiến thức nền trực tiếp nâng `Task Response` — hãy dùng con số bạn chắc chắn đúng.",
+      "Nêu **tính hai chiều của đầu tư nghiên cứu**: lợi ích đến chậm, không chắc chắn, nhưng lan toả rộng. Sự thừa nhận này làm lập luận cân bằng và đáng tin.",
+      "Tránh hai thái cực dễ mắc: `space is a waste of money` và `space will save humanity`. Band 8 giữ mức `modest, well-justified share` — vừa cụ thể vừa khiêm tốn."
+    ]
+  }
+]

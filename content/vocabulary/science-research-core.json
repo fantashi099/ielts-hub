@@ -1,0 +1,462 @@
+{
+  "slug": "science-research-core",
+  "title": "Science and research — core set",
+  "titleVi": "Khoa học và nghiên cứu — bộ từ cốt lõi",
+  "topic": "science-research",
+  "description": "Bộ từ mô tả cách một nghiên cứu được thiết kế, kiểm chứng và công bố. Nhóm này giúp bạn viết về khoa học mà không rơi vào những câu chung chung kiểu \"science is important\".",
+  "ieltsUse": "Dùng cho Task 2 các đề về đầu tư nghiên cứu, đạo đức khoa học, thử nghiệm trên người và vai trò của bằng chứng trong hoạch định chính sách.",
+  "words": [
+    {
+      "word": "hypothesis",
+      "pos": "noun",
+      "ipa": "/haɪˈpɒθəsɪs/",
+      "band": "7.5",
+      "vi": "giả thuyết",
+      "def": "a proposed explanation to be tested by evidence",
+      "example": "The hypothesis was rejected after two independent teams failed to reproduce the result.",
+      "collocations": [
+        "test a hypothesis",
+        "formulate a hypothesis"
+      ],
+      "synonyms": [
+        "proposition",
+        "conjecture"
+      ],
+      "family": [
+        "hypothetical (adj)"
+      ]
+    },
+    {
+      "word": "statistically significant",
+      "pos": "adjective",
+      "ipa": "/stəˌtɪstɪkli sɪɡˈnɪfɪkənt/",
+      "band": "8.0",
+      "vi": "có ý nghĩa thống kê (không phải do ngẫu nhiên)",
+      "def": "unlikely to have occurred by chance alone",
+      "example": "The improvement was statistically significant, so the programme was extended nationwide.",
+      "collocations": [
+        "statistically significant difference",
+        "statistically significant result"
+      ],
+      "synonyms": [
+        "not attributable to chance",
+        "robust"
+      ]
+    },
+    {
+      "word": "methodology",
+      "pos": "noun",
+      "ipa": "/ˌmeθəˈdɒlədʒi/",
+      "band": "7.5",
+      "vi": "phương pháp luận",
+      "def": "the set of methods used in a piece of research",
+      "example": "Reviewers criticised the methodology because participants were not randomly assigned.",
+      "collocations": [
+        "research methodology",
+        "flawed methodology"
+      ],
+      "synonyms": [
+        "method",
+        "approach"
+      ],
+      "family": [
+        "methodological (adj)"
+      ]
+    },
+    {
+      "word": "peer review",
+      "pos": "collocation",
+      "ipa": "/ˌpɪə rɪˈvjuː/",
+      "band": "7.5",
+      "vi": "bình duyệt khoa học",
+      "def": "assessment of research by independent experts before publication",
+      "example": "Peer review filters weak studies, although it cannot detect every case of fraud.",
+      "collocations": [
+        "undergo peer review",
+        "peer review process"
+      ],
+      "synonyms": [
+        "expert assessment",
+        "refereeing"
+      ]
+    },
+    {
+      "word": "sample size",
+      "pos": "collocation",
+      "ipa": "/ˈsɑːmpl saɪz/",
+      "band": "7.5",
+      "vi": "cỡ mẫu",
+      "def": "the number of participants in a study",
+      "example": "A sample size of thirty students is far too small for general conclusions.",
+      "collocations": [
+        "large sample size",
+        "increase the sample size"
+      ],
+      "synonyms": [
+        "number of participants",
+        "study population"
+      ]
+    },
+    {
+      "word": "variable",
+      "pos": "noun",
+      "ipa": "/ˈveəriəbl/",
+      "band": "7.5",
+      "vi": "biến số",
+      "def": "a factor that can change and affect a result",
+      "example": "Researchers controlled for income as a variable when comparing exam results.",
+      "collocations": [
+        "key variable",
+        "control a variable"
+      ],
+      "synonyms": [
+        "factor",
+        "parameter"
+      ]
+    },
+    {
+      "word": "correlation",
+      "pos": "noun",
+      "ipa": "/ˌkɒrəˈleɪʃən/",
+      "band": "7.5",
+      "vi": "mối tương quan",
+      "def": "a statistical relationship between two things",
+      "example": "There is a strong correlation between sleep duration and academic performance.",
+      "collocations": [
+        "strong correlation",
+        "positive correlation"
+      ],
+      "synonyms": [
+        "association",
+        "link"
+      ],
+      "family": [
+        "correlate (v)"
+      ]
+    },
+    {
+      "word": "causation",
+      "pos": "noun",
+      "ipa": "/kɔːˈzeɪʃən/",
+      "band": "8.0",
+      "vi": "quan hệ nhân quả",
+      "def": "the relationship in which one thing causes another",
+      "example": "Correlation is not causation, so the link may run in the opposite direction.",
+      "collocations": [
+        "establish causation",
+        "correlation and causation"
+      ],
+      "synonyms": [
+        "cause and effect",
+        "causal link"
+      ]
+    },
+    {
+      "word": "replication",
+      "pos": "noun",
+      "ipa": "/ˌreplɪˈkeɪʃən/",
+      "band": "8.0",
+      "vi": "sự lặp lại nghiên cứu để kiểm chứng",
+      "def": "repetition of a study to check its findings",
+      "example": "Without replication, a single striking result should be treated with caution.",
+      "collocations": [
+        "fail replication",
+        "independent replication"
+      ],
+      "synonyms": [
+        "reproduction",
+        "repeat study"
+      ],
+      "family": [
+        "replicate (v)"
+      ]
+    },
+    {
+      "word": "validity",
+      "pos": "noun",
+      "ipa": "/vəˈlɪdəti/",
+      "band": "7.5",
+      "vi": "tính hiệu lực, độ giá trị",
+      "def": "the extent to which a study measures what it claims to",
+      "example": "The validity of the survey was undermined by leading questions.",
+      "collocations": [
+        "question validity",
+        "internal validity"
+      ],
+      "synonyms": [
+        "soundness",
+        "reliability"
+      ],
+      "family": [
+        "valid (adj)"
+      ]
+    },
+    {
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "band": "7.0",
+      "vi": "bước đột phá",
+      "def": "an important discovery or advance",
+      "example": "The vaccine was hailed as a breakthrough after decades of failed attempts.",
+      "collocations": [
+        "major breakthrough",
+        "scientific breakthrough"
+      ],
+      "synonyms": [
+        "advance",
+        "discovery"
+      ]
+    },
+    {
+      "word": "research grant",
+      "pos": "collocation",
+      "ipa": "/rɪˈsɜːtʃ ɡrɑːnt/",
+      "band": "7.5",
+      "vi": "kinh phí nghiên cứu",
+      "def": "money awarded to fund a research project",
+      "example": "Competition for a research grant now favours large established laboratories.",
+      "collocations": [
+        "apply for a research grant",
+        "government research grant"
+      ],
+      "synonyms": [
+        "funding award",
+        "research funding"
+      ]
+    },
+    {
+      "word": "clinical trial",
+      "pos": "collocation",
+      "ipa": "/ˈklɪnɪkl ˈtraɪəl/",
+      "band": "7.5",
+      "vi": "thử nghiệm lâm sàng",
+      "def": "a test of a treatment on human volunteers",
+      "example": "The drug failed its final clinical trial because of unexpected side effects.",
+      "collocations": [
+        "conduct a clinical trial",
+        "randomised clinical trial"
+      ],
+      "synonyms": [
+        "medical trial",
+        "drug trial"
+      ]
+    },
+    {
+      "word": "placebo",
+      "pos": "noun",
+      "ipa": "/pləˈsiːbəʊ/",
+      "band": "8.0",
+      "vi": "giả dược",
+      "def": "a harmless treatment given to a control group",
+      "example": "Half the volunteers received a placebo so that expectations could be measured.",
+      "collocations": [
+        "placebo effect",
+        "placebo-controlled trial"
+      ],
+      "synonyms": [
+        "dummy treatment",
+        "inactive substance"
+      ]
+    },
+    {
+      "word": "scientific consensus",
+      "pos": "collocation",
+      "ipa": "/ˌsaɪəntɪfɪk kənˈsensəs/",
+      "band": "7.5",
+      "vi": "sự đồng thuận khoa học",
+      "def": "the general agreement of experts in a field",
+      "example": "The scientific consensus on climate change has strengthened over thirty years.",
+      "collocations": [
+        "broad scientific consensus",
+        "challenge the scientific consensus"
+      ],
+      "synonyms": [
+        "expert agreement",
+        "received view"
+      ]
+    },
+    {
+      "word": "evidence-based",
+      "pos": "adjective",
+      "ipa": "/ˈevɪdəns beɪst/",
+      "band": "7.5",
+      "vi": "dựa trên bằng chứng",
+      "def": "decided according to research findings rather than opinion",
+      "example": "Evidence-based medicine replaced tradition as the standard in most hospitals.",
+      "collocations": [
+        "evidence-based policy",
+        "evidence-based practice"
+      ],
+      "synonyms": [
+        "research-led",
+        "empirically informed"
+      ]
+    },
+    {
+      "word": "extrapolate",
+      "pos": "verb",
+      "ipa": "/ɪkˈstræpəleɪt/",
+      "band": "8.0",
+      "vi": "suy rộng, ngoại suy từ dữ liệu đã có",
+      "def": "to estimate unknown values from known data",
+      "example": "It is risky to extrapolate national trends from a small regional survey.",
+      "collocations": [
+        "extrapolate from the data",
+        "extrapolate trends"
+      ],
+      "synonyms": [
+        "infer",
+        "project"
+      ],
+      "family": [
+        "extrapolation (n)"
+      ]
+    },
+    {
+      "word": "disseminate",
+      "pos": "verb",
+      "ipa": "/dɪˈsemɪneɪt/",
+      "band": "8.0",
+      "vi": "phổ biến, lan truyền (thông tin)",
+      "def": "to spread information widely",
+      "example": "Findings are useless unless researchers disseminate them beyond academic journals.",
+      "collocations": [
+        "disseminate findings",
+        "disseminate information"
+      ],
+      "synonyms": [
+        "circulate",
+        "spread"
+      ],
+      "family": [
+        "dissemination (n)"
+      ]
+    },
+    {
+      "word": "patent",
+      "pos": "noun",
+      "ipa": "/ˈpætnt/",
+      "band": "7.0",
+      "vi": "bằng sáng chế",
+      "def": "the legal right to be the only producer of an invention",
+      "example": "A patent gives the company a monopoly, which pushes up the price of the drug.",
+      "collocations": [
+        "apply for a patent",
+        "hold a patent"
+      ],
+      "synonyms": [
+        "copyright",
+        "exclusive right"
+      ]
+    },
+    {
+      "word": "prototype",
+      "pos": "noun",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "band": "7.5",
+      "vi": "nguyên mẫu",
+      "def": "a first working version of a new product",
+      "example": "The first prototype was too heavy, so engineers rebuilt it with carbon fibre.",
+      "collocations": [
+        "build a prototype",
+        "working prototype"
+      ],
+      "synonyms": [
+        "model",
+        "trial version"
+      ]
+    },
+    {
+      "word": "theoretical",
+      "pos": "adjective",
+      "ipa": "/ˌθɪəˈretɪkl/",
+      "band": "7.0",
+      "vi": "mang tính lý thuyết",
+      "def": "concerned with ideas rather than practical application",
+      "example": "The theoretical benefits of fusion are enormous, but commercial reactors remain decades away.",
+      "collocations": [
+        "theoretical framework",
+        "theoretical possibility"
+      ],
+      "synonyms": [
+        "hypothetical",
+        "abstract"
+      ],
+      "antonyms": [
+        "practical"
+      ]
+    },
+    {
+      "word": "applied research",
+      "pos": "collocation",
+      "ipa": "/əˌplaɪd rɪˈsɜːtʃ/",
+      "band": "7.5",
+      "vi": "nghiên cứu ứng dụng",
+      "def": "research aimed at solving a practical problem",
+      "example": "Funding bodies increasingly favour applied research over purely curiosity-driven work.",
+      "collocations": [
+        "conduct applied research",
+        "applied research funding"
+      ],
+      "synonyms": [
+        "practical research",
+        "problem-oriented research"
+      ]
+    },
+    {
+      "word": "anomaly",
+      "pos": "noun",
+      "ipa": "/əˈnɒməli/",
+      "band": "8.0",
+      "vi": "điều bất thường, dị biệt",
+      "def": "something that deviates from what is expected",
+      "example": "The anomaly in the data was dismissed as an error for nearly twenty years.",
+      "collocations": [
+        "statistical anomaly",
+        "explain the anomaly"
+      ],
+      "synonyms": [
+        "irregularity",
+        "inconsistency"
+      ],
+      "family": [
+        "anomalous (adj)"
+      ]
+    },
+    {
+      "word": "longitudinal study",
+      "pos": "collocation",
+      "ipa": "/ˌlɒndʒɪˈtjuːdɪnl ˈstʌdi/",
+      "band": "8.0",
+      "vi": "nghiên cứu theo chiều dọc (theo dõi nhiều năm)",
+      "def": "research that follows the same people over a long period",
+      "example": "A longitudinal study tracking 10,000 children found that early reading predicted later income.",
+      "collocations": [
+        "conduct a longitudinal study",
+        "longitudinal study data"
+      ],
+      "synonyms": [
+        "cohort study",
+        "follow-up study"
+      ]
+    },
+    {
+      "word": "control group",
+      "pos": "collocation",
+      "ipa": "/kənˈtrəʊl ɡruːp/",
+      "band": "7.5",
+      "vi": "nhóm đối chứng",
+      "def": "the participants who do not receive the treatment being tested",
+      "example": "The control group improved slightly too, which complicates the interpretation.",
+      "collocations": [
+        "compare with the control group",
+        "control group participants"
+      ],
+      "synonyms": [
+        "comparison group",
+        "baseline group"
+      ]
+    }
+  ]
+}

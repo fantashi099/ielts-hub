@@ -1,0 +1,204 @@
+{
+  "slug": "cause-effect-and-purpose-linkers",
+  "title": "Cause, effect and purpose linkers",
+  "titleVi": "Từ nối chỉ nguyên nhân, kết quả và mục đích",
+  "level": "B2",
+  "topic": "conjunctions",
+  "bookUnits": [64, 115, 116],
+  "bandFocus": "7.5",
+  "summary": "because/since/as, therefore/consequently, to/so that — nói rõ nguyên nhân, kết quả và mục đích mà không lặp từ.",
+  "whyItMatters": "Task 2 gần như luôn hỏi *why* và *what happens as a result*. Nếu bạn chỉ dùng `because` và `so`, phần giải thích sẽ mỏng và lặp. Band 7.5 cần phân biệt **nguyên nhân** (because, since, as, due to), **kết quả** (therefore, consequently, as a result) và **mục đích** (to, in order to, so that). Chọn sai loại từ nối là lỗi cấu trúc, không chỉ là lỗi từ vựng.",
+  "sections": [
+    {
+      "heading": "because, since, as: same meaning, different weight",
+      "body": [
+        "All three introduce a **clause** and answer *why*. **Because** is the most direct and the only one that can stand alone as a fragment answer: *Why did it fail? Because funding was cut.*",
+        "**Since** and **as** are more formal and often imply that the reason is already known to the reader: *Since the data are incomplete, the conclusions must be cautious.* In an essay this tone is useful — it presents your reason as shared ground rather than a new claim.",
+        "When the reason is a **noun** rather than a clause, switch to **because of**, **due to** or **owing to**: *Owing to the shortage of teachers, class sizes increased.* none of these takes a clause."
+      ],
+      "examples": [
+        { "right": "Because the sample was small, the findings cannot be generalised.", "note": "Direct reason + clause." },
+        { "right": "Since public transport is limited, many commuters depend on private cars.", "note": "**since** presents the reason as known background." },
+        { "right": "Due to a shortage of teachers, class sizes increased.", "wrong": "Due to there was a shortage of teachers, class sizes increased.", "note": "**due to** + noun phrase, never + clause." }
+      ]
+    },
+    {
+      "heading": "therefore, consequently, as a result: marking the effect",
+      "body": [
+        "These are **sentence adverbs**. They normally open a new sentence (or follow a semicolon), with a comma after: *The sample was small. **Therefore**, the findings cannot be generalised.*",
+        "They can also sit in **mid position** for a more formal, flowing style: *The sample was small and the findings **therefore** cannot be generalised.* This is common in academic journals.",
+        "**Thus** and **hence** are the most formal; **as a result** is the most explicit about causation; **consequently** often carries a negative tone. Avoid stacking two of them in one sentence."
+      ],
+      "table": {
+        "headers": ["Linker", "Position", "Register", "Example"],
+        "rows": [
+          ["therefore", "sentence-initial or mid", "formal", "Therefore, the policy was revised."],
+          ["consequently", "sentence-initial or mid", "formal, often negative", "Consequently, trust in the council fell."],
+          ["as a result", "sentence-initial or end", "neutral–formal", "As a result, waiting times doubled."],
+          ["thus", "sentence-initial or mid", "very formal", "Thus, the two groups diverged."],
+          ["hence", "sentence-initial", "very formal", "Hence the need for regulation."],
+          ["so", "mid, between clauses", "neutral", "The sample was small, so the results are tentative."]
+        ]
+      }
+    },
+    {
+      "heading": "Purpose: to, in order to, so as to, so that",
+      "body": [
+        "For a **purpose**, the default is **to + infinitive**: *The city built cycle lanes to reduce congestion.* **In order to** and **so as to** are more formal; **so as to** is useful when the purpose clause comes first: *So as to avoid delays, the works were scheduled at night.*",
+        "When the purpose needs its own subject, use **so that + clause** (often with *can/could/will/would*): *The council widened the pavement **so that** pedestrians could keep their distance.*",
+        "**For** takes a noun or an -ing form, and describes what something is **used for**, not a personal intention: *This fund is for research.* *A knife is for cutting.* Never write *for to reduce*."
+      ],
+      "examples": [
+        { "right": "The government introduced subsidies to encourage solar installation.", "note": "**to + infinitive** — same subject." },
+        { "right": "The government introduced subsidies so that low-income households could afford panels.", "wrong": "The government introduced subsidies so that low-income households can afford panels last year.", "note": "Backshift when the main verb is past: **could**." },
+        { "right": "So as not to disturb residents, the work was scheduled at night.", "note": "Negative purpose: **so as not to** / **in order not to**." }
+      ]
+    },
+    {
+      "heading": "Result: so … that and such … that",
+      "body": [
+        "**so + adjective/adverb + that**: *The cost was **so** high **that** many families withdrew.* **such + (a/an) + adjective + noun + that**: *It was **such** a high cost **that** many families withdrew.*",
+        "With quantity words, use **so many / so much / so few / so little + noun + that**: *There were **so few** places **that** the waiting list grew.*",
+        "These structures are stronger than *therefore*: they present the result as a direct consequence of an extreme degree, which is exactly the rhetoric of a problem–solution essay."
+      ],
+      "examples": [
+        { "right": "The rent was so high that key workers could no longer afford to live in the city.", "note": "**so + adjective + that**." },
+        { "right": "It was such a rapid expansion that infrastructure could not keep pace.", "note": "**such + a + adjective + noun + that**." },
+        { "right": "There was so little consultation that residents rejected the plan outright.", "wrong": "There was such little consultation that residents rejected the plan outright.", "note": "Quantity → **so little**, not *such little*." }
+      ]
+    },
+    {
+      "heading": "Cause chains in a Task 2 paragraph",
+      "body": [
+        "The strongest paragraphs do not repeat *because … so … because*. They alternate **clause linkers** with **nominalisation**, turning the cause into a noun phrase: *The **introduction of tuition fees** led to a **fall in enrolment** among low-income students.*",
+        "Useful nominal patterns: *lead to*, *result in*, *give rise to*, *contribute to* (+ noun); *stem from*, *arise from*, *be attributable to* (+ noun). These carry cause–effect inside a single clause, which is more compact than two clauses joined by *because*.",
+        "A model sequence: a nominalised cause, a consequence, then a purpose clause explaining the policy response. Three sentences, three different grammatical resources — and no repetition."
+      ],
+      "examples": [
+        { "right": "The expansion of private tutoring has contributed to widening achievement gaps.", "note": "**contribute to + noun** — compact causation." },
+        { "right": "Poorly designed housing gives rise to health problems later in life.", "note": "**give rise to** is formal and evaluative." },
+        { "right": "Rising commute times stem from decades of underinvestment in rail.", "note": "**stem from** reverses the direction: effect first, cause second." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Because of the traffic was heavy, I arrived late.",
+      "right": "Because the traffic was heavy, I arrived late. / Because of the heavy traffic, I arrived late.",
+      "why": "**because of** đi với cụm danh từ; **because** đi với mệnh đề. Không trộn hai cấu trúc."
+    },
+    {
+      "wrong": "The government built cycle lanes for to reduce congestion.",
+      "right": "The government built cycle lanes to reduce congestion.",
+      "why": "**for** không đi với *to + verb*. Mục đích dùng **to + infinitive**, hoặc **for + noun/-ing**."
+    },
+    {
+      "wrong": "The cost was so high that many families withdrew, therefore the scheme failed.",
+      "right": "The cost was so high that many families withdrew. Therefore, the scheme failed.",
+      "why": "**therefore** là trạng từ nối câu, không phải liên từ. Cần dấu chấm hoặc chấm phẩy, không dùng dấu phẩy đơn."
+    },
+    {
+      "wrong": "There was such little consultation that residents rejected the plan.",
+      "right": "There was so little consultation that residents rejected the plan.",
+      "why": "Với từ chỉ số lượng (**little, few, much, many**) dùng **so**, không dùng *such*."
+    },
+    {
+      "wrong": "The council widened the pavement so that pedestrians can keep their distance last year.",
+      "right": "The council widened the pavement so that pedestrians could keep their distance.",
+      "why": "Mệnh đề chính ở quá khứ thì mệnh đề mục đích lùi thì: **could**, không phải *can*."
+    }
+  ],
+  "ieltsTips": [
+    "Mở đoạn problem–solution bằng **nominalisation + cause verb**, rồi mới giải thích: ***The deregulation of rental markets** has **led to** a sharp **rise in** evictions.* Câu này dày thông tin hơn *Because the market was deregulated, evictions rose.*",
+    "Dùng **so that + could** để mô tả mục đích của một chính sách trong quá khứ: *The city pedestrianised the centre **so that** shoppers **could** move safely.* Đây là cấu trúc mục đích chính xác nhất khi chủ ngữ hai mệnh đề khác nhau.",
+    "Dùng **as a result** và **consequently** thay phiên nhau, mỗi đoạn tối đa một lần. Lặp *therefore* ba lần trong một bài là dấu hiệu band 6 về cohesion, dù ngữ pháp đúng.",
+    "Khi muốn nêu hệ quả mạnh, dùng **so … that** thay cho *very … therefore*: ***So few** landlords registered that the scheme became impossible to enforce.* Cấu trúc này tạo nhịp câu học thuật và nhấn đúng điểm cực đoan."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ the sample was small, the findings cannot be generalised.",
+      "options": ["Because of", "Because", "Due to", "Owing to"],
+      "answerIndex": 1,
+      "explanation": "A clause follows → **Because**. *Because of / due to / owing to* need a noun phrase."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The city built cycle lanes ___ reduce congestion.",
+      "options": ["for", "for to", "to", "so that"],
+      "answerIndex": 2,
+      "explanation": "Purpose with the same subject → **to + infinitive**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The council widened the pavement ___ pedestrians could keep their distance.",
+      "options": ["to", "for", "so that", "because"],
+      "answerIndex": 2,
+      "explanation": "A new subject (*pedestrians*) needs **so that + clause**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "There were ___ few places that the waiting list grew rapidly.",
+      "options": ["such", "so", "very", "too"],
+      "answerIndex": 1,
+      "explanation": "Quantity word *few* takes **so**: *so few places that*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is punctuated correctly?",
+      "options": [
+        "The cost rose, therefore demand fell.",
+        "The cost rose. Therefore, demand fell.",
+        "The cost rose therefore, demand fell.",
+        "The cost rose; therefore demand fell,"
+      ],
+      "answerIndex": 1,
+      "explanation": "**therefore** opens a new sentence (or follows a semicolon) and takes a comma after it."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "___ to a shortage of teachers, class sizes increased.",
+      "answers": ["due", "owing"],
+      "hint": "___ to + noun",
+      "explanation": "**Due to / Owing to** + noun phrase."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The rent was ___ high that key workers could no longer afford to live there.",
+      "answers": ["so"],
+      "hint": "so + adjective + that",
+      "explanation": "**so + adjective + that**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "So as ___ disturb residents, the work was scheduled at night.",
+      "answers": ["not to"],
+      "hint": "negative purpose",
+      "explanation": "**so as not to + verb**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Rising commute times ___ from decades of underinvestment in rail.",
+      "answers": ["stem"],
+      "hint": "stem ___ = be caused by",
+      "explanation": "**stem from** = be caused by."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The expansion of private tutoring has contributed ___ widening achievement gaps.",
+      "answers": ["to"],
+      "hint": "contribute ___",
+      "explanation": "**contribute to + noun/-ing**."
+    }
+  ]
+}

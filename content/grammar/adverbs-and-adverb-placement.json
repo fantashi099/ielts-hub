@@ -1,0 +1,204 @@
+{
+  "slug": "adverbs-and-adverb-placement",
+  "title": "Adverbs and adverb placement",
+  "titleVi": "Trạng từ và vị trí trạng từ",
+  "level": "B2",
+  "topic": "adjectives-adverbs",
+  "bookUnits": [100, 101, 110],
+  "bandFocus": "7.5",
+  "summary": "Đặt trạng từ đúng chỗ — giữa trợ động từ và động từ chính, không chen giữa động từ và tân ngữ.",
+  "whyItMatters": "Trạng từ sai vị trí là lỗi band 6 điển hình vì câu vẫn hiểu được nhưng nghe *lệch*: *I like very much this book*, *She speaks very well English*. Trong Writing Task 1, trạng từ chỉ mức độ (`sharply`, `steadily`, `marginally`) quyết định độ chính xác của mô tả xu hướng; đặt sai chỗ, câu mất tự nhiên và mất điểm Lexical Resource lẫn Grammar.",
+  "sections": [
+    {
+      "heading": "Adjective or adverb: what is being described?",
+      "body": [
+        "An **adjective** describes a noun or pronoun: *a careful driver*, *the response was quick*. An **adverb** describes a verb, an adjective or another adverb: *she drives carefully*, *the response came quickly*, *remarkably cheap*.",
+        "The confusion starts with **linking verbs** — *be, seem, look, feel, sound, taste, become, remain*. After them you need an adjective, because the verb is describing the subject, not the action: *The plan looks risky* (not *looks riskily*).",
+        "So the same idea takes two shapes: *a **serious** problem* (adjective + noun) versus *the problem **seriously** affects rural schools* (adverb + verb)."
+      ],
+      "examples": [
+        { "right": "The number of cyclists rose sharply after the lane opened.", "wrong": "The number of cyclists rose sharp after the lane opened.", "note": "*Rose* is a verb, so it needs the adverb **sharply**." },
+        { "right": "The scheme looks promising.", "wrong": "The scheme looks promisingly.", "note": "**look** is a linking verb here → adjective." },
+        { "right": "Researchers measured the decline accurately.", "note": "Adverb modifies the verb *measured*." }
+      ]
+    },
+    {
+      "heading": "Well, fast, late, hard — and the traps beside them",
+      "body": [
+        "Some adverbs do not end in **-ly**: *fast*, *hard*, *late*, *early*, *well*. *Well* is the adverb of *good*: *She writes well*, not *She writes good*.",
+        "Three look-alike pairs cause most errors. **hard** = with effort; **hardly** = almost not. **late** = not on time; **lately** = recently. **near** = close; **nearly** = almost.",
+        "Notice how much the meaning shifts: *He works hard* (he is diligent) versus *He hardly works* (he does almost nothing). One letter changes the claim entirely."
+      ],
+      "table": {
+        "headers": ["Adverb", "Meaning", "Example"],
+        "rows": [
+          ["hard", "with effort", "Rural teachers work hard for low pay."],
+          ["hardly", "almost not", "The two groups hardly differ in income."],
+          ["late", "not on time", "The train arrived late again."],
+          ["lately", "recently", "Lately, the city has focused on cycling."],
+          ["nearly", "almost", "Nearly half of respondents supported the tax."],
+          ["well", "in a good way", "The policy has worked well in small towns."]
+        ]
+      }
+    },
+    {
+      "heading": "Mid position: before the main verb, after be",
+      "body": [
+        "Adverbs of frequency and degree (**always, usually, often, sometimes, rarely, never, also, probably, definitely, hardly ever**) normally sit in **mid position**.",
+        "The pattern has three parts. Before a **main verb**: *We **usually** eat at home.* After **be**: *She is **always** late.* After the **first auxiliary**: *The meeting has **probably** finished.* If there are two auxiliaries, the adverb goes after the first: *The results will **definitely** be published.*",
+        "Mid-position adverbs never split a verb from its object. *I like very much this book* fails because *very much* sits between *like* and *this book*; write *I like this book very much*."
+      ],
+      "examples": [
+        { "right": "The government has consistently underestimated demand for housing.", "wrong": "The government has underestimated consistently demand for housing.", "note": "After the first auxiliary **has**." },
+        { "right": "We are usually charged for extra baggage.", "wrong": "We usually are charged for extra baggage.", "note": "After **be**." },
+        { "right": "She reads the report carefully every morning.", "wrong": "She reads carefully the report every morning.", "note": "Never put an adverb between verb and object." }
+      ]
+    },
+    {
+      "heading": "End position: manner, place, time",
+      "body": [
+        "When several adverbials end a sentence, the neutral order is **manner → place → time**: *She sang beautifully at the concert last night.*",
+        "This is a default, not a law. Putting **time** first gives it emphasis (*Last night she sang beautifully*), and putting **place** first is common when the place is the topic (*In rural areas, access remains limited*).",
+        "Keep long phrases out of the middle of the sentence. A short adverb can sit mid-sentence; a five-word prepositional phrase cannot: *The council, **in response to mounting criticism**, revised the plan* is fine, but *The council revised in response to mounting criticism the plan* is not."
+      ],
+      "examples": [
+        { "right": "The proportion of graduates working abroad rose steadily between 2010 and 2020.", "note": "manner (*steadily*) → time (*between…*)." },
+        { "right": "In coastal cities, property prices have doubled since 2015.", "note": "Fronted place phrase for topic emphasis." },
+        { "right": "She explained the method clearly at the start of the seminar.", "wrong": "She explained clearly the method at the start of the seminar.", "note": "Verb and object stay together." }
+      ]
+    },
+    {
+      "heading": "When position changes the meaning",
+      "body": [
+        "Focus adverbs — **only, even, just, merely, particularly** — modify the word immediately after them. Moving them changes the claim: *Only the manager approved the budget* (nobody else) versus *The manager only approved the budget* (nothing more than approval).",
+        "Comment adverbs — **fortunately, surprisingly, frankly, arguably, theoretically** — usually open the sentence and evaluate the whole clause: *Surprisingly, the policy had little effect on prices.*",
+        "In academic writing, place hedges mid-sentence for a measured tone: *This **arguably** reflects a deeper skills mismatch*, rather than the blunt *This reflects a skills mismatch*."
+      ],
+      "examples": [
+        { "right": "Only two of the ten regions met the target.", "note": "**only** limits *two of the ten regions*." },
+        { "right": "The region only met two of the ten targets.", "note": "Different claim: it met two and no more." },
+        { "right": "Arguably, the policy has done more harm than good.", "note": "Comment adverb + comma frames the whole sentence as a judgement." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "She speaks very well English.",
+      "right": "She speaks English very well.",
+      "why": "Trạng từ không chen giữa động từ và tân ngữ. *English* là tân ngữ nên phải đứng ngay sau *speaks*."
+    },
+    {
+      "wrong": "He works hardly every day.",
+      "right": "He works hard every day.",
+      "why": "**hardly** = hầu như không, nghĩa hoàn toàn khác **hard** = chăm chỉ. Đây là cặp dễ nhầm nhất vì *hardly* trông như trạng từ chuẩn của *hard*."
+    },
+    {
+      "wrong": "The plan looks riskily to investors.",
+      "right": "The plan looks risky to investors.",
+      "why": "Sau động từ nối (**look, seem, feel, become**) dùng tính từ, không dùng trạng từ."
+    },
+    {
+      "wrong": "The government has underestimated consistently the problem.",
+      "right": "The government has consistently underestimated the problem.",
+      "why": "Trạng từ tần suất đứng **sau trợ động từ đầu tiên** và trước động từ chính."
+    },
+    {
+      "wrong": "Lately, he arrived late for the meeting.",
+      "right": "Recently, he arrived late for the meeting. / He arrived late for the meeting lately.",
+      "why": "**lately** = gần đây, không đồng nghĩa *late* = muộn. Ở đầu câu, *Lately* vẫn đúng ngữ pháp nhưng nghĩa là *gần đây*, không phải *muộn*."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, chọn trạng từ mức độ chính xác thay vì `very`: *rose **sharply** / **steadily** / **marginally***, *fell **modestly***, *remained **broadly** stable*. Mỗi trạng từ phải khớp với độ dốc thật của biểu đồ.",
+    "Đặt trạng từ tần suất vào giữa câu để câu Task 2 nghe học thuật: *Governments have **repeatedly** failed to address the shortage*, *Critics **often** argue that…*",
+    "Dùng comment adverb để mở câu nhận định, tạo giọng phê bình có kiểm soát: ***Arguably**, the benefits have been overstated.* ***Surprisingly**, fuel taxes provoked little opposition.*",
+    "Nhớ **only** đứng ngay trước từ nó giới hạn. Nếu muốn nói *chỉ có chính phủ*, viết *Only the government can…*; nếu muốn nói *chính phủ chỉ làm một việc*, viết *The government only…*."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The proportion of households renting privately rose ___ between 2005 and 2015.",
+      "options": ["sharp", "sharply", "sharpness", "sharpen"],
+      "answerIndex": 1,
+      "explanation": "*Rose* is a verb → adverb **sharply**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The new measures look ___ on paper.",
+      "options": ["reasonably", "reasonable", "reason", "reasoned"],
+      "answerIndex": 1,
+      "explanation": "**look** is a linking verb → adjective **reasonable**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I like very much this policy.",
+        "I like this policy very much.",
+        "I very much like this policy much.",
+        "I like this very much policy."
+      ],
+      "answerIndex": 1,
+      "explanation": "The object stays next to the verb; *very much* goes at the end."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "He ___ works; he spends most of the day on his phone.",
+      "options": ["hard", "hardly", "harder", "hardly ever"],
+      "answerIndex": 1,
+      "explanation": "The second clause shows he does almost nothing → **hardly**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "The committee has ___ reached a decision.",
+      "options": ["yet", "already", "still", "ever"],
+      "answerIndex": 1,
+      "explanation": "Positive statement with *has* → **already** (sooner than expected). *Yet* is for negatives and questions."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The team has ___ (probable) finished the fieldwork by now.",
+      "answers": ["probably"],
+      "hint": "adverb form",
+      "explanation": "After the first auxiliary **has** → **probably**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "She explained the procedure ___ (clear) to the new staff.",
+      "answers": ["clearly"],
+      "hint": "how she explained",
+      "explanation": "Adverb of manner modifying *explained* → **clearly**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "___ (fortunate), the storm passed before the evacuation began.",
+      "answers": ["fortunately"],
+      "hint": "comment adverb at the front",
+      "explanation": "A comment adverb opening the sentence → **Fortunately**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The two cohorts ___ (hard / differ) in average income.",
+      "answers": ["hardly differ"],
+      "hint": "almost not",
+      "explanation": "Meaning *almost not* → **hardly differ**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Only two regions ___ (meet) the target last year.",
+      "answers": ["met"],
+      "hint": "past simple",
+      "explanation": "**only** limits the subject; the verb stays past simple **met**."
+    }
+  ]
+}

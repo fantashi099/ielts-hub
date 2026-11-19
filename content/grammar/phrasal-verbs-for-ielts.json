@@ -1,0 +1,211 @@
+{
+  "slug": "phrasal-verbs-for-ielts",
+  "title": "Phrasal verbs for IELTS",
+  "titleVi": "Cụm động từ cho IELTS",
+  "level": "B2",
+  "topic": "phrasal-verbs",
+  "bookUnits": [137, 138, 139, 140, 141, 142, 143, 144, 145],
+  "bandFocus": "8.0",
+  "summary": "Nhóm cụm động từ học thuật (carry out, phase out) và cụm mô tả xu hướng (level off, bottom out) — dùng đúng tách/không tách.",
+  "whyItMatters": "Người học hay tránh cụm động từ vì sợ sai, rồi viết toàn *do*, *make*, *increase*. Nhưng một số cụm là chuẩn học thuật (*carry out research*, *phase out coal*, *account for 20%*) và nhóm mô tả xu hướng (*level off*, *bottom out*) là ngôn ngữ bắt buộc của Task 1. Vấn đề không phải dùng nhiều, mà là dùng **đúng loại** và **đúng vị trí tân ngữ**.",
+  "sections": [
+    {
+      "heading": "Three types, three behaviours",
+      "body": [
+        "**Intransitive** phrasal verbs take no object: *The economy slowed down.* *Sales picked up.* **Inseparable transitive** verbs keep the particle next to the verb: *We must **look into** the complaint* — never *look the complaint into*.",
+        "**Separable transitive** verbs allow the object between verb and particle: *carry out the survey* or *carry the survey out*. When the object is a **pronoun**, it must go in the middle: *carry **it** out*, never *carry out it*.",
+        "Three-word verbs are always inseparable and always keep their order: *put up with*, *cut back on*, *look forward to*, *get away with*, *come up against*."
+      ],
+      "table": {
+        "headers": ["Type", "Pattern", "Example"],
+        "rows": [
+          ["intransitive", "verb + particle", "Growth took off after 2010."],
+          ["inseparable", "verb + particle + object", "We look into every complaint."],
+          ["separable", "verb + object + particle", "They carried the plan out."],
+          ["separable + pronoun", "verb + pronoun + particle", "They carried it out."],
+          ["three-word", "verb + particle + preposition + object", "They cut back on spending."]
+        ]
+      }
+    },
+    {
+      "heading": "Academic phrasal verbs worth using",
+      "body": [
+        "A small set is fully acceptable in formal writing because there is no simpler single-word equivalent in common use: **carry out** (research, a survey, a review), **put forward** (a proposal, an argument), **phase out** (a fuel, a subsidy), **bring about** (change), **account for** (a proportion), **point out** (a limitation).",
+        "Others are neutral enough for Task 2: **rule out** (exclude), **look into** (investigate), **set out** (present systematically), **take on** (accept work or responsibility), **break down** (divide into parts, or stop working).",
+        "These verbs let you vary your vocabulary without sounding informal. *The study **carried out** in 2022 **points out** that rural clinics **account for** only 12% of spending* is band-8 academic prose built almost entirely from phrasal verbs."
+      ],
+      "examples": [
+        { "right": "The researchers carried out a survey of 2,000 households.", "note": "**carry out** + research-type noun." },
+        { "right": "Several economists have put forward a different explanation.", "note": "**put forward** = propose." },
+        { "right": "The government intends to phase out coal subsidies by 2030.", "note": "**phase out** = remove gradually." }
+      ]
+    },
+    {
+      "heading": "Trend phrasal verbs for Task 1",
+      "body": [
+        "Task 1 needs movement verbs, and the phrasal set is compact and precise: **take off** (start rising fast), **pick up** (start rising after a slow period), **level off / flatten out** (stop rising or falling), **bottom out** (reach the lowest point and stop falling), **peak** is a single verb, but **edge up / edge down** describes a small change.",
+        "Use them as alternatives to *increase/decrease* when the shape of the line matters: *Sales **bottomed out** in 2012 before **picking up** sharply.* Two phrasal verbs in one sentence, both accurate.",
+        "Do not use them for data you have not seen. *Take off* implies a sudden acceleration; if the line rises steadily, *rise steadily* is the honest description."
+      ],
+      "examples": [
+        { "right": "Demand levelled off between 2015 and 2018.", "wrong": "Demand levelled between 2015 and 2018.", "note": "The particle is part of the meaning — *level* alone means *make flat*." },
+        { "right": "Sales bottomed out in 2012, then picked up sharply.", "note": "**bottom out** = reach the lowest point." },
+        { "right": "The figure edged up by just 2% over the decade.", "note": "**edge up** = rise slightly." }
+      ]
+    },
+    {
+      "heading": "Register: when to replace a phrasal verb",
+      "body": [
+        "Many phrasal verbs are informal and have a Latinate single-word equivalent that examiners prefer: *put off → postpone*, *find out → discover*, *go up → rise*, *look at → examine*, *talk about → discuss*, *get rid of → eliminate*, *come up with → devise*, *deal with → address*.",
+        "The test is simple: if a one-word verb exists and is common, use it in Writing. If the phrasal verb is the standard term (*carry out research*, *phase out subsidies*), keep it.",
+        "In Speaking, the opposite applies — phrasal verbs make you sound natural. So learn both registers and switch deliberately between Task 2 and the speaking test."
+      ],
+      "table": {
+        "headers": ["Informal phrasal verb", "Formal equivalent", "Use in Writing"],
+        "rows": [
+          ["put off", "postpone", "postpone"],
+          ["find out", "discover, establish", "establish"],
+          ["go up / go down", "rise / fall", "rise / fall"],
+          ["talk about", "discuss", "discuss"],
+          ["get rid of", "eliminate, remove", "eliminate"],
+          ["come up with", "devise, formulate", "devise"],
+          ["look into", "investigate", "either is acceptable"],
+          ["carry out", "conduct", "either is acceptable"]
+        ]
+      }
+    },
+    {
+      "heading": "Putting phrasal verbs to work in a paragraph",
+      "body": [
+        "A single well-placed phrasal verb can carry a whole policy narrative. Consider: *The city **set out** to cut car use by 30%. It **carried out** a series of pilot schemes, then **phased out** free parking in the centre. Congestion **levelled off** within two years, and cycling **picked up** sharply.*",
+        "That paragraph uses five phrasal verbs, all standard, and no repetition of *increase* or *do*. This is what range looks like in practice — not rare words, but the right verb for each stage of the story.",
+        "Keep the density controlled: four to six phrasal verbs in a 250-word essay is plenty. More than that starts to sound like a vocabulary list rather than an argument."
+      ],
+      "examples": [
+        { "right": "The council set out to cut emissions by a third.", "note": "**set out to + verb** = begin with a stated aim." },
+        { "right": "Free parking was phased out over three years.", "note": "Passive + separable verb; *phased out* stays together in the passive." },
+        { "right": "Cycling picked up sharply once the lanes opened.", "note": "Intransitive trend verb." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The researchers carried out it in 2022.",
+      "right": "The researchers carried it out in 2022.",
+      "why": "Với đại từ tân ngữ, cụm tách được phải đặt đại từ ở **giữa**: `carry it out`, không phải `carry out it`."
+    },
+    {
+      "wrong": "We are looking forward to hear from you.",
+      "right": "We are looking forward to hearing from you.",
+      "why": "**look forward to** + V-ing vì *to* ở đây là giới từ, không phải `to + infinitive`."
+    },
+    {
+      "wrong": "The government cut back spending on health.",
+      "right": "The government cut back on spending on health.",
+      "why": "Cụm đúng là **cut back on + noun**. Thiếu *on* là lỗi giới từ."
+    },
+    {
+      "wrong": "Demand levelled between 2015 and 2018.",
+      "right": "Demand levelled off between 2015 and 2018.",
+      "why": "**level off** mới có nghĩa *ngừng tăng/giảm*. *Level* một mình nghĩa *làm phẳng*."
+    },
+    {
+      "wrong": "The essay sets out that rural schools lack funding.",
+      "right": "The essay points out that rural schools lack funding.",
+      "why": "**set out** cần `to + verb` khi nói mục đích (*sets out to show*), hoặc + noun (*sets out the argument*). Với mệnh đề *that*, dùng **point out**."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, dùng cụm mô tả **hình dạng** đường biểu đồ thay vì chỉ nói tăng/giảm: *bottomed out*, *levelled off*, *picked up*, *edged up*. Bốn cụm này đủ để mô tả hầu hết biểu đồ đường.",
+    "Trong Task 2, dùng **carry out** và **put forward** thay cho *do* và *say*: *Several studies **carried out** in low-income countries **put forward** a different explanation.* Câu vừa chính xác vừa đúng register học thuật.",
+    "Đừng dùng cụm động từ thân mật trong Writing. Nếu có từ một chữ tương đương (**postpone**, **discover**, **eliminate**), hãy dùng nó. Giữ cụm động từ cho những khái niệm không có từ thay thế tự nhiên.",
+    "Học cụm động từ theo **cấu trúc**, không theo nghĩa: ghi *carry out + research/survey*, *phase out + subsidy/fuel*, *account for + %*. Khi biết tân ngữ đi kèm, bạn sẽ không phải ghép từ trong lúc viết."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The team carried ___ a survey of 2,000 households.",
+      "options": ["out", "on", "up", "off"],
+      "answerIndex": 0,
+      "explanation": "**carry out** a survey."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The government plans to phase ___ coal subsidies by 2030.",
+      "options": ["off", "out", "down", "away"],
+      "answerIndex": 1,
+      "explanation": "**phase out** = remove gradually."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The researchers carried out it last year.",
+        "The researchers carried it out last year.",
+        "The researchers carried out last year it.",
+        "The researchers out carried it last year."
+      ],
+      "answerIndex": 1,
+      "explanation": "A pronoun object goes between verb and particle."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Sales ___ in 2012 and then rose sharply.",
+      "options": ["bottomed out", "bottomed", "bottomed down", "bottomed off"],
+      "answerIndex": 0,
+      "explanation": "**bottom out** = reach the lowest point."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "I am looking forward to ___ from you.",
+      "options": ["hear", "hearing", "heard", "be heard"],
+      "answerIndex": 1,
+      "explanation": "**look forward to + -ing** — *to* is a preposition here."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "Agriculture accounts ___ about 40% of total water use.",
+      "answers": ["for"],
+      "hint": "account ___ = represent",
+      "explanation": "**account for** = represent a proportion."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The committee will look ___ the complaint.",
+      "answers": ["into"],
+      "hint": "investigate",
+      "explanation": "**look into** = investigate."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The council cut back ___ spending on consultants.",
+      "answers": ["on"],
+      "hint": "cut back ___ + noun",
+      "explanation": "**cut back on** + noun."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Demand levelled ___ between 2015 and 2018.",
+      "answers": ["off"],
+      "hint": "stop rising or falling",
+      "explanation": "**level off** = stop rising or falling."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "We cannot put ___ with such high levels of waste.",
+      "answers": ["up"],
+      "hint": "tolerate",
+      "explanation": "**put up with** = tolerate (three-word, inseparable)."
+    }
+  ]
+}

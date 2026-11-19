@@ -1,0 +1,213 @@
+{
+  "slug": "zero-and-first-conditional",
+  "title": "Zero and first conditionals",
+  "titleVi": "Câu điều kiện loại 0 và loại 1",
+  "level": "B1",
+  "topic": "conditionals",
+  "bookUnits": [38],
+  "bandFocus": "7.0",
+  "summary": "Nói về quy luật tất yếu và khả năng thực tế trong tương lai — nền tảng để lập luận nguyên nhân - kết quả trong Task 2.",
+  "whyItMatters": "Task 2 yêu cầu bạn nêu hệ quả: *If governments subsidise childcare, more parents can return to work.* Câu điều kiện loại 1 là cấu trúc gọn nhất để làm việc đó, còn loại 0 diễn tả quy luật. Lỗi `if ... will` là lỗi phổ biến nhất và dễ tránh nhất trong cả hai loại.",
+  "sections": [
+    {
+      "heading": "Zero conditional: general truths and automatic results",
+      "body": [
+        "The zero conditional is **if/when + present simple, present simple**. It states a rule that is always true: cause and effect, scientific fact, or habitual consequence.",
+        "**If** and **when** are interchangeable here because the result always follows: *If you heat ice, it melts* = *When you heat ice, it melts*.",
+        "In academic writing, this is the structure of definitions and mechanisms: *If demand exceeds supply, prices rise.*"
+      ],
+      "examples": [
+        { "right": "If you heat ice, it melts.", "note": "Scientific fact — both clauses in the present simple." },
+        { "right": "When public transport is reliable, car use tends to fall.", "note": "General social pattern." },
+        { "right": "If a country invests in education, productivity usually improves.", "wrong": "If a country will invest in education, productivity usually improves.", "note": "Mệnh đề **if** không dùng **will**." }
+      ]
+    },
+    {
+      "heading": "First conditional: a real possibility in the future",
+      "body": [
+        "The first conditional is **if + present simple, will + base verb**. It describes a future situation that is genuinely possible, and its likely result.",
+        "The result clause can also use **can**, **may**, **might**, **must** or an imperative instead of **will**: *If you finish early, you can leave.* / *If it rains, take an umbrella.*",
+        "The **if** clause keeps the present simple even though the meaning is future. This is the single most tested rule in the whole conditional system."
+      ],
+      "examples": [
+        { "right": "If the city builds more cycle lanes, traffic congestion will fall.", "note": "Real future possibility + likely result." },
+        { "right": "If you finish the survey today, you can submit it tomorrow.", "note": "**can** in the result clause." },
+        { "right": "If tuition fees rise again, many students may defer their studies.", "note": "**may** softens the prediction." },
+        { "right": "If the government raises the tax, small businesses will struggle.", "wrong": "If the government will raise the tax, small businesses will struggle.", "note": "Sau **if** dùng present simple, không dùng **will**." }
+      ]
+    },
+    {
+      "heading": "Unless, provided that, as long as and in case",
+      "body": [
+        "**unless** means *if not*: *Unless the council acts, air quality will worsen.* Never use **unless** with another negative — *unless you don't study* is a double negative.",
+        "**provided that** and **as long as** state a condition that must be met: *The scheme will work provided that funding continues.*",
+        "**in case** is not a condition — it means *because something might happen*: *Take a copy in case the file is lost.*"
+      ],
+      "table": {
+        "headers": ["Linker", "Meaning", "Example"],
+        "rows": [
+          ["if", "condition", "If it rains, the event moves indoors."],
+          ["unless", "if not", "Unless it rains, the event stays outside."],
+          ["provided that / as long as", "only if this condition holds", "The plan works provided that funding continues."],
+          ["in case", "because something might happen", "Take a copy in case the file is lost."]
+        ]
+      }
+    },
+    {
+      "heading": "Tense and punctuation rules",
+      "body": [
+        "No **will** in the **if** clause. If you need to show completion, use the present perfect: *If you have finished, you may leave.*",
+        "When the **if** clause comes first, use a comma. When it comes second, no comma is needed: *Traffic will fall if the city builds more cycle lanes.*",
+        "The zero conditional never takes **will** in either clause, because it describes what always happens, not a prediction."
+      ],
+      "examples": [
+        { "right": "If you have completed the form, hand it to the officer at the desk.", "note": "Present perfect in the **if** clause for completion." },
+        { "right": "Traffic will fall if the city builds more cycle lanes.", "note": "No comma when the **if** clause comes second." },
+        { "right": "Unless the council acts, air quality will worsen.", "wrong": "Unless the council doesn't act, air quality will worsen.", "note": "**Unless** đã mang nghĩa phủ định — không thêm **not**." }
+      ]
+    },
+    {
+      "heading": "Conditionals as an argument tool in Task 2",
+      "body": [
+        "Use the first conditional to spell out a policy's likely effect: *If governments subsidise childcare, more parents will be able to return to full-time work.*",
+        "Use the zero conditional to state a general principle before applying it: *If wages stagnate while prices rise, households inevitably cut spending.*",
+        "Do not overuse conditionals. Two or three well-placed ones per essay create logical structure; eight make the argument sound hypothetical and weak."
+      ],
+      "examples": [
+        { "right": "If governments subsidise childcare, more parents will be able to return to full-time work.", "note": "Policy consequence in a Task 2 body paragraph." },
+        { "right": "If wages stagnate while prices rise, households inevitably cut spending.", "note": "General principle supporting a claim." },
+        { "right": "Provided that the funding is ring-fenced, the programme should succeed.", "note": "A condition that must hold for the proposal to work." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "If it will rain tomorrow, we will cancel the trip.",
+      "right": "If it rains tomorrow, we will cancel the trip.",
+      "why": "Mệnh đề `if` không dùng `will`, dù nghĩa là tương lai. Đây là lỗi số một của người học Việt Nam với câu điều kiện."
+    },
+    {
+      "wrong": "Unless you don't study, you will fail the exam.",
+      "right": "Unless you study, you will fail the exam.",
+      "why": "`Unless` đã có nghĩa 'nếu không', nên không thêm `not` — nếu không sẽ thành phủ định kép."
+    },
+    {
+      "wrong": "When you heat ice, it will melt.",
+      "right": "When you heat ice, it melts.",
+      "why": "Quy luật tự nhiên dùng câu điều kiện loại 0 với `present simple` ở cả hai mệnh đề, không dùng `will`."
+    },
+    {
+      "wrong": "If you will have finished the report, send it to me.",
+      "right": "If you have finished the report, send it to me.",
+      "why": "Trong mệnh đề `if`, thì hoàn thành dùng `present perfect`, không dùng `will have`."
+    },
+    {
+      "wrong": "If I study hard, I would pass the exam.",
+      "right": "If I study hard, I will pass the exam.",
+      "why": "Khả năng thực tế trong tương lai dùng câu điều kiện loại 1 với `will`. `Would` thuộc câu điều kiện loại 2 (không có thật)."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng câu điều kiện loại 1 để triển khai hệ quả chính sách trong Task 2: `If the government invests in public transport, congestion will fall.`",
+    "Dùng câu điều kiện loại 0 để nêu nguyên lý chung trước khi áp dụng vào lập luận cụ thể.",
+    "Nhớ quy tắc dấu phẩy: mệnh đề `if` đứng trước thì có dấu phẩy, đứng sau thì không.",
+    "Hạn chế dùng quá ba câu điều kiện trong một bài Task 2; lạm dụng khiến lập luận nghe giả định và thiếu dứt khoát."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "If the city ___ more cycle lanes, congestion will fall.",
+      "options": ["will build", "builds", "built", "is building"],
+      "answerIndex": 1,
+      "explanation": "Mệnh đề **if** của câu điều kiện loại 1 dùng **present simple**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence states a general truth correctly?",
+      "options": [
+        "When you heat ice, it will melt.",
+        "When you heat ice, it melts.",
+        "When you will heat ice, it melts.",
+        "When you heat ice, it melted."
+      ],
+      "answerIndex": 1,
+      "explanation": "Quy luật tự nhiên (loại 0) dùng **present simple** ở cả hai mệnh đề."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "___ the council acts, air quality will continue to worsen.",
+      "options": ["Unless", "If", "Provided that", "In case"],
+      "answerIndex": 0,
+      "explanation": "**Unless** = nếu không; nghĩa câu cần 'trừ khi hội đồng hành động'."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence uses 'unless' correctly?",
+      "options": [
+        "Unless you don't study, you will fail.",
+        "Unless you study, you will fail.",
+        "If you don't study, you will not fail.",
+        "Unless you study, you won't fail."
+      ],
+      "answerIndex": 1,
+      "explanation": "**Unless** đã mang nghĩa phủ định nên không thêm **not**; nghĩa đúng là 'nếu bạn không học, bạn sẽ trượt'."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence uses the correct conditional for a real future possibility?",
+      "options": [
+        "If governments will subsidise childcare, more parents return to work.",
+        "If governments subsidise childcare, more parents will return to work.",
+        "If governments subsidised childcare, more parents will return to work.",
+        "If governments subsidise childcare, more parents would return to work."
+      ],
+      "answerIndex": 1,
+      "explanation": "Loại 1: **if + present simple, will + V**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "If tuition fees ___ (rise) again, many students may defer their studies.",
+      "answers": ["rise"],
+      "hint": "if + present simple",
+      "explanation": "Mệnh đề **if** dùng present simple dù nghĩa tương lai."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Unless the government ___ (invest) in rural clinics, healthcare access will remain unequal.",
+      "answers": ["invests"],
+      "hint": "unless + present simple",
+      "explanation": "**Unless** + present simple, chủ ngữ số ít nên thêm **-s**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "Take a copy of the form ___ the original is lost.",
+      "answers": ["in case"],
+      "hint": "liên từ chỉ 'phòng khi'",
+      "explanation": "**In case** diễn tả 'phòng khi điều gì xảy ra', khác với điều kiện thuần tuý."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "If you ___ (finish) the survey today, you can submit it tomorrow.",
+      "answers": ["finish", "have finished"],
+      "hint": "if + present (perfect)",
+      "explanation": "Có thể dùng present simple hoặc present perfect trong mệnh đề **if**; kết quả dùng **can**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The scheme will work ___ funding continues.",
+      "answers": ["provided that", "provided"],
+      "hint": "liên từ chỉ 'với điều kiện là'",
+      "explanation": "**Provided that** nêu điều kiện bắt buộc để kết quả xảy ra."
+    }
+  ]
+}

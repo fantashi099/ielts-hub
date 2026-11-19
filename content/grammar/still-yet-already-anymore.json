@@ -1,0 +1,202 @@
+{
+  "slug": "still-yet-already-anymore",
+  "title": "still, yet, already and anymore",
+  "titleVi": "still, yet, already và anymore",
+  "level": "B2",
+  "topic": "adjectives-adverbs",
+  "bookUnits": [111],
+  "bandFocus": "7.5",
+  "summary": "Bốn từ nhỏ quyết định sắc thái thời gian: tiếp diễn, đã đổi, chưa xảy ra, sớm hơn dự kiến.",
+  "whyItMatters": "Đây là nhóm từ band 7 hay dùng sai vì tiếng Việt gộp chúng vào *vẫn*, *đã*, *chưa*. *Still* không phải *yet*, *already* không phải *just*. Trong Task 2, câu như *The gap **still** persists despite a decade of funding* hay *Governments have **yet** to address the cause* thể hiện chính xác mức độ và thời gian — đúng thì rất band 8, sai thì người đọc hiểu ngược ý.",
+  "sections": [
+    {
+      "heading": "still: the situation has not changed",
+      "body": [
+        "**Still** says a situation continues, often longer than expected: *The waiting list is still growing.* It sits in **mid position** — before the main verb, after *be*, after the first auxiliary: *She **still** works there*, *She is **still** working there*, *She has **still** not replied*.",
+        "**Still** also means *in spite of that*: *The scheme has been criticised for years, but it is still in force.* Here it marks contrast with the previous clause, not duration.",
+        "**Still + negative** expresses surprise or impatience, stronger than *yet*: *I sent the invitation weeks ago and he **still** hasn't replied.*"
+      ],
+      "examples": [
+        { "right": "The city is still short of affordable housing.", "wrong": "Still the city is short of affordable housing.", "note": "**still** goes mid-sentence, after *be*." },
+        { "right": "Despite repeated warnings, the practice still continues.", "note": "*In spite of that* meaning — contrast, not duration." },
+        { "right": "She still hasn't answered my email.", "note": "**still + negative** = impatience; compare *She hasn't answered yet* (neutral)." }
+      ]
+    },
+    {
+      "heading": "not ... any more, not ... any longer, no longer",
+      "body": [
+        "To say a situation **has changed**, use **not … any more** or **not … any longer**, both at the **end** of the sentence: *Lucy doesn't work here any more.* *The factory is not operating any longer.*",
+        "**No longer** carries the same meaning in **mid position**, and it is the most formal option: *Lucy no longer works here.* This is the version to use in academic writing.",
+        "Do not use **no more** in this sense: *We are no more friends* is wrong; write *We are no longer friends*. **Any more** is usually two words; *anymore* is accepted, especially in American English."
+      ],
+      "table": {
+        "headers": ["Form", "Position", "Example", "Register"],
+        "rows": [
+          ["not … any more", "end", "The shop doesn't open on Sundays any more.", "neutral"],
+          ["not … any longer", "end", "The scheme is not funded any longer.", "neutral/formal"],
+          ["no longer", "mid", "The scheme is no longer funded.", "formal — best for Writing"],
+          ["no more", "—", "not used in this sense", "avoid"]
+        ]
+      }
+    },
+    {
+      "heading": "yet: up to now, and still expected",
+      "body": [
+        "**Yet** means *until now* and appears mainly in **negatives and questions**, usually at the **end**: *The report isn't finished yet.* *Have you decided yet?*",
+        "It pairs naturally with the **present perfect** because both look at a period leading to now: *Has the council approved the plan yet?* With *be* and states, the present simple is also common: *Is dinner ready yet?*",
+        "Two formal patterns are worth learning. **have yet to + verb** = have not yet done: *The government has yet to publish the figures.* **as yet** = so far: *As yet, no study has tested the claim.*"
+      ],
+      "examples": [
+        { "right": "The council has not published the figures yet.", "wrong": "The council has not published the figures already.", "note": "Negative + expectation → **yet**; *already* belongs to positive statements." },
+        { "right": "The government has yet to explain the delay.", "note": "Formal **have yet to + verb**." },
+        { "right": "As yet, there is no evidence of a link.", "note": "**as yet** = so far, used in academic prose." }
+      ]
+    },
+    {
+      "heading": "already: sooner than expected",
+      "body": [
+        "**Already** says something happened **earlier than expected**: *She has already left.* It goes in **mid position** or at the **end**: *She has left already.*",
+        "In **questions**, *already* signals surprise: *Have you finished already?* — the speaker expected it to take longer. Compare the neutral *Have you finished yet?*",
+        "Do not use *already* with a finished past time: *I already saw him yesterday* is acceptable in informal American English, but in IELTS Writing prefer *I had already seen him* or *I saw him yesterday*."
+      ],
+      "examples": [
+        { "right": "By 2010, the city had already met its emissions target.", "wrong": "By 2010, the city has already met its emissions target.", "note": "A past deadline needs the past perfect **had already met**." },
+        { "right": "Have you already read the report?", "note": "Surprise: sooner than expected." },
+        { "right": "The technology is already cheaper than coal in most markets.", "note": "Present situation — *already* marks unexpected speed." }
+      ]
+    },
+    {
+      "heading": "Contrasts that carry an argument",
+      "body": [
+        "The four words form a small system. **Still** = it continues. **Yet** = it has not happened, but may. **Already** = it happened sooner than expected. **No longer** = it has stopped.",
+        "In Task 2, this system lets you describe policy failure precisely: *Enrolment **still** lags in rural districts, and the ministry has **yet** to explain why. Meanwhile, private tutoring has **already** become the default for urban families, so the public system is **no longer** the main provider.*",
+        "Note how the paragraph moves through time without a single explicit date. That is the kind of grammatical control that reads as band 8."
+      ],
+      "examples": [
+        { "right": "The problem still exists, and no government has yet found a solution.", "note": "**still** (continues) contrasted with **yet** (not achieved)." },
+        { "right": "By the time the policy was reviewed, it had already been overtaken by events.", "note": "**already** with past perfect for an earlier-than-expected event." },
+        { "right": "Coal is no longer the cheapest source of electricity in most countries.", "note": "**no longer** mid-position — formal and compact." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Still I don't understand the second point.",
+      "right": "I still don't understand the second point.",
+      "why": "**still** đứng giữa câu, trước động từ chính (hoặc sau *be*), không đứng đầu câu như *however*."
+    },
+    {
+      "wrong": "The country has not developed this sector already.",
+      "right": "The country has not developed this sector yet.",
+      "why": "Câu phủ định diễn tả *chưa* dùng **yet**, không dùng *already*. *Already* chỉ dùng trong câu khẳng định hoặc câu hỏi thể hiện ngạc nhiên."
+    },
+    {
+      "wrong": "We are no more colleagues after the merger.",
+      "right": "We are no longer colleagues after the merger.",
+      "why": "**no more** không dùng với nghĩa *không còn nữa*. Dùng **no longer** (trang trọng) hoặc **not … any more** (trung tính)."
+    },
+    {
+      "wrong": "She doesn't work here no more.",
+      "right": "She doesn't work here any more.",
+      "why": "Câu đã có *doesn't* thì dùng **any more**, không dùng *no more* — tránh phủ định kép."
+    },
+    {
+      "wrong": "By 2015, the city has already built three metro lines.",
+      "right": "By 2015, the city had already built three metro lines.",
+      "why": "**By + mốc quá khứ** cần quá khứ hoàn thành **had already built**, không phải hiện tại hoàn thành."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **still** để mô tả vấn đề chưa được giải quyết, rất hợp với problem–solution: *Rural clinics **still** lack basic equipment despite a decade of investment.* Từ này ngầm khẳng định chính sách đã có nhưng chưa hiệu quả.",
+    "Dùng **have yet to + verb** để nói ai đó chưa làm gì, giọng trang trọng và có hàm ý phê bình: *The ministry **has yet to** publish the inspection report.* Hay hơn *has not published* trong ngữ cảnh học thuật.",
+    "Dùng **no longer** thay cho *not … any more* trong Writing để câu gọn và trang trọng: *Coal is **no longer** the cheapest option.* Ở vị trí giữa câu, nó cũng tránh được việc phải thêm trợ động từ.",
+    "Dùng **already** để nhấn mạnh tốc độ của một xu hướng: *By 2020, remote work had **already** become normal in the tech sector.* Cấu trúc *had already + V3* cho thấy bạn kiểm soát được thì quá khứ hoàn thành."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The waiting list ___ growing, despite extra funding.",
+      "options": ["still is", "is still", "still", "yet is"],
+      "answerIndex": 1,
+      "explanation": "**still** goes after *be*: *is still growing*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The council has not published the figures ___.",
+      "options": ["already", "yet", "still", "any more"],
+      "answerIndex": 1,
+      "explanation": "Negative + expectation → **yet** at the end."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Coal is ___ the cheapest source of electricity.",
+      "options": ["no more", "no longer", "not longer", "any more"],
+      "answerIndex": 1,
+      "explanation": "**no longer** in mid position = it has stopped being the cheapest."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "By 2010, the city ___ its emissions target.",
+      "options": ["has already met", "had already met", "already met", "was already meeting"],
+      "answerIndex": 1,
+      "explanation": "**By 2010** is a past deadline → past perfect **had already met**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence expresses impatience?",
+      "options": [
+        "He hasn't replied yet.",
+        "He still hasn't replied.",
+        "He hasn't already replied.",
+        "He doesn't reply any more."
+      ],
+      "answerIndex": 1,
+      "explanation": "**still + negative** adds surprise/impatience; *yet* is neutral."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The shop doesn't open on Sundays ___ more.",
+      "answers": ["any"],
+      "hint": "not ... ___ more",
+      "explanation": "**not … any more** — two words, end position."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The government has ___ to explain the delay.",
+      "answers": ["yet"],
+      "hint": "have ___ to + verb",
+      "explanation": "**have yet to + verb** = have not yet done."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "She has ___ left — you just missed her.",
+      "answers": ["already"],
+      "hint": "sooner than expected",
+      "explanation": "**already** in mid position after the auxiliary."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The factory is ___ operating; it closed last month.",
+      "answers": ["no longer"],
+      "hint": "formal mid-position form",
+      "explanation": "**no longer** + -ing = it has stopped."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "___ yet, no study has tested the claim.",
+      "answers": ["as"],
+      "hint": "___ yet = so far",
+      "explanation": "**As yet** = so far, formal academic phrase."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "modals-ability-and-possibility",
+  "title": "Modals of ability and possibility",
+  "titleVi": "Động từ khuyết thiếu: khả năng và khả năng xảy ra",
+  "level": "B1",
+  "topic": "modals",
+  "bookUnits": [26, 27],
+  "bandFocus": "7.0",
+  "summary": "Dùng can, could, be able to và could have done đúng ngữ cảnh — khả năng chung, thành công cụ thể và khả năng không thành.",
+  "whyItMatters": "`Can` không có dạng tương lai, dạng hoàn thành hay dạng sau modal khác, nên bạn phải biết chuyển sang `be able to`. Trong Task 2, câu như *Governments will be able to...* xuất hiện liên tục; viết *will can* là lỗi khiến giám khảo dừng lại ngay.",
+  "sections": [
+    {
+      "heading": "can and could: general ability",
+      "body": [
+        "**can + base verb** expresses present ability or possibility; **could** is its past form for general ability: *She can speak three languages. She could swim before she started school.*",
+        "Both are also used for permission and requests: *Can I borrow your notes? Could you check this paragraph?* — **could** is the more polite of the two.",
+        "**Can** has only present and past forms. Every other tense or combination needs **be able to**."
+      ],
+      "examples": [
+        { "right": "She can speak three languages fluently.", "note": "Present ability." },
+        { "right": "He could swim before he started school.", "note": "General past ability." },
+        { "right": "Could you check the second paragraph for me?", "note": "Polite request." }
+      ]
+    },
+    {
+      "heading": "be able to: where can cannot go",
+      "body": [
+        "Use **be able to** after another modal, in the perfect tenses, and in the infinitive: *will be able to*, *have been able to*, *might be able to*, *want to be able to*.",
+        "**Could** cannot be used for a single success in the past. For one specific achievement, use **was/were able to** or **managed to**: *The fire spread quickly, but everybody was able to escape.*",
+        "The negative **couldn't** works in all past contexts, including single events: *I couldn't finish the test on time.*"
+      ],
+      "examples": [
+        { "right": "By 2030, the city will be able to recycle 70% of its waste.", "note": "Future ability → **will be able to**, never **will can**." },
+        { "right": "Despite the flooding, all residents were able to leave safely.", "note": "One specific past success → **were able to**." },
+        { "right": "I haven't been able to reach the supplier all week.", "wrong": "I haven't could reach the supplier all week.", "note": "Perfect tense needs **been able to**." },
+        { "right": "The team managed to finish the survey before the deadline.", "note": "**managed to** = succeeded with effort." }
+      ]
+    },
+    {
+      "heading": "could for possibility and suggestion",
+      "body": [
+        "Beyond ability, **could** expresses a present or future possibility that is less certain than **can**: *The story could be true* (= it is possible).",
+        "It is also the natural modal for suggestions: *We could go to the cinema* — softer than *We can go*.",
+        "Use **could**, not **can**, for unrealistic or imagined situations: *I could sleep for a week.*"
+      ],
+      "table": {
+        "headers": ["Meaning", "Form", "Example"],
+        "rows": [
+          ["present ability", "can + V", "She can drive."],
+          ["general past ability", "could + V", "She could drive at 17."],
+          ["specific past success", "was/were able to, managed to", "She was able to pass the test."],
+          ["future / perfect ability", "will have been able to", "She will be able to apply next year."],
+          ["present possibility", "could + V (less sure than can)", "The plan could work."]
+        ]
+      }
+    },
+    {
+      "heading": "could have done: an unrealised past possibility",
+      "body": [
+        "**Could have + past participle** means something was possible in the past but did not happen: *You could have stayed with us — we had a spare room.*",
+        "The negative **couldn't have + V3** means something would not have been possible: *She couldn't have known about the delay.*",
+        "Do not confuse it with **was able to**. *I could have passed the exam* means I had the ability but did not take or pass it; *I was able to pass the exam* means I actually passed."
+      ],
+      "examples": [
+        { "right": "You could have stayed with us — we had a spare room.", "note": "Past possibility not taken up." },
+        { "right": "She couldn't have finished the report in one evening.", "note": "Past impossibility." },
+        { "right": "We could have taken the earlier train, but we missed it.", "wrong": "We could take the earlier train, but we missed it.", "note": "Possibility trong quá khứ không thành → **could have taken**." }
+      ]
+    },
+    {
+      "heading": "Accuracy rules for IELTS writing",
+      "body": [
+        "Modals are followed by the **base verb** with no *to*: *can speak*, never *can to speak*. The single exception is **ought to** and **have to**, which are not true modals.",
+        "Never combine two modals: *will can*, *might could*, *must can* are all impossible. Replace the second modal with **be able to** or a lexical verb.",
+        "In Task 2, **be able to** is the standard way to talk about future capacity: *Remote work will enable employees to...* / *Companies will be able to recruit globally.*"
+      ],
+      "examples": [
+        { "right": "Remote work will enable companies to recruit globally.", "note": "Lexical alternative to a double modal." },
+        { "right": "Students might be able to sit the exam online next year.", "wrong": "Students might can sit the exam online next year.", "note": "Hai modal không đứng cạnh nhau → **might be able to**." },
+        { "right": "The scheme could reduce commuting costs significantly.", "note": "Hedged possibility in an argument." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Students will can access the library online.",
+      "right": "Students will be able to access the library online.",
+      "why": "Không dùng hai modal liền nhau. `Can` không có dạng tương lai nên phải thay bằng `be able to`."
+    },
+    {
+      "wrong": "I could pass the driving test last month.",
+      "right": "I was able to pass the driving test last month.",
+      "why": "`Could` chỉ diễn tả khả năng chung trong quá khứ. Một thành công cụ thể dùng `was/were able to` hoặc `managed to`."
+    },
+    {
+      "wrong": "She can to speak Japanese.",
+      "right": "She can speak Japanese.",
+      "why": "Sau modal là động từ nguyên mẫu không có `to`. Đây là lỗi rất phổ biến của người học Việt Nam."
+    },
+    {
+      "wrong": "I could have went to the conference.",
+      "right": "I could have gone to the conference.",
+      "why": "Sau `could have` phải là quá khứ phân từ (V3), không phải quá khứ đơn."
+    },
+    {
+      "wrong": "He hasn't could find a job.",
+      "right": "He hasn't been able to find a job.",
+      "why": "Thì hoàn thành không đi với `could`; cấu trúc đúng là `have/has been able to`."
+    }
+  ],
+  "ieltsTips": [
+    "Khi nói về năng lực trong tương lai ở Task 2, dùng `will be able to` hoặc động từ thường như `enable`, `allow`, `permit` thay vì cố gắng ghép `will can`.",
+    "Dùng `could` để giảm nhẹ đề xuất trong bài thảo luận: `One solution could be to subsidise public transport.`",
+    "Trong Speaking Part 3, phân biệt `could` (khả năng chung) với `was able to` (thành công cụ thể) khi kể trải nghiệm — giám khảo chú ý sự chính xác này.",
+    "Dùng `could have + V3` để nêu giải pháp đã bị bỏ lỡ: `The city could have avoided the congestion by investing earlier.`"
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Despite the storm, all passengers ___ leave the airport safely.",
+      "options": ["could", "were able to", "can", "will can"],
+      "answerIndex": 1,
+      "explanation": "Một thành công cụ thể trong quá khứ → **were able to**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence expresses future ability correctly?",
+      "options": [
+        "Students will can study online next year.",
+        "Students will be able to study online next year.",
+        "Students will can to study online next year.",
+        "Students will be able study online next year."
+      ],
+      "answerIndex": 1,
+      "explanation": "Không ghép hai modal; dạng tương lai của **can** là **will be able to**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "You ___ stayed with us — we had a spare room.",
+      "options": ["could stay", "could have stayed", "can stay", "were able to stay"],
+      "answerIndex": 1,
+      "explanation": "Khả năng trong quá khứ nhưng không xảy ra → **could have + V3**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence means the person actually succeeded?",
+      "options": [
+        "I could finish the report yesterday.",
+        "I was able to finish the report yesterday.",
+        "I could have finished the report yesterday.",
+        "I might finish the report yesterday."
+      ],
+      "answerIndex": 1,
+      "explanation": "**was able to** = đã làm được thật; **could have finished** = đã có thể nhưng không làm."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence uses 'can' correctly?",
+      "options": [
+        "She can to speak three languages.",
+        "She can speak three languages.",
+        "She can speaks three languages.",
+        "She cans speak three languages."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sau modal dùng động từ nguyên mẫu không có **to**, và modal không chia **-s**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "By 2040, the country ___ (be able) to generate half its electricity from renewables.",
+      "answers": ["will be able"],
+      "hint": "dạng tương lai của can",
+      "explanation": "Tương lai của **can** là **will be able to**; ở đây động từ **be able** đứng trước **to generate**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I ___ (not / be able) to contact the supplier since Monday.",
+      "answers": ["haven't been able"],
+      "hint": "since Monday + phủ định",
+      "explanation": "Thì hoàn thành phủ định của **be able to** là **haven't been able to**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The team ___ (manage) to complete the survey before the deadline.",
+      "answers": ["managed"],
+      "hint": "succeed with effort",
+      "explanation": "**manage to + V** diễn tả thành công cụ thể; chia quá khứ đơn."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "You ___ (could / not / know) about the change — nobody told you.",
+      "answers": ["couldn't have known"],
+      "hint": "khả năng không thể trong quá khứ",
+      "explanation": "Điều không thể xảy ra trong quá khứ → **couldn't have + V3**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "One practical solution ___ (could) be to subsidise public transport.",
+      "answers": ["could"],
+      "hint": "đề xuất nhẹ nhàng",
+      "explanation": "**Could** giảm nhẹ mức độ chắc chắn khi nêu giải pháp trong Task 2."
+    }
+  ]
+}

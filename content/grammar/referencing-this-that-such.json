@@ -1,0 +1,208 @@
+{
+  "slug": "referencing-this-that-such",
+  "title": "Referencing: this, that, such and it",
+  "titleVi": "Từ thay thế: this, that, such và it",
+  "level": "B2",
+  "topic": "pronouns-determiners",
+  "bookUnits": [84, 85],
+  "bandFocus": "8.0",
+  "summary": "Cách nối câu bằng this/that, dùng such đúng vị trí, và cấu trúc that of/those who để so sánh học thuật.",
+  "whyItMatters": "Cohesion là một trong bốn tiêu chí chấm Writing, và *this* là công cụ nối câu mạnh nhất mà người học bỏ sót. Ở band 7, bài viết thường lặp danh từ; ở band 8, người viết dùng *This suggests that...*, *Such measures...*, *than that of...*. Ngoài ra *such a* và *that of* là hai cấu trúc bị dùng sai nhiều nhất trong câu so sánh.",
+  "sections": [
+    {
+      "heading": "this referring to a whole idea",
+      "body": [
+        "**this** can point back not to a noun but to an entire previous sentence or clause. This is the single most useful cohesive device in Task 2: *Cities are expanding rapidly. This puts enormous pressure on infrastructure.*",
+        "You can make the reference explicit with a summary noun: *this trend, this shift, this argument, this decline, this approach.* *This trend is likely to continue* is clearer than a bare *This is likely to continue*.",
+        "**that** can do the same job but points further back or marks distance: *That was the argument in the 1990s, and it has not aged well.* In academic writing, *this* is the default for immediate reference.",
+        "Do not use *it* for a whole clause. *It* needs a specific noun antecedent: *The report was published last week. It was widely criticised.* (*it* = the report). *The report was published late. It caused delays* is ambiguous — use *This caused delays.*"
+      ],
+      "table": {
+        "headers": ["Pronoun", "Refers to", "Example"],
+        "rows": [
+          ["it", "a specific noun", "The policy failed. It had been poorly designed."],
+          ["this", "the previous clause or idea", "Fares rose by 30%. This reduced demand."],
+          ["this + noun", "the idea, named", "This increase reduced demand."],
+          ["that", "a more distant idea", "That was the assumption behind the old model."],
+          ["these / those", "plural ideas or nouns", "These findings challenge earlier work."]
+        ]
+      }
+    },
+    {
+      "heading": "such: position and meaning",
+      "body": [
+        "**such** intensifies a noun phrase and means \"of this kind\" or \"so great\". The article goes **after** *such*: *such a rapid decline*, *such an important issue*, *such high costs* (plural/uncountable: no article).",
+        "**such as** introduces examples and equals *for example*: *Renewable sources such as wind and solar now supply a third of the grid.* Do not combine it with another example marker: *such as for example* is redundant.",
+        "**such that** introduces a result: *The demand was such that prices doubled within a year.* This is a formal structure worth using once in an essay — not twice."
+      ],
+      "examples": [
+        { "right": "It was such a difficult decision that she postponed it.", "wrong": "It was a such difficult decision that she postponed it.", "note": "**such a + adj + noun**; mạo từ đứng sau *such*." },
+        { "right": "Such policies often fail in rural areas.", "note": "Số nhiều: *such* + danh từ, không có *a*." },
+        { "right": "The shortage was such that hospitals cancelled operations.", "note": "**such that** = kết quả." }
+      ]
+    },
+    {
+      "heading": "that of and those of: comparing like with like",
+      "body": [
+        "When you compare one attribute with another, English needs a substitute for the repeated noun: **that of** for singular, **those of** for plural. *The population of Tokyo is larger than that of Osaka* — not *than Osaka*, which compares a population with a city.",
+        "The same machinery produces **those who**, **those in**, **that in**: *Students in rural areas perform worse than those in cities.* *The rate in 2020 was double that in 2010.*",
+        "This structure is a marker of band-8 comparison. It appears constantly in Task 1: *The figure for graduates was similar to that for diploma holders.*"
+      ],
+      "table": {
+        "headers": ["Wrong", "Right"],
+        "rows": [
+          ["The population of Hanoi is bigger than Osaka.", "The population of Hanoi is bigger than that of Osaka."],
+          ["Salaries in Japan are higher than Vietnam.", "Salaries in Japan are higher than those in Vietnam."],
+          ["The rate in 2020 was double 2010.", "The rate in 2020 was double that in 2010."],
+          ["Students in cities do better than rural areas.", "Students in cities do better than those in rural areas."]
+        ]
+      }
+    },
+    {
+      "heading": "the former, the latter, the same, so do",
+      "body": [
+        "**the former ... the latter** refers to two things already mentioned, in order: *Two options were considered: expanding the airport or building a new line. The former was rejected on cost grounds; the latter was approved.*",
+        "**the same** takes **as**, not *like* or *than*: *The result was the same as in 2019.* **different from** is the standard comparative preposition in British usage (*different to* is common in speech, *different than* in American English).",
+        "For agreement, use **so + auxiliary + subject** and **neither/nor + auxiliary + subject**: *Japan faces an ageing population; so does Germany.* *The north has no reserves, and neither has the south.* **as does / as did** is the formal written variant: *Denmark taxes emissions, as does Sweden.*"
+      ],
+      "examples": [
+        { "right": "The outcome was the same as last year.", "wrong": "The outcome was the same like last year.", "note": "**the same as**." },
+        { "right": "Norway subsidises electric cars; so does China.", "note": "**so + aux + subject** for agreement." },
+        { "right": "Both reports reach similar conclusions, as does the latest study.", "note": "*as does* — formal written agreement." }
+      ]
+    },
+    {
+      "heading": "Referencing in a paragraph: a worked pattern",
+      "body": [
+        "A well-referenced paragraph alternates four moves: name the phenomenon, refer back to it with *this/these*, evaluate it, then move forward with *such* or *the former*. Without them, the paragraph becomes a list of separate facts.",
+        "Model: *Remote work has grown steadily since 2020. This shift has reduced commuting costs but weakened informal mentoring. Such trade-offs are rarely acknowledged in policy debates. The former benefit is easy to measure; the latter is not.*",
+        "Notice that every referring word has a clear antecedent within one or two sentences. Vague reference — a *this* with no identifiable antecedent — is a cohesion error, and examiners mark it as such."
+      ],
+      "examples": [
+        { "right": "Enrolment rose by 12%. This increase was concentrated in vocational courses.", "note": "*This increase* names the antecedent precisely." },
+        { "right": "The two schemes differ in cost. The former relies on public funding.", "note": "*the former* = the first of two mentioned." },
+        { "right": "Few countries have met the target; neither has Vietnam.", "wrong": "Few countries have met the target; so hasn't Vietnam.", "note": "Câu phủ định dùng **neither/nor**, không dùng *so*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Cities are growing quickly. It creates pressure on transport.",
+      "right": "Cities are growing quickly. This creates pressure on transport.",
+      "why": "**it** phải thay cho một danh từ cụ thể; ở đây ý được thay thế là cả một mệnh đề nên phải dùng **this**."
+    },
+    {
+      "wrong": "She is a such talented writer.",
+      "right": "She is such a talented writer.",
+      "why": "Trong cấu trúc **such**, mạo từ *a/an* đứng **sau** *such*, không đứng trước. Tiếng Việt *một người viết tài đến thế* khiến người học đặt *a* sai vị trí."
+    },
+    {
+      "wrong": "The population of Tokyo is larger than Osaka.",
+      "right": "The population of Tokyo is larger than that of Osaka.",
+      "why": "Không thể so sánh *dân số* với *thành phố*. Cần **that of** để thay cho danh từ đã nhắc — lỗi logic này bị tính vào Coherence và Grammatical Range."
+    },
+    {
+      "wrong": "The result was the same like last year.",
+      "right": "The result was the same as last year.",
+      "why": "**the same** đi với **as**, không đi với *like* hay *than*. *Like* chỉ dùng để so sánh danh từ trong câu đơn giản."
+    },
+    {
+      "wrong": "Renewable energy such as for example solar power is expanding.",
+      "right": "Renewable energy such as solar power is expanding.",
+      "why": "**such as** đã mang nghĩa *ví dụ*, nên thêm *for example* là lặp. Lỗi này làm câu nặng và lộ việc dịch từ tiếng Việt."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng `This suggests that...`, `This is largely because...`, `This trend...` để nối câu trong Task 2 — mỗi đoạn nên có ít nhất một tham chiếu như vậy.",
+    "Trong Task 1, so sánh bằng `that of` / `those of`: `The figure for men was higher than that for women.`",
+    "Dùng `the former / the latter` khi vừa nêu hai lựa chọn — câu ngắn hơn và tránh lặp danh từ.",
+    "Đừng dùng `it` để thay cho cả một ý; nếu tiền ngữ là một mệnh đề, hãy dùng `this`."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "House prices have doubled in five years. ___ has made renting unaffordable for many.",
+      "options": ["It", "This", "That of", "Such"],
+      "answerIndex": 1,
+      "explanation": "Tiền ngữ là cả mệnh đề → dùng **This**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "It was ___ difficult exam that half the candidates failed.",
+      "options": ["a such", "such a", "so a", "such"],
+      "answerIndex": 1,
+      "explanation": "**such a + adj + danh từ số ít**: *such a difficult exam*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The literacy rate in the capital is higher than ___ in rural provinces.",
+      "options": ["it", "that", "this", "those"],
+      "answerIndex": 1,
+      "explanation": "*rate* số ít → dùng **that** thay cho danh từ đã nhắc: *than that in rural provinces*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Japan has an ageing population, and ___ Germany.",
+      "options": ["so has", "so does", "neither has", "also has"],
+      "answerIndex": 0,
+      "explanation": "Động từ *has* ở câu trước → **so has Germany** (so + trợ động từ + chủ ngữ)."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The outcome was the same like last year.",
+        "The outcome was the same as last year.",
+        "The outcome was same as last year.",
+        "The outcome was the same than last year."
+      ],
+      "answerIndex": 1,
+      "explanation": "**the same as** — giới từ cố định."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "Two proposals were discussed. The former was cheaper; ___ latter was more effective.",
+      "answers": ["the"],
+      "hint": "fixed pair",
+      "explanation": "Cặp cố định **the former ... the latter**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Salaries in the city are much higher than ___ in the countryside.",
+      "answers": ["those"],
+      "hint": "plural substitute",
+      "explanation": "*salaries* số nhiều → dùng **those**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The government introduced subsidies ___ as grants for first-time buyers.",
+      "answers": ["such"],
+      "hint": "___ as = for example",
+      "explanation": "**such as** dùng để nêu ví dụ."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Demand was ___ that factories ran three shifts.",
+      "answers": ["such"],
+      "hint": "___ that = result",
+      "explanation": "**such that** diễn tả kết quả."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Few countries met the target, and ___ did Vietnam.",
+      "answers": ["neither", "nor"],
+      "hint": "negative agreement",
+      "explanation": "Câu phủ định dùng **neither/nor + trợ động từ + chủ ngữ**."
+    }
+  ]
+}

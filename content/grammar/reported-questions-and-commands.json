@@ -1,0 +1,208 @@
+{
+  "slug": "reported-questions-and-commands",
+  "title": "Reported questions and commands",
+  "titleVi": "Câu tường thuật: câu hỏi và câu mệnh lệnh",
+  "level": "B2",
+  "topic": "reported-speech",
+  "bookUnits": [48, 50],
+  "bandFocus": "7.5",
+  "summary": "Bỏ đảo ngữ khi kể lại câu hỏi, dùng if/whether và told/asked somebody to do — ba lỗi band 6.5 hay gặp nhất.",
+  "whyItMatters": "Câu hỏi gián tiếp xuất hiện dày đặc trong Writing Task 2 (*It is unclear whether...*) và Speaking Part 3 (*I wonder why...*). Giữ nguyên trật tự câu hỏi khi đã nhúng vào câu dài là lỗi ngữ pháp rất dễ thấy, và nó kéo điểm Grammatical Range xuống ngay cả khi ý của bạn tốt.",
+  "sections": [
+    {
+      "heading": "Reported questions lose their inversion",
+      "body": [
+        "A direct question inverts subject and auxiliary: *Where are you going?* When the question becomes part of a longer sentence, the order returns to **subject + verb**: *The officer asked us where we were going.* No inversion, no question mark.",
+        "The same rule applies to embedded questions in your own writing: *Do you know where Tom has gone?*, *I don't know who those people are*, *Can you tell me where I can find Louise?* The main clause carries the question; the embedded clause behaves like a statement.",
+        "Do-support disappears. *What time does the film start?* becomes *Do you know what time the film starts?* — the *-s* moves onto the verb and *does* is deleted."
+      ],
+      "table": {
+        "headers": ["Direct question", "Reported or embedded"],
+        "rows": [
+          ["Where are you going?", "He asked us where we were going."],
+          ["What time do the shops close?", "She wanted to know what time the shops closed."],
+          ["Why did she leave early?", "I wonder why she left early."],
+          ["How long have you been working here?", "She asked how long I had been working there."],
+          ["Who are those people?", "I don't know who those people are."]
+        ]
+      }
+    },
+    {
+      "heading": "Yes/no questions take if or whether",
+      "body": [
+        "When there is no question word, English supplies one: **if** or **whether**. *Are you willing to travel?* becomes *She asked if I was willing to travel* or *She asked whether I was willing to travel.*",
+        "**whether** is the safer choice in formal writing, especially before *or not*: *It is unclear whether the policy will succeed or not.* **if** is more conversational and cannot follow a preposition: *It depends on whether prices fall* (not *on if*).",
+        "Do not use both connectors. *She asked me that if I was married* mixes two patterns; pick either *that* (statement) or *if/whether* (question), never both."
+      ],
+      "examples": [
+        { "right": "The interviewer asked whether I had a driving licence.", "note": "Formal register prefers **whether**." },
+        { "right": "I don't know if anybody saw me.", "note": "Conversational **if** is fine after *know*." },
+        { "right": "It is not clear whether the two trends are connected.", "wrong": "It is not clear that whether the two trends are connected.", "note": "One connector only." }
+      ]
+    },
+    {
+      "heading": "Commands, requests and advice",
+      "body": [
+        "Reported commands use **tell/ask somebody to do something**: *The doctor told me to drink plenty of water.* The negative is **not to do**: *I told Joe not to work so hard.* The negative word goes before *to*, never after it.",
+        "The reporting verb carries the tone. **tell** is neutral or direct, **ask** is a request, **advise** is a recommendation, **warn** adds danger, **remind** implies a duty, **beg** is desperate. Choosing the right one is a vocabulary mark as much as a grammar one.",
+        "The object is obligatory: *She asked me to help her* (not *asked to help her* when the person matters). The passive version is common in formal writing: *Staff were asked to complete the form by Friday.*"
+      ],
+      "table": {
+        "headers": ["Direct", "Reported", "Tone"],
+        "rows": [
+          ["Drink plenty of water.", "The doctor told me to drink plenty of water.", "neutral instruction"],
+          ["Can you help me, please?", "Jackie asked me to help her.", "request"],
+          ["Don't work too hard.", "I told Joe not to work so hard.", "negative command"],
+          ["You should apply early.", "My tutor advised me to apply early.", "recommendation"],
+          ["Don't touch the switch.", "He warned me not to touch the switch.", "danger"]
+        ]
+      }
+    },
+    {
+      "heading": "Beyond say and ask: reporting verbs that carry meaning",
+      "body": [
+        "A good band-7.5 answer varies the reporting verb. **admit** and **deny** report confessions; **offer**, **refuse** and **promise** report intentions; **complain**, **explain** and **insist** report stance; **suggest** and **recommend** report proposals.",
+        "Each has its own pattern. *Suggest* never takes an object plus infinitive: *She suggested that I take a taxi* or *She suggested taking a taxi* — never *suggested me to take*. *Refuse*, *offer* and *promise* take the to-infinitive with no object: *He refused to answer.*",
+        "**Explain** and **admit** can take a that-clause or a noun: *He explained that the train had been cancelled.* They do not take the *somebody to do* pattern."
+      ],
+      "examples": [
+        { "right": "She suggested that we postpone the meeting.", "wrong": "She suggested us to postpone the meeting.", "note": "*Suggest* takes a that-clause or -ing, never object + to." },
+        { "right": "He admitted making a mistake.", "note": "**admit + -ing** is the compact form; *admitted to making* is also heard." },
+        { "right": "They refused to comment on the allegations.", "note": "**refuse + to-infinitive**, no object." }
+      ]
+    },
+    {
+      "heading": "Indirect questions as a politeness strategy",
+      "body": [
+        "In Speaking Part 3, direct questions can sound abrupt. Indirect forms buy you thinking time and sound more advanced: *Could you tell me what the main causes are?* / *I wonder whether the government has considered...*",
+        "In Writing Task 2, the same structure produces excellent thesis frames: *It remains unclear whether...*, *The question is not whether X works but how it can be funded.* These are statements in disguise, so they keep statement order.",
+        "Beware the double question mark and the stray auxiliary. *I wonder what is the reason?* has two errors: the inversion after *wonder* and the question mark at the end of an embedded clause."
+      ],
+      "examples": [
+        { "right": "I wonder why the figures were revised.", "wrong": "I wonder why were the figures revised?", "note": "Embedded clause: no inversion, no question mark." },
+        { "right": "Could you tell me how much the course costs?", "wrong": "Could you tell me how much does the course cost?", "note": "Delete do-support in the embedded clause." },
+        { "right": "It is unclear whether these measures will reduce emissions.", "note": "A formal indirect question used as a thesis statement." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "He asked me where did I live.",
+      "right": "He asked me where I lived.",
+      "why": "Tiếng Việt giữ nguyên trật tự câu hỏi khi kể lại (*hỏi tôi sống ở đâu*), nên người học giữ luôn *did*. Câu hỏi gián tiếp dùng trật tự **chủ ngữ + động từ** và bỏ trợ động từ."
+    },
+    {
+      "wrong": "She asked me that if I was married.",
+      "right": "She asked me if I was married.",
+      "why": "Không dùng đồng thời *that* và *if/whether*. Đây là lỗi lai giữa câu kể và câu hỏi, thường do dịch *hỏi rằng liệu*."
+    },
+    {
+      "wrong": "He told me to not go out alone.",
+      "right": "He told me not to go out alone.",
+      "why": "Tiếng Việt đặt *đừng* trước động từ (*nói tôi đừng đi*), còn tiếng Anh đặt **not trước to**: *not to go*."
+    },
+    {
+      "wrong": "She suggested me to take a taxi.",
+      "right": "She suggested that I take a taxi. / She suggested taking a taxi.",
+      "why": "*Suggest* không đi với **tân ngữ + to V**. Đây là lỗi rất phổ biến vì *advise* và *tell* lại dùng đúng cấu trúc đó."
+    },
+    {
+      "wrong": "He asked me what time does the film start.",
+      "right": "He asked me what time the film started.",
+      "why": "Hai lỗi cùng lúc: giữ *does* và không lùi thì. Câu gián tiếp vừa bỏ trợ động từ vừa lùi thì theo động từ tường thuật."
+    }
+  ],
+  "ieltsTips": [
+    "Mở đoạn thân bài Task 2 bằng câu hỏi gián tiếp để tạo khung lập luận: `It remains unclear whether these policies actually reduce inequality.`",
+    "Trong Speaking Part 3, dùng `I wonder whether...` hoặc `Could you tell me...` để có thêm thời gian suy nghĩ mà vẫn nghe tự nhiên.",
+    "Đa dạng động từ tường thuật: `admit`, `deny`, `claim`, `insist`, `warn` — mỗi động từ mang sắc thái riêng và được tính vào Lexical Resource.",
+    "Tuyệt đối không đặt dấu hỏi cuối câu gián tiếp; lỗi này làm câu trông như câu hỏi trực tiếp bị viết sai."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The interviewer asked me ___ I had ever worked abroad.",
+      "options": ["if", "that", "what", "whether that"],
+      "answerIndex": 0,
+      "explanation": "Câu hỏi yes/no không có từ để hỏi nên cần **if** (hoặc *whether*)."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "She wanted to know what time the library ___.",
+      "options": ["closes", "closed", "does close", "did close"],
+      "answerIndex": 1,
+      "explanation": "Động từ tường thuật *wanted* ở quá khứ nên lùi thì: **closed**. Đồng thời không dùng *does/did*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The teacher told us ___ late for the exam.",
+      "options": ["not to be", "to not be", "not be", "don't be"],
+      "answerIndex": 0,
+      "explanation": "Phủ định của mệnh lệnh gián tiếp là **not to + V**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "He asked me where was the station.",
+        "He asked me where the station was.",
+        "He asked me where did the station was.",
+        "He asked me that where the station was."
+      ],
+      "answerIndex": 1,
+      "explanation": "Câu hỏi gián tiếp: trật tự **chủ ngữ + động từ**, không đảo ngữ, không *that*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "My manager suggested ___ the meeting until Monday.",
+      "options": ["postponing", "to postpone", "me to postpone", "that postponing"],
+      "answerIndex": 0,
+      "explanation": "**suggest + -ing** (hoặc *suggest that we postpone*), không dùng *suggest somebody to do*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The police officer asked us where we ___ (go).",
+      "answers": ["were going"],
+      "hint": "past continuous after a past reporting verb",
+      "explanation": "Câu trực tiếp *Where are you going?* lùi thành **were going**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I'm not sure ___ the train will arrive on time or not.",
+      "answers": ["whether", "if"],
+      "hint": "yes/no embedded question",
+      "explanation": "Không có từ để hỏi nên cần **whether** (chuẩn hơn khi có *or not*) hoặc **if** trong văn nói."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The doctor advised him ___ (take) more exercise.",
+      "answers": ["to take"],
+      "hint": "advise somebody + ?",
+      "explanation": "**advise + tân ngữ + to V**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "She warned the children ___ (not / swim) near the rocks.",
+      "answers": ["not to swim"],
+      "hint": "warn somebody + negative",
+      "explanation": "**warn + tân ngữ + not to V**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Could you tell me how much this course ___ (cost)?",
+      "answers": ["costs"],
+      "hint": "embedded question, present",
+      "explanation": "Câu gián tiếp giữ trật tự thường và không dùng *does*: **how much this course costs**."
+    }
+  ]
+}

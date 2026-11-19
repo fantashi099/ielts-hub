@@ -1,0 +1,224 @@
+{
+  "slug": "gerund-vs-infinitive",
+  "title": "Gerund vs infinitive",
+  "titleVi": "Danh động từ và động từ nguyên mẫu",
+  "level": "B2",
+  "topic": "verb-patterns",
+  "bookUnits": [53, 54, 56, 57],
+  "bandFocus": "7.5",
+  "summary": "Hai danh sách động từ, ba cặp đổi nghĩa, và cách dùng danh động từ làm chủ ngữ trong văn học thuật.",
+  "whyItMatters": "Đây là lỗi ngữ pháp phổ biến nhất của người Việt ở band 6.5–7.0: *I enjoy to read*, *She suggested to go*. Mỗi động từ tiếng Anh quyết định dạng theo sau nó, và tiếng Việt không có cơ chế này — *thích đọc* dùng cùng một động từ cho mọi trường hợp. Sai dạng động từ xuất hiện ở hầu như mọi câu, nên nó ảnh hưởng tới điểm Grammatical Range nhiều hơn bất kỳ lỗi đơn lẻ nào khác.",
+  "sections": [
+    {
+      "heading": "Verb + -ing: a closed list worth memorising",
+      "body": [
+        "Some verbs are followed only by the **-ing** form. The list is finite, so it can be learned: *enjoy, mind, suggest, recommend, admit, avoid, imagine, finish, consider, deny, risk, fancy, keep, mention, involve*.",
+        "Phrasal verbs take -ing as well: *give up*, *put off*, *go on / carry on*, *keep on*, *end up*, *look into*. *He gave up smoking* — never *gave up to smoke*.",
+        "The -ing form here is a **gerund**: it behaves like a noun, so it can be the subject, the object of a preposition, or the object of the verb. That noun quality is why it appears after prepositions: *I'm tired of waiting*, *She's good at solving problems*."
+      ],
+      "table": {
+        "headers": ["Verb + -ing", "Example"],
+        "rows": [
+          ["enjoy", "I enjoy working with data."],
+          ["avoid", "We should avoid making vague claims."],
+          ["suggest / recommend", "She suggested postponing the deadline."],
+          ["admit / deny", "He admitted copying the paragraph."],
+          ["consider", "They are considering raising the fees."],
+          ["mind", "Do you mind waiting a few minutes?"],
+          ["risk", "Postponing now risks losing the funding."],
+          ["keep / keep on", "She kept asking the same question."],
+          ["give up / put off", "They put off announcing the results."]
+        ]
+      }
+    },
+    {
+      "heading": "Verb + to-infinitive: the other list",
+      "body": [
+        "Other verbs take only the **to-infinitive**: *offer, plan, manage, deserve, agree, arrange, fail, afford, refuse, hope, promise, learn, decide, forget, threaten, tend, seem, appear, pretend, claim*.",
+        "Many of these express intention, effort or outcome — which is why the infinitive (the \"to do\" form) fits: *They decided to relocate*, *The plan failed to reduce traffic*, *She managed to finish on time*.",
+        "After **seem, appear, pretend, claim** you can use *to be doing* or *to have done* to place the action in time: *The policy seems to be working*, *He claims to have visited forty countries*."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example"],
+        "rows": [
+          ["decide / plan / arrange + to", "They arranged to meet the following week."],
+          ["manage / fail + to", "The campaign failed to change behaviour."],
+          ["refuse / agree / promise + to", "The council refused to publish the figures."],
+          ["afford / deserve + to", "Few families can afford to buy in the centre."],
+          ["seem / appear + to be doing", "The gap appears to be widening."],
+          ["claim / pretend + to have done", "The company claims to have cut emissions by half."],
+          ["negative", "He promised not to mention the incident."]
+        ]
+      }
+    },
+    {
+      "heading": "Same verb, different meaning",
+      "body": [
+        "A small group accepts both forms with a **change of meaning**. These are the highest-value items on the list because they are tested directly and they are easy to get wrong in writing.",
+        "**remember/forget doing** = you did it and now recall (or fail to recall) it. **remember/forget to do** = a duty you did or did not carry out. **regret doing** = you are sorry about something in the past. **regret to say/tell/inform** = you are about to give bad news, a formal formula. **go on doing** = continue the same activity; **go on to do** = move to the next item.",
+        "**stop doing** = end the activity. **stop to do** = pause in order to do something else. **try to do** = attempt something difficult. **try doing** = experiment with a solution."
+      ],
+      "table": {
+        "headers": ["Form", "Meaning"],
+        "rows": [
+          ["I remembered locking the door.", "I recalled doing it — the memory came back."],
+          ["I remembered to lock the door.", "I did not forget the duty."],
+          ["She stopped smoking in 2020.", "She quit the habit."],
+          ["She stopped to smoke.", "She paused her journey in order to smoke."],
+          ["He went on talking for an hour.", "He continued talking."],
+          ["He went on to talk about costs.", "He moved to the next topic."],
+          ["I regret leaving school early.", "I am sorry about the past decision."],
+          ["We regret to inform you that...", "Formal bad news, said now."],
+          ["Try restarting the router.", "Experiment: maybe this works."],
+          ["Try to restart the router.", "Attempt it, though it may be difficult."]
+        ]
+      }
+    },
+    {
+      "heading": "Verb + somebody + -ing",
+      "body": [
+        "Some -ing verbs take a person in the middle: **stop somebody doing**, **keep somebody doing**, **imagine somebody doing**, **remember somebody doing**, **prevent somebody from doing**.",
+        "Note the difference between *stop somebody doing* (no preposition) and *prevent somebody from doing* (with *from*). Both are correct; mixing them — *stop people from to do* — is not.",
+        "The possessive is possible and slightly more formal: *I remember his saying that...* Most IELTS candidates can safely use the object form: *I remember him saying that...*"
+      ],
+      "examples": [
+        { "right": "The new rules stop companies dumping waste in the river.", "wrong": "The new rules stop companies to dump waste in the river.", "note": "**stop + object + -ing**, no *to*." },
+        { "right": "Nothing will prevent them from expanding the airport.", "note": "**prevent + object + from + -ing**." },
+        { "right": "I can't imagine living without a car.", "note": "No person needed when the meaning is general." }
+      ]
+    },
+    {
+      "heading": "Gerunds as subjects: the academic workhorse",
+      "body": [
+        "A gerund can be the subject of a sentence, which makes it one of the most useful tools in Task 2: *Investing in public transport reduces congestion.* *Charging drivers to enter the city centre has proved controversial.*",
+        "This pattern replaces the clumsy infinitive subject. *To invest in public transport reduces congestion* is grammatical but heavy; English prefers the gerund, or an abstract noun (*Investment in public transport...*).",
+        "Gerunds also compress two clauses into one, which raises your score for grammatical range while shortening the sentence: *Many students work part-time, which leaves them little time for study* becomes *Working part-time leaves many students little time for study.*"
+      ],
+      "examples": [
+        { "right": "Raising the retirement age would ease pressure on the pension system.", "note": "Gerund subject plus conditional — compact and formal." },
+        { "right": "There is little point in banning cars without improving buses.", "note": "**there is little point in + -ing** is a band-7.5 evaluation frame." },
+        { "right": "Banning cars from the centre is easier said than done.", "wrong": "To ban cars from the centre is easier said than done.", "note": "Both are grammatical, but the gerund is the natural choice." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I enjoy to read about history.",
+      "right": "I enjoy reading about history.",
+      "why": "Tiếng Việt *thích đọc* không phân biệt dạng động từ, nên người học dịch thẳng sang *enjoy to read*. **enjoy** chỉ đi với **-ing**."
+    },
+    {
+      "wrong": "She suggested to postpone the meeting.",
+      "right": "She suggested postponing the meeting.",
+      "why": "**suggest** không nhận to-infinitive. Dùng *suggest + -ing* hoặc *suggest that + mệnh đề*: *She suggested that we postpone the meeting.*"
+    },
+    {
+      "wrong": "Remember locking the door before you leave.",
+      "right": "Remember to lock the door before you leave.",
+      "why": "*Remember doing* nghĩa là **nhớ lại việc đã làm**; *remember to do* mới là **nhớ phải làm**. Câu này nói về bổn phận sắp tới nên phải dùng to-infinitive — lỗi này làm đổi hẳn nghĩa câu."
+    },
+    {
+      "wrong": "He stopped to smoke last year and feels much healthier.",
+      "right": "He stopped smoking last year and feels much healthier.",
+      "why": "*Stop to smoke* nghĩa là **dừng lại để hút thuốc**, ngược hoàn toàn với ý *cai thuốc*. Với nghĩa từ bỏ thói quen phải dùng **stop + -ing**."
+    },
+    {
+      "wrong": "My phone needs repaired.",
+      "right": "My phone needs repairing. / My phone needs to be repaired.",
+      "why": "Tiếng Việt *cần được sửa* khiến người học giữ dạng bị động *repaired*. Sau **need** phải là **-ing** (mang nghĩa bị động) hoặc **to be + V3**."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng danh động từ làm chủ ngữ để câu gọn và học thuật: `Investing in rural clinics would reduce infant mortality.`",
+    "Học động từ theo cụm, không học riêng lẻ: ghi `succeed in -ing`, `lead to -ing`, `be worth -ing` như một khối.",
+    "Trong Task 2, `there is little point in + -ing` và `it is worth + -ing` là hai khung đánh giá rất tự nhiên ở band 7.5+.",
+    "Khi không chắc một động từ đi với dạng nào, thay bằng cụm an toàn: `make it possible to...`, `lead to + noun`. Đừng đoán."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The council is considering ___ the bus fare for students.",
+      "options": ["to reduce", "reducing", "reduce", "reduced"],
+      "answerIndex": 1,
+      "explanation": "**consider + -ing**: *is considering reducing*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "She managed ___ the report before the deadline.",
+      "options": ["finishing", "to finish", "finish", "to finishing"],
+      "answerIndex": 1,
+      "explanation": "**manage + to-infinitive**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "I clearly remember ___ the letter, so it must be somewhere.",
+      "options": ["to post", "posting", "post", "to posting"],
+      "answerIndex": 1,
+      "explanation": "*Remember doing* = nhớ lại việc đã làm; câu này khẳng định ký ức nên dùng **posting**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The government failed ___ the promised reforms.",
+      "options": ["delivering", "to deliver", "deliver", "in delivering"],
+      "answerIndex": 1,
+      "explanation": "**fail + to-infinitive**: *failed to deliver*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "They suggested us to take the train.",
+        "They suggested taking the train.",
+        "They suggested to take the train.",
+        "They suggested take the train."
+      ],
+      "answerIndex": 1,
+      "explanation": "**suggest + -ing** (hoặc *suggest that we take*). Không dùng *suggest + tân ngữ + to V*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "We should avoid ___ (use) informal language in Task 2.",
+      "answers": ["using"],
+      "hint": "avoid + ?",
+      "explanation": "**avoid + -ing**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "He admitted ___ (make) a serious error in the calculation.",
+      "answers": ["making"],
+      "hint": "admit + ?",
+      "explanation": "**admit + -ing**; dạng *having made* cũng đúng nhưng ít dùng hơn."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "They decided ___ (postpone) the launch until the spring.",
+      "answers": ["to postpone"],
+      "hint": "decide + ?",
+      "explanation": "**decide + to-infinitive**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Please remember ___ (turn off) the lights when you leave.",
+      "answers": ["to turn off"],
+      "hint": "a duty, not a memory",
+      "explanation": "Bổn phận cần nhớ để làm → **remember to do**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The old bridge needs ___ (repair) before winter.",
+      "answers": ["repairing", "to be repaired"],
+      "hint": "need + ? (passive meaning)",
+      "explanation": "**need + -ing** mang nghĩa bị động, hoặc **need to be + V3**."
+    }
+  ]
+}

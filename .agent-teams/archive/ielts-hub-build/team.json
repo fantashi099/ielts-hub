@@ -1,0 +1,845 @@
+{
+  "name": "ielts-hub-build",
+  "id": "ielts-hub-build",
+  "description": "Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.",
+  "captainSessionId": "session-6c738b2f-4ceb-4d41-ad0a-993279b2a0af",
+  "createdAt": 1795088067112,
+  "members": [
+    {
+      "id": "8663c511-3d7b-4a17-8928-e56b4f298c36",
+      "name": "grammar-core",
+      "role": "Grammar author: tenses, modals, conditionals",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are grammar-core, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Grammar author: tenses, modals, conditionals.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): grammar-core\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "493cc280-3c99-42d7-8fb8-f7809ef4066d",
+      "name": "grammar-verbs",
+      "role": "Grammar author: passive, reported speech, verb patterns, articles, nouns",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are grammar-verbs, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Grammar author: passive, reported speech, verb patterns, articles, nouns.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): grammar-verbs\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "a808bd70-7fc2-4551-b9a2-99d87cb0376a",
+      "name": "grammar-clauses",
+      "role": "Grammar author: clauses, adjectives, comparison, linkers, prepositions",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are grammar-clauses, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Grammar author: clauses, adjectives, comparison, linkers, prepositions.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): grammar-clauses\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are a senior IELTS grammar author. Read BRIEF.md, CONTENT_SPEC.md, lib/types.ts, content/manifest.json and content/grammar/present-perfect-vs-past-simple.json (the gold standard) first. Then claim your task, write each lesson as its own JSON file under content/grammar/, and validate with: node scripts/validate-content.mjs --only content/grammar. Fix every FAIL that names your files. Never touch app code, package.json, lib/, scripts/ or other agents' files.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "012e7575-1282-45f9-bea6-9a729966dde3",
+      "name": "vocab-a",
+      "role": "Vocabulary author: topic sets + academic core",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are an IELTS vocabulary author. Read BRIEF.md, CONTENT_SPEC.md and content/manifest.json first. One JSON file per set under content/vocabulary/. Validate with: node scripts/validate-content.mjs --only content/vocabulary. Fix every FAIL that names your files. Never touch app code or other agents' files.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are vocab-a, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Vocabulary author: topic sets + academic core.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): vocab-a\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are an IELTS vocabulary author. Read BRIEF.md, CONTENT_SPEC.md and content/manifest.json first. One JSON file per set under content/vocabulary/. Validate with: node scripts/validate-content.mjs --only content/vocabulary. Fix every FAIL that names your files. Never touch app code or other agents' files.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fb0170a6-8a2a-4d82-9f48-6a8a0a4e923e",
+      "name": "vocab-b",
+      "role": "Vocabulary author: topic sets + language of trends",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are an IELTS vocabulary author. Read BRIEF.md, CONTENT_SPEC.md and content/manifest.json first. One JSON file per set under content/vocabulary/. Validate with: node scripts/validate-content.mjs --only content/vocabulary. Fix every FAIL that names your files. Never touch app code or other agents' files.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are vocab-b, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Vocabulary author: topic sets + language of trends.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): vocab-b\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are an IELTS vocabulary author. Read BRIEF.md, CONTENT_SPEC.md and content/manifest.json first. One JSON file per set under content/vocabulary/. Validate with: node scripts/validate-content.mjs --only content/vocabulary. Fix every FAIL that names your files. Never touch app code or other agents' files.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "a143e92c-9891-4a3c-8bba-a61008e3ccb1",
+      "name": "writing-task1",
+      "role": "IELTS Writing Task 1 author",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are an IELTS Writing Task 1 specialist working to ex-examiner standard. Read BRIEF.md, CONTENT_SPEC.md, sources/task1.txt and content/grammar/present-perfect-vs-past-simple.json first. Write content/writing/task1.json, then validate with: node scripts/validate-content.mjs --only content/writing/task1. Fix every FAIL.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are writing-task1, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: IELTS Writing Task 1 author.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): writing-task1\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are an IELTS Writing Task 1 specialist working to ex-examiner standard. Read BRIEF.md, CONTENT_SPEC.md, sources/task1.txt and content/grammar/present-perfect-vs-past-simple.json first. Write content/writing/task1.json, then validate with: node scripts/validate-content.mjs --only content/writing/task1. Fix every FAIL.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "9153ae34-b86e-4ffc-835b-4e66497bae6a",
+      "name": "writing-task2",
+      "role": "IELTS Writing Task 2 author",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are an IELTS Writing Task 2 specialist working to ex-examiner standard. Read BRIEF.md, CONTENT_SPEC.md, sources/task2.txt and content/grammar/present-perfect-vs-past-simple.json first. Write content/writing/task2.json, then validate with: node scripts/validate-content.mjs --only content/writing/task2. Fix every FAIL.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are writing-task2, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: IELTS Writing Task 2 author.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): writing-task2\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are an IELTS Writing Task 2 specialist working to ex-examiner standard. Read BRIEF.md, CONTENT_SPEC.md, sources/task2.txt and content/grammar/present-perfect-vs-past-simple.json first. Write content/writing/task2.json, then validate with: node scripts/validate-content.mjs --only content/writing/task2. Fix every FAIL.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cb24bf31-46fb-4415-8b89-fbdc6296ee20",
+      "name": "writing-meta",
+      "role": "Band descriptors and practice prompt author",
+      "provider": "bioturing",
+      "model": "deepseek-v4.1-flash",
+      "reasoningEffort": "high",
+      "executionPrompt": "You are an IELTS assessment specialist. Read BRIEF.md and CONTENT_SPEC.md first. Write content/writing/band-descriptors.json and content/writing/prompts.json. Validate with: node scripts/validate-content.mjs --only content/writing/band-descriptors and --only content/writing/prompts. Fix every FAIL.",
+      "joinedAt": 1795088067112,
+      "status": "removed",
+      "runtimeSetup": {
+        "persona": "You are writing-meta, a member of the multi-agent team \"ielts-hub-build\" running inside DeepSeek Harness AgentTeams. The captain leads the team; you are a worker member with the role: Band descriptors and practice prompt author.\n\nTeam context:\n- Team id: ielts-hub-build\n- Your name inside the team (use it as `from`/identity): writing-meta\n- Team goal: Build a Vietnamese-first IELTS Academic web app (grammar + vocabulary + writing, target 7.5-8.0) with Next.js, deployable to Vercel. Content authoring fanned out to specialist teammates; captain builds the app, integrates, verifies.\n- Profile protocol: (none)\n- Execution guidance:\nYou are an IELTS assessment specialist. Read BRIEF.md and CONTENT_SPEC.md first. Write content/writing/band-descriptors.json and content/writing/prompts.json. Validate with: node scripts/validate-content.mjs --only content/writing/band-descriptors and --only content/writing/prompts. Fix every FAIL.\n- The team state lives under .agent-teams/ielts-hub-build/ (team.json and inbox/*.jsonl). You may inspect these files read-only for diagnostics, but never edit them directly; use the agent_teams_* tools so JSON escaping and concurrent updates stay safe.\n- The captain and your teammates reach you through messages. Coordination arrives at your nearest model step. Apply it to your current attempt; a task assignment starts a separate turn.\nWhen you receive a task, treat the assignment prompt's dependency results as source material. Do not ignore them.\n\nWorking rules:\n1. When you receive a task assignment, call agent_teams_claim_task with the task id. Keep the returned attempt_id: include it in every agent_teams_update_task call for that execution attempt. Then mark the task in_progress.\n2. Work thoroughly with your available tools; do not cut corners.\n3. When finishing a task:\n   - use status=completed only when the task's success criteria are satisfied;\n   - use status=failed when blocking findings or validation failures mean downstream work must not proceed;\n   - include a concise output in either case;\n   - a stale-attempt rejection means the captain reassigned or took over the task; stop touching that task and wait for new work.\n   claimed cannot jump to completed. Mark in_progress first, then completed or failed.\n   Include attempt_id on every update. Then report once as described below and become idle.\n4. Send one short report with agent_teams_send_message (to=captain) when you complete a task or hit a blocker. Include source_task_id and source_attempt_id in task reports; a stale source rejection means stop, never relabel an old result with a new attempt. The captain is also your parent: this single message satisfies both reporting duties. Do not repeat it through the native send_message tool or send acknowledgments that add no new information.\n5. To ask a teammate something, use agent_teams_send_message with to=<teammate name>; the message lands in their mailbox and wakes them directly — teammates talk to each other without the captain in the loop. The same applies to the captain (to=captain).\n6. After your turn becomes idle, the shared task scheduler may assign your next ready task automatically. Never claim a second task while you still own unfinished work.\n7. If you already own an open attempt (claimed or in_progress) and receive mail, treat it as guidance for that same attempt_id unless the mail explicitly tells you to stop or fail. Do not claim a new task in that turn.\n8. Do not start a teammate's assigned task. Do not privately tell the next-stage member to start; the scheduler assigns unlocked work after you become idle.\n9. You are a worker: do not create or delete teams, reassign tasks, or add/remove members — that is the captain's job.\n10. Quality-gate kinds carry a contract (kind, objective, inScope, acceptance, verify). Stay inside inScope. Do not mark your own implementation as review pass. Review/requirements complete only with verdict=pass; needs_revision/reject must fail with findings. Mail is not a formal next review. Completed work must not be repeated to attach late evidence: call update_task on the original task with its attempt_id and acceptanceResults/commandsRun/evidence_note; supplements are append-only and cannot change its verdict.",
+        "toolFilter": {
+          "deny": [
+            "agent_teams_create",
+            "agent_teams_approve",
+            "agent_teams_edit_plan",
+            "agent_teams_add_member",
+            "agent_teams_remove_member",
+            "agent_teams_create_task",
+            "agent_teams_reassign_task",
+            "agent_teams_amend_task",
+            "agent_teams_resume",
+            "agent_teams_delete"
+          ]
+        }
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "profileSeedId": "g1",
+      "subject": "Grammar lessons 1-15: tense system, modals, conditionals, passive forms",
+      "description": "Write these 15 lesson files in content/grammar/ (present-perfect-vs-past-simple.json already exists — it is your style reference, do not rewrite it):\n\n1. present-simple-and-continuous (B1, units 1-4, band 7.0)\n2. past-simple-and-past-continuous (B1, units 5-6, 7.0)\n3. present-perfect-continuous (B2, units 9-12, 7.5)\n4. past-perfect-and-past-perfect-continuous (B2, units 15-16, 7.5)\n5. future-forms-will-and-going-to (B1, units 19,20,21,23, 7.0)\n6. future-perfect-and-future-continuous (C1, unit 24, 8.0)\n7. used-to-and-past-habits (B1, units 17-18, 7.0)\n8. modals-ability-and-possibility (B1, units 26-27, 7.0)\n9. modals-obligation-and-advice (B2, units 31,32,33,34, 7.5)\n10. modals-deduction-and-speculation (B2, units 28,29,30, 7.5)\n11. modal-perfects-past-speculation (C1, units 27,40,35, 8.0)\n12. zero-and-first-conditional (B1, unit 38, 7.0)\n13. second-conditional-and-wish (B2, units 39,41, 7.5)\n14. third-conditional-and-mixed (C1, unit 40, 8.0)\n15. passive-voice-forms (B2, units 42,43,44, 7.5)\n\nExact slug/title/titleVi/level/topic/bookUnits/bandFocus come from content/manifest.json — copy them, never invent. Each file must satisfy CONTENT_SPEC.md: 3-5 sections, 2+ sections with examples or a table, 3-5 commonMistakes, 3-4 ieltsTips, 8-10 exercises (>=3 mcq, >=3 gap) with verified answers, Vietnamese guidance fields. Consult sources/grammar.txt for the actual unit content (e.g. grep -n '^Unit 3' sources/grammar.txt). Validate: node scripts/validate-content.mjs --only content/grammar — zero FAIL lines naming your files.",
+      "status": "completed",
+      "assignee": "grammar-core",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795089075068,
+      "attemptId": "ffdd1d29-1c06-4912-865d-3ff5d8304245",
+      "reassigning": false,
+      "output": "All 15 grammar lessons written to content/grammar/ and validated clean.\n\nFiles (each 5 sections, 5/5 sections with examples or table, 5 commonMistakes, 4 ieltsTips, 10 exercises = 5 mcq + 5 gap):\n1 present-simple-and-continuous (B1/tenses/[1,2,3,4]/7.0)\n2 past-simple-and-past-continuous (B1/tenses/[5,6]/7.0)\n3 present-perfect-continuous (B2/tenses/[9,10,11,12]/7.5)\n4 past-perfect-and-past-perfect-continuous (B2/tenses/[15,16]/7.5)\n5 future-forms-will-and-going-to (B1/tenses/[19,20,21,23]/7.0)\n6 future-perfect-and-future-continuous (C1/tenses/[24]/8.0)\n7 used-to-and-past-habits (B1/tenses/[17,18]/7.0)\n8 modals-ability-and-possibility (B1/modals/[26,27]/7.0)\n9 modals-obligation-and-advice (B2/modals/[31,32,33,34]/7.5)\n10 modals-deduction-and-speculation (B2/modals/[28,29,30]/7.5)\n11 modal-perfects-past-speculation (C1/modals/[27,40,35]/8.0)\n12 zero-and-first-conditional (B1/conditionals/[38]/7.0)\n13 second-conditional-and-wish (B2/conditionals/[39,41]/7.5)\n14 third-conditional-and-mixed (C1/conditionals/[40]/8.0)\n15 passive-voice-forms (B2/passive/[42,43,44]/7.5)\n\nContent grounded in sources/grammar.txt (Murphy units 1-6, 9-12, 15-24, 17-18, 26-35, 38-41, 42-44). All slug/title/titleVi/level/topic/bookUnits/bandFocus copied verbatim from content/manifest.json (verified programmatically, 0 mismatches). Vietnamese fields: summary (~91-134 chars), whyItMatters, exercise hints and explanations, commonMistakes.why (all naming Vietnamese-learner interference), ieltsTips — consistent with the convention the other grammar authors are using and with CONTENT_SPEC.md line 13. English fields: title, section heading/body, examples, exercise questions, mcq options.\n\nQuality fixes made during review: removed two gap questions that leaked their answer in parentheses (zero-and-first-conditional ex8/ex10), replaced non-idiomatic \"recover consciousness\" with \"regain consciousness\" (past-perfect ex6), de-duplicated an exercise shared with the neighbouring modal lesson (modal-perfects ex6), and replaced 19 generic \"Choose the correct sentence.\" mcq prompts with specific ones. Files reformatted to the gold-standard inline-array style (round-trip JSON verified identical).\n\nValidator: `node scripts/validate-content.mjs --only content/grammar` → \"content check — grammar:47 / ok 0 warning(s)\", exit 0, zero FAIL lines. Did not touch app code, lib/, scripts/, package.json, or other agents' files.",
+      "changedPaths": [
+        "content/grammar/present-simple-and-continuous.json",
+        "content/grammar/past-simple-and-past-continuous.json",
+        "content/grammar/present-perfect-continuous.json",
+        "content/grammar/past-perfect-and-past-perfect-continuous.json",
+        "content/grammar/future-forms-will-and-going-to.json",
+        "content/grammar/future-perfect-and-future-continuous.json",
+        "content/grammar/used-to-and-past-habits.json",
+        "content/grammar/modals-ability-and-possibility.json",
+        "content/grammar/modals-obligation-and-advice.json",
+        "content/grammar/modals-deduction-and-speculation.json",
+        "content/grammar/modal-perfects-past-speculation.json",
+        "content/grammar/zero-and-first-conditional.json",
+        "content/grammar/second-conditional-and-wish.json",
+        "content/grammar/third-conditional-and-mixed.json",
+        "content/grammar/passive-voice-forms.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "15 lesson files exist in content/grammar/ with the assigned slugs",
+          "status": "passed",
+          "evidence": "ls content/grammar/ shows all 15 assigned files; each parses as valid JSON."
+        },
+        {
+          "criterion": "slug/title/titleVi/level/topic/bookUnits/bandFocus copied verbatim from content/manifest.json",
+          "status": "passed",
+          "evidence": "Programmatic comparison of all 6 fields across 15 files against content/manifest.json grammar array: 0 mismatches (script printed ALL CHECKS PASS)."
+        },
+        {
+          "criterion": "CONTENT_SPEC.md structure: 3-5 sections, >=2 with examples or table, 3-5 commonMistakes, 3-4 ieltsTips, 8-10 exercises with >=3 mcq and >=3 gap",
+          "status": "passed",
+          "evidence": "Per-file counts printed: every file has 5 sections / 5 decorated sections / 5 commonMistakes / 4 ieltsTips / 10 exercises (5 mcq + 5 gap)."
+        },
+        {
+          "criterion": "Vietnamese guidance fields present (summary, whyItMatters, hints, explanations, commonMistakes.why, ieltsTips)",
+          "status": "passed",
+          "evidence": "Spot-reviewed files: e.g. modals-deduction-and-speculation.json summary 'Suy luận theo mức độ chắc chắn với must, can't, may, might, could — kỹ năng hedge bắt buộc trong Task 2.' and Vietnamese why/tips strings throughout."
+        },
+        {
+          "criterion": "Zero FAIL lines naming my files from the content validator",
+          "status": "passed",
+          "evidence": "node scripts/validate-content.mjs --only content/grammar → 'content check — grammar:47  vocab sets:0  unique words:0 / ok  0 warning(s)' with exit code 0; also validated each of the 15 files individually (all OK)."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/grammar",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:47  vocab sets:0  unique words:0; ok  0 warning(s)"
+        },
+        {
+          "command": "for f in <15 slugs>; do node scripts/validate-content.mjs --only content/grammar/$f.json; done",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "All 15 individual runs printed 'ok  0 warning(s)' with no FAIL lines."
+        },
+        {
+          "command": "node /tmp/final.cjs (manifest field + structure cross-check)",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "ALL CHECKS PASS — 0 manifest mismatches, all section/mistake/tip/exercise counts in range."
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "profileSeedId": "g2",
+      "subject": "Grammar lessons 16-31: passives, reported speech, verb patterns, articles, nouns, determiners, relative clauses",
+      "description": "Write these 16 lesson files in content/grammar/:\n\n1. impersonal-and-causative-passive (C1, units 45-46, 8.0)\n2. passive-in-academic-writing (C1, units 42,43,45, 8.0)\n3. reported-speech-statements (B2, unit 47, 7.5)\n4. reported-questions-and-commands (B2, units 48,50, 7.5)\n5. gerund-vs-infinitive (B2, units 53,54,56,57, 7.5)\n6. verb-object-infinitive-patterns (B2, units 55,67, 7.5)\n7. adjective-and-preposition-patterns (B2, units 62,65,66, 7.5)\n8. prefer-would-rather-had-better (B2, units 35,59, 7.5)\n9. articles-a-an-the (B1, units 69-73, 7.0)\n10. articles-advanced-zero-article (C1, units 74-78, 8.0)\n11. countable-uncountable-and-quantifiers (B1, units 69,70,87, 7.0)\n12. singular-plural-and-compound-nouns (B2, units 79,80,81, 7.5)\n13. determiners-all-most-none (B2, units 86,88,89,90,91, 7.5)\n14. referencing-this-that-such (B2, units 84,85, 8.0)\n15. defining-relative-clauses (B2, units 92-93, 7.5)\n16. non-defining-relative-clauses (C1, units 95-96, 8.0)\n\nExact metadata from content/manifest.json. Follow CONTENT_SPEC.md and match the depth of content/grammar/present-perfect-vs-past-simple.json. Article and relative-clause errors are the biggest grammar drag for Vietnamese learners — make commonMistakes genuinely diagnostic. Consult sources/grammar.txt. Validate: node scripts/validate-content.mjs --only content/grammar — zero FAIL lines naming your files.",
+      "status": "completed",
+      "assignee": "grammar-verbs",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795089133898,
+      "attemptId": "7131a377-0529-425b-86eb-d64617ca677b",
+      "reassigning": false,
+      "output": "All 16 assigned grammar lessons authored in content/grammar/ (5 sections, 5 commonMistakes, 4 ieltsTips, 10 exercises each; metadata copied verbatim from content/manifest.json; Vietnamese-first explanations targeting Vietnamese L1 interference for articles, relative clauses, reported speech and verb patterns). Also fixed content/grammar/prefer-would-rather-had-better.json, which failed JSON parsing (raw straight double quotes around \"unreal past\" at position 3555) — now parses. Validation: `node scripts/validate-content.mjs --only content/grammar` → grammar:48, ok 0 warning(s), exit 0; full-repo run also exit 0 with zero FAIL lines naming my files.",
+      "changedPaths": [
+        "content/grammar/impersonal-and-causative-passive.json",
+        "content/grammar/passive-in-academic-writing.json",
+        "content/grammar/reported-speech-statements.json",
+        "content/grammar/reported-questions-and-commands.json",
+        "content/grammar/gerund-vs-infinitive.json",
+        "content/grammar/verb-object-infinitive-patterns.json",
+        "content/grammar/adjective-and-preposition-patterns.json",
+        "content/grammar/prefer-would-rather-had-better.json",
+        "content/grammar/articles-a-an-the.json",
+        "content/grammar/articles-advanced-zero-article.json",
+        "content/grammar/countable-uncountable-and-quantifiers.json",
+        "content/grammar/singular-plural-and-compound-nouns.json",
+        "content/grammar/determiners-all-most-none.json",
+        "content/grammar/referencing-this-that-such.json",
+        "content/grammar/defining-relative-clauses.json",
+        "content/grammar/non-defining-relative-clauses.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "All 16 named lesson JSON files exist in content/grammar/",
+          "status": "passed",
+          "evidence": "16 files present, 11.9–14.1 KB each; sizes listed via stat (e.g. impersonal-and-causative-passive 14058 bytes, non-defining-relative-clauses 12595 bytes)."
+        },
+        {
+          "criterion": "Metadata matches content/manifest.json exactly (slug, title, titleVi, level, topic, bookUnits, bandFocus)",
+          "status": "passed",
+          "evidence": "Programmatic comparison of all 16 entries: METADATA MATCH, zero diffs."
+        },
+        {
+          "criterion": "Follows CONTENT_SPEC.md schema and matches gold-standard depth",
+          "status": "passed",
+          "evidence": "Each lesson: 5 sections with 2–3 paragraph bodies plus tables/examples (right/wrong/note), 5 commonMistakes with Vietnamese explanations, 4 ieltsTips, 10 exercises (≥3 mcq, ≥3 gap) — same shape as content/grammar/present-perfect-vs-past-simple.json."
+        },
+        {
+          "criterion": "Vietnamese-first: summary, whyItMatters, commonMistakes.why, ieltsTips in Vietnamese; English rule text and examples",
+          "status": "passed",
+          "evidence": "Diacritic scan confirms Vietnamese in every vi field; titles/bodies/examples/notes/explanations in English."
+        },
+        {
+          "criterion": "commonMistakes are genuinely diagnostic for Vietnamese learners (especially articles and relative clauses)",
+          "status": "passed",
+          "evidence": "Mistakes name the L1 mechanism, e.g. 'Tiếng Việt dùng người mà cho cả người và vật, nên người học chọn which'; 'Đại từ quan hệ đã thay cho tân ngữ, nên không lặp lại it'; zero-article lesson explains Vietnamese has no article system."
+        },
+        {
+          "criterion": "Validation passes: node scripts/validate-content.mjs --only content/grammar with zero FAIL lines naming my files",
+          "status": "passed",
+          "evidence": "Exit 0, 0 warnings; full-repo run also exit 0 with 0 warnings and no line naming my files."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/grammar",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:48  vocab sets:0  unique words:0 / ok  0 warning(s); zero FAIL lines, zero lines naming my files."
+        },
+        {
+          "command": "node scripts/validate-content.mjs",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "Full-repo run: content check — grammar:48  vocab sets:20  unique words:501 / ok  0 warning(s); grep for my 16 slugs/filenames returned NO LINES NAMING MY FILES."
+        },
+        {
+          "command": "node -e '<structural audit over 16 files>'",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "ALL 16 OK — each file: 3–5 sections (all 5), 5 commonMistakes, 4 ieltsTips, 10 exercises with ≥3 mcq and ≥3 gap, ≥2 decorated sections, every gap question contains '___', all gap answers lowercase/non-empty."
+        },
+        {
+          "command": "node -e '<manifest cross-check over 16 files>'",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "METADATA MATCH — title/titleVi/level/topic/bookUnits/bandFocus identical to content/manifest.json for all 16 slugs."
+        },
+        {
+          "command": "node -e '<JSON.parse + HTML/emoji/mojibake scan over 16 files>'",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "CLEAN: every file parses; no HTML tags, no emoji, no U+FFFD; Vietnamese diacritics present in summary, whyItMatters and all commonMistakes.why."
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "profileSeedId": "g3",
+      "subject": "Grammar lessons 32-47: clauses, modifiers, comparison, word order, linkers, prepositions, phrasal verbs",
+      "description": "Write these 16 lesson files in content/grammar/:\n\n1. reduced-relative-clauses (C1, unit 97, 8.0)\n2. participle-clauses (C1, units 68,97, 8.0)\n3. adjective-order-and-ed-ing-adjectives (B1, units 98-99, 7.0)\n4. adverbs-and-adverb-placement (B2, units 100,101,110, 7.5)\n5. comparatives-and-much-far (B1, units 105,106,107, 7.0)\n6. superlatives-and-so-such (B1, units 102,108, 7.0)\n7. enough-too-quite-rather (B2, units 103-104, 7.5)\n8. word-order-verb-object-place-time (B2, unit 109, 7.5)\n9. emphasis-and-inversion (C1, units 109,110,112, 8.0)\n10. still-yet-already-anymore (B2, unit 111, 7.5)\n11. contrast-linkers (B2, units 112,113,117,118, 7.5)\n12. cause-effect-and-purpose-linkers (B2, units 64,115,116, 7.5)\n13. condition-and-concession-linkers (C1, units 114,115, 8.0)\n14. prepositions-of-time-and-place (B1, units 119,120,121,123,124,125, 7.0)\n15. dependent-prepositions (B2, units 129-136, 7.5)\n16. phrasal-verbs-for-ielts (B2, units 137-145, 8.0)\n\nExact metadata from content/manifest.json. These are the cohesion tools that separate band 6 from band 7+, so ieltsTips must show real paragraph-level use. Follow CONTENT_SPEC.md and match content/grammar/present-perfect-vs-past-simple.json. Validate: node scripts/validate-content.mjs --only content/grammar — zero FAIL lines naming your files.",
+      "status": "completed",
+      "assignee": "grammar-clauses",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795088936149,
+      "attemptId": "efcc2ad4-3a3c-4d64-994a-898105c8ccfb",
+      "reassigning": false,
+      "output": "Wrote all 16 assigned grammar lessons in content/grammar/ (lessons 32–47 of the curriculum): reduced-relative-clauses, participle-clauses, adjective-order-and-ed-ing-adjectives, adverbs-and-adverb-placement, comparatives-and-much-far, superlatives-and-so-such, enough-too-quite-rather, word-order-verb-object-place-time, emphasis-and-inversion, still-yet-already-anymore, contrast-linkers, cause-effect-and-purpose-linkers, condition-and-concession-linkers, prepositions-of-time-and-place, dependent-prepositions, phrasal-verbs-for-ielts.\n\nEach file: 4–5 sections (≥2 carry examples and/or a table), 5 commonMistakes with Vietnamese `why` explaining Vietnamese interference, 4 ieltsTips written at paragraph level (showing the structure inside a real Task 1/Task 2 paragraph, with English keywords in backticks), 10 exercises = 5 mcq + 5 gap, gap answers lowercase with a single \"___\" blank. Titles/levels/topics/bookUnits/bandFocus match content/manifest.json exactly (verified programmatically: 0 mismatches, 0 missing files, 0 summary over 140 chars).\n\nContent is grounded in the assigned English Grammar in Use 5th-ed units (checked against sources/grammar.txt TOC and unit text: 64, 68, 97, 98–112, 113–118, 119–125, 129–136, 137–145), and every example/answer was written and checked by hand for accuracy.\n\nValidation: `node scripts/validate-content.mjs --only content/grammar` reports 0 warnings on my files and no FAIL naming any of them. The only FAIL in that run is content/grammar/prefer-would-rather-had-better.json — another agent's file, out of my scope (invalid JSON at line 48). Per-file runs of the validator for each of my 16 files all return PASS/ok.",
+      "changedPaths": [
+        "content/grammar/reduced-relative-clauses.json",
+        "content/grammar/participle-clauses.json",
+        "content/grammar/adjective-order-and-ed-ing-adjectives.json",
+        "content/grammar/adverbs-and-adverb-placement.json",
+        "content/grammar/comparatives-and-much-far.json",
+        "content/grammar/superlatives-and-so-such.json",
+        "content/grammar/enough-too-quite-rather.json",
+        "content/grammar/word-order-verb-object-place-time.json",
+        "content/grammar/emphasis-and-inversion.json",
+        "content/grammar/still-yet-already-anymore.json",
+        "content/grammar/contrast-linkers.json",
+        "content/grammar/cause-effect-and-purpose-linkers.json",
+        "content/grammar/condition-and-concession-linkers.json",
+        "content/grammar/prepositions-of-time-and-place.json",
+        "content/grammar/dependent-prepositions.json",
+        "content/grammar/phrasal-verbs-for-ielts.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "All 16 lesson files exist in content/grammar/ with exact manifest metadata (slug, title, titleVi, level, topic, bookUnits, bandFocus)",
+          "status": "passed",
+          "evidence": "Programmatic check of all 16 files against content/manifest.json: issues: 0. E.g. reduced-relative-clauses C1/relative-clauses/[97]/8.0; phrasal-verbs-for-ielts B2/phrasal-verbs/[137..145]/8.0; word-order-verb-object-place-time title 'Word order: verb, object, place and time'."
+        },
+        {
+          "criterion": "Each lesson meets CONTENT_SPEC minimums: 3–5 sections with ≥2 decorated, 3–5 commonMistakes, 3–4 ieltsTips, 8–10 exercises with ≥3 mcq and ≥3 gap, gap answers lowercase and one ___ per gap",
+          "status": "passed",
+          "evidence": "Per-file audit: every file 4–5 sections, 5 commonMistakes, 4 ieltsTips, 10 exercises (5 mcq + 5 gap), summary 82–124 chars. Validator emits no 'answers should be lowercase' or 'gap question has no ___' warnings for any of my files."
+        },
+        {
+          "criterion": "Zero FAIL lines naming my files from node scripts/validate-content.mjs --only content/grammar",
+          "status": "passed",
+          "evidence": "Full-scope run lists exactly one FAIL, for content/grammar/prefer-would-rather-had-better.json (another agent's file, invalid JSON line 48) — none of my 16 files appear. Individual runs of the validator for each of my 16 files all report PASS / ok 0 warning(s)."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/grammar/<each of my 16 files> (per-file loop)",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "PASS for all 16: reduced-relative-clauses, participle-clauses, adjective-order-and-ed-ing-adjectives, adverbs-and-adverb-placement, comparatives-and-much-far, superlatives-and-so-such, enough-too-quite-rather, word-order-verb-object-place-time, emphasis-and-inversion, still-yet-already-anymore, contrast-linkers, cause-effect-and-purpose-linkers, condition-and-concession-linkers, prepositions-of-time-and-place, dependent-prepositions, phrasal-verbs-for-ielts."
+        },
+        {
+          "command": "node scripts/validate-content.mjs --only content/grammar",
+          "status": "failed",
+          "exitCode": 1,
+          "evidence": "Single FAIL: content/grammar/prefer-would-rather-had-better.json: invalid JSON — Expected ',' or ']' after array element (line 48 column 196). That file belongs to another agent; no FAIL names any of my files, and 0 warnings mention them."
+        },
+        {
+          "command": "node -e '<manifest metadata + count audit over my 16 files>'",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "issues: 0 — all titles/level/topic/bookUnits/bandFocus match content/manifest.json."
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "profileSeedId": "v1",
+      "subject": "Vocabulary sets 1-10: seven topic sets plus academic verbs, academic adjectives, describing trends",
+      "description": "Write 10 set files in content/vocabulary/ using the exact slugs from content/manifest.json: education-core, environment-core, technology-core, health-core, society-core, economy-work-core, government-core, academic-verbs-core, academic-adjectives-core, describing-trends.\n\nEach set: 20-30 words (25 average). Every word needs word/pos/ipa/band/vi/def/example/collocations(2-4)/synonyms(2-3)/family. Band spread mostly 7.0-7.5, 4-8 at 8.0, a few 6.5 essentials. Vietnamese `vi` must be precise enough to choose between near-synonyms. Examples must be IELTS-essay sentences, not textbook filler. `describing-trends` needs 8+ items of real Task 1 chart language (surge, plateau, plummet, marginal, twofold, peak at, respectively...). Follow CONTENT_SPEC.md exactly. Validate: node scripts/validate-content.mjs --only content/vocabulary — zero FAIL lines naming your files; avoid reusing a word already present in another set (validator warns).",
+      "status": "completed",
+      "assignee": "vocab-a",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795088965661,
+      "attemptId": "0e5198c3-16cc-46e3-b203-3facdb2e6443",
+      "reassigning": false,
+      "output": "Wrote all 10 assigned vocabulary sets (25 words each, 250 words total, all unique across the repo) in content/vocabulary/: education-core, environment-core, technology-core, health-core, society-core, economy-work-core, government-core, academic-verbs-core, academic-adjectives-core, describing-trends. Each word carries word/pos/ipa/band/vi/def/example/collocations(3)/synonyms(2-3)/family, with 6.5-8.0 band spread mostly at 7.0-7.5. describing-trends supplies 25 Task 1 chart items (surge, soar, plummet, plunge, plateau, peak at, marginal, twofold, respectively, fluctuate, upward trend, account for, level off, overtake, exponential, disproportionate...). Fixed validator warnings on my files: subsidy and overtake examples now use matching word forms, and four words colliding with other agents' sets were swapped (outsourcing→work-life balance, deterrent→levy, empirical→unequivocal, quantify→elucidate). Final: node scripts/validate-content.mjs --only content/vocabulary exits 0 with 20 sets / 501 unique words / 0 warnings, 0 FAIL lines naming my files.",
+      "changedPaths": [
+        "content/vocabulary/education-core.json",
+        "content/vocabulary/environment-core.json",
+        "content/vocabulary/technology-core.json",
+        "content/vocabulary/health-core.json",
+        "content/vocabulary/society-core.json",
+        "content/vocabulary/economy-work-core.json",
+        "content/vocabulary/government-core.json",
+        "content/vocabulary/academic-verbs-core.json",
+        "content/vocabulary/academic-adjectives-core.json",
+        "content/vocabulary/describing-trends.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "10 set files exist at the exact manifest slugs in content/vocabulary/",
+          "status": "passed",
+          "evidence": "All 10 files present and each slug matches content/manifest.json vocabulary entries; per-set word counts are exactly 25 (spec 20-30)."
+        },
+        {
+          "criterion": "Every word has word/pos/ipa/band/vi/def/example/collocations(2-4)/synonyms(2-3)/family",
+          "status": "passed",
+          "evidence": "Validator checks pass with 0 warnings; scripted audit shows every entry carries all required fields, 3 collocations and 2-3 synonyms per word, family on all 250 entries."
+        },
+        {
+          "criterion": "Band spread mostly 7.0-7.5 with 4-8 at 8.0 and a few 6.5",
+          "status": "passed",
+          "evidence": "Per-set 8.0 counts: 6,6,6,6,5,7,6,6,8,5; 6.5 counts: 2-5; remaining words at 7.0/7.5."
+        },
+        {
+          "criterion": "describing-trends contains 8+ genuine Task 1 chart-language items",
+          "status": "passed",
+          "evidence": "25 items including surge, soar, plummet, plunge, plateau, peak at, marginal, twofold, respectively, fluctuate, upward trend, account for, level off, overtake, sustained, volatile, exponential, disproportionate."
+        },
+        {
+          "criterion": "Vietnamese vi distinguishes near-synonyms",
+          "status": "passed",
+          "evidence": "Each vi gives a Vietnamese gloss plus a parenthetical disambiguation, e.g. subsidy 'trợ cấp (tiền nhà nước hỗ trợ để giảm giá hoặc khuyến khích)' vs incentive 'động lực khuyến khích (biện pháp khiến người ta muốn làm gì)'."
+        },
+        {
+          "criterion": "No validator FAIL or warn line names my files; no word reused from another set",
+          "status": "passed",
+          "evidence": "Final run: 'content check — grammar:0 vocab sets:20 unique words:501' / 'ok 0 warning(s)', exit 0. Four cross-set collisions found earlier were resolved by swapping my words."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/vocabulary",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:0  vocab sets:20  unique words:501 / ok 0 warning(s); no FAIL lines, and grep for my 10 filenames in output returns 0 lines."
+        },
+        {
+          "command": "python3 -c \"...\" (audit word counts, band/pos distribution, intra-collection duplicates)",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "250 words total, 250 unique, 0 duplicates; each set n=25; band buckets per set printed as expected."
+        }
+      ]
+    },
+    {
+      "id": "t5",
+      "profileSeedId": "v2",
+      "subject": "Vocabulary sets 11-20: seven topic sets plus linking, collocations, formal idioms",
+      "description": "Write 10 set files in content/vocabulary/ using the exact slugs from content/manifest.json: media-advertising-core, culture-travel-core, urbanisation-core, family-children-core, crime-law-core, science-research-core, globalisation-core, linking-signposting, collocations-essay, idioms-formal-core.\n\nEach set: 20-30 words (25 average). Required fields exactly as CONTENT_SPEC.md. `vi` precise, `example` an IELTS-essay sentence, collocations real and high-frequency. `linking-signposting` must cover discourse markers with their function (concession, addition, exemplification, result). `collocations-essay` should be verb+noun / adjective+noun chunks (grave concern, pose a threat, play a pivotal role), not single words. Avoid words already used by the other vocabulary sets. Validate: node scripts/validate-content.mjs --only content/vocabulary — zero FAIL lines naming your files.",
+      "status": "completed",
+      "assignee": "vocab-b",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795089001951,
+      "attemptId": "b47617de-76d8-4c16-8d99-b20565bd24cd",
+      "reassigning": false,
+      "output": "Wrote all 10 vocabulary sets at content/vocabulary/ using the exact manifest slugs; each has 25 words (media-advertising 26), topic enums match CONTENT_SPEC, and `node scripts/validate-content.mjs --only content/vocabulary` reports 0 errors / 0 warnings across all 20 sets (501 unique words).\n\nSets and word counts:\n1. media-advertising-core (26) — sensationalism, tabloid, broadsheet, pundit, censorship, propaganda, endorsement, billboard, prime time, target audience, product placement, consumerism, subliminal, airtime, circulation, editorial, clickbait, influencer, sponsorship, advertising campaign, media conglomerate, misinformation, public broadcaster, watershed, soundbite, jingle.\n2. culture-travel-core (25) — heritage, tourism, eco-tourism, overtourism, indigenous, ancestral, artefact, preservation, restoration, world heritage site, cultural assimilation, homestay, itinerary, off the beaten track, souvenir, pilgrimage, artisan, folklore, cultural exchange, authenticity, diaspora, excursion, package holiday, landmark, multicultural.\n3. urbanisation-core (25) — urban sprawl, conurbation, amenities, congestion, overcrowding, rural-to-urban migration, gentrification, slum, shanty town, zoning, green belt, commute, pedestrianise, mixed-use development, affordable housing, population density, drainage, waste management, regeneration, metropolitan, suburb, rural, car dependency, liveability, high-rise.\n4. family-children-core (25) — upbringing, parenting, sibling, extended/nuclear/single-parent family, generation gap, parental discipline, nurture, adolescence, toddler, childcare, maternity leave, paternity leave, breadwinner, household chores, filial piety, role model, peer pressure, overprotective, permissive, bonding, offspring, kinship, dual-income household.\n5. crime-law-core (25) — deterrent, deter, parole, recidivism, incarceration, custodial sentence, community service, probation, juvenile delinquency, offence, offender, petty crime, fraud, law enforcement, judiciary, verdict, breach, capital punishment, life imprisonment, wrongdoing, curfew, vandalism, cybercrime, domestic violence, restorative justice.\n6. science-research-core (25) — hypothesis, statistically significant, methodology, peer review, sample size, variable, correlation, causation, replication, validity, breakthrough, research grant, clinical trial, placebo, scientific consensus, evidence-based, extrapolate, disseminate, patent, prototype, theoretical, applied research, anomaly, longitudinal study, control group.\n7. globalisation-core (25) — globalisation, interconnected, multinational corporation, outsourcing, offshoring, trade liberalisation, tariff, free trade, foreign direct investment, supply chain, cultural homogenisation, lingua franca, brain drain, remittance, developing country, interdependence, protectionism, comparative advantage, commodity, export, cultural imperialism, global village, deregulation, emerging economy, cosmopolitan.\n8. linking-signposting (25) — discourse markers tagged with function inside `def`/`vi`: addition (moreover, furthermore, in addition, what is more, coupled with), concession (nevertheless, nonetheless, albeit, whereas, notwithstanding, even so, admittedly, in spite of this), exemplification (for instance, to illustrate, a case in point, namely, such as), result (consequently, as a result, therefore, hence, thus, accordingly), summary (to sum up).\n9. collocations-essay (25, all pos=collocation, multi-word chunks not single words) — pose a threat, play a pivotal role, grave concern, address an issue, alleviate the burden, raise awareness, implement a policy, allocate resources, bear the cost, reap the benefits, gain insight into, reach a consensus, draw a distinction, a detrimental effect, exert influence, meet a demand, take precedence, spark debate, incur costs, mitigate the impact, a growing body of evidence, a pressing issue, a viable solution, a profound impact, strike a balance.\n10. idioms-formal-core (25, pos=phrase) — a double-edged sword, the tip of the iceberg, a vicious circle, in the long run, at the expense of, in the wake of, pave the way for, a stepping stone, the status quo, call into question, bear fruit, a level playing field, cut corners, in the face of, on the verge of, come to terms with, take its toll, in hindsight, for the sake of, a drop in the ocean, a stumbling block, a myriad of, on balance, all things considered, a slippery slope.\n\nQuality notes: vi glosses precise and register-aware (e.g. \"sự quý hoá đô thị\", \"án lao động công ích\", \"chức năng: nhượng bộ\"); every example is an IELTS-topic sentence of 8-22 words containing the headword; defs all ≤18 words; collocations 2-4 real high-frequency chunks; band spread follows CONTENT_SPEC (mostly 7.0/7.5, few 6.5, 4-8 at 8.0 per set). Two deliberate cross-set substitutions to keep the global word list duplicate-free: dropped \"empirical\" (taken by academic-adjectives-core) and \"quantify\" (academic-verbs-core), replaced with \"statistically significant\" and \"extrapolate\".\n\nTwo validator fixes made after first run: topic enums for collocations-essay (\"collocations\") and idioms-formal-core (\"idioms-formal\") per the allowed-topic list, plus eight example sentences rewritten so verb inflections no longer broke the headword match (address an issue, exert influence, take precedence, spark debate, single-parent family, emerging economy, pave the way for, call into question, take its toll, a stumbling block).",
+      "changedPaths": [
+        "content/vocabulary/media-advertising-core.json",
+        "content/vocabulary/culture-travel-core.json",
+        "content/vocabulary/urbanisation-core.json",
+        "content/vocabulary/family-children-core.json",
+        "content/vocabulary/crime-law-core.json",
+        "content/vocabulary/science-research-core.json",
+        "content/vocabulary/globalisation-core.json",
+        "content/vocabulary/linking-signposting.json",
+        "content/vocabulary/collocations-essay.json",
+        "content/vocabulary/idioms-formal-core.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "10 set files exist in content/vocabulary/ with the exact manifest slugs",
+          "status": "passed",
+          "evidence": "Verified each file's internal slug equals its filename and matches content/manifest.json: media-advertising-core, culture-travel-core, urbanisation-core, family-children-core, crime-law-core, science-research-core, globalisation-core, linking-signposting, collocations-essay, idioms-formal-core."
+        },
+        {
+          "criterion": "Each set has 20-30 words (~25 average), required fields exactly as CONTENT_SPEC.md",
+          "status": "passed",
+          "evidence": "Word counts: 26/25/25/25/25/25/25/25/25/25 = 251 words, avg 25.1. All sets carry slug,title,titleVi,topic,description,ieltsUse,words; every word has word,pos,ipa,band,vi,def,example,collocations,synonyms (+optional family/antonyms). Audit script confirmed def ≤18 words, examples 8-22 words, collocations 2-4, synonyms 2-3, family ≤3."
+        },
+        {
+          "criterion": "vi precise, example is an IELTS-essay sentence, collocations real and high-frequency",
+          "status": "passed",
+          "evidence": "Hand-checked glosses (e.g. 'gentrification'→'sự quý hoá đô thị (giàu hoá khu nghèo, đẩy cư dân cũ đi)', 'community service'→'án lao động công ích'); examples are Task 2-style sentences such as 'Peer review filters weak studies, although it cannot detect every case of fraud.' and 'Rising rents, coupled with stagnant wages, have pushed young families out of the centre.'"
+        },
+        {
+          "criterion": "linking-signposting covers discourse markers with their function (concession, addition, exemplification, result)",
+          "status": "passed",
+          "evidence": "25 markers grouped by function and each def starts with the function label, e.g. 'concession marker: admits a contrary fact but keeps the main claim' (nonetheless), 'result marker: conclusions from what has been said' (therefore); vi carries the same function in Vietnamese e.g. 'tuy nhiên (chức năng: nhượng bộ)'."
+        },
+        {
+          "criterion": "collocations-essay entries are verb+noun / adjective+noun chunks, not single words",
+          "status": "passed",
+          "evidence": "All 25 entries pos=collocation and every 'word' is multi-word: pose a threat, play a pivotal role, grave concern, alleviate the burden, draw a distinction, a growing body of evidence, strike a balance, etc."
+        },
+        {
+          "criterion": "Avoid words already used by other vocabulary sets",
+          "status": "passed",
+          "evidence": "Validator cross-set duplicate check reports 0 warnings after replacing 'empirical' (academic-adjectives-core) with 'statistically significant' and 'quantify' (academic-verbs-core) with 'extrapolate'."
+        },
+        {
+          "criterion": "node scripts/validate-content.mjs --only content/vocabulary reports zero FAIL lines naming my files",
+          "status": "passed",
+          "evidence": "Final run output: 'content check — grammar:0  vocab sets:20  unique words:501' then 'ok  0 warning(s)', exit code 0. Earlier run's 2 FAILs (disallowed topic enums) were fixed and are gone."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/vocabulary",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:0  vocab sets:20  unique words:501 / ok 0 warning(s)"
+        },
+        {
+          "command": "node -e \"<per-set audit: slug vs filename, word count, band histogram>\"",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "All 10 slugs OK; counts 26/25/25/25/25/25/25/25/25/25; band histograms show mostly 7.0/7.5 with 4-8 entries at 8.0 per set (globalisation adjusted from 8.0 x11 to 7)."
+        },
+        {
+          "command": "node -e \"<field audit: def 1-18 words, example 8-22 words, collocations 2-4, synonyms 2-3, family <=3>\"",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "Audit printed no violations, only 'audit done'."
+        }
+      ]
+    },
+    {
+      "id": "t6",
+      "profileSeedId": "w1",
+      "subject": "Writing Task 1 guide: sections + 5 annotated band 7.5-8 models",
+      "description": "Write content/writing/task1.json.\n\nUse sources/task1.txt (Vietnamese guide by Nguyễn Hoàng Huy) for the four-paragraph structure (Introduction, Overview, Body 1, Body 2), the overview-first discipline and the chart-type playbook — then rewrite in your own words and extend to band 8.\n\nRequired: 5-8 sections covering (a) what the examiner wants, (b) the four-paragraph skeleton, (c) overview writing (the single biggest score lever), (d) language of trends and comparison, (e) describing processes, (f) describing maps, (g) common band-6 errors.\n\n5 models, one each: line graph, bar chart, pie/table combination, process diagram, map. 160-220 words, band 7.5 or 8.0, each with outline, 4-8 annotations whose quote is VERBATIM in the essay (validator enforces), and 5-8 keyLanguage phrases.\n\nFollow CONTENT_SPEC.md exactly. Validate: node scripts/validate-content.mjs --only content/writing/task1 — zero FAIL lines.",
+      "status": "completed",
+      "assignee": "writing-task1",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795088550549,
+      "attemptId": "2b896691-b0ad-4b33-95d5-83512faf62cc",
+      "reassigning": false,
+      "output": "Wrote content/writing/task1.json (48 KB, 8 sections + 5 annotated models, zero validator FAIL/warn).\n\nSECTIONS (8, each intro + 3–5 blocks, English prose, Vietnamese subtitle only): 1 What the examiner actually rewards (TA/CC/LR/GRA mapped to what separates 8 from 6, band-6-vs-8 compare); 2 The four-paragraph skeleton (part/job/question/words table, no-conclusion rule, 20-minute timed plan); 3 Overview: the single biggest score lever (bad-vs-good overview compare, direction/rank/exception triad, two-sentence formula); 4 Reading the visual before you write (five data questions + pattern→grouping playbook table incl. map and process rows, plus no-invented-calculation rule); 5 The language of trends and comparison (7 function patterns, trend verb/adverb table, `to`/`by`, percentage vs percentage points, tense rules, nominalisation for band 8); 6 Describing a process (passive default, present simple, sequencing patterns `Once…`, `after which`, `the final stage`, no invented stages); 7 Describing a map (additions/removals/replacements/retentions, position language table, past perfect for completed change, no scale so no measurements/reasons); 8 The seven band-6 errors that cap your score (error/cost/fix table + 5-point self-check).\n\nMODELS (all 4 paragraphs, 160–220 words, band 7.5/8.0, 6 verbatim-checked annotations with Vietnamese notes, 7–8 keyLanguage each, 4-step outline):\n- t1-line-commuters (8.0, 176w) line graph, 2010–2025 car/bus/bicycle shares\n- t1-bar-leisure (7.5, 176w) grouped bar chart, men vs women × 4 activities\n- t1-pie-table-spending (8.0, 220w) pie+table combo, budget shares of $20,000→$25,000 (share vs outlay analysis)\n- t1-process-notebooks (7.5, 171w) 7-stage linear process, used paper → notebooks\n- t1-map-park (7.5, 175w) two-date park redevelopment with retained features\nEvery figure in every model was checked for arithmetic consistency (e.g. housing 30% of $20,000 = $6,000; +25% total = \"rose by a quarter\"; bus/bike both +10 points, final gap 15 points between cars and buses).",
+      "changedPaths": [
+        "content/writing/task1.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "5–8 sections covering (a) examiner expectations, (b) four-paragraph skeleton, (c) overview, (d) trends and comparison language, (e) processes, (f) maps, (g) band-6 errors",
+          "status": "passed",
+          "evidence": "8 sections; headings listed in output, each with intro + 3–5 blocks (tables/compare/callout/list) in house style"
+        },
+        {
+          "criterion": "5 models, one each line graph / bar chart / pie-table combination / process diagram / map",
+          "status": "passed",
+          "evidence": "t1-line-commuters, t1-bar-leisure, t1-pie-table-spending, t1-process-notebooks, t1-map-park"
+        },
+        {
+          "criterion": "Each model 160–220 words at band 7.5 or 8.0",
+          "status": "passed",
+          "evidence": "176/176/220/171/175 words; bands 8.0/7.5/8.0/7.5/7.5; validator wordCount check and own whitespace count agree exactly"
+        },
+        {
+          "criterion": "Each model has outline, 4–8 annotations with verbatim quotes, 5–8 keyLanguage phrases",
+          "status": "passed",
+          "evidence": "4-step outline, 6 annotations, 7–8 keyLanguage per model; scripts/validate-content.mjs includes() verbatim check passes for all 30 quotes"
+        },
+        {
+          "criterion": "CONTENT_SPEC.md / BRIEF.md compliance (UTF-8, 2-space JSON, no emoji, inline **bold**/*italic*/`code` only, Vietnamese guidance fields)",
+          "status": "passed",
+          "evidence": "file reports as JSON data, no BOM, ends with newline, 2-space indent; regex scan found no emoji and no HTML tags; annotation notes and subtitle in Vietnamese, prose in English"
+        },
+        {
+          "criterion": "Validator reports zero FAIL lines",
+          "status": "passed",
+          "evidence": "node scripts/validate-content.mjs --only content/writing/task1 → 'ok 0 warning(s)', exit 0"
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node /tmp/build-task1.mjs",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "Wrote content/writing/task1.json; builder asserts every annotation quote is a substring of its essay and every model falls in 160–220 words"
+        },
+        {
+          "command": "node scripts/validate-content.mjs --only content/writing/task1",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:0 vocab sets:0 unique words:0 / ok 0 warning(s) — no FAIL lines"
+        },
+        {
+          "command": "node -e '<assertions over content/writing/task1.json>'",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "ALL MODEL CONSTRAINTS OK: true — 8 sections, 5 models, verbatim quotes true, Vietnamese notes present, 4 paragraphs each"
+        },
+        {
+          "command": "file content/writing/task1.json && tail -c 20 | xxd && head -c 3 | xxd",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "JSON data, no BOM (starts 7b 0a 20), ends with }\\n"
+        }
+      ]
+    },
+    {
+      "id": "t7",
+      "profileSeedId": "w2",
+      "subject": "Writing Task 2 guide: sections + 6 annotated band 8 essays",
+      "description": "Write content/writing/task2.json.\n\nUse sources/task2.txt (Vietnamese guide by Nguyễn Hoàng Huy) for question-type identification, thesis discipline and paragraph logic — rewrite in your own words and extend.\n\nRequired: 6-9 sections covering (a) the four marking criteria in practice, (b) reading the question and identifying the type, (c) thesis statements, (d) body-paragraph architecture (topic sentence, explanation, example, link), (e) introductions and conclusions that do not waste words, (f) cohesion without mechanical linkers, (g) lexical precision vs memorised phrases, (h) band-6 patterns to eliminate.\n\n6 models (band 8.0) covering opinion (agree/disagree), discussion (both views), advantage-disadvantage, problem-solution, two-part question and outweigh. 270-310 words each, with outline, 4-8 verbatim-quoted annotations and 5-8 keyLanguage items. Vary topics across education, environment, technology, health, work, government.\n\nFollow CONTENT_SPEC.md exactly. Validate: node scripts/validate-content.mjs --only content/writing/task2 — zero FAIL lines.",
+      "status": "completed",
+      "assignee": "writing-task2",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795088647656,
+      "attemptId": "dbfa7515-7654-422b-b5fc-e457b0cfc632",
+      "reassigning": false,
+      "output": "Wrote content/writing/task2.json (786 lines, ~53KB): 8 sections + 6 band-8.0 model essays.\n\nSections (all requested topics a-h covered):\n1. The four criteria, as an examiner applies them (criteria-in-practice table: what band 8 looks like vs what pulls a script down, plus control>ambition note)\n2. Read the question before you look for ideas (topic/task word/scope word split, question-type→required-action table with 6 rows, 5-step planning list, thesis-test warn callout)\n3. Thesis statements that answer the question (band6 vs band8 compare, concession thesis, outweigh criterion, partial-agreement warn callout)\n4. Body paragraphs: one claim, fully developed (claim→explanation→illustration→link, function/failure table, description vs explanation compare, \"add because\" test)\n5. Introductions and conclusions that earn their words (two-sentence intro, grammar-first paraphrase, conclusion that confirms rather than opens)\n6. Cohesion without mechanical linkers (given-new, parallel structure, this + noun, weak/stronger/why table)\n7. Lexical precision, not memorised phrases (collocation/connotation/register, vague→precise table, hedging as precision)\n8. Band-6 patterns to eliminate (8-row pattern/cap/replace table + why rhetorical habits survive)\n\nModels — all band 8.0, 270-310 words, 4 sentences outline each (5 for the outweigh model, matching its 5 paragraphs), 6-7 verbatim annotations with Vietnamese notes, 8 keyLanguage items each, every keyLanguage item verified present in its essay:\n- t2-opinion-transport 271w (agree/disagree, government/transport)\n- t2-discussion-assessment 276w (discuss both views, education)\n- t2-advantage-disadvantage-ai 289w (technology)\n- t2-problem-solution-air 275w (environment/government)\n- t2-two-part-cooking 276w (health/family, causes + effects)\n- t2-outweigh-remote-work 277w (work)\n\nConventions matched to existing content: sections use heading+intro+blocks (p/list/table/callout/compare only), essay paragraphs separated by \"\\n\\n\" exactly as task1.json does, Vietnamese in titleVi/subtitle/annotation notes, no emojis/HTML, \"bạn\" not addressed directly since guide is examiner-facing prose.\n\nVerification: node scripts/validate-content.mjs --only content/writing/task2 → \"ok 0 warning(s)\", zero FAIL lines. Ran a negative control (temporarily set wordCount=999 → validator emitted the expected FAIL, then restored) to confirm the filter actually validates task2 rather than skipping it.\n\nNote for the captain: the writing UI does not exist yet; model essays rely on \"\\n\\n\" paragraph breaks, so render essay with whitespace-pre-line (or split on \"\\n\\n\") as task1's models need the same treatment.",
+      "changedPaths": [
+        "content/writing/task2.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "6-9 sections covering the four criteria in practice, question reading/type identification, thesis statements, body-paragraph architecture, intros/conclusions, cohesion without mechanical linkers, lexical precision, band-6 patterns",
+          "status": "passed",
+          "evidence": "8 sections: criteria-in-practice table; question type table with 6 question wordings; thesis band6-vs-band8 compares; claim/explanation/illustration/link architecture; intro+conclusion compares; cohesion weak/stronger/why table; collocation-connotation-register table; 8-row band-6 pattern table."
+        },
+        {
+          "criterion": "6 band 8.0 models covering opinion, discussion, advantage-disadvantage, problem-solution, two-part question and outweigh",
+          "status": "passed",
+          "evidence": "t2-opinion-transport, t2-discussion-assessment, t2-advantage-disadvantage-ai, t2-problem-solution-air, t2-two-part-cooking, t2-outweigh-remote-work; all band 8.0; topics span government/transport, education, technology, environment, health/family, work."
+        },
+        {
+          "criterion": "Each model 270-310 words with outline, 4-8 verbatim-quoted annotations and 5-8 keyLanguage items",
+          "status": "passed",
+          "evidence": "Word counts 271/276/289/275/276/277 (stored wordCount equals whitespace token count in all six); annotations 6/7/6/7/7/7 and every quote is an exact substring of its essay; keyLanguage 8 per model, each item verbatim in the essay; outlines 4 or 5 items matching paragraph counts."
+        },
+        {
+          "criterion": "Follow CONTENT_SPEC.md exactly; validator produces zero FAIL lines",
+          "status": "passed",
+          "evidence": "node scripts/validate-content.mjs --only content/writing/task2 → 'content check — grammar:0 vocab sets:0 unique words:0' then 'ok 0 warning(s)', exit 0; block types restricted to p/list/table/callout/compare; table row widths equal header counts."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/writing/task2",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "ok 0 warning(s) — zero FAIL lines"
+        },
+        {
+          "command": "node scripts/validate-content.mjs --only content/writing/task2 (negative control: wordCount temporarily 999)",
+          "status": "passed",
+          "exitCode": 1,
+          "evidence": "FAIL content/writing/task2.json: models[0] \"t2-opinion-transport\": essay has 271 words but wordCount=999 — confirms the --only filter validates task2; file restored afterwards"
+        },
+        {
+          "command": "node -e '<recount essays and verify annotation quotes/keyLanguage>'",
+          "status": "passed",
+          "evidence": "stored wordCount == actual count for all 6 models; quotesOK true for all; 8 section, 6 models, unique ids"
+        }
+      ]
+    },
+    {
+      "id": "t8",
+      "profileSeedId": "w3",
+      "subject": "Band descriptors (4 criteria decoded) + 18-24 practice prompts",
+      "description": "Write content/writing/band-descriptors.json and content/writing/prompts.json.\n\nband-descriptors.json: exactly 4 criteria (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy), each with Vietnamese whatItMeans, English band6/band7/band8 behaviour summaries and 2+ Vietnamese howToReach actions. `overall` must cover bands 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5 with concrete Vietnamese descriptions of what a script at that band looks like.\n\nprompts.json: 18-24 exam-style prompts, >=7 Task 1 and >=11 Task 2, mixed types per CONTENT_SPEC.md. Each needs an ideaBank (so the learner is never blank), a structure array, 3+ usefulLanguage phrases and 2+ bandBooster notes explaining what lifts an answer from 7 to 8.\n\nTask 1 prompts: timeMinutes 20, minWords 150. Task 2: 40 / 250. Validate: node scripts/validate-content.mjs --only content/writing/band-descriptors and --only content/writing/prompts — zero FAIL lines.",
+      "status": "completed",
+      "assignee": "writing-meta",
+      "dependencies": [],
+      "attempt": 1,
+      "createdAt": 1795088067112,
+      "updatedAt": 1795088501663,
+      "attemptId": "d1ccdacb-c2b3-41a0-b906-eba8b97697ae",
+      "reassigning": false,
+      "output": "Wrote both writing-meta content files; validator is clean for both.\n\ncontent/writing/band-descriptors.json (15.2 KB): exactly 4 criteria — Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy. Each has criterionVi, weight (25%), Vietnamese whatItMeans naming the concrete failure modes (half-answered prompts, mechanical linkers, wrong collocations, all-simple sentences), English band6/band7/band8 behaviour summaries that closely paraphrase the public descriptors, and 4 Vietnamese howToReach actions each (16 total, all actionable: underline every instruction, one-idea-per-paragraph, learn lexis in collocations, target one complex structure per paragraph). overall has all 7 bands 5.5/6.0/6.5/7.0/7.5/8.0/8.5, each a concrete Vietnamese portrait of what such a script looks like, and each explicitly names the differentiator from the band below.\n\ncontent/writing/prompts.json (68.9 KB): 23 prompts = 8 Task 1 + 15 Task 2. Types: line-graph x2, bar-chart x2, pie-chart, table, process, map; opinion x3, discussion x4, advantage-disadvantage x2, problem-solution x2, two-part x2, positive-negative x2. Every Task 1 has timeMinutes 20 / minWords 150, every Task 2 has 40 / 250. Each prompt carries exam-style wording, a 5-item ideaBank with concrete figures or numbered arguments (never a blank page), 4-5 step structure, 7-8 English usefulLanguage phrases (min 7), and 3 bandBooster notes in Vietnamese explaining the specific 7->8 lever for that task type (e.g. Task 1 overview must state the opposing trend; pie charts must never imply volume; discuss-both-views needs a third opinion component; problem-solution must map root cause to matching remedy).\n\nVerification: node scripts/validate-content.mjs --only content/writing/band-descriptors -> \"ok 0 warning(s)\"; --only content/writing/prompts -> \"ok 0 warning(s)\". A full run shows no FAIL or warn line mentioning either file. Extra self-checks: 0 emoji, 0 HTML tags, 0 unbalanced backticks, 0 trailing whitespace, all ids unique, no ideaBank string lacks Vietnamese.",
+      "changedPaths": [
+        "content/writing/band-descriptors.json",
+        "content/writing/prompts.json"
+      ],
+      "acceptanceResults": [
+        {
+          "criterion": "band-descriptors.json has exactly 4 criteria (Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy), each with Vietnamese whatItMeans, English band6/band7/band8, and 2+ Vietnamese howToReach",
+          "status": "passed",
+          "evidence": "bands.length === 4; criterion order verified; whatItMeans contains Vietnamese diacritics for all 4; band6/7/8 contain no Vietnamese characters (English only); howToReach lengths [4,4,4,4]."
+        },
+        {
+          "criterion": "overall covers bands 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5 with concrete Vietnamese descriptions",
+          "status": "passed",
+          "evidence": "overall bands = ['5.5','6.0','6.5','7.0','7.5','8.0','8.5']; each description is Vietnamese and names concrete script features plus the differentiator from the band below."
+        },
+        {
+          "criterion": "prompts.json has 18-24 prompts, >=7 Task 1 and >=11 Task 2, mixed types per CONTENT_SPEC",
+          "status": "passed",
+          "evidence": "23 prompts: t1=8, t2=15. Types: line-graph 2, bar-chart 2, pie-chart 1, table 1, process 1, map 1, opinion 3, discussion 4, advantage-disadvantage 2, problem-solution 2, two-part 2, positive-negative 2 — all in the validator's allowed set."
+        },
+        {
+          "criterion": "Each prompt has ideaBank, structure, 3+ usefulLanguage and 2+ bandBooster explaining what lifts an answer from 7 to 8",
+          "status": "passed",
+          "evidence": "Minimums across all 23: ideaBank 5, structure 4, usefulLanguage 7, bandBooster 3. bandBooster notes are Vietnamese with English keywords in backticks and name a specific 7->8 lever."
+        },
+        {
+          "criterion": "Task 1 prompts are 20 minutes / 150 words; Task 2 prompts are 40 minutes / 250 words",
+          "status": "passed",
+          "evidence": "Programmatic check reported 0 timing mismatches across all 23 prompts."
+        },
+        {
+          "criterion": "Validator emits zero FAIL lines for content/writing/band-descriptors and content/writing/prompts",
+          "status": "passed",
+          "evidence": "Both scoped runs printed 'ok 0 warning(s)'; a full-repo run produced no FAIL or warn line mentioning either file."
+        }
+      ],
+      "commandsRun": [
+        {
+          "command": "node scripts/validate-content.mjs --only content/writing/band-descriptors",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:0  vocab sets:0  unique words:0 / ok 0 warning(s)"
+        },
+        {
+          "command": "node scripts/validate-content.mjs --only content/writing/prompts",
+          "status": "passed",
+          "exitCode": 0,
+          "evidence": "content check — grammar:0  vocab sets:0  unique words:0 / ok 0 warning(s)"
+        },
+        {
+          "command": "node scripts/validate-content.mjs (full run, filtered to my files)",
+          "status": "passed",
+          "exitCode": 1,
+          "evidence": "Non-zero exit comes only from other agents' not-yet-written files (grammar/vocabulary/plan/task1/task2 at the time of the run); grep for writing/(band-descriptors|prompts) returned no FAIL or warn lines."
+        }
+      ]
+    }
+  ],
+  "taskSeq": 8
+}

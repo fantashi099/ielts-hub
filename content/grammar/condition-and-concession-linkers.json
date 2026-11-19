@@ -1,0 +1,199 @@
+{
+  "slug": "condition-and-concession-linkers",
+  "title": "Condition and concession linkers",
+  "titleVi": "Từ nối chỉ điều kiện và nhượng bộ",
+  "level": "C1",
+  "topic": "conjunctions",
+  "bookUnits": [114, 115],
+  "bandFocus": "8.0",
+  "summary": "unless, provided that, in case, even if, albeit — điều kiện và nhượng bộ ở mức C1, không dùng will sau các từ nối này.",
+  "whyItMatters": "Đây là nhóm cấu trúc phân biệt band 7 với band 8 trong Task 2: **điều kiện có giới hạn** (*provided that*), **đề phòng** (*in case*), **nhượng bộ** (*albeit*, *notwithstanding*). Sai thì rất rõ: *unless you will*, *in case of you forget*, *even though* dùng cho giả định. Giám khảo coi đây là bằng chứng của *complex structures* — nhưng chỉ khi dùng đúng.",
+  "sections": [
+    {
+      "heading": "unless = except if, not simply if not",
+      "body": [
+        "**Unless** means *except if*: *You cannot enter **unless** you are a member* (= you can enter only if you are a member). It introduces a **clause**, and like all future conditionals it takes a **present tense**, never *will*: *Unless it stops raining, we will cancel.*",
+        "Do not use *unless* as a mechanical substitute for *if … not*. When the *if*-clause describes a cause of your reaction rather than an exception, *unless* changes the meaning: *I'll be angry if you don't come* (your absence causes anger) is not *I'll be angry unless you come* (anger applies in every case except your coming).",
+        "*Unless* can be followed by a negative clause in formal writing, but the result is tricky; if in doubt, write *if … not*."
+      ],
+      "examples": [
+        { "right": "Unless the council acts soon, the shortage will worsen.", "wrong": "Unless the council will act soon, the shortage will worsen.", "note": "No **will** after *unless*." },
+        { "right": "The scheme cannot succeed unless local people are consulted.", "note": "*except if* — the only route to success." },
+        { "right": "I'll be disappointed if the report is not published this week.", "wrong": "I'll be disappointed unless the report is published this week.", "note": "The *unless* version means disappointment in every case except publication — too strong." }
+      ]
+    },
+    {
+      "heading": "as long as, provided that, on condition that",
+      "body": [
+        "These set an explicit **condition**: *You can borrow the car **as long as** you drive carefully.* *The data may be reused **provided that** the source is cited.*",
+        "**Provided (that)** and **providing (that)** are the most formal and the most common in academic writing; **as long as** is neutral; **on condition that** is legalistic and adds emphasis.",
+        "Again, no *will*: *Provided the weather is good, the event will go ahead.* The subordinate clause stays in the present even though the meaning is future."
+      ],
+      "table": {
+        "headers": ["Linker", "Meaning", "Register", "Example"],
+        "rows": [
+          ["unless", "except if", "neutral", "unless the fee is waived"],
+          ["as long as", "if, but only if", "neutral", "as long as funding continues"],
+          ["so long as", "if, but only if", "slightly formal", "so long as funding continues"],
+          ["provided (that)", "on condition that", "formal", "provided that funding continues"],
+          ["on condition that", "only if this is agreed", "legalistic", "on condition that funding continues"],
+          ["in case", "as a precaution because something might happen", "neutral", "in case funding is cut"]
+        ]
+      }
+    },
+    {
+      "heading": "in case vs if: precaution, not condition",
+      "body": [
+        "**In case** explains why you take a precaution **now**: *Take an umbrella **in case** it rains.* You do not know whether it will rain; the umbrella is insurance.",
+        "**If** states a condition and its result: *Take an umbrella **if** it rains.* Here the umbrella is conditional on the rain.",
+        "So *in case* is followed by a present tense (never *will*), and **in case of** takes a noun: *In case of fire, use the stairs.* The two forms are not interchangeable: *in case of it rains* is wrong."
+      ],
+      "examples": [
+        { "right": "I'll write down the password in case I forget it.", "wrong": "I'll write down the password in case I will forget it.", "note": "No **will** after *in case*." },
+        { "right": "In case of emergency, call this number.", "note": "**in case of + noun**." },
+        { "right": "Take a map if you get lost.", "wrong": "Take a map in case you get lost, otherwise you will be lost.", "note": "The *if* version makes the map conditional; *in case* makes it a precaution. Both are possible, but don't mix the logic." }
+      ]
+    },
+    {
+      "heading": "Concession: even if, even though, while, albeit",
+      "body": [
+        "**Even though** concedes a **fact**: *Even though the evidence is clear, the ministry has delayed the ban.* **Even if** concedes a **hypothesis**: *Even if the evidence were clear, the ministry would delay the ban.* Mixing them misrepresents what you know.",
+        "**While** and **whilst** can concede at the start of a clause: *While the policy has merits, its costs are unevenly distributed.* **Albeit** introduces an adjective or noun phrase with no subject — a C1 marker: *a useful, **albeit** expensive, tool*.",
+        "For the most formal register, use **notwithstanding + noun** (*Notwithstanding these objections, the plan proceeded*) or **for all + noun** (*For all its faults, the system works*)."
+      ],
+      "examples": [
+        { "right": "Even if tuition were free, enrolment would still depend on transport costs.", "note": "Hypothetical → **even if** + past subjunctive." },
+        { "right": "Even though tuition is free, enrolment remains low in remote districts.", "note": "Factual → **even though** + present." },
+        { "right": "The reform, albeit controversial, has reduced waiting times.", "wrong": "The reform, albeit it is controversial, has reduced waiting times.", "note": "**albeit** takes a phrase, not a clause." }
+      ]
+    },
+    {
+      "heading": "Formal condition frames for band 8",
+      "body": [
+        "Academic writing often drops **if** and inverts instead. **Should + subject + verb**: *Should the government decide to intervene, the costs would fall.* **Were it not for + noun**: *Were it not for the subsidy, the industry would collapse.* **Had it not been for + noun**: *Had it not been for the grant, the project would never have started.*",
+        "These frames are marked C1 because they combine condition, inversion and a formal register. One per essay is enough; three looks like a display.",
+        "Use **otherwise** or **or else** to state the consequence of failing the condition: *The funding must be renewed; **otherwise**, the service will close.* **Otherwise** is neutral; **or else** is conversational and best avoided in Writing."
+      ],
+      "examples": [
+        { "right": "Should the pilot succeed, the scheme will be extended nationwide.", "note": "Inverted conditional — no *if*." },
+        { "right": "Were it not for remittances, many rural households would fall below the poverty line.", "note": "**Were it not for + noun**." },
+        { "right": "Had it not been for the 2008 crisis, the reform might have passed.", "note": "**Had it not been for** + past reference." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Unless the government will invest more, the system will collapse.",
+      "right": "Unless the government invests more, the system will collapse.",
+      "why": "Sau **unless** (như sau *if*) không dùng *will*. Mệnh đề điều kiện dùng hiện tại đơn."
+    },
+    {
+      "wrong": "In case of you forget your password, write it down.",
+      "right": "In case you forget your password, write it down.",
+      "why": "**in case of** + danh từ; **in case** + mệnh đề. Trộn hai dạng là lỗi cấu trúc."
+    },
+    {
+      "wrong": "Even though the plan were perfect, it would still cost too much.",
+      "right": "Even if the plan were perfect, it would still cost too much.",
+      "why": "Giả định không có thật dùng **even if** + giả định cách; **even though** dành cho sự thật đã biết."
+    },
+    {
+      "wrong": "The reform, albeit it is controversial, has reduced waiting times.",
+      "right": "The reform, albeit controversial, has reduced waiting times.",
+      "why": "**albeit** đứng trước cụm tính từ/danh từ, không đứng trước mệnh đề."
+    },
+    {
+      "wrong": "Provided that the weather will be good, the event will go ahead.",
+      "right": "Provided that the weather is good, the event will go ahead.",
+      "why": "Các từ nối điều kiện (**provided, as long as, unless, in case**) không nhận *will* trong mệnh đề phụ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **provided that** để nêu điều kiện của một giải pháp trong đoạn problem–solution: *Charging for plastic bags is effective, **provided that** alternatives are affordable.* Câu này thể hiện tư duy phản biện, không chỉ liệt kê giải pháp.",
+    "Dùng **in case** để giải thích chính sách phòng ngừa: *Governments should fund reserves **in case** supply chains are disrupted.* Khác hoàn toàn với *if*, và chính sự khác biệt này là thứ giám khảo ghi nhận.",
+    "Dùng **even if** để nhượng bộ một giả định rồi phản bác: ***Even if** remote work reduced commuting, it would not solve the housing crisis.* Đây là cấu trúc của một lập luận band 8.",
+    "Dùng **Should + subject + verb** một lần trong bài để tạo giọng trang trọng: ***Should** the trend continue, demand will outstrip supply by 2030.* Đừng dùng quá một lần — hiệu quả sẽ giảm và câu dễ sai trật tự từ."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ the council acts soon, the shortage will worsen.",
+      "options": ["Unless", "If", "In case", "Provided"],
+      "answerIndex": 0,
+      "explanation": "*Except if* → **Unless**; note the present tense *acts*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "You can borrow the car ___ you drive carefully.",
+      "options": ["unless", "as long as", "in case", "even if"],
+      "answerIndex": 1,
+      "explanation": "A condition the borrower must meet → **as long as**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Take an umbrella ___ it rains.",
+      "options": ["in case", "in case of", "unless", "provided"],
+      "answerIndex": 0,
+      "explanation": "A precaution + clause → **in case**. *In case of* needs a noun."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "___ the evidence were clear, the ministry would still delay the ban.",
+      "options": ["Even though", "Even if", "Because", "Unless"],
+      "answerIndex": 1,
+      "explanation": "Hypothetical (*were*) → **Even if**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "___ the pilot succeed, the scheme will be extended.",
+      "options": ["Should", "If", "Were", "Had"],
+      "answerIndex": 0,
+      "explanation": "Inverted conditional: **Should + subject + verb**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The data may be reused ___ that the source is cited.",
+      "answers": ["provided", "providing"],
+      "hint": "formal condition",
+      "explanation": "**provided/providing that** + clause."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "___ case the system fails, keep a paper copy.",
+      "answers": ["in"],
+      "hint": "precaution",
+      "explanation": "**in case** + clause."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The reform, ___ controversial, has reduced waiting times.",
+      "answers": ["albeit"],
+      "hint": "concession + adjective",
+      "explanation": "**albeit** + adjective phrase."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "___ it not been for the grant, the project would never have started.",
+      "answers": ["had"],
+      "hint": "inverted third conditional",
+      "explanation": "**Had it not been for** + noun."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The funding must be renewed; ___ , the service will close.",
+      "answers": ["otherwise"],
+      "hint": "consequence of failing the condition",
+      "explanation": "**otherwise** states what happens if the condition fails."
+    }
+  ]
+}

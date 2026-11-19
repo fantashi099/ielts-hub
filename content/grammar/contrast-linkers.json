@@ -1,0 +1,199 @@
+{
+  "slug": "contrast-linkers",
+  "title": "Contrast linkers",
+  "titleVi": "Từ nối chỉ sự tương phản",
+  "level": "B2",
+  "topic": "conjunctions",
+  "bookUnits": [112, 113, 117, 118],
+  "bandFocus": "7.5",
+  "summary": "although/though/even though + mệnh đề, despite/in spite of + danh từ, however/whereas — dùng đúng loại từ nối.",
+  "whyItMatters": "Đây là nhóm từ nối quyết định điểm **Coherence and Cohesion**. Lỗi phổ biến nhất không phải nghĩa mà là **cấu trúc**: *despite of*, *although the rain*, *however the cost rose*. Ở band 7.5, bạn phải chọn đúng loại từ nối cho đúng loại thành phần theo sau, và biết khi nào dùng *whereas* thay cho *but*.",
+  "sections": [
+    {
+      "heading": "although, though, even though + a clause",
+      "body": [
+        "These three introduce a **full clause** (subject + verb). **Although** is the neutral written form: *Although the scheme was popular, it was cancelled.* **Though** is slightly more informal and can also go at the end of a sentence: *The scheme was popular. It was cancelled, though.*",
+        "**Even though** marks a stronger contrast — the fact is surprising or inconvenient: *Even though funding doubled, waiting times did not fall.* Use it when the reader might expect the opposite result.",
+        "The clause can come first or second. When it comes first, use a comma: *Although the cost fell, demand remained weak.* No comma is needed when the main clause comes first."
+      ],
+      "examples": [
+        { "right": "Although renewables are cheaper, grid investment remains the bottleneck.", "wrong": "Although renewables are cheaper, but grid investment remains the bottleneck.", "note": "**although** already signals contrast — never add *but*." },
+        { "right": "The policy was popular. It was cancelled, though.", "note": "**though** at the end = however, in informal style." },
+        { "right": "Even though the evidence was clear, the ministry delayed the ban.", "note": "Strong contrast: the delay is surprising." }
+      ]
+    },
+    {
+      "heading": "despite, in spite of + noun or -ing",
+      "body": [
+        "**Despite** and **in spite of** take a **noun, a pronoun or an -ing form** — never a clause. *Despite the cost, the project continued.* *In spite of being warned, they proceeded.*",
+        "**Despite** never takes *of*: *despite of the cost* is wrong. **In spite of** always takes *of*. This is the single most common error in this group.",
+        "To use a clause, either add **the fact that** (*despite the fact that costs rose*) or switch to **although**. The first is formal and useful in Task 2; the second is simpler and safer."
+      ],
+      "table": {
+        "headers": ["Linker", "Followed by", "Example"],
+        "rows": [
+          ["although", "clause", "although costs rose"],
+          ["though", "clause; can end a sentence", "though costs rose"],
+          ["even though", "clause, strong contrast", "even though costs rose"],
+          ["despite", "noun / -ing / the fact that", "despite rising costs"],
+          ["in spite of", "noun / -ing / the fact that", "in spite of rising costs"],
+          ["whereas / while", "clause", "whereas costs fell in the north"]
+        ]
+      }
+    },
+    {
+      "heading": "however, nevertheless, even so: sentence adverbs",
+      "body": [
+        "**However, nevertheless, nonetheless, even so** are **sentence adverbs**, not conjunctions. They join two separate sentences and need punctuation: *The cost fell. However, demand did not recover.*",
+        "Do not use them as if they were *but*: *However the cost fell, demand did not recover* is wrong because *however* cannot sit inside a clause as a conjunction. Either put a full stop or semicolon before it, and a comma after.",
+        "**Even so** is the most conversational of the four; **nevertheless** and **nonetheless** are the most formal. In an essay, one *however* per paragraph is enough — repeated, it becomes a tic."
+      ],
+      "examples": [
+        { "right": "The technology is now affordable. Nevertheless, uptake remains low in rural areas.", "wrong": "The technology is now affordable, nevertheless uptake remains low in rural areas.", "note": "A comma splice: use a full stop or a semicolon before **nevertheless**." },
+        { "right": "Funding increased sharply; however, staffing levels barely changed.", "note": "Semicolon + however + comma is acceptable in formal writing." },
+        { "right": "The scheme was well designed. Even so, it failed to reach the poorest households.", "note": "**Even so** = in spite of that, referring back to the whole previous sentence." }
+      ]
+    },
+    {
+      "heading": "whereas and while: contrast inside one sentence",
+      "body": [
+        "**Whereas** and **while** join two clauses in a single sentence and set them against each other: *Urban incomes rose by 12%, whereas rural incomes stagnated.*",
+        "**Whereas** is the more formal and more explicitly contrastive choice; **while** can also mean *at the same time*, so in careful academic writing *whereas* removes the ambiguity.",
+        "This is the structure examiners associate with band 8 comparison: two parallel clauses, one shared verb of change, and a clear contrast."
+      ],
+      "examples": [
+        { "right": "Graduates in engineering earned above the median, whereas arts graduates earned well below it.", "note": "Parallel clauses with **whereas**." },
+        { "right": "While the north gained manufacturing jobs, the south lost them.", "note": "**while** contrasts the two regions." },
+        { "right": "Whereas the first chart shows total spending, the second shows spending per household.", "wrong": "Whereas the first chart shows total spending, however the second shows spending per household.", "note": "One contrast marker is enough." }
+      ]
+    },
+    {
+      "heading": "even, as and as if: contrast and comparison",
+      "body": [
+        "**Even** emphasises an extreme case within a contrast: *Even the wealthiest districts struggled to recruit teachers.* Put it immediately before the element it highlights.",
+        "**As** introduces a **clause** (*As the report notes, …*) or a role (*She works as a nurse*). **Like** introduces a **noun** (*Cities like Da Nang*). In formal writing, do not use *like* before a clause: *like I said* is conversational.",
+        "**As if / as though** introduce an imagined situation. For something untrue, use a past tense: *The city is spending as if the boom would last forever* — the boom is not certain to last. This is the same distancing you use in second conditionals."
+      ],
+      "examples": [
+        { "right": "Even the most experienced teachers found the syllabus demanding.", "note": "**even** + superlative noun phrase — extreme case." },
+        { "right": "As the chart shows, demand peaked in 2012.", "note": "**as** + clause." },
+        { "right": "The economy is growing as if the recession had never happened.", "wrong": "The economy is growing like the recession had never happened.", "note": "Before a clause, use **as if**, not *like*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Despite of the high cost, the project continued.",
+      "right": "Despite the high cost, the project continued.",
+      "why": "**despite** không đi với *of*. Chỉ **in spite of** mới có *of*."
+    },
+    {
+      "wrong": "Although the high cost, the project continued.",
+      "right": "Although the cost was high, the project continued.",
+      "why": "**although** cần một **mệnh đề** (chủ ngữ + động từ). Với cụm danh từ, dùng **despite / in spite of**."
+    },
+    {
+      "wrong": "The cost fell, however demand did not recover.",
+      "right": "The cost fell. However, demand did not recover.",
+      "why": "**however** là trạng từ nối câu, không phải liên từ. Cần dấu chấm hoặc chấm phẩy trước nó, và dấu phẩy sau."
+    },
+    {
+      "wrong": "Even although funding doubled, waiting times did not fall.",
+      "right": "Even though funding doubled, waiting times did not fall.",
+      "why": "Cụm đúng là **even though**, không phải *even although*."
+    },
+    {
+      "wrong": "The city is spending like the boom would last forever.",
+      "right": "The city is spending as if the boom would last forever.",
+      "why": "Trước một **mệnh đề**, dùng **as if / as though**. *Like* chỉ đứng trước danh từ hoặc đại từ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **whereas** để so sánh hai nhóm trong cùng một câu Task 1: *Households in the capital spent 30% of income on rent, **whereas** those in rural areas spent under 15%.* Câu song song, rõ ràng, đúng chuẩn học thuật.",
+    "Dùng **despite + -ing** để nén mệnh đề và tăng mật độ thông tin: ***Despite receiving** substantial funding, the programme failed to improve literacy.* Gọn hơn *Although it received…*",
+    "Đặt **Even though** ở đầu câu để mở đoạn thân bài phản biện: ***Even though** the policy was popular, its costs fell disproportionately on low-income households.* Câu này tạo lập trường phê bình ngay lập tức.",
+    "Đừng dùng quá hai từ nối tương phản trong một đoạn. Nếu đã có *although* và *however*, câu tiếp theo nên dùng **whereas**, hoặc bỏ từ nối và để quan hệ tự thể hiện."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ the high cost, the project continued.",
+      "options": ["Although", "Despite", "Despite of", "Even though"],
+      "answerIndex": 1,
+      "explanation": "A noun phrase follows → **Despite**; *Despite of* is wrong."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "___ funding doubled, waiting times did not fall.",
+      "options": ["Even though", "Even", "Despite", "In spite of"],
+      "answerIndex": 0,
+      "explanation": "A full clause follows → **Even though**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The technology is affordable. ___, uptake remains low.",
+      "options": ["However", "Although", "Whereas", "Despite"],
+      "answerIndex": 0,
+      "explanation": "A sentence adverb at the start of a new sentence → **However**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Urban incomes rose by 12%, ___ rural incomes stagnated.",
+      "options": ["whereas", "however", "despite", "although"],
+      "answerIndex": 0,
+      "explanation": "Two parallel clauses inside one sentence → **whereas**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "The economy is growing ___ the recession had never happened.",
+      "options": ["like", "as if", "as", "despite"],
+      "answerIndex": 1,
+      "explanation": "Before a clause with an unreal situation → **as if**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "___ receiving substantial funding, the programme failed to improve literacy.",
+      "answers": ["despite", "in spite of"],
+      "hint": "noun/-ing",
+      "explanation": "An -ing form follows → **Despite / In spite of**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The scheme was popular. It was cancelled, ___ .",
+      "answers": ["though"],
+      "hint": "end of sentence",
+      "explanation": "**though** at the end = however, informal."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "___ the most experienced teachers found the syllabus demanding.",
+      "answers": ["even"],
+      "hint": "extreme case",
+      "explanation": "**Even** before the noun phrase highlights an extreme case."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The government delayed the ban ___ though the evidence was clear.",
+      "answers": ["even"],
+      "hint": "strong contrast",
+      "explanation": "**even though** — strong contrast."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Funding increased sharply; ___ , staffing levels barely changed.",
+      "answers": ["however"],
+      "hint": "sentence adverb",
+      "explanation": "**however** after a semicolon, followed by a comma."
+    }
+  ]
+}

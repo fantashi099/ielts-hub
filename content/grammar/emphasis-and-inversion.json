@@ -1,0 +1,200 @@
+{
+  "slug": "emphasis-and-inversion",
+  "title": "Emphasis, cleft sentences and inversion",
+  "titleVi": "Nhấn mạnh, câu chẻ và đảo ngữ",
+  "level": "C1",
+  "topic": "word-order",
+  "bookUnits": [109, 110, 112],
+  "bandFocus": "8.0",
+  "summary": "Câu chẻ, đảo ngữ và trợ động từ nhấn mạnh — ba công cụ tạo trọng tâm câu ở band 8.",
+  "whyItMatters": "Ở band 7, câu của bạn đúng nhưng phẳng: mọi ý nằm ngang hàng. Band 8 cần **trọng tâm**: *It is funding, not legislation, that determines outcomes*, *Never has the gap been wider*. Câu chẻ và đảo ngữ cho bạn cấu trúc C1 thật sự, nhưng chỉ khi dùng đúng — đảo ngữ sai trật tự gây lỗi nặng hơn một câu đơn giản.",
+  "sections": [
+    {
+      "heading": "It-clefts: putting one element in the spotlight",
+      "body": [
+        "An **it-cleft** splits a sentence into a focus and a background: *The council approved the plan in 2019* → *It was **the council** that approved the plan in 2019* (focus on who) or *It was **in 2019** that the council approved the plan* (focus on when).",
+        "The frame is **It is/was + focus + that/who + rest**. Use **who** for people, **that** for everything else, including time and place: *It was in 2019 **that** the policy changed*, not *when*.",
+        "The pattern is especially useful for correction and contrast: *It is not the cost of treatment but the shortage of staff that limits access.* This single structure carries an argument that would otherwise need two sentences."
+      ],
+      "examples": [
+        { "right": "It is the lack of affordable childcare that keeps women out of the labour market.", "wrong": "It is the lack of affordable childcare who keeps women out of the labour market.", "note": "**that** for things; *who* only for people." },
+        { "right": "It was in 2015 that the city introduced congestion charging.", "wrong": "It was in 2015 when the city introduced congestion charging.", "note": "The cleft uses **that**, even for time expressions." },
+        { "right": "It is not the technology itself but the cost of maintenance that decides whether a project survives.", "note": "Contrastive cleft — a band-8 sentence." }
+      ]
+    },
+    {
+      "heading": "Wh-clefts: What ... is / What ... does",
+      "body": [
+        "A **wh-cleft** begins with **What** and puts the new information at the end: *What the city needs is a reliable bus network.* The reader waits for the answer, which gives it weight.",
+        "Two patterns dominate. **What + subject + verb + be + noun**: *What shocked residents was the speed of the decision.* **What + subject + verb + be + verb**: *What the policy does is shift costs onto households.*",
+        "Use wh-clefts to define a problem before proposing a solution — the structure itself signals analysis: *What matters is not how much is spent but how evenly it is distributed.*"
+      ],
+      "examples": [
+        { "right": "What the report fails to explain is why the gap widened after 2010.", "note": "Wh-cleft focusing on the explanation." },
+        { "right": "What the policy does is shift costs from employers to taxpayers.", "note": "**What … does is + verb** — no *to* before the verb." },
+        { "right": "What matters most is whether the scheme can be sustained.", "wrong": "What matters most it is whether the scheme can be sustained.", "note": "One focus marker only; do not add *it*." }
+      ]
+    },
+    {
+      "heading": "Negative inversion: never, rarely, little, nowhere",
+      "body": [
+        "When a **negative or restrictive adverbial** starts the sentence, the subject and auxiliary **invert**: *Never **have** I seen such rapid change.* *Rarely **does** the government admit error.* *Little **did** they realise how costly the scheme would be.*",
+        "If there is no auxiliary, add **do/does/did**: *Seldom **do** voters read the full manifesto.* The main verb stays in its base form after *do*.",
+        "These openers are rhetorical and should be rare in an essay — one per piece at most. Overuse reads as journalism, not academic analysis."
+      ],
+      "table": {
+        "headers": ["Opener", "Structure", "Example"],
+        "rows": [
+          ["Never", "Never + aux + subject + verb", "Never has the city faced such pressure."],
+          ["Rarely / Seldom", "Rarely + aux + subject + verb", "Rarely do politicians admit uncertainty."],
+          ["Little", "Little + aux + subject + verb", "Little did voters know about the costs."],
+          ["Nowhere", "Nowhere + aux + subject + verb", "Nowhere is the gap more visible than in housing."],
+          ["Not only", "Not only + aux + subject + verb + but also", "Not only did costs rise, but quality also fell."],
+          ["No sooner", "No sooner + had + subject + V3 + than", "No sooner had the scheme launched than demand surged."],
+          ["Hardly", "Hardly + had + subject + V3 + when", "Hardly had the report appeared when criticism followed."]
+        ]
+      }
+    },
+    {
+      "heading": "Inversion after only, so, such and in conditionals",
+      "body": [
+        "**Only + adverbial** at the front inverts the **main** clause: *Only when the data were rechecked **did** the error emerge.* *Only after the protest **did** the council publish the figures.*",
+        "**So + adjective** and **such + noun** can front a result clause with inversion: *So severe was the shortage that hospitals rationed beds.* *Such was the demand that the website crashed.*",
+        "Conditional inversion drops **if** and fronts the auxiliary: *Had I known about the deadline, I would have applied.* *Should you require further information, please contact the office.* *Were the policy reversed, thousands would lose cover.* This is formal and compact — ideal for conclusions."
+      ],
+      "examples": [
+        { "right": "Only after the audit did the scale of the loss become clear.", "wrong": "Only after the audit the scale of the loss became clear.", "note": "**Only + adverbial** forces inversion in the main clause." },
+        { "right": "So rapid was the decline that no policy could offset it.", "note": "**So + adj + be + subject + that**." },
+        { "right": "Had the city invested earlier, the flooding would have been less severe.", "note": "Third-conditional inversion: *Had + subject + V3*." }
+      ]
+    },
+    {
+      "heading": "even and do: quiet emphasis",
+      "body": [
+        "**Even** signals that something is surprising relative to a scale: *Even wealthy households struggle with childcare costs.* Position matters — put it immediately before the element it emphasises: *Even **the minister** was unaware* versus *The minister was even **unaware*** (the latter is odd).",
+        "**Even though** concedes a fact; **even if** concedes a possibility: *Even though the scheme was funded, it failed* (it was funded) versus *Even if the scheme were funded, it would fail* (hypothetical).",
+        "**Do/does/did** adds emphatic force to a positive verb: *The evidence **does** suggest a link.* *The government **did** respond, though slowly.* Use it to rebut an implied doubt — sparingly, or it sounds defensive."
+      ],
+      "examples": [
+        { "right": "Even the most experienced teachers found the new syllabus demanding.", "note": "**even** before the focused noun phrase." },
+        { "right": "Even though funding increased, waiting times did not fall.", "wrong": "Even although funding increased, waiting times did not fall.", "note": "**even though**, never *even although*." },
+        { "right": "The data do suggest that early intervention works.", "note": "Emphatic **do** — rebuts the suspicion that the evidence is weak." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "It was in 2019 when the government changed the policy.",
+      "right": "It was in 2019 that the government changed the policy.",
+      "why": "Câu chẻ dùng **that** cho mọi thành phần, kể cả thời gian và nơi chốn. *When* chỉ dùng trong mệnh đề quan hệ, không dùng trong câu chẻ."
+    },
+    {
+      "wrong": "Never I have seen such a rapid increase.",
+      "right": "Never have I seen such a rapid increase.",
+      "why": "Trạng từ phủ định đầu câu buộc **đảo ngữ**: trợ động từ trước chủ ngữ."
+    },
+    {
+      "wrong": "Not only the cost rose, but the quality also fell.",
+      "right": "Not only did the cost rise, but the quality also fell.",
+      "why": "**Not only** đầu câu cũng gây đảo ngữ, và động từ chính trở về dạng nguyên mẫu sau *did*."
+    },
+    {
+      "wrong": "Hardly I had arrived when the meeting began.",
+      "right": "Hardly had I arrived when the meeting began.",
+      "why": "Cấu trúc cố định **Hardly + had + subject + V3 + when**. Đảo ngữ là bắt buộc."
+    },
+    {
+      "wrong": "What the city needs it is a reliable bus network.",
+      "right": "What the city needs is a reliable bus network.",
+      "why": "Câu chẻ *What …* đã có động từ *is* làm trung tâm; thêm *it* là lặp chủ ngữ."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **it-cleft** để mở đoạn thân bài khi bạn muốn phản biện một quan điểm phổ biến: *It is not a lack of awareness but a lack of affordable options that sustains unhealthy diets.* Câu này tạo lập trường rõ ràng ngay từ câu đầu.",
+    "Dùng **wh-cleft** để định nghĩa vấn đề trước khi đề xuất giải pháp: *What developing cities lack is not ambition but fiscal space.* Giám khảo đọc thấy bạn biết tách nguyên nhân khỏi triệu chứng.",
+    "Dùng **conditional inversion** trong kết luận để câu văn trang trọng và gọn: ***Were** governments to invest in early education, the returns would outweigh the costs within a decade.*",
+    "Chỉ dùng **một** cấu trúc đảo ngữ trong cả bài. Nếu dùng *Never…*, *Not only…*, *Hardly…* liên tiếp, bài viết giống diễn văn hơn là phân tích học thuật."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ the shortage of staff that limits access to care.",
+      "options": ["It is", "It was", "There is", "What is"],
+      "answerIndex": 0,
+      "explanation": "It-cleft with a present claim: **It is … that**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "It was in 2015 ___ the city introduced congestion charging.",
+      "options": ["when", "that", "which", "where"],
+      "answerIndex": 1,
+      "explanation": "The cleft uses **that** even for time expressions."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Never ___ such a rapid decline in birth rates.",
+      "options": ["the country has seen", "has the country seen", "the country saw", "did the country has seen"],
+      "answerIndex": 1,
+      "explanation": "Negative fronting → inversion: **has the country seen**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Hardly ___ when the power failed.",
+      "options": ["we had arrived", "had we arrived", "we arrived", "did we had arrived"],
+      "answerIndex": 1,
+      "explanation": "**Hardly + had + subject + V3 + when**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "___ the scheme were funded, it would still fail.",
+      "options": ["Even", "Even though", "Even if", "Although"],
+      "answerIndex": 2,
+      "explanation": "*Were funded* is hypothetical → **even if**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "What the report fails to explain ___ why the gap widened.",
+      "answers": ["is"],
+      "hint": "wh-cleft verb",
+      "explanation": "**What … is** — singular agreement with the wh-clause."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Only after the audit ___ the scale of the loss become clear.",
+      "answers": ["did"],
+      "hint": "inversion after only",
+      "explanation": "**Only after … did** + base verb."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "So severe ___ the shortage that hospitals rationed beds.",
+      "answers": ["was"],
+      "hint": "so + adj + be + subject",
+      "explanation": "**So severe was the shortage that** — inverted result clause."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "___ I known about the deadline, I would have applied.",
+      "answers": ["had"],
+      "hint": "conditional inversion",
+      "explanation": "**Had I known** = If I had known."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The evidence ___ suggest that early intervention works.",
+      "answers": ["does"],
+      "hint": "emphatic auxiliary",
+      "explanation": "Emphatic **does** before the base verb *suggest*."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "countable-uncountable-and-quantifiers",
+  "title": "Countable, uncountable and quantifiers",
+  "titleVi": "Danh từ đếm được, không đếm được và lượng từ",
+  "level": "B1",
+  "topic": "articles-nouns",
+  "bookUnits": [69, 70, 87],
+  "bandFocus": "7.0",
+  "summary": "Danh sách danh từ không đếm được người Việt hay chia số nhiều, cùng much/many, few/little và các đơn vị đo.",
+  "whyItMatters": "*Informations, advices, furnitures* là những lỗi mà người Việt mắc nhiều nhất vì tiếng Việt cho phép nói *những thông tin*, *những lời khuyên*. Trong Writing Task 1 và 2, nhóm từ này xuất hiện ở mọi đoạn — *information, research, evidence, data* — nên chỉ một lỗi chia số nhiều cũng đủ làm giám khảo ghi nhận là lỗi hệ thống.",
+  "sections": [
+    {
+      "heading": "The basic split",
+      "body": [
+        "**Countable** nouns have singular and plural forms and can be counted: *a book, two books, three questions.* **Uncountable** nouns have no plural and take a singular verb: *information, water, research.*",
+        "*a/an* only works with singular countable nouns. Plural countable nouns can stand alone (*Books are expensive*) and uncountable nouns can stand alone (*Water is essential*). This is why *a water* is wrong but *some water* is fine.",
+        "Some nouns are countable in one meaning and uncountable in another. *Chicken* (the animal) is countable; *chicken* (the meat) is uncountable. *Paper* (material) is uncountable; *a paper* (a newspaper or an essay) is countable."
+      ],
+      "table": {
+        "headers": ["Countable", "Uncountable"],
+        "rows": [
+          ["a job / two jobs", "work"],
+          ["a suggestion / three suggestions", "advice"],
+          ["a study / several studies", "research"],
+          ["a fact / these facts", "information / evidence"],
+          ["a room / two rooms", "accommodation"],
+          ["a suitcase / two suitcases", "luggage / baggage"]
+        ]
+      }
+    },
+    {
+      "heading": "The list Vietnamese speakers must memorise",
+      "body": [
+        "These nouns are uncountable in English even though their Vietnamese equivalents are countable or can take *những*: **advice, information, news, evidence, research, knowledge, progress, work, homework, housework, furniture, equipment, machinery, luggage, baggage, accommodation, software, transport, traffic, scenery, weather, behaviour, permission, vocabulary, money**.",
+        "None of them takes *-s*, and all take a singular verb: *The news is good*, *This equipment is expensive*, *Her research focuses on...*, *The traffic was heavy.*",
+        "A few of them look plural but are singular: *news*, *mathematics*, *physics*, *economics*, *politics* (as a subject). *The news is on at nine.*"
+      ],
+      "examples": [
+        { "right": "She gave me some useful advice.", "wrong": "She gave me some useful advices.", "note": "*advice* không có số nhiều; muốn đếm thì dùng *a piece of advice*." },
+        { "right": "The research was conducted over two years.", "wrong": "The researches were conducted over two years.", "note": "*research* không đếm được; nhiều nghiên cứu thì nói *several studies*." },
+        { "right": "All the furniture was replaced.", "wrong": "All the furnitures were replaced.", "note": "Động từ chia **số ít** với danh từ không đếm được." }
+      ]
+    },
+    {
+      "heading": "much, many, a lot of, little, few",
+      "body": [
+        "**many** and **few** go with plural countable nouns; **much** and **little** go with uncountables. **a lot of / lots of** works with both and is the natural choice in positive sentences: *a lot of students*, *a lot of traffic*.",
+        "**much** is unusual in positive statements. *I have much work* sounds formal or unnatural; say *I have a lot of work.* Keep *much* for negatives and questions: *There isn't much time.*",
+        "**a few** and **a little** mean \"some, a small amount\" and are positive. **few** and **little** without *a* mean \"almost none\" and are negative: *Few people attended* (almost nobody came) versus *A few people attended* (some came)."
+      ],
+      "table": {
+        "headers": ["Quantifier", "Used with", "Example"],
+        "rows": [
+          ["many", "plural countable", "Many graduates move abroad."],
+          ["much", "uncountable", "There isn't much demand for it."],
+          ["a lot of / lots of", "both", "A lot of research has been done."],
+          ["a few / few", "plural countable", "A few students failed. / Few students failed."],
+          ["a little / little", "uncountable", "There is a little time left. / There is little time left."],
+          ["fewer / less", "fewer + plural, less + uncountable", "Fewer cars, less pollution."]
+        ]
+      }
+    },
+    {
+      "heading": "some, any and no",
+      "body": [
+        "**some** in positive statements, **any** in negatives and questions: *We collected some data. We didn't collect any data. Did you collect any data?*",
+        "**some** also appears in questions when you expect a yes, or when offering: *Would you like some coffee? Could you give me some feedback?* This is polite, not a grammar error.",
+        "**no + noun** makes the verb positive: *There are no vacancies* (= *There aren't any vacancies*). Do not double the negative: *There aren't no vacancies* is non-standard."
+      ],
+      "examples": [
+        { "right": "We need some more equipment.", "note": "*equipment* uncountable, *some* + singular verb agreement." },
+        { "right": "There wasn't any evidence to support the claim.", "note": "Negative → **any**." },
+        { "right": "No additional funding was provided.", "wrong": "There wasn't no additional funding provided.", "note": "**no** thay cho *not any*, không dùng cả hai." }
+      ]
+    },
+    {
+      "heading": "Counting the uncountable: partitives",
+      "body": [
+        "To count an uncountable noun, use a **partitive**: a unit word plus *of*. *A piece of advice, a piece of information, an item of furniture, a sheet of paper, a slice of bread, a bar of chocolate, a bottle of water, a grain of rice, a litre of petrol.*",
+        "The plural goes on the partitive, not on the noun: *two pieces of advice*, *three items of equipment*, *several sheets of paper*. This is the structure that fixes the *advices* error permanently.",
+        "Some dual-meaning nouns shift with the partitive: *a hair* (one strand) versus *hair* (the mass); *an experience* (one event) versus *experience* (knowledge); *a noise* (one sound) versus *noise* (the phenomenon); *a room* (one room) versus *room* (space)."
+      ],
+      "table": {
+        "headers": ["Uncountable", "Counted form"],
+        "rows": [
+          ["advice", "a piece of advice / two pieces of advice"],
+          ["information", "a piece of information / an item of information"],
+          ["furniture", "a piece of furniture / an item of furniture"],
+          ["equipment", "a piece of equipment"],
+          ["bread", "a slice of bread / a loaf of bread"],
+          ["research", "a study / a piece of research"]
+        ]
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "My teacher gave me some good advices.",
+      "right": "My teacher gave me some good advice.",
+      "why": "Tiếng Việt nói *những lời khuyên* nên người học thêm *-s*. **advice** là danh từ không đếm được; muốn đếm phải dùng **a piece of advice**."
+    },
+    {
+      "wrong": "I have a good news for you.",
+      "right": "I have some good news for you.",
+      "why": "**news** không đếm được và luôn chia **số ít**: *The news is good.* Không dùng *a news* hay *newses*."
+    },
+    {
+      "wrong": "The report contains many informations.",
+      "right": "The report contains a lot of information.",
+      "why": "**information** không có số nhiều, và *many* chỉ đi với danh từ đếm được số nhiều. Dùng **much/a lot of** hoặc đổi sang *many facts*."
+    },
+    {
+      "wrong": "The furnitures in the flat are old.",
+      "right": "The furniture in the flat is old.",
+      "why": "**furniture** không đếm được nên không có *-s* và động từ chia số ít. Đây là lỗi hệ thống, lặp lại ở mọi đoạn văn tả nội thất."
+    },
+    {
+      "wrong": "There are less students in this class than last year.",
+      "right": "There are fewer students in this class than last year.",
+      "why": "**less** dùng cho không đếm được, **fewer** cho số nhiều đếm được. *Students* đếm được nên phải là *fewer*."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, dùng `the amount of + không đếm được` và `the number of + đếm được số nhiều` — cặp này xuất hiện ở gần như mọi bài mô tả biểu đồ.",
+    "Viết `a significant amount of research` chứ không phải `many researches`; đổi sang `several studies` nếu cần số nhiều.",
+    "Khi mô tả xu hướng, `fewer people` và `less traffic` là cặp chính xác — dùng sai sẽ bị coi là lỗi ngữ pháp cơ bản.",
+    "Học danh từ không đếm được theo cụm đo: `a piece of advice`, `an item of equipment`, `a sheet of paper` — vừa đúng ngữ pháp vừa tăng điểm từ vựng."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The researcher collected ___ information over six months.",
+      "options": ["many", "a large number of", "a great deal of", "few"],
+      "answerIndex": 2,
+      "explanation": "*information* không đếm được → **a great deal of**; *many* và *a large number of* chỉ dùng với số nhiều đếm được."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "There are ___ applicants this year than last year.",
+      "options": ["less", "fewer", "little", "much"],
+      "answerIndex": 1,
+      "explanation": "*applicants* đếm được số nhiều → **fewer**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Could you give me ___ information about the course?",
+      "options": ["an", "some", "many", "a few"],
+      "answerIndex": 1,
+      "explanation": "*information* không đếm được → **some** (không dùng *an* hay *many*)."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The equipments were delivered yesterday.",
+        "The equipment was delivered yesterday.",
+        "The equipment were delivered yesterday.",
+        "An equipment was delivered yesterday."
+      ],
+      "answerIndex": 1,
+      "explanation": "*equipment* không đếm được → không có *-s*, động từ số ít, không dùng *an*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "___ people attended the meeting, so it was cancelled.",
+      "options": ["A few", "Few", "A little", "Little"],
+      "answerIndex": 1,
+      "explanation": "**Few** (không có *a*) nghĩa là *rất ít, gần như không có* — phù hợp với việc phải hủy buổi họp."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "She gave me two ___ of advice before the interview.",
+      "answers": ["pieces"],
+      "hint": "partitive for advice",
+      "explanation": "**a piece of advice** → số nhiều *two pieces of advice*."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The news ___ (be) better than we expected.",
+      "answers": ["is", "was"],
+      "hint": "news + verb",
+      "explanation": "**news** chia số ít: *The news is/was better...*"
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "We don't have ___ time left before the deadline.",
+      "answers": ["much", "any"],
+      "hint": "negative + uncountable",
+      "explanation": "*time* không đếm được, câu phủ định → **much** hoặc **any**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "There is ___ hope of finding a cheap flat in the centre.",
+      "answers": ["little"],
+      "hint": "almost none",
+      "explanation": "**little** (không có *a*) = gần như không có."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The government has invested a great ___ in public transport.",
+      "answers": ["deal"],
+      "hint": "a great ___ of + uncountable",
+      "explanation": "**a great deal of** + danh từ không đếm được."
+    }
+  ]
+}

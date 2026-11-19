@@ -1,0 +1,213 @@
+{
+  "slug": "modals-obligation-and-advice",
+  "title": "Modals of obligation, necessity and advice",
+  "titleVi": "Động từ khuyết thiếu: bắt buộc, cần thiết và khuyên bảo",
+  "level": "B2",
+  "topic": "modals",
+  "bookUnits": [31, 32, 33, 34],
+  "bandFocus": "7.5",
+  "summary": "Phân biệt must, have to, mustn't, needn't và should — nhóm lỗi dày đặc nhất trong bài thi viết.",
+  "whyItMatters": "Task 2 về giáo dục, luật pháp và chính sách liên tục cần diễn đạt nghĩa vụ và khuyến nghị. Chỉ một chữ `mustn't` dùng sai thay cho `don't have to` là câu đảo nghĩa hoàn toàn. Đây là nhóm modal phân biệt rõ nhất giữa người học band 6.5 và 7.5.",
+  "sections": [
+    {
+      "heading": "must and have to: whose obligation is it?",
+      "body": [
+        "**must** expresses an obligation the speaker feels or imposes: *You must submit the form by Friday* (I am telling you).",
+        "**have to** expresses an external obligation — a rule, a law, a circumstance: *I have to submit the form by Friday* (the institution requires it).",
+        "In the past, only **had to** exists; *must* has no past form. In questions and negatives, **have to** uses **do/does/did**: *Do we have to register?* / *We didn't have to pay.*"
+      ],
+      "examples": [
+        { "right": "You must see this exhibition — it's extraordinary.", "note": "Speaker's strong recommendation." },
+        { "right": "All applicants have to provide two references.", "note": "Institutional rule." },
+        { "right": "We had to reschedule the meeting because of the storm.", "wrong": "We musted reschedule the meeting because of the storm.", "note": "Past obligation is **had to**; **must** has no past form." }
+      ]
+    },
+    {
+      "heading": "mustn't, don't have to and needn't: the meaning trap",
+      "body": [
+        "**mustn't** = prohibition: do not do it. **don't have to / needn't** = no obligation: it is not necessary, but permitted.",
+        "The difference is absolute. *You mustn't wear a tie* forbids ties; *You don't have to wear a tie* says a tie is optional.",
+        "**needn't** takes the base verb with no *to*: *You needn't bring anything.* **don't need to** takes *to*: *You don't need to bring anything.*"
+      ],
+      "table": {
+        "headers": ["Form", "Meaning", "Example"],
+        "rows": [
+          ["must", "strong obligation (speaker)", "You must wear a helmet."],
+          ["have to", "external obligation", "Cyclists have to wear a helmet here."],
+          ["mustn't", "prohibition — do not do it", "You mustn't park here."],
+          ["don't have to / needn't", "no obligation — optional", "You don't have to book in advance."],
+          ["should / ought to", "advice, recommendation", "You should book early."]
+        ]
+      }
+    },
+    {
+      "heading": "should and ought to: advice and expectation",
+      "body": [
+        "**should + base verb** gives advice or states what is right: *Governments should invest more in early education.* It is weaker than **must** and leaves room for disagreement.",
+        "**ought to** is close to **should** but slightly more formal; in modern academic writing, **should** is far more common.",
+        "**should** also expresses expectation: *The report should be ready by Monday* (= I expect it will be)."
+      ],
+      "examples": [
+        { "right": "Governments should invest more in early education.", "note": "Recommendation in a Task 2 body paragraph." },
+        { "right": "The report should be ready by Monday.", "note": "Expectation, not obligation." },
+        { "right": "Applicants ought to read the guidelines carefully.", "note": "More formal advice with **ought to**." }
+      ]
+    },
+    {
+      "heading": "Past forms: should have done, needn't have done, didn't need to",
+      "body": [
+        "**should have + V3** = you did not do it, but it would have been good: *You should have checked the figures before submitting.*",
+        "**shouldn't have + V3** = you did it, but it was a mistake: *I shouldn't have left the application so late.*",
+        "**needn't have + V3** = you did it, and it was unnecessary. **didn't need to + V** = it was unnecessary, and it is not clear whether you did it. This contrast is a classic advanced exam point."
+      ],
+      "examples": [
+        { "right": "You needn't have printed the whole document — I only needed the summary.", "note": "You printed it; it was unnecessary." },
+        { "right": "I didn't need to print the document because the file was already shared.", "note": "It was unnecessary; no information about whether I printed it." },
+        { "right": "The government should have acted years ago.", "wrong": "The government should acted years ago.", "note": "**should have + V3** for a past regret or criticism." }
+      ]
+    },
+    {
+      "heading": "should in that-clauses and formal recommendations",
+      "body": [
+        "After verbs like **insist, demand, recommend, suggest, propose** and after **It is important/vital/essential/necessary that**, British English uses **should + base verb**: *The committee recommended that the fee should be waived.*",
+        "American English often drops **should** and uses the base form alone (the subjunctive): *The committee recommended that the fee be waived.* Both are correct; be consistent.",
+        "A frequent error is *recommend somebody to do*. Correct patterns are **recommend that somebody (should) do**, **recommend doing**, or **recommend something to somebody**."
+      ],
+      "examples": [
+        { "right": "The report recommends that the government should fund rural clinics.", "note": "**recommend that ... should** — standard British pattern." },
+        { "right": "It is essential that every applicant be interviewed.", "note": "Subjunctive variant, common in formal writing." },
+        { "right": "The panel recommends extending the deadline by two weeks.", "wrong": "The panel recommends us to extend the deadline by two weeks.", "note": "Không dùng **recommend + somebody + to do**." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "You mustn't bring your own equipment — the centre provides everything.",
+      "right": "You don't have to bring your own equipment — the centre provides everything.",
+      "why": "`Mustn't` nghĩa là 'cấm', trong khi ý muốn nói là 'không cần thiết'. Đây là lỗi đảo nghĩa nghiêm trọng nhất trong nhóm modal."
+    },
+    {
+      "wrong": "I must to finish the essay tonight.",
+      "right": "I must finish the essay tonight.",
+      "why": "Sau `must` là động từ nguyên mẫu không có `to`. Chỉ `have to` mới có `to`."
+    },
+    {
+      "wrong": "We musted leave early because of the traffic.",
+      "right": "We had to leave early because of the traffic.",
+      "why": "`Must` không có dạng quá khứ. Nghĩa vụ trong quá khứ dùng `had to`."
+    },
+    {
+      "wrong": "You needn't to worry about the deadline.",
+      "right": "You needn't worry about the deadline.",
+      "why": "`Needn't` là modal nên theo sau là động từ nguyên mẫu không `to`. Chỉ `don't need to` mới có `to`."
+    },
+    {
+      "wrong": "The report recommends the government to raise the tax.",
+      "right": "The report recommends that the government should raise the tax.",
+      "why": "Không có cấu trúc `recommend + tân ngữ + to V`. Dùng `recommend that ... (should) ...` hoặc `recommend + V-ing`."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 2, dùng `should` cho khuyến nghị và `must` chỉ khi thật sự muốn nói về nghĩa vụ mạnh; lạm dụng `must` khiến bài viết nghe áp đặt.",
+    "Dùng `It is essential that ... should ...` hoặc `... be ...` để tạo cấu trúc trang trọng, ăn điểm ở tiêu chí Grammatical Range.",
+    "Phân biệt rõ `needn't have done` (đã làm nhưng không cần) và `didn't need to do` (không cần, không rõ đã làm hay chưa) khi kể lại trải nghiệm trong Speaking.",
+    "Tránh `mustn't` khi ý bạn là 'không bắt buộc'; dùng `do not have to` hoặc `need not` để không đảo nghĩa câu."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The museum provides headphones, so you ___ bring your own.",
+      "options": ["mustn't", "don't have to", "shouldn't", "must"],
+      "answerIndex": 1,
+      "explanation": "Không bắt buộc → **don't have to**. **Mustn't** nghĩa là bị cấm."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence uses 'must' correctly?",
+      "options": [
+        "I must to finish the report tonight.",
+        "I must finish the report tonight.",
+        "I must finishing the report tonight.",
+        "I must to finishing the report tonight."
+      ],
+      "answerIndex": 1,
+      "explanation": "Sau **must** là động từ nguyên mẫu không **to**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "We ___ leave early yesterday because of the traffic.",
+      "options": ["must", "musted", "had to", "have to"],
+      "answerIndex": 2,
+      "explanation": "Nghĩa vụ trong quá khứ → **had to**; **must** không có dạng quá khứ."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "I printed forty copies, but only five were needed. I ___ so many.",
+      "options": [
+        "needn't have printed",
+        "didn't need to print",
+        "mustn't have printed",
+        "shouldn't print"
+      ],
+      "answerIndex": 0,
+      "explanation": "Đã in rồi và việc đó không cần thiết → **needn't have printed**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Choose the correct formal recommendation.",
+      "options": [
+        "The panel recommends the council to widen the road.",
+        "The panel recommends that the council should widen the road.",
+        "The panel recommends the council widen to the road.",
+        "The panel recommends to the council widening the road."
+      ],
+      "answerIndex": 1,
+      "explanation": "Cấu trúc đúng là **recommend that + S + (should) + V**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "Cyclists ___ (have to) use the cycle lane — it is a legal requirement.",
+      "answers": ["have to"],
+      "hint": "quy định bên ngoài",
+      "explanation": "Nghĩa vụ do luật/quy định bên ngoài → **have to**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "You ___ (not / have to) book in advance; you can pay at the door.",
+      "answers": ["don't have to"],
+      "hint": "không bắt buộc",
+      "explanation": "Không cần thiết nhưng được phép → **don't have to**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "You ___ (should / check) the figures before you submitted the report.",
+      "answers": ["should have checked"],
+      "hint": "nuối tiếc trong quá khứ",
+      "explanation": "Đã không làm nhưng lẽ ra nên làm → **should have + V3**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "It is essential that every candidate ___ (be) interviewed in person.",
+      "answers": ["be", "should be"],
+      "hint": "subjunctive sau It is essential that",
+      "explanation": "Sau **It is essential that** dùng động từ nguyên mẫu (**be**) hoặc **should be**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The committee recommended that the fee ___ (should / waive) for low-income students.",
+      "answers": ["should be waived", "be waived"],
+      "hint": "recommend that + bị động",
+      "explanation": "**Recommend that ... should be + V3**; dạng rút gọn là **be waived**."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "IELTS Writing band descriptors, decoded",
+  "titleVi": "Bốn tiêu chí chấm Writing, giải nghĩa",
+  "intro": "Giám khảo không cho điểm theo cảm giác: họ bám vào bốn tiêu chí, mỗi tiêu chí chiếm 25% và được mô tả bằng những câu rất cụ thể trong band descriptors. Hiểu đúng bốn tiêu chí này là cách nhanh nhất để biết bài của bạn đang mất điểm ở đâu. Trang này dịch ngược bảng mô tả đó thành việc bạn có thể làm ngay: mỗi tiêu chí gồm nghĩa thực tế, bài band 6, 7, 8 trông như thế nào bằng tiếng Anh, và các hành động cụ thể để leo band. Đọc kèm với `task1` và `task2` để thấy tiêu chí được ráp vào bài mẫu ra sao.",
+  "bands": [
+    {
+      "criterion": "Task Response",
+      "criterionVi": "Đáp ứng đề bài (Task 1 gọi là Task Achievement)",
+      "weight": "25% — cả Task 1 và Task 2",
+      "whatItMeans": "Tiêu chí này hỏi một câu duy nhất: bạn có trả lời đúng điều đề hỏi không? Đề Task 2 thường có hai đến ba phần (ví dụ: thảo luận cả hai quan điểm **và** nêu ý kiến của bạn). Nếu bạn chỉ làm một nửa, trần điểm của cả bài sẽ bị chặn. Ở band 7–8, giám khảo còn xét ý có được triển khai (developed) không: mỗi luận điểm cần được giải thích và có ví dụ hoặc hệ quả cụ thể, chứ không phải liệt kê năm ý rồi bỏ đó. Với Task 1, tiêu chí này là `Task Achievement`: phải có `overview` rõ ràng, chọn và nhóm số liệu đúng, không bịa thêm dữ liệu không có trong hình.",
+      "band6": "Addresses all parts of the task, though some parts are covered more fully than others. Presents a relevant position, but the conclusions may be unclear or repetitive. Main ideas are relevant but some are underdeveloped or supported only by assertion.",
+      "band7": "Addresses all parts of the task. Presents a clear position throughout the response. Main ideas are extended and supported, but there may be a tendency to overgeneralise or to develop one idea at the expense of others.",
+      "band8": "Sufficiently addresses all parts of the task. Presents a well-developed response to the question with relevant, extended and supported ideas. The position is clear and fully consistent from introduction to conclusion.",
+      "howToReach": [
+        "Trước khi viết, gạch chân **mọi mệnh lệnh** trong đề: `discuss both views`, `give your opinion`, `what problems`, `what solutions`. Đếm số phần và đảm bảo mỗi phần có ít nhất một đoạn thân bài hoặc một nửa đoạn.",
+        "Dùng công thức một đoạn = một ý + một câu giải thích (`this is because…`) + một ví dụ hoặc hệ quả (`for instance…`, `as a result…`). Ba câu này là mức tối thiểu để một ý được coi là `developed`.",
+        "Viết thesis statement ở cuối mở bài và nhắc lại đúng ý đó ở kết bài, không đổi giọng giữa bài — giám khảo chấm `clear position throughout`.",
+        "Với Task 1, viết `overview` ngay sau mở bài, dùng từ khái quát (`overall`, `the most striking feature`) và tuyệt đối không đưa số liệu cụ thể vào overview."
+      ]
+    },
+    {
+      "criterion": "Coherence & Cohesion",
+      "criterionVi": "Mạch lạc và liên kết",
+      "weight": "25% — cả Task 1 và Task 2",
+      "whatItMeans": "`Coherence` là bài có đi theo một đường không: mỗi đoạn một chủ đề, các đoạn nối nhau thành lập luận. `Cohesion` là các phương tiện nối bề mặt: từ nối, đại từ, từ đồng nghĩa, câu chủ đề. Band 7–8 không thưởng cho việc nhồi `Moreover`, `Furthermore` ở đầu mọi câu — ngược lại, band descriptors ghi rõ `cohesion` phải tự nhiên, không lộ liễu (`not overused`). Điểm cao đến từ việc người đọc đoán được câu tiếp theo sẽ nói gì, nhờ ý được sắp xếp logic chứ không nhờ từ nối.",
+      "band6": "Arranges information and ideas coherently; there is a clear overall progression. Uses cohesive devices effectively, but cohesion within and between sentences may be faulty or mechanical. Paragraphing may be inadequate or inconsistent.",
+      "band7": "Logically organises information with a clear progression. Uses a range of cohesive devices appropriately, although there may be some under- or over-use. Presents a clear central topic within each paragraph.",
+      "band8": "Sequences information and ideas logically. Manages all aspects of cohesion well. Uses paragraphing sufficiently and appropriately, with each paragraph developing one clear central idea.",
+      "howToReach": [
+        "Lập dàn ý 4 đoạn trước khi viết và viết **câu chủ đề** cho từng đoạn: nếu câu chủ đề không trả lời trực tiếp đề bài, đoạn đó đang lạc.",
+        "Đa dạng hoá cách nối: dùng đại từ (`this shift`, `such policies`), lặp từ khoá có chủ đích, và từ nối theo chức năng (`Admittedly…`, `By contrast…`, `Consequently…`) thay vì lặp `Firstly, Secondly, Finally`.",
+        "Mỗi đoạn thân bài chỉ nên chứa **một** ý lớn. Nếu trong đoạn xuất hiện chữ `also` mở ra một ý mới hoàn toàn, hãy tách đoạn.",
+        "Kiểm tra lại: đọc riêng từng đoạn, nếu nó vẫn đứng vững như một khối ý nghĩa thì `paragraphing` của bạn đang đúng."
+      ]
+    },
+    {
+      "criterion": "Lexical Resource",
+      "criterionVi": "Vốn từ vựng",
+      "weight": "25% — cả Task 1 và Task 2",
+      "whatItMeans": "Không phải đếm số từ khó. Tiêu chí này đo ba thứ: từ có **đúng** không (precision), có **đa dạng** không (range), và có **tự nhiên** không (collocation). Band 7 cho phép vài lỗi chọn từ; band 8 yêu cầu dùng từ chính xác và hiếm gặp (`less common items`) nhưng vẫn tự nhiên, chỉ thỉnh thoảng sai. Một lỗi rất hay gặp của người Việt là dùng từ `formal` quá tay: `utilise` thay cho `use` ở mọi chỗ, hoặc ghép từ đúng nghĩa nhưng sai collocation (`do a research`, `make a pollution`).",
+      "band6": "Uses an adequate range of vocabulary for the task. Attempts to use less common vocabulary but with some inaccuracy. Makes some errors in spelling and word formation that do not impede communication.",
+      "band7": "Uses a sufficient range of vocabulary to allow some flexibility and precision. Uses some less common lexical items, with some awareness of style and collocation. May produce occasional errors in word choice, spelling or word formation.",
+      "band8": "Uses a wide range of vocabulary fluently and flexibly to convey precise meanings. Skilfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation. Rare errors in spelling and word formation.",
+      "howToReach": [
+        "Học từ theo **cụm**, không theo từ đơn: ghi `mitigate the impact`, `a viable alternative`, `impose a levy on` — giám khảo chấm collocation, không chấm độ dài từ.",
+        "Chọn 5–7 từ học thuật cho mỗi chủ đề và dùng lại chúng ở nhiều bài; dùng đúng 5 từ chắc chắn tốt hơn dùng sai 15 từ lạ.",
+        "Tránh `utilise`, `plethora`, `myriad` nếu bạn không kiểm soát được sắc thái — band 8 ưu tiên từ chính xác và tự nhiên hơn từ nghe có vẻ khó.",
+        "Khi paraphrase đề, đổi **cấu trúc** chứ không chỉ đổi từ: `governments should fund…` → `the state ought to bear the cost of…` giúp bạn tránh lặp từ và thể hiện `flexibility`."
+      ]
+    },
+    {
+      "criterion": "Grammatical Range & Accuracy",
+      "criterionVi": "Độ đa dạng và độ chính xác ngữ pháp",
+      "weight": "25% — cả Task 1 và Task 2",
+      "whatItMeans": "Hai nửa điểm: `range` (bạn có dùng được nhiều cấu trúc phức không) và `accuracy` (bạn có kiểm soát được chúng không). Band 7 cần `a variety of complex structures` với `frequent error-free sentences`; band 8 cần phần lớn câu không lỗi và lỗi chỉ là `slips`. Câu đơn đúng hết vẫn bị chặn ở band 6 vì thiếu range; câu phức sai liên tục cũng bị chặn vì accuracy. Điểm mấu chốt: **cấu trúc phức phải phục vụ nghĩa**, không phải để khoe.",
+      "band6": "Uses a mix of simple and complex sentence forms. Makes some errors in grammar and punctuation, but they rarely reduce communication.",
+      "band7": "Uses a variety of complex structures. Produces frequent error-free sentences. Has good control of grammar and punctuation, but may make a few errors.",
+      "band8": "Uses a wide range of structures. The majority of sentences are error-free. Makes only occasional errors or inappropriacies, and these rarely cause difficulty for the reader.",
+      "howToReach": [
+        "Đặt mục tiêu mỗi đoạn có ít nhất **một** trong các cấu trúc: mệnh đề quan hệ (`which…`), câu điều kiện (`were governments to…`), bị động (`is often portrayed as`), danh động từ làm chủ ngữ (`Investing in public transport…`).",
+        "Sửa lỗi theo nhóm chứ không theo câu: gom 10 bài cũ, đếm lỗi `articles`, `subject–verb agreement`, `prepositions` — sửa đúng nhóm lỗi phổ biến nhất của bạn hiệu quả hơn viết thêm bài mới.",
+        "Ưu tiên câu **trung bình nhưng sạch**: một câu dài sai ba lỗi mất điểm accuracy nhiều hơn một câu vừa phải đúng hoàn toàn.",
+        "Đọc to bài viết để bắt lỗi mạch câu; dấu phẩy trước mệnh đề quan hệ không xác định (`, which`) và dấu chấm phẩy giữa hai mệnh đề độc lập là hai chỗ dễ mất điểm punctuation."
+      ]
+    }
+  ],
+  "overall": [
+    {
+      "band": "5.5",
+      "description": "Bài trả lời được đề nhưng thiếu một phần: ví dụ đề hỏi cả hai quan điểm mà bạn chỉ mạnh về một bên. Ý có nhưng mỏng — thường là ba bốn nhận định chung chung kiểu `it is very important` mà không giải thích vì sao. Từ vựng đủ hiểu nhưng lặp và có lỗi chọn từ; câu đơn và câu ghép đơn giản chiếm phần lớn, lỗi ngữ pháp xuất hiện đều nhưng người đọc vẫn hiểu. Người đọc thấy được ý bạn muốn nói, chỉ là chưa thấy bạn nghĩ sâu."
+    },
+    {
+      "band": "6.0",
+      "description": "Trả lời đủ các phần của đề, có quan điểm xuyên suốt nhưng phần kết luận hay lặp lại mở bài. Mỗi đoạn thân bài có một ý rõ nhưng phần triển khai dừng ở mức khẳng định, thiếu ví dụ hoặc hệ quả. Từ nối dùng đúng nhưng máy móc (`Firstly… Secondly… Finally` ở mọi đoạn); đoạn văn có thể lệch chủ đề nhẹ. Có cố gắng dùng từ học thuật nhưng vài chỗ sai collocation; câu phức xuất hiện nhưng không đều, lỗi ngữ pháp rải rác. Đây là bài của người đã nắm cấu trúc nhưng chưa kiểm soát được chi tiết."
+    },
+    {
+      "band": "6.5",
+      "description": "Bước chuyển quan trọng: ý bắt đầu được **triển khai** chứ không chỉ nêu. Mỗi đoạn thân bài có câu chủ đề, một câu giải thích và thường có một ví dụ — dù ví dụ còn chung. Đề được xử lý đủ, quan điểm rõ và nhất quán. Từ vựng khá hơn ở chỗ có vài cụm tự nhiên và một số từ ít gặp, nhưng vẫn còn lỗi chọn từ và lặp từ khoá. Câu phức đa dạng hơn, phần lớn câu đúng, lỗi không cản trở đọc. Khác biệt so với 6.0 nằm ở độ sâu của ý và độ sạch của câu, không nằm ở độ dài bài."
+    },
+    {
+      "band": "7.0",
+      "description": "Bài trả lời trọn vẹn và có lập trường rõ từ mở bài đến kết bài. Luận điểm được mở rộng bằng giải thích và ví dụ cụ thể, không tràn sang ý khác. Bố cục đoạn rõ ràng, mỗi đoạn một chủ đề trung tâm; từ nối đa dạng và phần lớn tự nhiên. Vốn từ đủ linh hoạt để diễn đạt sắc thái, có vài từ ít gặp dùng đúng, thỉnh thoảng sai collocation. Cấu trúc phức đa dạng và **phần lớn câu không lỗi** — đây là điểm khác biệt lớn nhất so với 6.5. Vẫn có thể bị trừ vì một hai đoạn phát triển chưa đều hoặc kết luận hơi hình thức."
+    },
+    {
+      "band": "7.5",
+      "description": "Như band 7 nhưng độ chính xác và độ tự nhiên cao hơn rõ rệt: gần như không còn lỗi collocation, câu phức được dùng vì cần thiết chứ không để trình diễn. Ý được triển khai có chiều sâu — bạn không chỉ nói `điều này tốt` mà chỉ ra **cơ chế** (`because it shifts the cost from the state to the polluter`) và giới hạn của lập luận. Từ nối gần như vô hình vì mạch ý tự dẫn. Bài đọc trôi, không phải dừng lại sửa lỗi trong đầu."
+    },
+    {
+      "band": "8.0",
+      "description": "Trả lời đầy đủ với các ý được phát triển kỹ và hỗ trợ chắc chắn; lập trường nhất quán tuyệt đối. Bố cục và liên kết được quản lý tốt ở mọi tầng: trong câu, giữa câu, giữa đoạn. Từ vựng rộng, dùng linh hoạt, có những từ hiếm nhưng chọn đúng sắc thái và đúng collocation; lỗi chỉ là `slip` hiếm hoi. Đa số câu không lỗi, cấu trúc phức đa dạng và phục vụ nghĩa. Điều giữ bài ở 8.0 thay vì 8.5 thường là một hai chỗ triển khai còn an toàn hoặc một lỗi nhỏ về mạo từ/dấu câu."
+    },
+    {
+      "band": "8.5",
+      "description": "Gần như không còn gì để trừ trong bốn tiêu chí. Ý phát triển đầy đủ, có chiều sâu và thỉnh thoảng có một quan sát khiến giám khảo phải chú ý; lập trường rõ và được giữ vững qua các đoạn. Liên kết hoàn toàn tự nhiên — không có từ nối nào thừa, không có chỗ nào phải đọc lại để hiểu. Từ vựng chính xác và tinh tế, kể cả khi diễn đạt các sắc thái gần nhau (`regulation` vs `legislation`, `deterrent` vs `punishment`); lỗi chỉ là lỗi vô ý cực hiếm. Câu phức đa dạng, dài ngắn đan xen có nhịp, gần như không lỗi. Ở band này, bài đọc như văn bản học thuật thật chứ không giống bài thi."
+    }
+  ]
+}

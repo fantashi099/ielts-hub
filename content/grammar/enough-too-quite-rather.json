@@ -1,0 +1,208 @@
+{
+  "slug": "enough-too-quite-rather",
+  "title": "enough, too, quite and rather",
+  "titleVi": "enough, too, quite và rather",
+  "level": "B2",
+  "topic": "adjectives-adverbs",
+  "bookUnits": [103, 104],
+  "bandFocus": "7.5",
+  "summary": "Đặt enough/too đúng vị trí và dùng quite/rather để nói mức độ chính xác như người bản xứ.",
+  "whyItMatters": "*enough old* thay vì *old enough*, hay *too much easy* thay vì *too easy* — những lỗi này khiến câu nghe rất *Việt*. Ở band 7.5, bạn cần diễn đạt mức độ một cách tinh tế: *not strict enough*, *too costly to implement*, *quite a significant shift*, *rather limited*. Đây là nhóm từ nhỏ nhưng xuất hiện dày đặc trong cả Task 1 và Task 2.",
+  "sections": [
+    {
+      "heading": "enough: after adjectives, before nouns",
+      "body": [
+        "The position of **enough** depends on what it describes. After an **adjective or adverb**: *old enough*, *quickly enough*. Before a **noun**: *enough time*, *enough evidence*.",
+        "The infinitive pattern is **adjective + enough + to do**: *The sample was large enough to be reliable.* In the negative, *not … enough to* states a shortfall: *The budget was not sufficient — or not large enough — to cover maintenance.*",
+        "With a person, add **for**: *The room is big enough **for** four people.* Do not use *enough* with *very*: *very enough* is not English."
+      ],
+      "examples": [
+        { "right": "The sample was large enough to support a firm conclusion.", "wrong": "The sample was enough large to support a firm conclusion.", "note": "**enough** follows the adjective." },
+        { "right": "There is not enough affordable housing in the capital.", "note": "**enough** precedes the noun." },
+        { "right": "The evidence is not strong enough to justify a ban.", "note": "Negative shortfall: **not + adj + enough + to**." }
+      ]
+    },
+    {
+      "heading": "too: excess, and the infinitive of result",
+      "body": [
+        "**too + adjective/adverb**: *too expensive*, *too slowly*. Add **to + infinitive** for the consequence: *The scheme was too costly to implement.* Add **for + person** when the excess affects someone: *The flat is too small for a family of five.*",
+        "With nouns, use **too much + uncountable** and **too many + plural**: *too much traffic*, *too many cars*. *Too* does not take *very*: *too very expensive* is impossible.",
+        "**Too … to** and **so … that … not** express the same logic from opposite directions: *The rent was too high to afford* = *The rent was so high that they could not afford it.* The first is tighter; use the second when you need a full clause."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example", "Meaning"],
+        "rows": [
+          ["too + adj + to do", "too expensive to maintain", "impossible because of excess"],
+          ["too much + uncountable", "too much congestion", "excess quantity"],
+          ["too many + plural", "too many applications", "excess number"],
+          ["adj + enough + to do", "affordable enough to rent", "sufficient"],
+          ["not + adj + enough", "not strict enough", "insufficient"]
+        ]
+      }
+    },
+    {
+      "heading": "quite: 'fairly' or 'completely'?",
+      "body": [
+        "**Quite** has two meanings, and only context separates them. Before most adjectives it means *fairly / less than very*: *The book is quite interesting* (= reasonably interesting). Before a small set of **absolute** adjectives it means *completely*: *quite sure*, *quite right*, *quite different*, *quite impossible*, *quite clear*.",
+        "With a noun phrase, **quite** goes before **a/an**: *quite a good job*, *quite a long way*. Do not write *a quite good job*.",
+        "**Quite a lot (of)** works as a quantity phrase: *Quite a lot of respondents disagreed.* **Quite + verb** is common with *like* and *enjoy*: *I quite like the proposal* — measured approval, not enthusiasm."
+      ],
+      "examples": [
+        { "right": "The two cohorts were quite different in income.", "wrong": "The two cohorts were fairly different in income.", "note": "With *different*, **quite** means completely; *fairly* would weaken it to *somewhat*." },
+        { "right": "It was quite a controversial decision.", "note": "**quite + a + adjective + noun**." },
+        { "right": "I quite agree with the second argument.", "note": "**quite** with *agree* = completely." }
+      ]
+    },
+    {
+      "heading": "rather, fairly and pretty: three shades of degree",
+      "body": [
+        "**Rather** is close to *quite*, but it leans **negative** unless the context is clearly positive: *The results were rather disappointing.* With a positive adjective it signals surprise: *The food was rather good, actually.*",
+        "**Rather** can modify a comparative, which *quite* and *fairly* cannot: *rather better*, *rather more expensive*. It also fits before or after *a/an*: *rather a good idea* / *a rather good idea*.",
+        "**Fairly** is the weakest: *fairly good* means acceptable but not impressive. **Pretty** is its informal twin and belongs in speaking, not in an essay: *pretty good*. In Writing, prefer *fairly*, *relatively*, *somewhat* or *moderately*."
+      ],
+      "table": {
+        "headers": ["Word", "Strength", "Register", "Example"],
+        "rows": [
+          ["fairly", "weakest — acceptable", "neutral", "fairly effective"],
+          ["quite", "moderate — fairly", "neutral/formal", "quite effective"],
+          ["rather", "moderate, often negative", "formal", "rather disappointing"],
+          ["pretty", "moderate", "informal — speaking", "pretty good"],
+          ["extremely", "very strong", "formal", "extremely costly"]
+        ]
+      }
+    },
+    {
+      "heading": "Degree language in an IELTS argument",
+      "body": [
+        "Precision about degree is a Lexical Resource marker. Compare *The policy is bad* with *The policy is **too rigid to adapt** to local conditions* — the second names the mechanism and the limit.",
+        "In Task 2, use **not … enough** to identify a gap in provision, and **too … to** to explain why a solution fails: *Public transport is not frequent enough to replace the car, and fares are too high for low-income commuters.*",
+        "In Task 1, **quite/rather/fairly** are less useful than precise trend adverbs. Keep them for evaluation in Task 2 and for your own commentary, not for describing data."
+      ],
+      "examples": [
+        { "right": "Regulations are not strict enough to deter illegal dumping.", "note": "Gap in provision — a classic problem-solution sentence." },
+        { "right": "The scheme was too expensive to sustain without subsidies.", "note": "Excess → consequence." },
+        { "right": "The decline was rather sharper in the north than in the south.", "wrong": "The decline was rather sharp in the north than in the south.", "note": "**rather + comparative**: *rather sharper*, never *rather sharp than*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The town is not enough large to support a hospital.",
+      "right": "The town is not large enough to support a hospital.",
+      "why": "**enough** đứng **sau** tính từ: `adj + enough + to do`. Đây là lỗi trật tự từ phổ biến nhất của người Việt với *enough*."
+    },
+    {
+      "wrong": "The test was too much difficult for most candidates.",
+      "right": "The test was too difficult for most candidates.",
+      "why": "**too** đứng trực tiếp trước tính từ. *Too much* chỉ dùng trước danh từ không đếm được (*too much traffic*)."
+    },
+    {
+      "wrong": "It was a quite good opportunity.",
+      "right": "It was quite a good opportunity.",
+      "why": "**quite** đứng trước mạo từ **a/an**: `quite a + adj + noun`."
+    },
+    {
+      "wrong": "The two systems are fairly different in scope.",
+      "right": "The two systems are quite different in scope.",
+      "why": "Với tính từ tuyệt đối như *different, sure, right, impossible*, **quite** nghĩa là *hoàn toàn*. *Fairly different* nghe như *hơi khác*, làm nhẹ điều bạn muốn nói."
+    },
+    {
+      "wrong": "There are too much cars in the city centre.",
+      "right": "There are too many cars in the city centre.",
+      "why": "**cars** đếm được số nhiều → *too many*. *Too much* dành cho danh từ không đếm được."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng **not + adjective + enough** để mô tả lỗ hổng chính sách — cấu trúc rất tự nhiên trong problem–solution: *Supervision is not frequent enough to prevent abuse.* *Funding is not stable enough to retain experienced staff.*",
+    "Dùng **too + adjective + to** để giải thích vì sao một giải pháp thất bại: *The technology remains too expensive to deploy at national scale.* Câu này gọn hơn *because it is very expensive* và thể hiện quan hệ nhân quả rõ hơn.",
+    "Trong Task 2, **quite a + adj + noun** giúp bạn đưa nhận định có mức độ thay vì cực đoan: *This represents **quite a significant** shift in policy.* Nghe học thuật hơn *very significant* và an toàn hơn *extremely significant*.",
+    "Tránh **pretty** trong Writing vì đây là từ khẩu ngữ. Nếu cần nghĩa *khá*, dùng **fairly**, **relatively** hoặc **somewhat** — cả ba đều phù hợp văn viết học thuật."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The sample was not ___ to support a firm conclusion.",
+      "options": ["enough large", "large enough", "too large", "larger enough"],
+      "answerIndex": 1,
+      "explanation": "**adjective + enough + to-infinitive** → *large enough*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "There is ___ affordable housing in the capital.",
+      "options": ["not enough", "not enough of", "enough not", "no enough"],
+      "answerIndex": 0,
+      "explanation": "**enough** precedes the noun: *not enough affordable housing*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The scheme was ___ to implement without subsidies.",
+      "options": ["too costly", "too much costly", "costly too", "enough costly"],
+      "answerIndex": 0,
+      "explanation": "**too + adjective + to-infinitive** → *too costly to implement*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "It was ___ opportunity to study abroad.",
+      "options": ["quite a good", "a quite good", "quite good a", "good quite a"],
+      "answerIndex": 0,
+      "explanation": "**quite a + adjective + noun**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence means *completely different*?",
+      "options": [
+        "The two approaches are fairly different.",
+        "The two approaches are quite different.",
+        "The two approaches are rather different.",
+        "The two approaches are pretty different."
+      ],
+      "answerIndex": 1,
+      "explanation": "With absolute adjectives, **quite** = completely; *rather/pretty* keep the *somewhat* reading."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The room is not big ___ for four people.",
+      "answers": ["enough"],
+      "hint": "after the adjective",
+      "explanation": "**big enough for** + person."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "There are ___ (too / many) applications for the scheme.",
+      "answers": ["too many"],
+      "hint": "countable plural",
+      "explanation": "**too many + plural noun**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The decline was ___ (rather / sharp) in the north than in the south.",
+      "answers": ["rather sharper"],
+      "hint": "rather + comparative",
+      "explanation": "**rather** can modify a comparative: *rather sharper*."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Regulations are not strict ___ to deter illegal dumping.",
+      "answers": ["enough"],
+      "hint": "not + adj + ___ + to",
+      "explanation": "**not strict enough to** + verb."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "I ___ (quite / agree) with the second argument.",
+      "answers": ["quite agree"],
+      "hint": "quite + verb = completely",
+      "explanation": "**quite agree** = completely agree."
+    }
+  ]
+}

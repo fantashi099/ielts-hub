@@ -1,0 +1,216 @@
+{
+  "slug": "passive-voice-forms",
+  "title": "Passive voice: forms and tenses",
+  "titleVi": "Câu bị động: các dạng và thì",
+  "level": "B2",
+  "topic": "passive",
+  "bookUnits": [42, 43, 44],
+  "bandFocus": "7.5",
+  "summary": "Hệ thống toàn bộ dạng bị động theo thì và cấu trúc, kèm cách dùng trong văn phong học thuật Task 1 và Task 2.",
+  "whyItMatters": "Văn phong học thuật ưu tiên bị động khi tác nhân không quan trọng: *The data were collected over six months.* Task 1 gần như bắt buộc dùng bị động để mô tả quy trình, còn Task 2 dùng bị động để giữ giọng khách quan. Dùng sai thì của `be` là lỗi phổ biến nhất.",
+  "sections": [
+    {
+      "heading": "Why and how: be + past participle",
+      "body": [
+        "The passive is **be + past participle**. The object of an active verb becomes the subject: *They built the bridge in 1998* → *The bridge was built in 1998*.",
+        "Use the passive when the agent is unknown, obvious, unimportant, or when the process matters more than the person: *The samples were analysed at a certified laboratory.*",
+        "Add **by + agent** only when the agent carries information: *The report was commissioned by the ministry.* If the agent is **people**, **they** or **somebody**, drop it entirely."
+      ],
+      "examples": [
+        { "right": "The bridge was built in 1998.", "note": "Agent irrelevant — omitted." },
+        { "right": "The samples were analysed at a certified laboratory.", "note": "Process is the focus." },
+        { "right": "The report was commissioned by the ministry.", "note": "**by + agent** adds real information." },
+        { "right": "The new rules will be introduced next term.", "wrong": "People will introduce the new rules next term.", "note": "Chủ ngữ không xác định **people** → nên dùng bị động." }
+      ]
+    },
+    {
+      "heading": "The full tense grid",
+      "body": [
+        "Only the verb **be** changes tense; the past participle never does. Learn the grid as one unit rather than tense by tense.",
+        "Perfect continuous forms (**have been being done**) are avoided in practice — rewrite them actively or with a different structure."
+      ],
+      "table": {
+        "headers": ["Tense", "Active", "Passive"],
+        "rows": [
+          ["Present simple", "They collect the data annually.", "The data are collected annually."],
+          ["Present continuous", "They are collecting the data.", "The data are being collected."],
+          ["Past simple", "They collected the data.", "The data were collected."],
+          ["Past continuous", "They were collecting the data.", "The data were being collected."],
+          ["Present perfect", "They have collected the data.", "The data have been collected."],
+          ["Past perfect", "They had collected the data.", "The data had been collected."],
+          ["Future (will)", "They will collect the data.", "The data will be collected."],
+          ["Modal", "They must collect the data.", "The data must be collected."]
+        ]
+      }
+    },
+    {
+      "heading": "Passive with infinitives and modals",
+      "body": [
+        "After a modal or **be going to**, use **be + V3**: *The site must be inspected*, *The stadium is going to be rebuilt*.",
+        "After certain verbs, use the passive infinitive **to be + V3**: *The results need to be verified*, *The form is expected to be signed today*.",
+        "For a past obligation or possibility, use the perfect passive infinitive **to have been + V3**: *The equipment should have been serviced months ago*, *The letter might have been sent to the wrong address.*"
+      ],
+      "examples": [
+        { "right": "The site must be inspected before construction begins.", "note": "Modal + **be + V3**." },
+        { "right": "The results need to be verified independently.", "note": "Passive infinitive **to be + V3**." },
+        { "right": "The equipment should have been serviced months ago.", "note": "Perfect passive infinitive **to have been + V3**." },
+        { "right": "The stadium is going to be rebuilt next year.", "wrong": "The stadium is going to rebuilt next year.", "note": "Thiếu **be** sau **going to**." }
+      ]
+    },
+    {
+      "heading": "Special structures: two objects, being done, get-passive",
+      "body": [
+        "Verbs with two objects — **give, offer, pay, show, tell, ask** — allow either object to become the subject. Starting with the person is far more natural: *I was offered the job* rather than *The job was offered to me*.",
+        "After prepositions and verbs like **like, hate, remember, avoid**, use **being + V3**: *I don't like being told what to do*, *She left without being seen*.",
+        "The **get**-passive (**get + V3**) is informal and limited to things that happen to people: *Nobody got hurt*, *I don't get invited to these meetings*. It cannot express states — *Jessica is liked by everybody*, never *gets liked*. Note that **get married**, **get dressed**, **get lost** and **get changed** are not passives at all.",
+        "**I was born** is always past. The present passive **are born** appears only in general statements: *How many babies are born every day?*"
+      ],
+      "examples": [
+        { "right": "I was offered the job.", "note": "Person as subject of a two-object verb — the natural choice." },
+        { "right": "I don't like being told what to do.", "note": "**being + V3** after a verb of feeling." },
+        { "right": "Nobody got hurt in the accident.", "note": "Informal **get**-passive for something that happened." },
+        { "right": "Jessica is liked by everybody.", "wrong": "Jessica gets liked by everybody.", "note": "**Get** không dùng cho trạng thái." },
+        { "right": "I was born in Hanoi.", "wrong": "I am born in Hanoi.", "note": "**Born** dùng ở quá khứ khi nói về bản thân." }
+      ]
+    },
+    {
+      "heading": "Passive in IELTS Task 1 and Task 2",
+      "body": [
+        "Task 1 process diagrams require the passive throughout: *The beans are washed, dried and then roasted at 200 degrees.*",
+        "For data description, mix active and passive rather than using passive exclusively: *The figure rose sharply* is better than *A sharp rise was seen in the figure* when the subject is simple.",
+        "In Task 2, passive keeps the tone impersonal: *It is widely argued that..., Measures must be taken to...* But do not let it hide your reasoning — an essay of pure passive sentences reads as evasive.",
+        "Avoid the doubled passive that Vietnamese learners often produce by translating **được** mechanically: *The problem was been solved* is not English."
+      ],
+      "examples": [
+        { "right": "The beans are washed, dried and then roasted at 200 degrees.", "note": "Process description — passive throughout." },
+        { "right": "It is widely argued that university fees discourage poorer students.", "note": "Impersonal reporting structure." },
+        { "right": "Measures must be taken to reduce plastic waste.", "note": "Modal passive in a Task 2 recommendation." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The data was been collected last year.",
+      "right": "The data were collected last year.",
+      "why": "Không kết hợp `was` với `been`. Bị động quá khứ đơn chỉ là `was/were + V3`; `have/has been` chỉ dùng cho thì hoàn thành."
+    },
+    {
+      "wrong": "The stadium is going to rebuilt next year.",
+      "right": "The stadium is going to be rebuilt next year.",
+      "why": "Sau `going to` phải có `be + V3`. Người Việt hay bỏ `be` vì dịch trực tiếp 'sẽ được xây lại'."
+    },
+    {
+      "wrong": "The problem was solved by people.",
+      "right": "The problem was solved.",
+      "why": "Không cần `by people/they/somebody` — tác nhân chung chung thì bỏ hẳn."
+    },
+    {
+      "wrong": "I am born in Hanoi.",
+      "right": "I was born in Hanoi.",
+      "why": "`Born` khi nói về bản thân luôn ở quá khứ; chỉ dùng `are born` cho câu khái quát như `How many babies are born every day?`"
+    },
+    {
+      "wrong": "She left without being saw.",
+      "right": "She left without being seen.",
+      "why": "Sau `being` phải là `past participle` (V3), không dùng `past simple`."
+    }
+  ],
+  "ieltsTips": [
+    "Task 1 mô tả quy trình nên dùng bị động xuyên suốt: `The mixture is heated and then cooled.`",
+    "Trong Task 2, dùng `It is widely argued that...` hoặc `Measures must be taken to...` để giữ giọng khách quan.",
+    "Đừng lạm dụng bị động: câu chủ động với chủ ngữ đơn giản (`The figure rose sharply`) thường rõ ràng hơn.",
+    "Kiểm tra thì của `be` trước khi viết — đây là lỗi phổ biến nhất khi dùng bị động trong bài thi."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The data ___ collected over six months last year.",
+      "options": ["was", "were", "have", "are"],
+      "answerIndex": 1,
+      "explanation": "**Data** là số nhiều trong văn phong học thuật, quá khứ đơn bị động → **were collected**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The stadium is going to ___ next year.",
+      "options": ["rebuilt", "be rebuilt", "been rebuilt", "rebuild"],
+      "answerIndex": 1,
+      "explanation": "Sau **going to** dùng **be + V3**: **be rebuilt**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence leaves out an unimportant agent correctly?",
+      "options": [
+        "The problem was solved by people.",
+        "The problem was solved.",
+        "The problem was been solved.",
+        "The problem is solved by they."
+      ],
+      "answerIndex": 1,
+      "explanation": "Tác nhân chung chung (**people/they**) thì bỏ; **was been** là sai."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The equipment should ___ months ago.",
+      "options": ["have been serviced", "be serviced", "been serviced", "have serviced"],
+      "answerIndex": 0,
+      "explanation": "Bị động hoàn thành dạng động từ khuyết thiếu: **should have been + V3**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence uses 'born' correctly?",
+      "options": [
+        "I am born in Hanoi.",
+        "I was born in Hanoi.",
+        "I have born in Hanoi.",
+        "I were born in Hanoi."
+      ],
+      "answerIndex": 1,
+      "explanation": "**Born** khi nói về bản thân dùng quá khứ: **I was born**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The samples ___ (analyse) at a certified laboratory last week.",
+      "answers": ["were analysed", "were analyzed"],
+      "hint": "past simple passive",
+      "explanation": "Bị động quá khứ đơn: **were + V3**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The new rules ___ (introduce) next term.",
+      "answers": ["will be introduced"],
+      "hint": "will be + V3",
+      "explanation": "Bị động tương lai: **will be + V3**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "I don't like ___ (tell) what to do.",
+      "answers": ["being told"],
+      "hint": "being + V3",
+      "explanation": "Sau **like** dùng **being + V3**: **being told**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The results need ___ (verify) independently.",
+      "answers": ["to be verified"],
+      "hint": "to be + V3",
+      "explanation": "Bị động dạng động từ nguyên mẫu: **to be verified**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The beans ___ (wash) and then roasted at 200 degrees.",
+      "answers": ["are washed"],
+      "hint": "present simple passive",
+      "explanation": "Mô tả quy trình dùng bị động hiện tại đơn: **are washed**."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "adjective-order-and-ed-ing-adjectives",
+  "title": "Adjective order and -ed/-ing adjectives",
+  "titleVi": "Trật tự tính từ và tính từ đuôi -ed/-ing",
+  "level": "B1",
+  "topic": "adjectives-adverbs",
+  "bookUnits": [98, 99],
+  "bandFocus": "7.0",
+  "summary": "Xếp đúng thứ tự tính từ và chọn đúng -ed/-ing — hai lỗi nhỏ làm câu mất tự nhiên ngay.",
+  "whyItMatters": "Người đọc bản xứ không nghĩ về quy tắc trật tự tính từ, nhưng họ **cảm nhận** ngay khi nó sai: *a wooden beautiful desk* nghe lệch tai dù hiểu nghĩa. Tương tự, *I am boring* khiến bạn tự nhận mình nhàm chán. Hai lỗi này xuất hiện dày trong Writing Task 1 và Speaking, và sửa được chúng là cách rẻ nhất để câu văn nghe tự nhiên hơn.",
+  "sections": [
+    {
+      "heading": "The order native readers expect",
+      "body": [
+        "When several adjectives come before a noun, English orders them by category: **opinion → size → age → shape → colour → origin → material → purpose**. A useful example is *a beautiful large old rectangular brown Italian wooden dining table* — absurd in real use, but it shows the sequence.",
+        "In practice you rarely need more than two or three. The important contrast is **opinion before fact**: *a lovely old house*, never *an old lovely house*. Opinion adjectives (beautiful, useful, terrible, impressive) tell us what you think; the others tell us what the thing **is**.",
+        "A second habit matters just as much: putting the **most informative** adjective closest to the noun. *A steel bridge* is more useful than *a big bridge* when the material is the point."
+      ],
+      "table": {
+        "headers": ["Position", "Category", "Examples"],
+        "rows": [
+          ["1", "opinion", "impressive, useful, disappointing"],
+          ["2", "size", "large, tiny, cramped"],
+          ["3", "age", "old, recent, modern"],
+          ["4", "shape", "round, rectangular, narrow"],
+          ["5", "colour", "green, grey, brightly lit"],
+          ["6", "origin", "Vietnamese, urban, northern"],
+          ["7", "material", "wooden, steel, concrete"],
+          ["8", "purpose", "dining, office, storage"]
+        ]
+      }
+    },
+    {
+      "heading": "Two adjectives are usually enough",
+      "body": [
+        "Academic writing rewards precision, not accumulation. *A severe housing shortage* beats *a very bad, big, serious housing shortage*: one strong adjective plus one factual one carries the meaning.",
+        "When you use two, keep the order opinion + fact (*a chronic labour shortage*, *an ambitious national plan*) or fact + fact in the standard sequence (*a rapidly ageing rural population*).",
+        "Adjectives also follow linking verbs — **be, seem, look, feel, become, remain** — and come after indefinite pronouns: *something useful*, *nothing new*, *anyone interested*. This is where Vietnamese learners often insert the adjective before the pronoun: *useful something* is not English."
+      ],
+      "examples": [
+        { "right": "The city faces a severe shortage of affordable housing.", "wrong": "The city faces an affordable severe shortage of housing.", "note": "Opinion (*severe*) comes before the descriptive *affordable*… but here *affordable housing* is a fixed compound, so keep it together after the noun." },
+        { "right": "They live in a cramped old flat near the station.", "note": "size → age → noun." },
+        { "right": "Is there anything interesting in the report?", "wrong": "Is there interesting anything in the report?", "note": "Adjectives follow **-thing / -body / -one** pronouns." }
+      ]
+    },
+    {
+      "heading": "-ed or -ing? Who feels, who causes",
+      "body": [
+        "The rule is short: **-ed** describes how a person or thing **feels**; **-ing** describes the person or thing that **causes** the feeling. *The lecture was boring* (it caused boredom) → *I was bored* (I felt it).",
+        "This is why *I am boring* is a genuine insult: it means you make other people bored. Say *I am bored* if you feel uninterested.",
+        "The same pair runs through the whole academic vocabulary: *interested/interesting*, *concerned/concerning*, *alarmed/alarming*, *satisfied/satisfying*, *confused/confusing*, *exhausted/exhausting*."
+      ],
+      "table": {
+        "headers": ["-ed (how you feel)", " -ing (what causes it)", "Typical IELTS use"],
+        "rows": [
+          ["alarmed", "alarming", "an alarming rise in obesity"],
+          ["concerned", "concerning", "a concerning trend in youth unemployment"],
+          ["satisfied", "satisfying", "a satisfying solution to the housing problem"],
+          ["exhausted", "exhausting", "an exhausting commute"],
+          ["convinced", "convincing", "a convincing argument for regulation"]
+        ]
+      }
+    },
+    {
+      "heading": "Adjectives for groups and for emphasis",
+      "body": [
+        "**The + adjective** names a whole group: *the elderly*, *the unemployed*, *the wealthy*, *the homeless*. It takes a plural verb: *The unemployed **are** entitled to support.*",
+        "This structure is efficient in Task 2 because it lets you talk about a social category without repeating *people who are…*: *Governments must protect **the vulnerable** during energy transitions.*",
+        "Avoid turning it into a noun with a singular meaning. *The poor* is a group; one person is *a poor person*, not *a poor*."
+      ],
+      "examples": [
+        { "right": "The elderly are more vulnerable to extreme heat.", "wrong": "The elderly is more vulnerable to extreme heat.", "note": "**The + adjective** for a group takes a plural verb." },
+        { "right": "Rising rents have hit the young hardest.", "note": "A group reading — natural in IELTS conclusions." },
+        { "right": "A concerning number of graduates remain unemployed a year after leaving university.", "note": "**concerning** = worrying (the number causes concern)." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "They bought a wooden beautiful dining table.",
+      "right": "They bought a beautiful wooden dining table.",
+      "why": "Tính từ **opinion** (beautiful) luôn đứng trước tính từ **material** (wooden). Người Việt thường đặt từ mô tả vật chất gần danh từ vì tiếng Việt nói *bàn ăn bằng gỗ đẹp*."
+    },
+    {
+      "wrong": "I am boring because the film was too long.",
+      "right": "I am bored because the film was too long.",
+      "why": "**-ing** nói thứ gây ra cảm giác; **-ed** nói người cảm nhận. *I am boring* = tôi làm người khác chán."
+    },
+    {
+      "wrong": "The lecture was very bored.",
+      "right": "The lecture was very boring.",
+      "why": "Bài giảng không thể cảm thấy chán; nó gây ra sự chán. Vật/sự việc thường đi với `-ing`."
+    },
+    {
+      "wrong": "The government should support the poor people more.",
+      "right": "The government should support the poor more.",
+      "why": "**The + adjective** đã bao hàm *people*, nên *the poor people* là lặp. Nếu muốn nhấn mạnh, dùng *poor households* hoặc *people on low incomes*."
+    },
+    {
+      "wrong": "There is interesting something in the report.",
+      "right": "There is something interesting in the report.",
+      "why": "Tính từ đứng **sau** các đại từ *something, anything, nothing, everything*."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, chỉ dùng **hai** tính từ cho một danh từ: một tính từ đánh giá + một tính từ dữ liệu. *A marked upward trend*, *a modest annual increase* — vừa đủ để giám khảo thấy bạn kiểm soát được trật tự.",
+    "Dùng cặp `-ed/-ing` để mô tả phản ứng của xã hội, rất tự nhiên trong Task 2: *an **alarming** rise in screen time*, *a **concerning** level of youth debt*, *a **convincing** case for regulation*.",
+    "Khi mô tả một nhóm người, dùng `the + adjective` để câu gọn và học thuật: *the elderly*, *the unemployed*, *the vulnerable*. Nhớ động từ số nhiều: *The unemployed **are** …*",
+    "Đừng nhồi ba tính từ trước một danh từ. Một tính từ mạnh đúng chỗ (*a chronic shortage*) ghi điểm hơn ba tính từ yếu xếp hàng."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "They moved into a ___ house near the river.",
+      "options": ["lovely old brick", "old lovely brick", "brick lovely old", "old brick lovely"],
+      "answerIndex": 0,
+      "explanation": "Order is opinion (*lovely*) → age (*old*) → material (*brick*)."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The documentary was so ___ that half the class fell asleep.",
+      "options": ["bored", "boring", "bore", "boredom"],
+      "answerIndex": 1,
+      "explanation": "The documentary **causes** boredom → **-ing**. *Bored* describes the audience."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The elderly is more at risk during heatwaves.",
+        "The elderly are more at risk during heatwaves.",
+        "The elderlies are more at risk during heatwaves.",
+        "Elderly are more at risk during heatwaves."
+      ],
+      "answerIndex": 1,
+      "explanation": "**The + adjective** for a group takes a plural verb and has no plural -s."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "I was ___ to hear that the scholarship had been cut.",
+      "options": ["disappointing", "disappointed", "disappoint", "disappointment"],
+      "answerIndex": 1,
+      "explanation": "The speaker **feels** disappointment → **-ed**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Choose the natural order.",
+      "options": [
+        "a grey small concrete office",
+        "a small grey concrete office",
+        "a concrete small grey office",
+        "a small concrete grey office"
+      ],
+      "answerIndex": 1,
+      "explanation": "size → colour → material: *a small grey concrete office*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The rise in youth unemployment is deeply ___ (concern).",
+      "answers": ["concerning"],
+      "hint": "the rise causes concern",
+      "explanation": "The rise causes concern → **-ing**: *concerning*."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Many graduates feel ___ (frustrate) by the shortage of entry-level jobs.",
+      "answers": ["frustrated"],
+      "hint": "how people feel",
+      "explanation": "People feel the emotion → **-ed**: *frustrated*."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "They live in a ___ (beautiful / old / Italian) villa outside the city.",
+      "answers": ["beautiful old italian"],
+      "hint": "opinion → age → origin",
+      "explanation": "Opinion (*beautiful*) → age (*old*) → origin (*Italian*)."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Is there ___ (anything / useful) in the appendix?",
+      "answers": ["anything useful"],
+      "hint": "adjective after the pronoun",
+      "explanation": "Adjectives follow indefinite pronouns: **anything useful**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The charity provides legal advice to ___ (homeless).",
+      "answers": ["the homeless"],
+      "hint": "the + adjective for a group",
+      "explanation": "**The homeless** names the group; no noun is needed."
+    }
+  ]
+}

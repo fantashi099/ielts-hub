@@ -1,0 +1,213 @@
+{
+  "slug": "reduced-relative-clauses",
+  "title": "Reduced relative clauses",
+  "titleVi": "Rút gọn mệnh đề quan hệ",
+  "level": "C1",
+  "topic": "relative-clauses",
+  "bookUnits": [97],
+  "bandFocus": "8.0",
+  "summary": "Bỏ who/which/that + be để nén cả mệnh đề vào một cụm từ — dấu hiệu câu văn học thuật band 8.",
+  "whyItMatters": "Ở band 7.0 bạn viết đúng mệnh đề quan hệ; ở band 8.0 bạn biết **nén** nó. Giám khảo gọi đó là *complex noun phrases*: *policies **aimed at** cutting emissions*, *households **earning** below the poverty line*. Dùng sai dạng `-ing`/`-ed` thì câu tối nghĩa ngay, nên đây là điểm ngữ pháp vừa ghi điểm vừa dễ mất điểm.",
+  "sections": [
+    {
+      "heading": "What reduction actually removes",
+      "body": [
+        "A reduced relative clause is a relative clause with the pronoun (**who, which, that**) and the verb **be** deleted, leaving a phrase that still describes the noun: *the policy **introduced** in 2019* means *the policy **that was introduced** in 2019*.",
+        "Academic English prefers this compression because it keeps the noun phrase tight and frees the main verb for your argument. *Students who are living in dormitories* becomes *students living in dormitories*: same meaning, fewer words, more published-journal rhythm.",
+        "Only two forms do most of the work: the **present participle (-ing)** when the original verb is active, and the **past participle (-ed / V3)** when it is passive."
+      ],
+      "examples": [
+        { "right": "The report examining air quality in Hanoi was published last week.", "wrong": "The report which examining air quality in Hanoi was published last week.", "note": "Active verb → **-ing**; never keep *which* and drop *be* at the same time." },
+        { "right": "Data collected by the census suggest a north–south divide.", "wrong": "Data collecting by the census suggest a north–south divide.", "note": "The data do not collect anything — passive meaning needs the past participle." },
+        { "right": "Cities facing severe congestion have started to charge drivers.", "note": "**facing** = which face — an active habit, so -ing is correct." }
+      ]
+    },
+    {
+      "heading": "The one condition: the pronoun must be the subject",
+      "body": [
+        "You can delete **who/which/that** only when it is the **subject** of the relative clause. If it is the object, the clause already has its own subject and the reduction collapses: *the book **which I bought*** cannot become *the book bought*.",
+        "The same restriction applies after prepositions. *The city **in which** she grew up* has no reduced form, because *which* is the object of **in**.",
+        "The table shows which clauses survive reduction and which must stay full."
+      ],
+      "table": {
+        "headers": ["Full relative clause", "Reduced form", "Why it works"],
+        "rows": [
+          ["workers who were made redundant", "workers made redundant", "passive → past participle"],
+          ["a report that examines air quality", "a report examining air quality", "active, present → -ing"],
+          ["a trend that has continued since 2010", "a trend continuing since 2010", "active → -ing carries the ongoing sense"],
+          ["the scheme, which was launched in 2022", "the scheme, launched in 2022", "non-defining passive reduction"],
+          ["the book which I bought", "no reduced form", "pronoun is the object, not the subject"]
+        ]
+      }
+    },
+    {
+      "heading": "Active or passive: choosing -ing or -ed",
+      "body": [
+        "The choice is meaning, not decoration. **-ing** presents the noun as the doer; the **past participle** presents it as the receiver. The classic pair *developing countries* / *developed countries* shows how much rides on one letter.",
+        "With transitive verbs both forms may exist and mean opposite things: *the company **employing** 200 staff* (it employs them) versus *the staff **employed** by the company* (they are employed).",
+        "Intransitive verbs normally take **-ing** only, because there is no object to receive the action: *the population **growing** fastest*, never *the population grown fastest*."
+      ],
+      "examples": [
+        { "right": "Families living in overcrowded housing report higher rates of stress.", "wrong": "Families lived in overcrowded housing report higher rates of stress.", "note": "The families are the ones doing the living — active, so **living**." },
+        { "right": "The taxes imposed on sugary drinks reduced consumption.", "wrong": "The taxes imposing on sugary drinks reduced consumption.", "note": "Taxes are imposed by the government — passive." },
+        { "right": "A government attempting to cut spending must explain its priorities.", "note": "**attempting** = which attempts; the government is the agent." }
+      ]
+    },
+    {
+      "heading": "Related pattern: first, only, superlative + to-infinitive",
+      "body": [
+        "When the noun is **the first, the last, the only, the next** or a superlative, the relative clause often reduces to a **to-infinitive**: *She was the first researcher **to question** the official figures* (= who questioned them).",
+        "This pattern works only when the noun is the **subject** of the verb. *The first report **that the committee published*** cannot become *the first report to publish*, because the report does not publish anything.",
+        "Used sparingly, it gives a formal, evaluative tone that suits conclusions and topic sentences."
+      ],
+      "examples": [
+        { "right": "Norway was the first country to tax carbon emissions at scale.", "note": "country = subject of *tax*." },
+        { "right": "This is the only study to compare all five regions.", "note": "Superlative-type frame + to-infinitive." },
+        { "right": "The first policy that the ministry approved was a subsidy for solar panels.", "wrong": "The first policy to approve was a subsidy for solar panels.", "note": "Here *policy* is the object of *approve*, so keep the full clause." }
+      ]
+    },
+    {
+      "heading": "Where reduction earns marks in IELTS",
+      "body": [
+        "In Task 2, reduced clauses let you define a group inside a noun phrase and keep the finite verb for your claim: *Policies **aimed at reducing car use** often penalise the poorest commuters.*",
+        "In Task 1, they attach data to its category economically: *Households **earning above £50,000** spent proportionally more on transport.*",
+        "Do not stack reductions. One reduced clause per noun phrase is the readable limit; beyond that, restore a full relative clause or split the sentence. Dense is not the same as complex."
+      ],
+      "examples": [
+        { "right": "Residents affected by the new flight path have demanded compensation.", "note": "Compact subject; the main verb *have demanded* carries the argument." },
+        { "right": "The figure for graduates entering teaching fell sharply after 2015.", "note": "Task 1: the reduced clause identifies the category." },
+        { "right": "Companies pioneering green technology often struggle to scale up.", "wrong": "Companies pioneered green technology often struggle to scale up.", "note": "Active present meaning → **-ing**, not the past participle." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The survey conducting in 2022 showed a clear pattern.",
+      "right": "The survey conducted in 2022 showed a clear pattern.",
+      "why": "The survey does not conduct anything; it **was conducted**. Passive meaning always takes the past participle. Người Việt hay dịch *được tiến hành* thành `-ing` vì thấy động từ ở dạng chủ động trong tiếng Việt."
+    },
+    {
+      "wrong": "Students who living in rural areas travel further.",
+      "right": "Students living in rural areas travel further.",
+      "why": "Rút gọn là **bỏ** đại từ quan hệ, không phải giữ nó rồi bỏ *be*. Chỉ có một trong hai: *who live* hoặc *living*."
+    },
+    {
+      "wrong": "The number of cars using in the city centre has fallen.",
+      "right": "The number of cars used in the city centre has fallen.",
+      "why": "Cars are used, not using. Nếu danh từ là **đối tượng** của hành động thì phải dùng V3."
+    },
+    {
+      "wrong": "The data was collected from 200 students attended the university.",
+      "right": "The data was collected from 200 students attending the university.",
+      "why": "Hai động từ chia (was collected, attended) mà không có liên từ là lỗi câu. Câu thứ hai phải thành cụm rút gọn hoặc mệnh đề quan hệ đầy đủ."
+    },
+    {
+      "wrong": "The first policy to approve was a subsidy for solar panels.",
+      "right": "The first policy that the ministry approved was a subsidy for solar panels.",
+      "why": "`the first + to-infinitive` chỉ dùng khi danh từ **làm** hành động. Ở đây policy bị phê duyệt, nên phải giữ mệnh đề đầy đủ."
+    }
+  ],
+  "ieltsTips": [
+    "Mở đoạn Task 2 bằng một cụm rút gọn để định nghĩa nhóm đối tượng, rồi dùng mệnh đề đầy đủ cho luận điểm: *Households **renting privately** face far less security than those **living in social housing**. This insecurity, **exacerbated by short tenancies**, discourages them from investing in their neighbourhoods.*",
+    "Trong Task 1, gắn số liệu vào đúng nhóm bằng `-ing`/`-ed` thay vì viết *which*: *Graduates **employed in the public sector** earned roughly 15% less than those **working in finance**.* Câu ngắn hơn mà vẫn chính xác.",
+    "Kiểm tra dạng rút gọn bằng một câu hỏi: danh từ **làm** hành động hay **bị** hành động? Làm → `-ing`; bị → V3. Đây là bước duy nhất giúp bạn tránh lỗi *the survey conducting*.",
+    "Đừng rút gọn mệnh đề mà đại từ quan hệ là **tân ngữ**: *the book which I bought* không thể thành *the book bought*. Nếu nghi ngờ, giữ mệnh đề đầy đủ — đúng ngữ pháp luôn hơn một câu nén sai."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The students ___ in rural areas often face longer commutes.",
+      "options": ["living", "lived", "who living", "live"],
+      "answerIndex": 0,
+      "explanation": "Students are the ones who live there — active meaning → **living**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The report ___ by the environment ministry warns of severe water stress.",
+      "options": ["publishing", "published", "which publishing", "publishes"],
+      "answerIndex": 1,
+      "explanation": "The report is published by someone — passive → past participle **published**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence cannot be reduced?",
+      "options": [
+        "The workers who were dismissed last month are appealing.",
+        "The city which attracts the most tourists is Da Nang.",
+        "The book which I borrowed from the library was overdue.",
+        "The trend which has continued since 2010 worries economists."
+      ],
+      "answerIndex": 2,
+      "explanation": "*Which* is the **object** of *borrowed*, so the clause has its own subject (*I*) and cannot be reduced."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Choose the correct reduced form of: *The policies that were introduced in 2019 changed the market.*",
+      "options": [
+        "The policies introducing in 2019 changed the market.",
+        "The policies introduced in 2019 changed the market.",
+        "The policies which introduced in 2019 changed the market.",
+        "The policies introduce in 2019 changed the market."
+      ],
+      "answerIndex": 1,
+      "explanation": "Passive relative clause → past participle, with **that were** deleted."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence uses the to-infinitive reduction correctly?",
+      "options": [
+        "She was the first scientist to identify the virus.",
+        "She was the first scientist to the virus was identified.",
+        "The virus was the first to identify by her.",
+        "She was the first scientist identifying the virus first."
+      ],
+      "answerIndex": 0,
+      "explanation": "**the first + noun + to-infinitive** works when the noun is the subject of the verb — *she* identifies the virus."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "Households ___ (earn) above the national average spend more on leisure.",
+      "answers": ["earning"],
+      "hint": "active meaning",
+      "explanation": "Households earn money — active → **earning**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The data ___ (collect) between 2010 and 2020 show a steady decline.",
+      "answers": ["collected"],
+      "hint": "passive meaning",
+      "explanation": "Data are collected by researchers → past participle **collected**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The number of people ___ (work) from home has doubled since 2019.",
+      "answers": ["working"],
+      "hint": "people do the working",
+      "explanation": "People work from home — active → **working**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The tax ___ (impose) on single-use plastics was unpopular with manufacturers.",
+      "answers": ["imposed"],
+      "hint": "the tax is imposed",
+      "explanation": "The tax is imposed by the government → past participle **imposed**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Norway was the first country ___ (introduce) a carbon tax at national level.",
+      "answers": ["to introduce"],
+      "hint": "the first + to-infinitive",
+      "explanation": "**the first country** is the subject of *introduce*, so the to-infinitive reduction is correct."
+    }
+  ]
+}

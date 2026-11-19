@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="IELTS Hub">
+  <rect width="64" height="64" rx="14" fill="#1d4ed8"/>
+  <path d="M18 43V21h9.5c6.4 0 10.5 3.4 10.5 9.1 0 5.8-4.1 9.3-10.6 9.3h-4.1V43H18Zm5.3-8.2h3.9c3 0 4.9-1.9 4.9-4.7 0-2.8-1.9-4.6-4.9-4.6h-3.9v9.3Z" fill="#ffffff" opacity="0.95"/>
+  <circle cx="45" cy="24" r="4.2" fill="#fbbf24"/>
+</svg>

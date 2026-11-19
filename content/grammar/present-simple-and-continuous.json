@@ -1,0 +1,228 @@
+{
+  "slug": "present-simple-and-continuous",
+  "title": "Present simple and present continuous",
+  "titleVi": "Thì hiện tại đơn và hiện tại tiếp diễn",
+  "level": "B1",
+  "topic": "tenses",
+  "bookUnits": [1, 2, 3, 4],
+  "bandFocus": "7.0",
+  "summary": "Phân biệt thói quen, sự thật với hành động đang diễn ra — nền tảng để mô tả số liệu và xu hướng trong Task 1.",
+  "whyItMatters": "Hai thì này xuất hiện trong gần như mọi câu bạn viết. Trong Writing Task 1, bạn cần `present simple` cho số liệu cố định và quy luật, `present continuous` cho xu hướng đang tiếp diễn; trong Task 2, `present simple` là thì mặc định cho quan điểm và bằng chứng chung. Nhầm lẫn hai thì khiến câu văn nghe 'lơ lửng' và làm giảm điểm Grammatical Range & Accuracy.",
+  "sections": [
+    {
+      "heading": "Present simple: facts, habits and timetables",
+      "body": [
+        "Use the present simple (**I work / she works**) for things that are generally true, for habits and routines, and for timetables that repeat on a fixed schedule.",
+        "The form is simple but the third person singular is where most marks are lost: add **-s** or **-es** (*the report shows*, *the city spends*), and use **does/doesn't** in questions and negatives.",
+        "Because the present simple describes permanent or repeated situations, it is the natural tense for definitions, general claims and stable statistics — the backbone of academic writing."
+      ],
+      "examples": [
+        { "right": "The survey shows that 62% of graduates prefer hybrid work.", "note": "A finding that is generally true — present simple." },
+        { "right": "The train to Hue leaves at 6.40 every morning.", "note": "Timetables use the present simple, not the continuous." },
+        { "right": "Most households in the city recycle paper at least once a week.", "note": "Repeated habit with a frequency expression." },
+        { "right": "Does the policy apply to part-time employees?", "wrong": "Does the policy applies to part-time employees?", "note": "After **does**, the main verb stays in the base form." }
+      ]
+    },
+    {
+      "heading": "Present continuous: in progress, temporary, changing",
+      "body": [
+        "Use the present continuous (**am/is/are + -ing**) for an action happening around now, for a temporary situation, and for a change that is developing at the moment of speaking.",
+        "The key idea is *limited duration*: the action has started and will stop. Compare *I live in Hanoi* (my home) with *I'm living in Hanoi this term* (temporary).",
+        "This is also the tense of trends. When a figure is still moving, IELTS examiners expect *is rising*, *are increasingly choosing*, *is falling* rather than a bare past form."
+      ],
+      "examples": [
+        { "right": "The government is investing heavily in solar power this year.", "note": "A temporary, ongoing programme." },
+        { "right": "More and more students are choosing online courses.", "note": "A trend in progress — *are choosing*." },
+        { "right": "Sorry, I can't talk — I'm marking essays right now.", "note": "Action happening at this moment." },
+        { "right": "The number of electric vehicles is rising sharply.", "wrong": "The number of electric vehicles rises sharply in 2024.", "note": "A live trend needs the continuous; the simple form reads as a fixed rule." }
+      ]
+    },
+    {
+      "heading": "Stative verbs: the verbs that refuse -ing",
+      "body": [
+        "Some verbs describe states rather than actions: *know, believe, understand, own, belong, contain, prefer, need, seem*. They normally stay in the simple form even when the meaning is 'now'.",
+        "A few verbs have two meanings. With a state meaning they are simple (*I have a car*, *I think it is right*); with an activity meaning they can be continuous (*I'm having lunch*, *I'm thinking about moving*).",
+        "Watch *be*: it is almost never continuous in academic writing. *The results are significant* — never *are being significant*."
+      ],
+      "table": {
+        "headers": ["Verb group", "Simple form", "Continuous form (different meaning)"],
+        "rows": [
+          ["think = believe", "I think the policy is fair.", "I'm thinking about the proposal. (= considering)"],
+          ["have = possess", "The city has three hospitals.", "The city is having problems. (= experiencing)"],
+          ["see = understand", "I see your point.", "I'm seeing a specialist. (= meeting)"],
+          ["taste / smell = quality", "The water tastes salty.", "She's tasting the soup. (= sampling)"]
+        ]
+      }
+    },
+    {
+      "heading": "Frequency adverbs and where they go",
+      "body": [
+        "Adverbs of frequency (*always, usually, often, sometimes, rarely, never*) sit before the main verb but after *be*. Getting this wrong is a small error that native readers notice immediately.",
+        "Longer expressions such as *every week*, *once a month*, *from time to time* go at the end of the clause, and they combine naturally with the present simple."
+      ],
+      "table": {
+        "headers": ["Adverb", "Position", "Example"],
+        "rows": [
+          ["always / never", "before the main verb", "Commuters always complain about delays."],
+          ["usually / often", "after the verb be", "The data is often incomplete."],
+          ["sometimes / rarely", "either position in speech", "Sometimes the council ignores these reports."],
+          ["every day / once a week", "end of the clause", "The clinic opens every day at seven."]
+        ]
+      }
+    },
+    {
+      "heading": "Trends and arrangements: the IELTS payoff",
+      "body": [
+        "In Task 1 you will describe a chart whose final year is the present or the near future. Use the present continuous for the movement that is still happening, and the present simple for the stable facts around it.",
+        "The present continuous also expresses a fixed personal arrangement in the near future, usually with a time expression: *I'm meeting my supervisor on Friday*. This is a common way to sound natural in Speaking Part 1 and 3.",
+        "Never mix the two forms inside one clause (*is rise*, *are increases*). Pick the auxiliary and the participle, then check both."
+      ],
+      "examples": [
+        { "right": "While car ownership is falling, cycling is becoming the dominant mode in the city centre.", "note": "Two live trends in parallel." },
+        { "right": "The chart shows that households spend 30% of income on rent.", "note": "A stable fact framing the chart." },
+        { "right": "I'm sitting the IELTS test next Saturday.", "note": "A fixed arrangement with a time expression." },
+        { "right": "Air quality is deteriorating in most industrial zones.", "wrong": "Air quality deteriorates in most industrial zones at the moment.", "note": "**at the moment** forces the continuous." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I am knowing the answer.",
+      "right": "I know the answer.",
+      "why": "`know` là động từ trạng thái (stative verb), không dùng dạng `-ing`. Người Việt hay dịch 'tôi đang biết' nên thêm `am`, nhưng tiếng Anh coi đây là trạng thái không có tiến trình."
+    },
+    {
+      "wrong": "She work for a logistics company in Hai Phong.",
+      "right": "She works for a logistics company in Hai Phong.",
+      "why": "Thiếu `-s` ở ngôi thứ ba số ít. Tiếng Việt không chia động từ theo chủ ngữ nên lỗi này rất phổ biến khi viết nhanh."
+    },
+    {
+      "wrong": "I am living in Da Nang for five years.",
+      "right": "I have lived in Da Nang for five years.",
+      "why": "`for five years` là khoảng thời gian kéo dài đến hiện tại, cần `present perfect`, không phải `present continuous`. Dịch 'tôi đang sống' từ tiếng Việt là nguyên nhân."
+    },
+    {
+      "wrong": "The train is leaving at 6.40 every morning.",
+      "right": "The train leaves at 6.40 every morning.",
+      "why": "Lịch trình cố định dùng `present simple`. `Present continuous` chỉ dùng cho sắp xếp cá nhân có thời điểm cụ thể, không dùng cho timetable."
+    },
+    {
+      "wrong": "He always is late for lectures.",
+      "right": "He is always late for lectures.",
+      "why": "Trạng từ tần suất đứng sau động từ `be`. Trật tự từ sai là lỗi nhỏ nhưng xuất hiện dày đặc trong bài viết band 6.5."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, dùng `present simple` cho câu mở đầu mô tả biểu đồ (*The chart shows...*) và cho số liệu ổn định, dùng `present continuous` cho xu hướng còn tiếp diễn.",
+    "Trong Task 2, giữ `present simple` làm thì chính cho luận điểm và bằng chứng chung; chỉ chuyển thì khi thật sự nói về quá khứ hoặc tương lai.",
+    "Học thuộc nhóm stative verbs (`know`, `believe`, `own`, `contain`, `prefer`) và tự kiểm tra: nếu động từ không diễn tả hành động có thể bắt đầu và kết thúc, đừng thêm `-ing`.",
+    "Khi mô tả xu hướng, ưu tiên `is becoming`, `are increasingly choosing`, `is falling` — những cụm này vừa đúng thì vừa tạo giọng học thuật tự nhiên."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Which sentence uses the present simple correctly for a fixed timetable?",
+      "options": [
+        "The train leaves at 7.15 every morning.",
+        "The train is leaving at 7.15 every morning.",
+        "The train leave at 7.15 every morning.",
+        "The train has left at 7.15 every morning."
+      ],
+      "answerIndex": 0,
+      "explanation": "Lịch trình cố định (timetable) dùng **present simple**, không dùng **present continuous**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "I am preferring the second option.",
+        "I prefer the second option.",
+        "I am prefer the second option.",
+        "I preferring the second option."
+      ],
+      "answerIndex": 1,
+      "explanation": "**prefer** là stative verb, luôn dùng dạng đơn. Không thêm **-ing**, không thêm **am** trước động từ nguyên mẫu."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence describes a temporary situation?",
+      "options": [
+        "She lives with her parents in Hue.",
+        "She is living with her parents while her flat is being renovated.",
+        "She has lived with her parents in Hue.",
+        "She lived with her parents in Hue."
+      ],
+      "answerIndex": 1,
+      "explanation": "**is living** + mệnh đề thời gian tạm thời cho thấy tình huống có giới hạn, sẽ kết thúc."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence puts the adverb of frequency in the correct position?",
+      "options": [
+        "He always is late for lectures.",
+        "He is always late for lectures.",
+        "He is late always for lectures.",
+        "Always he is late for lectures."
+      ],
+      "answerIndex": 1,
+      "explanation": "Trạng từ tần suất đứng **sau** động từ **be**: *is always late*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence best reports a trend that is still developing?",
+      "options": [
+        "The number of cyclists rose steadily.",
+        "The number of cyclists is rising steadily.",
+        "The number of cyclists rises steadily in 2019.",
+        "The number of cyclists has been risen steadily."
+      ],
+      "answerIndex": 1,
+      "explanation": "Xu hướng đang tiếp diễn cần **present continuous**. Đáp án D sai vì **rise** là nội động từ, không có dạng bị động."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The museum ___ (open) at 9 a.m. every day except Monday.",
+      "answers": ["opens"],
+      "hint": "every day",
+      "explanation": "**every day** chỉ thói quen lặp lại → present simple, thêm **-s** vì chủ ngữ số ít."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Be quiet — the children ___ (take) their final test right now.",
+      "answers": ["are taking"],
+      "hint": "right now",
+      "explanation": "**right now** chỉ hành động đang diễn ra tại thời điểm nói → present continuous."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "These days more and more graduates ___ (apply) for remote jobs.",
+      "answers": ["are applying"],
+      "hint": "These days + xu hướng",
+      "explanation": "**These days** + xu hướng đang thay đổi → present continuous số nhiều."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Water ___ (boil) at 100 degrees Celsius.",
+      "answers": ["boils"],
+      "hint": "quy luật tự nhiên",
+      "explanation": "Chân lý khoa học dùng present simple; chủ ngữ không đếm được số ít nên thêm **-s**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "My sister ___ (stay) with us this week because her flat is being painted.",
+      "answers": ["is staying"],
+      "hint": "this week",
+      "explanation": "**this week** là khoảng thời gian tạm thời → present continuous."
+    }
+  ]
+}

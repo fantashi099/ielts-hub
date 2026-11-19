@@ -1,0 +1,215 @@
+{
+  "slug": "defining-relative-clauses",
+  "title": "Defining relative clauses",
+  "titleVi": "Mệnh đề quan hệ xác định",
+  "level": "B2",
+  "topic": "relative-clauses",
+  "bookUnits": [92, 93],
+  "bandFocus": "7.5",
+  "summary": "who/which/that, khi nào bỏ được đại từ quan hệ, và cách rút gọn mệnh đề thành cụm -ing/-ed.",
+  "whyItMatters": "Mệnh đề quan hệ là công cụ chính để viết câu phức — điều kiện bắt buộc để đạt band 7 ở tiêu chí Grammatical Range. Nhưng người Việt thường mắc hai lỗi hệ thống: dùng *which* cho người và giữ lại đại từ tân ngữ (*the book which I bought it*). Cả hai đều rất dễ thấy và xuất hiện ở mọi đoạn văn.",
+  "sections": [
+    {
+      "heading": "who, which, that: the basic choice",
+      "body": [
+        "**who** for people, **which** for things, **that** for both — but *that* only in **defining** clauses (the ones without commas). *The scientist who discovered penicillin...*, *The policy which was introduced in 2015...*",
+        "The relative pronoun replaces a noun that would otherwise be repeated: *the student who won the prize* (not *the student who he won*). This double-subject error is the most common relative-clause mistake among Vietnamese speakers.",
+        "**whose** shows possession and works for people and things: *a researcher whose work changed the field*, *a city whose population is falling*."
+      ],
+      "table": {
+        "headers": ["Referring to", "Pronoun", "Example"],
+        "rows": [
+          ["person (subject)", "who / that", "The tutor who marked my essay was strict."],
+          ["person (object)", "who / whom / that / —", "The tutor (who) I asked was helpful."],
+          ["thing (subject)", "which / that", "The scheme that failed was expensive."],
+          ["thing (object)", "which / that / —", "The scheme (which) they cancelled was costly."],
+          ["possession", "whose", "Students whose fees are unpaid cannot enrol."],
+          ["place", "where", "The district where I grew up has changed."],
+          ["time", "when", "The year when the ban started was 2019."],
+          ["reason", "why", "The reason why people move is housing costs."]
+        ]
+      }
+    },
+    {
+      "heading": "When you can drop the pronoun",
+      "body": [
+        "If the relative pronoun is the **object** of the clause, it can be left out: *the book (which) I bought*, *the man (who) we met*, *the results (that) they published*.",
+        "If it is the **subject**, it cannot be dropped: *the man who lives next door* — *the man lives next door* would create a second main verb. Vietnamese allows *người đàn ông sống cạnh nhà* with nothing in between, which is exactly why learners delete the subject pronoun.",
+        "The test: look at what follows the noun. If a verb follows immediately, you need a subject pronoun. If a subject follows, the pronoun is optional."
+      ],
+      "examples": [
+        { "right": "The article I read yesterday was convincing.", "note": "Object pronoun omitted — correct and natural." },
+        { "right": "The article which appeared yesterday was convincing.", "wrong": "The article appeared yesterday was convincing.", "note": "Subject pronoun is obligatory." },
+        { "right": "The people who were surveyed came from five provinces.", "wrong": "The people were surveyed came from five provinces.", "note": "Bị động: *who were surveyed* — không bỏ được *who*." }
+      ]
+    },
+    {
+      "heading": "Prepositions and whom",
+      "body": [
+        "In formal writing the preposition can move to the front with **whom**: *the official to whom the report was addressed*, *the method by which the data were analysed*. This is the register of academic papers.",
+        "In neutral writing, keep the preposition at the end and use *who/that* or nothing: *the official who the report was addressed to*, *the method that the data were analysed by*. Both are grammatical; mixing them (*the official to who...*) is not.",
+        "**whom** is obligatory only after a preposition in formal style. Elsewhere it is optional and increasingly rare: *the candidate whom we interviewed* is correct but *who* is also accepted."
+      ],
+      "table": {
+        "headers": ["Formal", "Neutral"],
+        "rows": [
+          ["the person to whom I spoke", "the person I spoke to"],
+          ["the report on which the decision was based", "the report the decision was based on"],
+          ["the extent to which costs matter", "how far costs matter"],
+          ["the committee by whom the rules were drafted", "the committee that drafted the rules"]
+        ]
+      }
+    },
+    {
+      "heading": "where, when, why — and the traps",
+      "body": [
+        "**where** replaces a place expression: *the city where I was born* (= *in which*). It cannot replace an object: *the city which I visited* — not *the city where I visited*.",
+        "**when** replaces a time expression: *the decade when manufacturing collapsed*. **why** follows *reason*: *the reason why* or simply *the reason* + clause.",
+        "Note the fixed pairs: *the day when*, *the year when*, *the moment when*, *the place where*, *the reason why*. Using *that* in place of *where* is acceptable in informal English (*the place that I grew up*) but *where* is clearer."
+      ],
+      "examples": [
+        { "right": "This is the town where my parents met.", "note": "*where* = *in which*." },
+        { "right": "This is the town which I visited last summer.", "wrong": "This is the town where I visited last summer.", "note": "*visit* cần tân ngữ, nên dùng **which**, không dùng *where*." },
+        { "right": "The reason why enrolment fell is unclear.", "note": "**the reason why**." }
+      ]
+    },
+    {
+      "heading": "Reducing the clause: -ing, -ed and to-infinitive",
+      "body": [
+        "Defining clauses can usually be shortened, and the short version sounds more academic. Active clause → **-ing**: *students who study abroad* → *students studying abroad*. Passive clause → **-ed**: *the data which were collected in 2020* → *the data collected in 2020*.",
+        "Purpose and necessity clauses reduce to the infinitive: *the first person who arrived* → *the first person to arrive*; *there is nothing that we can do* → *there is nothing to do*.",
+        "These reductions are what make band-8 sentences compact. Compare: *The survey, which was conducted in 2021, involved 400 households* with *The 2021 survey involved 400 households* — the second is shorter and stronger, and the shortening comes from exactly this machinery."
+      ],
+      "table": {
+        "headers": ["Full clause", "Reduced"],
+        "rows": [
+          ["people who live in cities", "people living in cities"],
+          ["the workers who were made redundant", "the workers made redundant"],
+          ["a law that prohibits smoking", "a law prohibiting smoking"],
+          ["the first country that banned the practice", "the first country to ban the practice"],
+          ["the only option that remains", "the only option remaining"]
+        ]
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The man which lives next door is a doctor.",
+      "right": "The man who lives next door is a doctor.",
+      "why": "Tiếng Việt dùng *người mà* cho cả người và vật, nên người học chọn *which*. Với người phải dùng **who** (hoặc *that* trong mệnh đề xác định)."
+    },
+    {
+      "wrong": "The book which I bought it was expensive.",
+      "right": "The book which I bought was expensive.",
+      "why": "Đại từ quan hệ **đã thay cho tân ngữ**, nên không lặp lại *it*. Đây là lỗi thừa tân ngữ điển hình của người Việt."
+    },
+    {
+      "wrong": "The research published last year was influential.",
+      "right": "The research which was published last year was influential.",
+      "why": "Câu gốc thực ra đúng nếu hiểu là mệnh đề rút gọn. Lỗi nằm ở chiều ngược lại: khi cần mệnh đề đầy đủ mà bỏ đại từ **chủ ngữ** — *The research was published last year was influential* mới là sai, vì thiếu chủ ngữ cho động từ thứ hai."
+    },
+    {
+      "wrong": "This is the city where I visited last summer.",
+      "right": "This is the city which I visited last summer.",
+      "why": "**where** thay cho cụm trạng ngữ chỉ nơi chốn (*in the city*), không thay cho tân ngữ. *Visit* cần tân ngữ nên phải dùng **which/that**."
+    },
+    {
+      "wrong": "The reason because people migrate is economic.",
+      "right": "The reason why people migrate is economic.",
+      "why": "Tiếng Việt *lý do vì* khiến người học dùng *because*. Trong mệnh đề quan hệ chỉ lý do, đại từ là **why** (hoặc bỏ hẳn: *the reason people migrate*)."
+    }
+  ],
+  "ieltsTips": [
+    "Rút gọn mệnh đề quan hệ để câu gọn và học thuật hơn: `students studying abroad`, `the data collected in 2020`.",
+    "Dùng `the extent to which`, `the degree to which`, `the way in which` — ba cụm Band 8 thay cho *how* trong câu phức.",
+    "Trong Task 1, tránh chuỗi mệnh đề quan hệ dài; chuyển sang cụm danh từ: `the 2020 figure` thay cho `the figure which was recorded in 2020`.",
+    "Kiểm tra mỗi mệnh đề quan hệ có đúng một chủ ngữ: nếu đại từ quan hệ là tân ngữ, không thêm *it/them*."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The scientist ___ discovered the vaccine received the prize.",
+      "options": ["which", "who", "whose", "where"],
+      "answerIndex": 1,
+      "explanation": "Chủ ngữ chỉ người → **who**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The report ___ was leaked to the press caused a scandal.",
+      "options": ["who", "whose", "which", "where"],
+      "answerIndex": 2,
+      "explanation": "Chủ ngữ chỉ vật → **which** (hoặc *that*)."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The students ___ fees are unpaid cannot sit the exam.",
+      "options": ["who", "which", "whose", "whom"],
+      "answerIndex": 2,
+      "explanation": "Sở hữu → **whose**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "This is the village ___ my grandparents were born.",
+      "options": ["which", "that", "where", "when"],
+      "answerIndex": 2,
+      "explanation": "Nơi chốn, động từ *be born* không cần tân ngữ → **where**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The film which I watched it was boring.",
+        "The film which I watched was boring.",
+        "The film who I watched was boring.",
+        "The film where I watched was boring."
+      ],
+      "answerIndex": 1,
+      "explanation": "Đại từ quan hệ thay tân ngữ nên không lặp *it*; vật dùng **which**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "The people ___ were interviewed came from five provinces.",
+      "answers": ["who", "that"],
+      "hint": "person + subject",
+      "explanation": "Chủ ngữ chỉ người → **who** hoặc **that**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The data ___ (collect) in 2020 showed a clear decline.",
+      "answers": ["collected"],
+      "hint": "reduced passive clause",
+      "explanation": "Mệnh đề bị động rút gọn: *the data collected in 2020*."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "She was the first person ___ (arrive) at the venue.",
+      "answers": ["to arrive"],
+      "hint": "the first + ?",
+      "explanation": "**the first/last/only + to-infinitive**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The reason ___ so many graduates emigrate is unclear.",
+      "answers": ["why"],
+      "hint": "reason + ?",
+      "explanation": "**the reason why**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "This is the method ___ which the samples were tested.",
+      "answers": ["by"],
+      "hint": "preposition + which",
+      "explanation": "Cấu trúc trang trọng **by which** (tested by a method)."
+    }
+  ]
+}

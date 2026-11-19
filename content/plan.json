@@ -1,0 +1,323 @@
+{
+  "title": "Lộ trình 12 tuần lên band 7.5–8.0",
+  "intro": "Lộ trình này giả định bạn có khoảng 7–9 giờ mỗi tuần và đang ở trình độ B1–B2. Mỗi tuần có ba việc: sửa một nhóm lỗi ngữ pháp, nạp một nhóm từ vựng theo chủ đề, và viết ít nhất một bài hoàn chỉnh. Đừng học hết lý thuyết rồi mới viết — viết ngay từ tuần 1, vì lỗi của bạn mới là giáo trình đúng nhất.",
+  "weeks": [
+    {
+      "week": 1,
+      "phase": "Giai đoạn 1 — Nền tảng",
+      "theme": "Thì hiện tại và cách mô tả một xu hướng",
+      "goals": [
+        "Dùng đúng hiện tại đơn và tiếp diễn khi mô tả số liệu",
+        "Viết được câu mở bài Task 1 đúng chuẩn, không chép lại đề"
+      ],
+      "grammar": [
+        "present-simple-and-continuous",
+        "past-simple-and-past-continuous"
+      ],
+      "vocabulary": [
+        "education-core",
+        "describing-trends"
+      ],
+      "writing": [
+        "Đọc phần 1–2 của /writing/task1, sau đó viết lại bài mẫu t1-line-commuters bằng lời của bạn"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 2,
+      "phase": "Giai đoạn 1 — Nền tảng",
+      "theme": "Quá khứ, hiện tại hoàn thành và thói quen cũ",
+      "goals": [
+        "Phân biệt quá khứ đơn với hiện tại hoàn thành trong câu nêu thay đổi",
+        "Kể lại một xu hướng dài hạn bằng 3 thì khác nhau"
+      ],
+      "grammar": [
+        "present-perfect-vs-past-simple",
+        "present-perfect-continuous",
+        "past-perfect-and-past-perfect-continuous",
+        "used-to-and-past-habits"
+      ],
+      "vocabulary": [
+        "environment-core",
+        "technology-core"
+      ],
+      "writing": [
+        "Viết overview cho 5 đề Task 1 trong /writing/prompts, mỗi overview 2 câu"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 3,
+      "phase": "Giai đoạn 1 — Nền tảng",
+      "theme": "Mạo từ và danh từ — lỗi âm thầm chặn band 6",
+      "goals": [
+        "Sửa lỗi thiếu a/an/the trong bài viết của chính bạn",
+        "Dùng đúng danh từ không đếm được khi nói về số lượng"
+      ],
+      "grammar": [
+        "articles-a-an-the",
+        "countable-uncountable-and-quantifiers",
+        "singular-plural-and-compound-nouns",
+        "articles-advanced-zero-article"
+      ],
+      "vocabulary": [
+        "health-core",
+        "society-core"
+      ],
+      "writing": [
+        "Viết trọn 2 bài Task 1 (line graph + bar chart) trong 20 phút mỗi bài, tự chấm theo Task Achievement"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 4,
+      "phase": "Giai đoạn 1 — Nền tảng",
+      "theme": "Tương lai và câu điều kiện",
+      "goals": [
+        "Viết câu dự báo bằng will, be likely to, is projected to",
+        "Dùng điều kiện loại 1–3 để triển khai giải pháp trong Task 2"
+      ],
+      "grammar": [
+        "future-forms-will-and-going-to",
+        "zero-and-first-conditional",
+        "second-conditional-and-wish",
+        "third-conditional-and-mixed"
+      ],
+      "vocabulary": [
+        "economy-work-core",
+        "government-core"
+      ],
+      "writing": [
+        "Viết bài Task 2 dạng opinion đầu tiên theo khung 4 đoạn",
+        "Đọc kỹ /writing/band-descriptors và tự cho điểm bài vừa viết"
+      ],
+      "hours": 8
+    },
+    {
+      "week": 5,
+      "phase": "Giai đoạn 2 — Chính xác",
+      "theme": "Bị động và văn phong học thuật",
+      "goals": [
+        "Chuyển câu chủ động sang bị động khi mô tả quy trình",
+        "Dùng bị động khách quan để nêu ý kiến mà không lặp 'I think'"
+      ],
+      "grammar": [
+        "passive-voice-forms",
+        "passive-in-academic-writing",
+        "impersonal-and-causative-passive"
+      ],
+      "vocabulary": [
+        "globalisation-core",
+        "academic-verbs-core"
+      ],
+      "writing": [
+        "Viết bài Task 1 process và bài Task 1 map trong /writing/task1"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 6,
+      "phase": "Giai đoạn 2 — Chính xác",
+      "theme": "Mệnh đề quan hệ và câu ghép dài",
+      "goals": [
+        "Gộp 2–3 câu đơn thành một câu có mệnh đề quan hệ mà không sai nghĩa",
+        "Dùng mệnh đề không xác định để thêm thông tin phụ"
+      ],
+      "grammar": [
+        "defining-relative-clauses",
+        "non-defining-relative-clauses",
+        "reduced-relative-clauses",
+        "reported-speech-statements",
+        "reported-questions-and-commands"
+      ],
+      "vocabulary": [
+        "media-advertising-core",
+        "culture-travel-core"
+      ],
+      "writing": [
+        "Viết bài Task 2 dạng discussion: trình bày cả hai quan điểm rồi nêu ý kiến"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 7,
+      "phase": "Giai đoạn 2 — Chính xác",
+      "theme": "Modal và mức độ chắc chắn",
+      "goals": [
+        "Hedging đúng chỗ: may, might, tend to, is likely to",
+        "Phân biệt must/might/can't khi suy đoán"
+      ],
+      "grammar": [
+        "modals-ability-and-possibility",
+        "modals-obligation-and-advice",
+        "modals-deduction-and-speculation",
+        "modal-perfects-past-speculation"
+      ],
+      "vocabulary": [
+        "urbanisation-core",
+        "family-children-core"
+      ],
+      "writing": [
+        "Viết Task 2 problem-solution, đánh dấu mọi câu hedging trong bài"
+      ],
+      "hours": 7
+    },
+    {
+      "week": 8,
+      "phase": "Giai đoạn 2 — Chính xác",
+      "theme": "So sánh, lượng từ và quy chiếu",
+      "goals": [
+        "So sánh số liệu bằng 5 cấu trúc khác nhau",
+        "Dùng this, such, the former để tránh lặp danh từ"
+      ],
+      "grammar": [
+        "comparatives-and-much-far",
+        "superlatives-and-so-such",
+        "enough-too-quite-rather",
+        "determiners-all-most-none",
+        "referencing-this-that-such"
+      ],
+      "vocabulary": [
+        "crime-law-core",
+        "science-research-core"
+      ],
+      "writing": [
+        "Viết Task 1 dạng pie chart + table, phân biệt tỉ lệ với tổng số tiền"
+      ],
+      "hours": 8
+    },
+    {
+      "week": 9,
+      "phase": "Giai đoạn 3 — Band 8",
+      "theme": "Từ nối và mạch lạc",
+      "goals": [
+        "Nối ý bằng liên từ phụ thuộc thay vì Firstly/Secondly",
+        "Kiểm tra Coherence & Cohesion trên một bài đã viết"
+      ],
+      "grammar": [
+        "contrast-linkers",
+        "cause-effect-and-purpose-linkers",
+        "condition-and-concession-linkers",
+        "still-yet-already-anymore"
+      ],
+      "vocabulary": [
+        "linking-signposting",
+        "collocations-essay"
+      ],
+      "writing": [
+        "Viết Task 2 problem-solution thứ hai, tự chấm theo 4 tiêu chí và ghi 3 lỗi lặp lại"
+      ],
+      "hours": 8
+    },
+    {
+      "week": 10,
+      "phase": "Giai đoạn 3 — Band 8",
+      "theme": "Trật tự từ, nhấn mạnh và đảo ngữ",
+      "goals": [
+        "Dùng câu chẻ và đảo ngữ để nhấn mạnh đúng chỗ",
+        "Đặt trạng từ đúng vị trí trong câu dài"
+      ],
+      "grammar": [
+        "word-order-verb-object-place-time",
+        "adverbs-and-adverb-placement",
+        "emphasis-and-inversion",
+        "participle-clauses"
+      ],
+      "vocabulary": [
+        "academic-adjectives-core",
+        "idioms-formal-core"
+      ],
+      "writing": [
+        "Viết Task 2 dạng two-part question, dùng ít nhất 2 câu chẻ và 1 câu đảo ngữ"
+      ],
+      "hours": 8
+    },
+    {
+      "week": 11,
+      "phase": "Giai đoạn 3 — Band 8",
+      "theme": "Giới từ, cụm động từ và mẫu động từ",
+      "goals": [
+        "Sửa các cặp giới từ đi kèm hay sai",
+        "Dùng collocation chuẩn thay vì ghép từ tự do"
+      ],
+      "grammar": [
+        "dependent-prepositions",
+        "phrasal-verbs-for-ielts",
+        "gerund-vs-infinitive",
+        "verb-object-infinitive-patterns",
+        "adjective-and-preposition-patterns",
+        "prefer-would-rather-had-better"
+      ],
+      "vocabulary": [
+        "describing-trends",
+        "academic-verbs-core"
+      ],
+      "writing": [
+        "Viết đủ 2 bài Task 1 + 1 bài Task 2 trong 80 phút, đúng giờ như thi thật"
+      ],
+      "hours": 8
+    },
+    {
+      "week": 12,
+      "phase": "Giai đoạn 3 — Band 8",
+      "theme": "Tổng ôn và thi thử",
+      "goals": [
+        "Làm trọn một đề Writing trong 60 phút không tài liệu",
+        "Rà lại toàn bộ lỗi đã ghi trong 11 tuần"
+      ],
+      "grammar": [
+        "future-perfect-and-future-continuous",
+        "adjective-order-and-ed-ing-adjectives",
+        "prepositions-of-time-and-place"
+      ],
+      "vocabulary": [
+        "collocations-essay",
+        "linking-signposting"
+      ],
+      "writing": [
+        "Viết Task 1 + Task 2 trong 60 phút, sau đó tự chấm và so với /writing/band-descriptors"
+      ],
+      "hours": 9
+    }
+  ],
+  "dailyRoutine": [
+    {
+      "block": "Ôn từ vựng",
+      "minutes": 15,
+      "detail": "Mở bộ từ của tuần, chạy chế độ Flashcard 10 phút, sau đó viết lại 5 từ khó vào sổ tay kèm một câu của riêng bạn."
+    },
+    {
+      "block": "Ngữ pháp + bài tập",
+      "minutes": 30,
+      "detail": "Học một bài ngữ pháp trong lộ trình, làm hết bài tập, ghi lại những câu sai vào một trang 'lỗi của tôi'."
+    },
+    {
+      "block": "Writing",
+      "minutes": 30,
+      "detail": "Ngày lẻ viết một đoạn (mở bài, overview hoặc một body paragraph). Ngày chẵn đọc một bài mẫu và chép lại những câu hay."
+    },
+    {
+      "block": "Rà lỗi",
+      "minutes": 15,
+      "detail": "Đọc lại trang 'lỗi của tôi', thử viết lại 3 câu sai cho đúng. Cuối tuần đếm xem lỗi nào lặp nhiều nhất."
+    }
+  ],
+  "milestones": [
+    {
+      "week": 3,
+      "check": "Viết được một bài Task 1 đủ 4 đoạn trong 20 phút, có overview 2 câu và không chép lại đề."
+    },
+    {
+      "week": 6,
+      "check": "Viết được một bài Task 2 đủ 4 đoạn, mỗi đoạn thân bài có ý → giải thích → ví dụ, không quá 3 lỗi mạo từ."
+    },
+    {
+      "week": 9,
+      "check": "Tự chấm bài của mình theo 4 tiêu chí và chỉ ra được 3 lỗi khiến bài dừng ở band 6.5."
+    },
+    {
+      "week": 12,
+      "check": "Hoàn thành trọn một đề Writing trong 60 phút; bài viết đạt ít nhất 7.0 khi tự chấm bằng band descriptors."
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "slug": "task1",
+  "title": "Writing Task 1 — the band 8 data report",
+  "titleVi": "Writing Task 1 — báo cáo dữ liệu band 8",
+  "subtitle": "Bốn đoạn, một overview đắt giá và năm bài mẫu band 7.5–8.0 được chú thích từng câu: đọc hình, chọn số, viết đúng.",
+  "sections": [
+    {
+      "heading": "What the examiner actually rewards",
+      "intro": "Task 1 carries one third of your Writing mark and should take no more than twenty minutes. Before you learn a single phrase, know exactly what the four criteria mean for a report on a chart.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "**Task Achievement** asks whether you selected the *key* features and reported them accurately, with a clear overview. **Coherence and Cohesion** asks whether each paragraph does one job and whether the links grow out of the content rather than out of a list of signposts. **Lexical Resource** asks for precise data language — *a marginal decline*, *accounted for two fifths* — not decorative synonyms for *big*. **Grammatical Range and Accuracy** asks for complex sentences that stay correct: comparisons, participle clauses, `while` and `whereas` contrasts, passive forms where the material is the subject."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Criterion",
+              "The question behind the mark",
+              "What separates 8 from 6"
+            ],
+            "rows": [
+              [
+                "Task Achievement",
+                "Did you report the key features, and only the key features?",
+                "A two-sentence overview plus figures that prove it — not an inventory of everything on the chart"
+              ],
+              [
+                "Coherence and Cohesion",
+                "Does each paragraph have one job, and do the links feel natural?",
+                "Grouping by trend, rank or area, and linking inside the sentence: *whereas*, *by contrast*, *with*, *at which point*"
+              ],
+              [
+                "Lexical Resource",
+                "Is the data language precise and varied?",
+                "Exact verb + adverb and adjective + noun pairs, with no repeated reliance on *increase* and *decrease*"
+              ],
+              [
+                "Grammatical Range and Accuracy",
+                "Are the complex sentences controlled?",
+                "Comparisons, participle clauses and passives used because the data needs them, not to show off"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "compare",
+          "left": {
+            "title": "Band 6 report",
+            "body": [
+              "Describes the chart in the order the data appear.",
+              "Overview is missing, or says only that there were some changes.",
+              "Every figure is copied; none is compared with another.",
+              "One pattern repeated: *The percentage increased. The percentage decreased.*"
+            ]
+          },
+          "right": {
+            "title": "Band 8 report",
+            "body": [
+              "Groups the data by relationship, then reports what each group shows.",
+              "Two-sentence overview: the trend, the leader, the exception.",
+              "Figures appear as evidence for a claim, usually two at a time.",
+              "Varied patterns: *a sharp rise*, *declined steadily*, *matched bus use by 2025*."
+            ]
+          }
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "Task Achievement is not a description. An answer that mentions every figure but never says what matters stays at 6 for TA, however elegant the English."
+        },
+        {
+          "type": "p",
+          "text": "Length is a floor, not a target. Below 150 words you are penalised; 160–190 words is normally enough to cover one visual properly. A tight 180-word report that selects well beats a 260-word inventory every time — and it leaves you four extra minutes for Task 2, which is worth twice as much."
+        }
+      ]
+    },
+    {
+      "heading": "The four-paragraph skeleton",
+      "intro": "IELTS does not prescribe four paragraphs, but this plan gives every paragraph a single job — which is exactly what Coherence and Cohesion rewards.",
+      "blocks": [
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Part",
+              "Job",
+              "Question it answers",
+              "Words"
+            ],
+            "rows": [
+              [
+                "Introduction",
+                "Say what is measured, where and when",
+                "What does the visual show?",
+                "25–35"
+              ],
+              [
+                "Overview",
+                "Name the two or three headline features",
+                "What is the big picture?",
+                "35–50"
+              ],
+              [
+                "Body 1",
+                "Report the first group of details",
+                "Which details belong together?",
+                "55–70"
+              ],
+              [
+                "Body 2",
+                "Report the second group and any contrast",
+                "How does this group differ from the first?",
+                "55–70"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "The introduction is a paraphrase, never a copy. Change the verb (*shows* → *compares*, *illustrates*, *breaks down*), keep the technical nouns the question uses (*commuters*, *expenditure*, *percentage*), and make sure the place and the period appear. Two moves are enough: *The line graph compares the proportions of commuters in a city using cars, buses and bicycles from 2010 to 2025.* / *The diagram illustrates how used paper is converted into notebooks.*"
+        },
+        {
+          "type": "p",
+          "text": "There is no conclusion. The overview has already stated your interpretation, so a fifth paragraph can only repeat it, and a repeat earns nothing in Task 1. Spend those minutes on the overview instead. What the examiner wants after the overview is simply the evidence, group by group."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**2 minutes** — read the visual and answer the five questions in the next section",
+            "**3 minutes** — decide your two groups, then write the overview first",
+            "**5 minutes** — Body 1, with two or three figures as evidence",
+            "**5 minutes** — Body 2, including the contrast or the exception",
+            "**5 minutes** — check units, tenses, `by` and `to`, and the word count"
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "Write the overview *before* the bodies. If you leave it until the end you will run out of time, and a missing overview is the single most expensive mistake in Task 1."
+        }
+      ]
+    },
+    {
+      "heading": "Overview: the single biggest score lever",
+      "intro": "A band 6 answer describes; a band 8 answer interprets. The overview is where that difference is decided, and it takes about three minutes.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "An overview has to do three things in one or two sentences: state the **overall direction or pattern**, identify the **leader or the extremes**, and name the **exception** — the item that behaves differently from the rest. Notice what it must not do: it must not announce that change happened."
+        },
+        {
+          "type": "compare",
+          "left": {
+            "title": "Overview that earns 6",
+            "body": [
+              "*Overall, there were several changes in the way people travelled.*",
+              "*Overall, the chart shows the percentages of men and women.*",
+              "*In conclusion, the figures are different in the two years.*"
+            ]
+          },
+          "right": {
+            "title": "Overview that earns 8",
+            "body": [
+              "*Overall, cars remained the dominant mode throughout, although their share fell steadily, while cycling grew fastest and matched bus use by 2025.*",
+              "*Overall, housing took the largest share in both years and was the only category to increase, whereas spending on transport declined.*",
+              "*Overall, the park was substantially redeveloped: three facilities replaced existing features, while the playground, the trees and the paths survived.*"
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "The reliable formula is `Overall,` + subject + direction + `, while` (or `although`) + the second feature. *Overall, cars remained the leading option at every recorded point, although their share declined.* Two sentences are usually enough; save a third for a second visual that measures something different."
+        },
+        {
+          "type": "list",
+          "items": [
+            "**Direction**: did the main quantities rise, fall, stay level, or move in opposite directions?",
+            "**Rank**: who leads at the start and at the end — and did the ranking change hands?",
+            "**Exception**: which item breaks the pattern, and by how much?"
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "Two isolated points do not make a trend. `Fluctuate` needs at least three movements up and down, and `peak` must be the highest value in the range you describe. Overstating the data costs Task Achievement marks."
+        }
+      ]
+    },
+    {
+      "heading": "Reading the visual before you write",
+      "intro": "Five questions, asked in this order, decide your groups, your figures and your overview before you write a word.",
+      "blocks": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "**What is measured?** People, visits, money, litres, hectares — the noun decides your verbs.",
+            "**What is the unit?** Thousands, millions, per cent, dollars. State the unit at least once and never switch it silently.",
+            "**How many points in time?** One point means compare; several mean describe change; a dotted line means forecast.",
+            "**What stands out?** The highest, the lowest, the widest gap, the crossing point, the reversal.",
+            "**How do I split it?** Two bodies, each proving a single relationship."
+          ]
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Data pattern",
+              "How to split the bodies",
+              "What the overview should say"
+            ],
+            "rows": [
+              [
+                "Items moving in different directions",
+                "Risers in Body 1, fallers or the flat line in Body 2",
+                "The main direction, the leader, the exception"
+              ],
+              [
+                "Many items at a single point in time",
+                "Group the high values, then the low ones — or group by shared feature",
+                "The top item, the bottom item, the size of the gap"
+              ],
+              [
+                "Two years, many categories",
+                "Group by increase, by decrease and by no change",
+                "How the structure and the ranking shifted"
+              ],
+              [
+                "Two visuals with different units",
+                "One body per visual",
+                "The headline of each visual and the link between them"
+              ],
+              [
+                "A map",
+                "Divide by area: north then south, or west then east",
+                "What the place became, and what survived"
+              ],
+              [
+                "A process",
+                "Split where the material changes state",
+                "Linear or cyclical, the number of stages, the start and end point"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Select figures the way an examiner reads: the value at the start, the value at the end, the highest, the lowest, and any turning point that explains the shape of the line. Intermediate years are optional — include one only if it proves something the two ends cannot, such as a plateau. You are never required to calculate averages or rates of change, and an invented calculation is worse than no calculation at all."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "Never compare figures measured in different units, and never add up percentages that describe overlapping choices. If respondents could pick more than one activity, the four bars do not make 100%."
+        }
+      ]
+    },
+    {
+      "heading": "The language of trends and comparison",
+      "intro": "Data language is a small, closed set of patterns. Learn the pattern and you can describe any chart; memorise isolated words and you will still write *increased a lot*.",
+      "blocks": [
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Job in the sentence",
+              "Pattern",
+              "Example"
+            ],
+            "rows": [
+              [
+                "State a value",
+                "`stood at` / `was` + figure",
+                "Car use stood at 65% in 2010."
+              ],
+              [
+                "Change over time",
+                "`rose/fell from A to B`",
+                "The share of cyclists rose from 15% to 25%."
+              ],
+              [
+                "Compare two items",
+                "`compared with` / `twice the figure for`",
+                "Swimming attracted 48% of women, compared with 42% of men."
+              ],
+              [
+                "Contrast two clauses",
+                "`while` / `whereas` + clause",
+                "Car use declined, whereas bus use climbed."
+              ],
+              [
+                "Proportion of a total",
+                "`accounted for` / `made up` + fraction",
+                "Housing accounted for two fifths of the budget."
+              ],
+              [
+                "Two values, two items",
+                "`respectively`",
+                "Buses and bicycles accounted for 30% and 25% respectively."
+              ],
+              [
+                "Forecast",
+                "`is projected/expected to` + verb",
+                "Visits are projected to reach 190,000 by 2035."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Trend",
+              "Verbs",
+              "Adverbs and adjectives"
+            ],
+            "rows": [
+              [
+                "Up",
+                "rise, increase, climb, grow, surge, edge up",
+                "sharply, steadily, gradually, marginally; a marked rise"
+              ],
+              [
+                "Down",
+                "fall, decline, drop, dip, halve",
+                "steeply, slightly, consistently; a modest fall"
+              ],
+              [
+                "Flat",
+                "remain stable, hold steady, level off",
+                "largely unchanged; a plateau"
+              ],
+              [
+                "Up and down",
+                "fluctuate, oscillate",
+                "wildly; a volatile pattern"
+              ],
+              [
+                "Extremes",
+                "peak at, bottom out at",
+                "the highest point; the lowest figure"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Three accuracy points decide more marks than any impressive vocabulary. First, `to` and `by`: *rose to 30%* means the final level was 30%, *rose by 30%* means the increase was 30% — and when the chart gives both ends, `from … to …` is clearer than either. Second, percentages and percentage points: a fall from 65% to 45% is a drop of **20 percentage points**, which is a fall of about 31% in relative terms; never call the gap a percentage. Third, tense: recorded data take the past simple, forecasts take `is projected to`, and a process with no dates takes the present simple."
+        },
+        {
+          "type": "p",
+          "text": "Band 8 writing also **nominalises**: instead of *Car use fell sharply*, write *a sharp fall in car use* and put it in subject position — *A sharp fall in car use was matched by steady growth in cycling.* That is what lets you connect two trends in one sentence without repeating *and*."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "`The figure increased 5%` is missing its preposition. `The figure increased by 5%` and `The figure increased by five percentage points` are different claims — write the one the data supports."
+        }
+      ]
+    },
+    {
+      "heading": "Describing a process",
+      "intro": "A process diagram has no figures and no years. What it rewards is sequence, passive control, and a clear sense of where the material starts and ends.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Use the **passive** as your default, because the material — not a named person — is the subject of each stage: *Used paper is collected and sorted.* Then *water is added*, the mixture *is pulped*, and the resulting pulp *is filtered*. Keep the **present simple** throughout: a process diagram describes what generally happens, not what happened last year. Switch to the active voice only when the subject genuinely acts — *the plant grows*, *the mixture thickens*."
+        },
+        {
+          "type": "list",
+          "items": [
+            "`The process begins with` + noun, or `At the start of the process, ...`",
+            "`Once sorting has been completed, ...` — the perfect after *once*, because the stage must finish first",
+            "`X is then` / `is subsequently` + past participle",
+            "`after which` + clause, or `before being` + past participle",
+            "`The final stage involves` + noun, or `The process ends with` + noun"
+          ]
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Function",
+              "Pattern",
+              "Example"
+            ],
+            "rows": [
+              [
+                "First stage",
+                "`begins with` + noun",
+                "The process begins with the collection of used paper."
+              ],
+              [
+                "Condition for the next stage",
+                "`Once` + present perfect, + main clause",
+                "Once the paper has been sorted, water is added."
+              ],
+              [
+                "Sequence",
+                "`is then` + past participle",
+                "The mixture is then heated."
+              ],
+              [
+                "Combined steps",
+                "`while` / `at the same time`",
+                "The sheets are pressed while still damp."
+              ],
+              [
+                "Last stage",
+                "`ends with` / `is finally` + past participle",
+                "The process ends with the binding of the notebooks."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "Do not invent stages, temperatures, durations or purposes. If the diagram does not show it, the examiner reads it as an accuracy error, and Task Achievement suffers."
+        },
+        {
+          "type": "p",
+          "text": "Your overview for a process answers two questions: is it **linear** or **cyclical**, and how many stages does it have? Then group the stages into two phases — for example preparing the raw material, then forming and finishing the product — so that each body paragraph covers a phase rather than an arbitrary half of the arrows."
+        }
+      ]
+    },
+    {
+      "heading": "Describing a map",
+      "intro": "A map question asks one thing: how did this place change? The marks come from locating each change precisely and from noticing what did not change at all.",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Work through four kinds of change: **additions** (*a café was built*), **removals** (*the lawn was removed*), **replacements** (*the pond was replaced by a café*) and **retentions** (*the playground remained in the same position*). Mentioning the retained features proves you read the whole map, and it gives your overview its contrast."
+        },
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Function",
+              "Language",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Position",
+                "`in the north-west corner`, `to the east of`, `along the southern edge`, `on the western side`, `in the centre`",
+                "The playground occupied the centre of the northern section."
+              ],
+              [
+                "Replacement",
+                "`was replaced by`, `made way for`, `was converted into`, `gave way to`",
+                "The flower garden made way for a car park."
+              ],
+              [
+                "Removal",
+                "`was removed`, `was demolished`, `was cleared`",
+                "The open lawn to the east was removed."
+              ],
+              [
+                "Retention",
+                "`remained unchanged`, `was retained`, `was left untouched`, `still stood`",
+                "The trees to the east of the playground were left untouched."
+              ],
+              [
+                "New build",
+                "`was built`, `was constructed`, `was added`",
+                "A sports court was built in its place."
+              ],
+              [
+                "Expansion",
+                "`was extended`, `was enlarged`, `was widened`",
+                "The path along the southern edge was widened."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "p",
+          "text": "Use the past simple for the change itself, and the past perfect when the order of events has to be explicit: *By 2025 the pond had been replaced by a café.* Keep one tense per sentence group and let the position words do the linking — *in the north*, *to its east*, *in the south* — instead of *Firstly, Secondly, Thirdly*."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "text": "There is no scale on the map, so you cannot measure anything. Describe layout and area only in relative terms (*a larger car park*), and never invent a reason for a change: *to attract tourists* is not in the diagram."
+        }
+      ]
+    },
+    {
+      "heading": "The seven band-6 errors that cap your score",
+      "intro": "These are the mistakes that hold a competent writer at 6.0–6.5. Each one is cheap to fix, and fixing them is worth more than learning ten new adjectives.",
+      "blocks": [
+        {
+          "type": "table",
+          "table": {
+            "headers": [
+              "Error",
+              "Why it costs marks",
+              "Fix"
+            ],
+            "rows": [
+              [
+                "No overview, or an overview that says *there were several changes*",
+                "Task Achievement cannot reach 7 without a clear overview",
+                "Two sentences: direction, leader, exception"
+              ],
+              [
+                "Reporting every figure in the chart",
+                "It shows you can read, not that you can select — TA stays at 6",
+                "Three or four figures per body, each attached to a claim"
+              ],
+              [
+                "`The figure increased 5%`",
+                "A missing preposition in a high-frequency structure",
+                "`increased by 5%` or `increased to 5%` — decide which claim is true"
+              ],
+              [
+                "Calling a gap between two percentages *a percentage*",
+                "Imprecise measurement language",
+                "`percentage points`, or *a fall of 20 points*"
+              ],
+              [
+                "Present tense for data from 2010",
+                "A tense error that runs through the whole report",
+                "Past simple for recorded data; `is projected to` only for forecasts"
+              ],
+              [
+                "Copying the question wording into the introduction",
+                "The examiner sees no paraphrase, and copied text is not counted towards your word total",
+                "Change the verb, keep the technical nouns"
+              ],
+              [
+                "Explaining causes or giving opinions",
+                "Task 1 reports; causes and judgments belong to Task 2",
+                "Describe what the data show, not why they look that way"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "items": [
+            "Is there a two-sentence overview with a trend, a leader and an exception?",
+            "Does every figure carry a unit, and is each one compared with something?",
+            "Is `by` or `to` correct everywhere, and are percentage points distinguished from percentages?",
+            "Is the tense consistent, with forecasts clearly marked?",
+            "Is the report 160–190 words, and does each paragraph do exactly one job?"
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "In the last two minutes, read only for these five things. Content errors cost far more than stylistic ones: a missing overview or an invented cause is worth several marks, a repeated adjective is worth almost none."
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "t1-line-commuters",
+      "prompt": "The line graph shows the percentage of commuters in a city who used cars, buses or bicycles as their main means of transport between 2010 and 2025.",
+      "visual": "Line graph, 2010-2025, four plotted years. Cars: 65%, 58%, 50%, 45%. Buses: 20%, 24%, 28%, 30%. Bicycles: 15%, 18%, 22%, 25%.",
+      "band": "8.0",
+      "essay": "The line graph compares the proportion of commuters in a city who travelled mainly by car, bus or bicycle at four points between 2010 and 2025.\n\nOverall, cars remained the dominant mode of transport throughout the period, although their share fell steadily. Buses and bicycles both became more common, and the five-percentage-point gap between them stayed constant.\n\nIn 2010, cars carried 65% of commuters, more than three times the figure for bicycles. Car use then declined at each recorded point, dropping to 58% in 2015 and 50% in 2020 before settling at 45% in 2025. Even so, the car remained the single most popular option, and its share was still 15 percentage points higher than that of buses in the final year.\n\nBus use moved in the opposite direction, climbing gradually from 20% to 24%, then 28%, and finally 30%. Cycling followed a similar trajectory from a lower base, rising from 15% to 25% over the same period. Because both modes gained ten percentage points, buses remained five points ahead of bicycles in every year shown.",
+      "outline": [
+        "Introduction — paraphrase what is compared, where and when",
+        "Overview — cars stay dominant but decline; the other two rise and keep a constant five-point gap",
+        "Body 1 — car share at each point, ending with the fact that it still leads",
+        "Body 2 — bus and bicycle growth compared, closing on the unchanged gap"
+      ],
+      "annotations": [
+        {
+          "quote": "Overall, cars remained the dominant mode of transport throughout the period, although their share fell steadily.",
+          "note": "Overview band 8: một câu nêu cả hướng chính (giảm) lẫn vị thế dẫn đầu, không kèm số liệu. Đây chính là thông tin giám khảo tìm khi chấm Task Achievement."
+        },
+        {
+          "quote": "Buses and bicycles both became more common, and the five-percentage-point gap between them stayed constant.",
+          "note": "Câu overview thứ hai khái quát quan hệ giữa hai đối tượng còn lại thay vì nói chung chung. `five-percentage-point` là tính từ ghép chính xác — dấu hiệu Lexical Resource 8."
+        },
+        {
+          "quote": "In 2010, cars carried 65% of commuters, more than three times the figure for bicycles.",
+          "note": "So sánh tương đối (`more than three times the figure for`) thay vì chỉ đọc số, và `the figure for` tránh lặp danh từ — điểm cộng cho cả Coherence lẫn Lexical Resource."
+        },
+        {
+          "quote": "Car use then declined at each recorded point, dropping to 58% in 2015 and 50% in 2020 before settling at 45% in 2025.",
+          "note": "`at each recorded point` giới hạn nhận định đúng phạm vi dữ liệu; chuỗi `dropping ... before settling` dùng phân từ và tránh lặp `fell` ba lần trong một câu."
+        },
+        {
+          "quote": "Even so, the car remained the single most popular option, and its share was still 15 percentage points higher than that of buses in the final year.",
+          "note": "`Even so` nối hai ý đối lập trong cùng câu; `percentage points` dùng đúng chỗ vì 45% so với 30% là 15 điểm phần trăm, không phải 15%."
+        },
+        {
+          "quote": "Because both modes gained ten percentage points, buses remained five points ahead of bicycles in every year shown.",
+          "note": "Câu phức với `Because` đặt hai xu hướng vào một quan hệ nhân quả — cách kết đoạn band 8 thay cho việc liệt kê thêm số."
+        }
+      ],
+      "keyLanguage": [
+        "remained the dominant mode",
+        "at each recorded point",
+        "more than three times the figure for",
+        "percentage points higher",
+        "moved in the opposite direction",
+        "from a lower base",
+        "gained ten percentage points"
+      ],
+      "wordCount": 176
+    },
+    {
+      "id": "t1-bar-leisure",
+      "prompt": "The bar chart compares the percentage of men and women in a town who took part in four leisure activities in 2025. Participants could select more than one activity.",
+      "visual": "Grouped bar chart, 2025. Swimming: women 48%, men 42%. Yoga: women 36%, men 12%. Running: women 28%, men 38%. Cycling: women 18%, men 30%.",
+      "band": "7.5",
+      "essay": "The bar chart compares the proportion of men and women in a town who took part in four leisure activities in 2025. Respondents could report more than one activity, so the four figures for each group do not total 100%.\n\nOverall, swimming attracted the highest proportion of both men and women, whereas yoga drew the lowest figure among men. Women were more likely to take part in swimming and yoga, while men recorded higher rates for running and cycling.\n\nSwimming was reported by 48% of women and 42% of men, a difference of only six percentage points. Yoga showed by far the widest gender gap: more than a third of women practised it, compared with 12% of men. Indeed, yoga ranked second among women but last among men.\n\nThe pattern was reversed for the two remaining activities. Running attracted 38% of men but 28% of women, and cycling was chosen by 30% of men against 18% of women. Cycling was therefore the least popular option for women, whereas for men it came third, ahead of yoga.",
+      "outline": [
+        "Introduction — what is compared, plus the note that answers can overlap",
+        "Overview — swimming leads for both sexes; the gender split reverses across the four activities",
+        "Body 1 — swimming and yoga: the female advantage and the size of the yoga gap",
+        "Body 2 — running and cycling: the male advantage, and how the ranking differs"
+      ],
+      "annotations": [
+        {
+          "quote": "Respondents could report more than one activity, so the four figures for each group do not total 100%.",
+          "note": "Câu này chứng minh bạn đã đọc đúng điều kiện của dữ liệu. Band 6 thường bỏ qua ghi chú này rồi ngầm hiểu tổng bằng 100%, dẫn tới nhận định sai."
+        },
+        {
+          "quote": "Overall, swimming attracted the highest proportion of both men and women, whereas yoga drew the lowest figure among men.",
+          "note": "Overview nêu đối tượng dẫn đầu ở cả hai nhóm và đối tượng thấp nhất — hai trong ba thông tin bắt buộc của một overview đạt điểm cao."
+        },
+        {
+          "quote": "Women were more likely to take part in swimming and yoga, while men recorded higher rates for running and cycling.",
+          "note": "`while` đặt hai nửa đối lập trong cùng một câu, và việc gộp bốn hoạt động thành hai nhóm cho thấy bạn chọn lọc chứ không liệt kê."
+        },
+        {
+          "quote": "Yoga showed by far the widest gender gap: more than a third of women practised it, compared with 12% of men.",
+          "note": "`by far` + so sánh nhất, dấu hai chấm giải thích, và `more than a third` diễn đạt lại 36% bằng phân số — ba cách nâng cấp câu mô tả số liệu."
+        },
+        {
+          "quote": "The pattern was reversed for the two remaining activities.",
+          "note": "Một câu chuyển đoạn ngắn, gọn, dựa trên nội dung (đảo chiều xu hướng) chứ không dùng `Secondly`. Đây là Coherence band 8."
+        },
+        {
+          "quote": "Cycling was therefore the least popular option for women, whereas for men it came third, ahead of yoga.",
+          "note": "Kết đoạn bằng so sánh thứ hạng giữa hai giới; `came third, ahead of` là collocation tự nhiên, tránh lặp `ranked`."
+        }
+      ],
+      "keyLanguage": [
+        "the proportion of men and women",
+        "by far the widest gender gap",
+        "a difference of only six percentage points",
+        "compared with",
+        "the pattern was reversed",
+        "came third, ahead of",
+        "the least popular option"
+      ],
+      "wordCount": 176
+    },
+    {
+      "id": "t1-pie-table-spending",
+      "prompt": "The pie charts show how household spending in a country was divided among four categories in 2015 and 2025. The table shows average annual household expenditure in the same two years.",
+      "visual": "Two pie charts. 2015: housing 30%, food 25%, transport 20%, other 25%. 2025: housing 40%, food 20%, transport 15%, other 25%. Table: average annual expenditure $20,000 (2015) and $25,000 (2025).",
+      "band": "8.0",
+      "essay": "The pie charts compare how household spending in a country was distributed across four categories in 2015 and 2025, and the table shows average annual expenditure per household in the same two years.\n\nOverall, housing took the largest share of the budget in both years and was the only category whose proportion rose. Food and transport accounted for less of the total by 2025, whereas the share spent on other items was unchanged. Because average expenditure rose by a quarter, only transport attracted a smaller sum in the final year.\n\nHousing represented 30% of the household budget in 2015, and this figure climbed to 40% a decade later. With average spending rising from $20,000 to $25,000, the annual housing bill grew from roughly $6,000 to $10,000. Other items held their share at 25% throughout, which meant that this category also absorbed a larger sum once the total increased.\n\nFood fell from 25% to 20%, moving below other items by 2025. The decline was one of share rather than of outlay: at around $5,000 in both years, the amount spent on food hardly moved. Transport recorded the sharpest proportional fall, from 20% to 15%, and it was the only category to receive less money overall, with the average household spending just under $3,750 on it by the end of the period.",
+      "outline": [
+        "Introduction — both visuals and what each one measures",
+        "Overview — housing dominates and grows; food and transport shrink; the total rises, so absolute amounts matter",
+        "Body 1 — housing (share plus money), then other items holding their share",
+        "Body 2 — food falling in share but not in outlay; transport the only category with less money"
+      ],
+      "annotations": [
+        {
+          "quote": "Overall, housing took the largest share of the budget in both years and was the only category whose proportion rose.",
+          "note": "Overview cho hình ghép: câu đầu xử lý biểu đồ tròn (ai dẫn đầu, ai tăng duy nhất). Câu tiếp theo xử lý bảng — mỗi hình một nhận định, không bỏ sót hình nào."
+        },
+        {
+          "quote": "Because average expenditure rose by a quarter, only transport attracted a smaller sum in the final year.",
+          "note": "Câu overview thứ ba nối hai hình: tổng chi tăng 25% nên phải đọc cả số tiền tuyệt đối. Đây là mức phân tích khiến giám khảo chấm Task Achievement 8."
+        },
+        {
+          "quote": "Housing represented 30% of the household budget in 2015, and this figure climbed to 40% a decade later.",
+          "note": "`represented` và `climbed` thay cho `was` và `increased`; `a decade later` tránh lặp mốc năm đã nêu ở câu trước."
+        },
+        {
+          "quote": "With average spending rising from $20,000 to $25,000, the annual housing bill grew from roughly $6,000 to $10,000.",
+          "note": "Mệnh đề `With + noun + -ing` gói dữ liệu của bảng vào cùng câu với biểu đồ tròn, và `roughly` cho thấy con số là suy ra chứ không có sẵn trong hình."
+        },
+        {
+          "quote": "The decline was one of share rather than of outlay: at around $5,000 in both years, the amount spent on food hardly moved.",
+          "note": "Câu này tách `share` khỏi `outlay` — chính là lỗi band 6 hay mắc khi đọc biểu đồ tròn. Cấu trúc `one of X rather than of Y` rất band 8."
+        },
+        {
+          "quote": "Transport recorded the sharpest proportional fall, from 20% to 15%, and it was the only category to receive less money overall, with the average household spending just under $3,750 on it by the end of the period.",
+          "note": "`the sharpest proportional fall` chính xác về mặt đo lường; `just under` xử lý số lẻ duyên dáng; mệnh đề `with` kết câu mà không cần thêm câu mới."
+        }
+      ],
+      "keyLanguage": [
+        "was distributed across four categories",
+        "took the largest share",
+        "held their share at",
+        "rose by a quarter",
+        "one of share rather than of outlay",
+        "the sharpest proportional fall",
+        "just under"
+      ],
+      "wordCount": 220
+    },
+    {
+      "id": "t1-process-notebooks",
+      "prompt": "The diagram shows a simplified process for making notebooks from used paper.",
+      "visual": "Seven-stage linear flow: collect used paper, sort it, add water and pulp, filter the pulp, press into sheets, dry the sheets, cut and bind into notebooks.",
+      "band": "7.5",
+      "essay": "The diagram illustrates how used paper is converted into notebooks, from the collection of waste material to the binding of the finished product.\n\nOverall, the process is linear and consists of seven stages, from the collection of used paper to the binding of finished notebooks. It falls into two broad phases: the paper is first reduced to a pulp, and this pulp is then pressed, dried, cut and bound.\n\nThe process begins with the collection of used paper, which is then sorted. Once this stage has been completed, water is added and the mixture is pulped. The resulting pulp is filtered in the next stage, at which point the material is ready to be formed into new sheets.\n\nIn the second phase, the filtered pulp is pressed into thin sheets. These are subsequently dried, after which they are cut to size. Cutting and binding appear as a single stage in the diagram, and the notebooks are then ready for use. No further processing is required once the books have been bound.",
+      "outline": [
+        "Introduction — what the diagram shows and the two ends of the sequence",
+        "Overview — linear, seven stages, two broad phases",
+        "Body 1 — collection, sorting and pulping: preparation of the material",
+        "Body 2 — pressing, drying, cutting and binding: the finished product"
+      ],
+      "annotations": [
+        {
+          "quote": "Overall, the process is linear and consists of seven stages, from the collection of used paper to the binding of finished notebooks.",
+          "note": "Overview của process phải trả lời hai câu hỏi: tuyến tính hay tuần hoàn, và bao nhiêu công đoạn. Nêu luôn điểm đầu và điểm cuối là cách gói gọn cả sơ đồ trong một câu."
+        },
+        {
+          "quote": "It falls into two broad phases: the paper is first reduced to a pulp, and this pulp is then pressed, dried, cut and bound.",
+          "note": "Câu thứ hai của overview nhóm bảy bước thành hai chặng — vừa định hình hai body, vừa cho thấy bạn kiểm soát được tổ chức bài (Coherence)."
+        },
+        {
+          "quote": "Once this stage has been completed, water is added and the mixture is pulped.",
+          "note": "`Once` + hiện tại hoàn thành diễn tả điều kiện hoàn tất trước bước sau; bị động giữ đúng chủ thể là vật liệu chứ không phải người."
+        },
+        {
+          "quote": "The resulting pulp is filtered in the next stage, at which point the material is ready to be formed into new sheets.",
+          "note": "`The resulting pulp` là nominalisation gọn và chính xác; `at which point` nối hai công đoạn mà không cần `then` thêm lần nữa."
+        },
+        {
+          "quote": "These are subsequently dried, after which they are cut to size.",
+          "note": "`after which` + mệnh đề là cách nối chuỗi bước phổ biến nhất trong bài process band 8; `cut to size` là collocation tự nhiên."
+        },
+        {
+          "quote": "Cutting and binding appear as a single stage in the diagram, and the notebooks are then ready for use. No further processing is required once the books have been bound.",
+          "note": "Chỉ mô tả đúng những gì hình thể hiện, kể cả việc hai thao tác được gộp thành một công đoạn — không tự thêm nhiệt độ, thời gian hay mục đích."
+        }
+      ],
+      "keyLanguage": [
+        "is converted into",
+        "consists of seven stages",
+        "falls into two broad phases",
+        "Once this stage has been completed",
+        "the resulting pulp",
+        "after which",
+        "is subsequently",
+        "the final stage"
+      ],
+      "wordCount": 171
+    },
+    {
+      "id": "t1-map-park",
+      "prompt": "The maps show the layout of a public park in 2010 and 2025.",
+      "visual": "Two plan views of the same park. 2010: pond in the north-west, playground in the centre-north, trees to its east, flower garden and lawn in the south, entrance in the south-west, path along the southern edge. 2025: café replaces the pond, car park replaces the flower garden, sports court replaces the lawn; playground, trees, entrance and paths unchanged.",
+      "band": "7.5",
+      "essay": "The maps compare the layout of a public park in 2010 and 2025.\n\nOverall, the park was substantially redeveloped over the fifteen-year period. Three new facilities — a café, a car park and a sports court — replaced existing features, whereas the playground, the trees, the entrance and the paths were retained.\n\nIn the north-western corner, the pond shown in 2010 had given way to a café by 2025. The playground occupied the centre of the northern section in both years, and the trees to its east were left untouched, so the northern half of the park changed only in its western corner.\n\nThe southern section experienced more extensive change. The flower garden on the western side made way for a car park, while the open lawn to the east was removed and a sports court built in its place. By contrast, the entrance in the south-western corner stayed where it was, and the path along the southern edge, together with its branch leading north to the playground, followed the same route in both years.",
+      "outline": [
+        "Introduction — what the two maps compare",
+        "Overview — substantial redevelopment; three new facilities in, four original features retained",
+        "Body 1 — the northern half: café replacing the pond, playground and trees unchanged",
+        "Body 2 — the southern half: car park and sports court in, entrance and paths unchanged"
+      ],
+      "annotations": [
+        {
+          "quote": "Overall, the park was substantially redeveloped over the fifteen-year period.",
+          "note": "Overview của map phải nói mức độ thay đổi trước khi liệt kê. `substantially redeveloped` khái quát đúng tính chất, khác hẳn câu vô nghĩa `there were some changes`."
+        },
+        {
+          "quote": "Three new facilities — a café, a car park and a sports court — replaced existing features, whereas the playground, the trees, the entrance and the paths were retained.",
+          "note": "Câu overview thứ hai đối chiếu cái mới với cái giữ nguyên; dấu gạch ngang liệt kê gọn ba hạng mục và `retained` là từ khoá của dạng map."
+        },
+        {
+          "quote": "In the north-western corner, the pond shown in 2010 had given way to a café by 2025.",
+          "note": "Cụm chỉ vị trí đặt đầu câu để người đọc theo dõi không gian; quá khứ hoàn thành `had given way to` cho thấy thay đổi đã hoàn tất trước mốc 2025, và cụm này tự nhiên hơn `was replaced by`."
+        },
+        {
+          "quote": "The playground occupied the centre of the northern section in both years, and the trees to its east were left untouched, so the northern half of the park changed only in its western corner.",
+          "note": "Mô tả cả yếu tố không đổi rồi rút ra kết luận cho cả nửa bắc — dấu hiệu bạn bao quát toàn bộ bản đồ chứ không chỉ điểm có thay đổi."
+        },
+        {
+          "quote": "The flower garden on the western side made way for a car park, while the open lawn to the east was removed and a sports court built in its place.",
+          "note": "`made way for` và `built in its place` giàu sắc thái hơn `was replaced by`; `while` nối hai thay đổi song song, và phân từ `built` tỉnh lược `was`."
+        },
+        {
+          "quote": "By contrast, the entrance in the south-western corner stayed where it was, and the path along the southern edge, together with its branch leading north to the playground, followed the same route in both years.",
+          "note": "`By contrast` mở đầu đoạn bằng nội dung; `together with` và mệnh đề quan hệ rút gọn `leading north` giúp câu dài vẫn rõ ràng, đúng chuẩn 8 về ngữ pháp."
+        }
+      ],
+      "keyLanguage": [
+        "was substantially redeveloped",
+        "was replaced by",
+        "made way for",
+        "built in its place",
+        "were left untouched",
+        "stayed where it was",
+        "followed the same route",
+        "to its east"
+      ],
+      "wordCount": 175
+    }
+  ]
+}

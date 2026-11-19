@@ -1,0 +1,213 @@
+{
+  "slug": "past-perfect-and-past-perfect-continuous",
+  "title": "Past perfect and past perfect continuous",
+  "titleVi": "Quá khứ hoàn thành và quá khứ hoàn thành tiếp diễn",
+  "level": "B2",
+  "topic": "tenses",
+  "bookUnits": [15, 16],
+  "bandFocus": "7.5",
+  "summary": "Đặt hai sự kiện quá khứ theo đúng thứ tự thời gian — chìa khoá để kể chuyện và viết bối cảnh lịch sử mạch lạc.",
+  "whyItMatters": "Task 1 mô tả dữ liệu có nhiều mốc thời gian, và Task 2 thường cần bối cảnh lịch sử (*By 1990, the city had already lost most of its wetlands*). Thiếu `past perfect` khiến người đọc không biết việc nào xảy ra trước; dùng thừa lại làm câu văn nặng nề. Kiểm soát được ranh giới này là dấu hiệu của band 7.5+.",
+  "sections": [
+    {
+      "heading": "Past perfect: the earlier of two past events",
+      "body": [
+        "The past perfect is **had + past participle**. It marks an action that happened before another past moment — the 'past of the past'.",
+        "The later event stays in the past simple: *When I arrived, the film had already started.* The starting happened first; my arrival came second.",
+        "Without a second past reference, the past perfect usually has no job to do. *I had seen him yesterday* sounds odd because there is nothing for it to be earlier than."
+      ],
+      "examples": [
+        { "right": "When I arrived, the film had already started.", "note": "**had started** precedes **arrived**." },
+        { "right": "She had never flown before that trip.", "note": "Experience up to a past point." },
+        { "right": "The council had approved the plan before the consultation closed.", "note": "**before** makes the order explicit." },
+        { "right": "When I got to the station, the train had left.", "wrong": "When I got to the station, the train already left.", "note": "Vietnamese has no separate form here, but English needs **had left**." }
+      ]
+    },
+    {
+      "heading": "When the past perfect is optional — and when it is not",
+      "body": [
+        "With **before**, **after** and **already**, the order is often clear from the conjunction alone, so the past simple is acceptable: *After he ate, he went out.* The past perfect (*After he had eaten, he went out*) is more formal and more explicit.",
+        "But when the sequence is not obvious, or when you need to show that an event was completed before a second one, the past perfect is obligatory: *The building had been evacuated before the fire spread.* Without **had been**, the sentence suggests the evacuation happened at the same time as the fire.",
+        "In narrative writing, use the past perfect sparingly — one clause to set up the background, then return to the past simple for the events."
+      ],
+      "examples": [
+        { "right": "After he had eaten, he went out.", "note": "Formal and explicit; the past simple also works here." },
+        { "right": "The building had been evacuated before the fire spread.", "wrong": "The building was evacuated before the fire spread.", "note": "**had been evacuated** makes the earlier completion unambiguous." },
+        { "right": "I didn't know that she had resigned.", "note": "Reporting an earlier event from a past viewpoint." }
+      ]
+    },
+    {
+      "heading": "Past perfect continuous: duration before a past point",
+      "body": [
+        "The past perfect continuous is **had been + -ing**. It describes an activity that had been going on for some time before a past moment, often explaining a visible state at that moment.",
+        "Compare: *She had worked there for two years* (a completed period) and *She had been working there for two years when the factory closed* (duration leading up to the closure, with emphasis on the process).",
+        "It is the natural tense for cause and effect in the past: *The ground was saturated because it had been raining for days.*"
+      ],
+      "examples": [
+        { "right": "She was exhausted because she had been working since dawn.", "note": "Duration explaining a past state." },
+        { "right": "They had been negotiating for months when the deal collapsed.", "note": "Long process interrupted by a short event." },
+        { "right": "The road was flooded; it had been raining for three days.", "wrong": "The road was flooded; it had rained for three days.", "note": "The continuous emphasises the unbroken process leading to the flood." }
+      ]
+    },
+    {
+      "heading": "Past perfect with reporting and reasons",
+      "body": [
+        "Reported speech and verbs of thinking often need the past perfect because the original statement was made in the past: *He said he had finished the report* (= he finished it before he spoke).",
+        "The same logic applies to explanations: *I was surprised that so few people had applied.* The applying happened before my surprise.",
+        "Keep the anchor clear. The anchor is the later past moment — the arrival, the statement, the surprise. Everything earlier takes **had**."
+      ],
+      "table": {
+        "headers": ["Form", "Function", "Example"],
+        "rows": [
+          ["had + V3", "completed before a past moment", "She had left before I arrived."],
+          ["had been + V-ing", "duration before a past moment", "She had been waiting for an hour."],
+          ["past simple", "the later event / the narrative line", "I arrived at eight."],
+          ["past simple + before/after", "sequence clear from the conjunction", "He ate, then he went out."]
+        ]
+      }
+    },
+    {
+      "heading": "Past perfect in IELTS Task 1 and Task 2",
+      "body": [
+        "In Task 1, the past perfect is useful when a chart refers to a baseline that was already established before the period shown: *By 2000, the population had already passed one million, and it continued to grow.*",
+        "In Task 2, it handles historical background efficiently: *By the time legislation was introduced, the damage had been done.* This compresses two stages into one sentence.",
+        "Avoid stacking several past perfects in a row. One is enough to establish the earlier layer; after that, the past simple carries the story."
+      ],
+      "examples": [
+        { "right": "By 2000, the population had already passed one million.", "note": "A baseline established before the chart period." },
+        { "right": "By the time legislation was introduced, the damage had been done.", "note": "Passive past perfect compressing two stages." },
+        { "right": "The scheme had been running for a decade before it was evaluated.", "note": "Duration before a past evaluation." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "When I arrived at the cinema, the film already started.",
+      "right": "When I arrived at the cinema, the film had already started.",
+      "why": "Cần `past perfect` để chỉ hành động xảy ra trước một mốc quá khứ khác. Tiếng Việt dùng 'đã' cho cả hai nên người học thường bỏ mất `had`."
+    },
+    {
+      "wrong": "She had been working there for two years before she had left.",
+      "right": "She had been working there for two years before she left.",
+      "why": "Chỉ mệnh đề chỉ hành động xảy ra trước mới dùng `past perfect`; mệnh đề sau `before` giữ `past simple`."
+    },
+    {
+      "wrong": "I had seen him yesterday at the market.",
+      "right": "I saw him yesterday at the market.",
+      "why": "Không có mốc quá khứ thứ hai để so sánh thì `past perfect` là thừa. Một sự kiện quá khứ đơn lẻ dùng `past simple`."
+    },
+    {
+      "wrong": "I was surprised that so few people applied.",
+      "right": "I was surprised that so few people had applied.",
+      "why": "Việc nộp đơn xảy ra trước cảm giác ngạc nhiên, nên cần `past perfect`. Thiếu `had` khiến hai việc có vẻ đồng thời."
+    },
+    {
+      "wrong": "The ground was wet because it had been rained all night.",
+      "right": "The ground was wet because it had been raining all night.",
+      "why": "`rain` là nội động từ, không có dạng bị động. Cấu trúc đúng là `had been + V-ing`."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, chỉ dùng `past perfect` khi biểu đồ có một mốc 'trước giai đoạn được mô tả'; nếu không, `past simple` là đủ và an toàn hơn.",
+    "Trong Task 2, dùng `By the time ..., ... had ...` để nén hai giai đoạn lịch sử vào một câu, giúp tiết kiệm từ và tạo nhịp học thuật.",
+    "Khi kể chuyện ở Speaking Part 2, một câu `past perfect` ở đầu để dựng bối cảnh là đủ; sau đó quay về `past simple` để câu chuyện chạy.",
+    "Đừng dùng `past perfect` chỉ vì câu có chữ `before` hoặc `after` — nếu trật tự đã rõ, `past simple` tự nhiên hơn và ít rủi ro hơn."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "When we got to the theatre, the play ___.",
+      "options": ["already started", "had already started", "has already started", "was already starting"],
+      "answerIndex": 1,
+      "explanation": "Vở kịch bắt đầu trước khi chúng tôi đến → **past perfect**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I had seen him yesterday at the market.",
+        "I saw him yesterday at the market.",
+        "I have seen him yesterday at the market.",
+        "I was seeing him yesterday at the market."
+      ],
+      "answerIndex": 1,
+      "explanation": "Một sự kiện quá khứ đơn lẻ, không có mốc so sánh thứ hai → **past simple**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "She was tired because she ___ since 5 a.m.",
+      "options": ["worked", "had been working", "has been working", "was working"],
+      "answerIndex": 1,
+      "explanation": "Hoạt động kéo dài trước một trạng thái trong quá khứ → **past perfect continuous**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Which sentence shows that the evacuation happened first?",
+      "options": [
+        "The building was evacuated before the fire spread.",
+        "The building had been evacuated before the fire spread.",
+        "The building is evacuated before the fire spread.",
+        "The building has been evacuated before the fire spread."
+      ],
+      "answerIndex": 1,
+      "explanation": "**had been evacuated** xác lập rõ hành động hoàn tất trước khi đám cháy lan."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence combines the past perfect continuous and the past simple correctly?",
+      "options": [
+        "She had been working there for two years before she had left.",
+        "She had been working there for two years before she left.",
+        "She was working there for two years before she had left.",
+        "She has been working there for two years before she left."
+      ],
+      "answerIndex": 1,
+      "explanation": "Chỉ mệnh đề trước dùng **past perfect**; mệnh đề sau **before** dùng **past simple**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "By the time the ambulance arrived, the patient ___ (regain) consciousness.",
+      "answers": ["had regained"],
+      "hint": "By the time + past simple",
+      "explanation": "Hành động hoàn tất trước mốc **arrived** → past perfect."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The streets were empty because everyone ___ (go) home early.",
+      "answers": ["had gone"],
+      "hint": "nguyên nhân của trạng thái quá khứ",
+      "explanation": "Việc về nhà xảy ra trước trạng thái đường vắng → past perfect."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "They ___ (negotiate) for six months when the deal finally collapsed.",
+      "answers": ["had been negotiating"],
+      "hint": "for six months + when",
+      "explanation": "Quá trình kéo dài trước sự kiện **collapsed** → past perfect continuous."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "I was surprised that so few candidates ___ (apply) for the scholarship.",
+      "answers": ["had applied"],
+      "hint": "trước cảm giác ngạc nhiên",
+      "explanation": "Việc nộp đơn xảy ra trước **was surprised** → past perfect."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "By 1990, the city ___ (already / lose) most of its wetlands.",
+      "answers": ["had already lost"],
+      "hint": "By 1990",
+      "explanation": "**By + mốc quá khứ** đánh dấu hành động hoàn tất trước mốc đó → past perfect."
+    }
+  ]
+}

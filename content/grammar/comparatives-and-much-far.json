@@ -1,0 +1,206 @@
+{
+  "slug": "comparatives-and-much-far",
+  "title": "Comparatives: as ... as, much, far",
+  "titleVi": "So sánh hơn: as ... as, much, far",
+  "level": "B1",
+  "topic": "comparison",
+  "bookUnits": [105, 106, 107],
+  "bandFocus": "7.0",
+  "summary": "So sánh chính xác về mức độ: much/far/a bit + comparative, as ... as, và cấu trúc so sánh danh từ.",
+  "whyItMatters": "Task 1 gần như luôn yêu cầu **so sánh**, và Task 2 yêu cầu so sánh mức độ giữa các nhóm: *far more likely*, *slightly higher than*, *twice as many*. Nếu chỉ viết *more expensive* mà không có **much/far/slightly**, câu mô tả mất sắc thái; nếu viết *more easier* thì mất điểm ngay. Đây là điểm ngữ pháp rẻ điểm nhất trong toàn bộ Writing.",
+  "sections": [
+    {
+      "heading": "-er or more? The form of the comparative",
+      "body": [
+        "Short adjectives (one syllable) take **-er**: *cheap → cheaper*, *large → larger*, *big → bigger* (double the consonant after a short vowel). Two-syllable adjectives ending in **-y** change to **-ier**: *easy → easier*, *early → earlier*.",
+        "Longer adjectives take **more**: *more expensive*, *more serious*, *more efficient*. Adverbs ending in **-ly** also take *more*: *more slowly*, *more seriously*.",
+        "A few are irregular: *good/well → better*, *bad/badly → worse*, *far → further* (or *farther*). Note that **further** also means *additional*: *further research*, *further delays*."
+      ],
+      "table": {
+        "headers": ["Adjective", "Comparative", "Rule"],
+        "rows": [
+          ["cheap", "cheaper", "one syllable → -er"],
+          ["large", "larger", "silent -e → add -r"],
+          ["big", "bigger", "short vowel + consonant → double it"],
+          ["easy", "easier", "-y → -ier"],
+          ["expensive", "more expensive", "three syllables → more"],
+          ["good / well", "better", "irregular"],
+          ["bad / badly", "worse", "irregular"],
+          ["far", "further / farther", "irregular"]
+        ]
+      }
+    },
+    {
+      "heading": "Saying how much: much, far, a lot, slightly, no",
+      "body": [
+        "A bare comparative is neutral. To state the **size** of the difference, add a modifier before it: *much*, *far*, *a lot*, *considerably*, *significantly* for a large gap; *a bit*, *a little*, *slightly*, *marginally* for a small one.",
+        "Use **no** and **any** for absence of difference: *The new system is **no** faster than the old one*, *Is the second chart **any** more reliable?*",
+        "These modifiers are what make a Task 1 sentence informative: *Renewable capacity grew **far** more quickly than gas*, not merely *grew more quickly*."
+      ],
+      "examples": [
+        { "right": "Electric vehicles are still far more expensive than comparable petrol models.", "wrong": "Electric vehicles are still far expensive than comparable petrol models.", "note": "**far** needs a comparative form after it: *far more expensive*." },
+        { "right": "Rents in the capital are slightly higher than in the northern provinces.", "note": "**slightly** signals a small gap." },
+        { "right": "The revised policy is no more effective than the original.", "note": "**no + comparative** = the two are equal in the relevant respect." }
+      ]
+    },
+    {
+      "heading": "Equality: as ... as, not as ... as, the same as",
+      "body": [
+        "For equal comparison use **as + adjective/adverb + as**: *The exam was as difficult as we expected.* The negative is **not as … as** (or *not so … as* in formal writing): *Renewable energy is not as cheap as coal in this region.*",
+        "To compare **quantities**, put the noun between *as* and *as*: *as many students as*, *as much water as*, *as few options as*. With multiples, put the multiplier first: *twice as many*, *three times as much*, *half as expensive*.",
+        "**The same as** compares identity or equality of type: *The two regions have the same rate of unemployment.* Do not mix it with *as*: *the same like* is not English."
+      ],
+      "examples": [
+        { "right": "The north has twice as many manufacturing jobs as the south.", "wrong": "The north has twice more manufacturing jobs as the south.", "note": "Multiples use **as … as**, not a comparative." },
+        { "right": "Access to childcare is not as widespread as access to primary schools.", "note": "**not as … as** = less than." },
+        { "right": "The two cities face the same level of congestion.", "wrong": "The two cities face the same level of congestion like each other.", "note": "**the same … as**, never *the same … like*." }
+      ]
+    },
+    {
+      "heading": "Comparing nouns: than that of, than those in",
+      "body": [
+        "When you compare a statistic across two groups, keep the comparison **parallel**. If the first noun is *the rate*, the second must be a rate too: *The rate in urban areas is higher than **that** in rural areas* — not *higher than rural areas*, which compares a rate with a place.",
+        "Use **that of / those of** for singular and plural: *the income of graduates … than **that of** non-graduates*; *the figures for 2020 … than **those for** 2010*.",
+        "After **than** you can repeat the clause (*than I expected*) or use a pronoun (*than me*). In academic writing the full clause is safer: *The decline was steeper than **analysts had predicted**.*"
+      ],
+      "examples": [
+        { "right": "The employment rate among graduates is higher than that among school leavers.", "wrong": "The employment rate among graduates is higher than school leavers.", "note": "Compare **rate with rate**, not rate with people." },
+        { "right": "Spending on health in 2020 was double that of 2000.", "note": "**that of** stands in for *spending*." },
+        { "right": "The figure rose faster than the government had forecast.", "note": "Full clause after **than** — precise and formal." }
+      ]
+    },
+    {
+      "heading": "Comparatives that raise your band",
+      "body": [
+        "**Increasingly / decreasingly** + adjective describes a moving baseline: *University education has become **increasingly** expensive.* This is more sophisticated than *more and more expensive*.",
+        "**The + comparative, the + comparative** links two trends: *The longer students remain in education, the higher their lifetime earnings tend to be.* Use it once per essay — it is a signature C1 structure.",
+        "**More … than** can also compare actions and clauses: *Cities now spend more on public transport than they do on roads.* Keep the verbs parallel so the comparison stays clean."
+      ],
+      "examples": [
+        { "right": "The more automated a sector becomes, the fewer low-skilled jobs it offers.", "wrong": "The more a sector becomes automated, the fewer low-skilled jobs it offers more.", "note": "Fixed frame: **the + comparative, the + comparative** — no extra *more* at the end." },
+        { "right": "Housing has become increasingly unaffordable for younger households.", "note": "**increasingly** = more and more, in one word." },
+        { "right": "The city spends more on cycling infrastructure than it did a decade ago.", "note": "Clause comparison with parallel verbs." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "This route is more easier than the motorway.",
+      "right": "This route is easier than the motorway.",
+      "why": "Không dùng **more** với dạng `-er`. Chọn một: *easier* hoặc *more easy* (hiếm), không bao giờ cả hai."
+    },
+    {
+      "wrong": "The new building is much expensive than the old one.",
+      "right": "The new building is much more expensive than the old one.",
+      "why": "Sau **much/far/a lot** phải là dạng so sánh. *Much expensive* thiếu `more`."
+    },
+    {
+      "wrong": "The rate in cities is higher than rural areas.",
+      "right": "The rate in cities is higher than that in rural areas.",
+      "why": "Không thể so sánh **tỉ lệ** với **vùng**. Dùng **that of / that in** để giữ phép so sánh song song."
+    },
+    {
+      "wrong": "The exam was not as harder as we expected.",
+      "right": "The exam was not as hard as we expected.",
+      "why": "Cấu trúc **as + adjective (nguyên dạng) + as**, không dùng comparative ở giữa."
+    },
+    {
+      "wrong": "The two countries have the same unemployment rate like each other.",
+      "right": "The two countries have the same unemployment rate.",
+      "why": "**the same** đã hàm ý so sánh; không cần *like each other*. Nếu muốn nêu đối tượng, dùng **the same … as**."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, luôn kèm **modifier** khi so sánh: *slightly higher*, *far steeper*, *roughly twice as high*. Câu vừa chính xác vừa thể hiện bạn đọc được độ lớn của chênh lệch.",
+    "Dùng **than that of / than those of** khi so sánh số liệu giữa hai nhóm: *The literacy rate in urban areas is higher than **that in** rural districts.* Đây là cấu trúc giám khảo nhận ra ngay là band 7+.",
+    "Dùng **increasingly** thay cho *more and more* trong Task 2: *Healthcare has become **increasingly** reliant on private funding.* Gọn hơn, trang trọng hơn, cùng nghĩa.",
+    "Thử một câu **the + comparative, the + comparative** ở phần thân bài: *The more densely a city is built, the more efficient its public transport becomes.* Chỉ một câu là đủ để thể hiện range."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "This flat is ___ than the one we saw yesterday.",
+      "options": ["much more spacious", "much spacious", "more much spacious", "spaciouser"],
+      "answerIndex": 0,
+      "explanation": "**much + more + long adjective** — the comparative needs *more*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The exam was not ___ we had feared.",
+      "options": ["as hard as", "as harder as", "so harder than", "harder as"],
+      "answerIndex": 0,
+      "explanation": "Negative equality: **not as + adjective + as**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The north has ___ manufacturing jobs as the south.",
+      "options": ["twice as many", "twice more", "twice many", "as twice many"],
+      "answerIndex": 0,
+      "explanation": "Multiples use **as many … as**: *twice as many … as*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The employment rate for graduates is higher than ___ for school leavers.",
+      "options": ["that", "those", "this", "it"],
+      "answerIndex": 0,
+      "explanation": "The antecedent *rate* is singular → **that**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Housing has become more and more unaffordable.",
+        "Housing has become increasingly unaffordable.",
+        "Housing has become more unaffordable than before increasingly.",
+        "Housing has become much unaffordable."
+      ],
+      "answerIndex": 1,
+      "explanation": "**increasingly** is the single-word academic equivalent of *more and more*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "Renewable capacity grew ___ (far / quickly) than gas capacity.",
+      "answers": ["far more quickly", "much more quickly"],
+      "hint": "modifier + comparative adverb",
+      "explanation": "*Quickly* is an -ly adverb → **more quickly**, intensified by **far/much**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The service in rural clinics is ___ (slight / slow) than in urban hospitals.",
+      "answers": ["slightly slower"],
+      "hint": "small difference",
+      "explanation": "Short adjective → **slower**, with **slightly** for a small gap."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The ___ (long) students stay in education, the higher their lifetime earnings tend to be.",
+      "answers": ["longer"],
+      "hint": "the + comparative, the + comparative",
+      "explanation": "Fixed frame: **the longer …, the higher …**. Only the first comparative is blanked here."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Spending on health in 2020 was double ___ of 2000.",
+      "answers": ["that"],
+      "hint": "stand-in for spending",
+      "explanation": "**that of** replaces the singular noun *spending*."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The revised system is ___ (no / fast) than the original one.",
+      "answers": ["no faster"],
+      "hint": "no difference",
+      "explanation": "**no + comparative** means the two are equal in speed."
+    }
+  ]
+}

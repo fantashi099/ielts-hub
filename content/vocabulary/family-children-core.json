@@ -1,0 +1,447 @@
+{
+  "slug": "family-children-core",
+  "title": "Family and children — core set",
+  "titleVi": "Gia đình và trẻ em — bộ từ cốt lõi",
+  "topic": "family-children",
+  "description": "Bộ từ về cách nuôi dạy con, các kiểu gia đình và áp lực lên cha mẹ hiện đại. Nhóm này giúp bạn viết về gia đình một cách cụ thể thay vì lặp lại \"family is important\".",
+  "ieltsUse": "Dùng cho Task 2 các đề về nuôi dạy con, vai trò của gia đình, nghỉ thai sản, khoảng cách thế hệ và ảnh hưởng của bạn bè tới trẻ.",
+  "words": [
+    {
+      "word": "upbringing",
+      "pos": "noun",
+      "ipa": "/ˈʌpbrɪŋɪŋ/",
+      "band": "7.0",
+      "vi": "sự nuôi dạy, cách giáo dục trong gia đình",
+      "def": "the way a child is raised by parents or carers",
+      "example": "A stable upbringing is one of the strongest predictors of academic success.",
+      "collocations": [
+        "strict upbringing",
+        "a stable upbringing"
+      ],
+      "synonyms": [
+        "rearing",
+        "child-rearing"
+      ]
+    },
+    {
+      "word": "parenting",
+      "pos": "noun",
+      "ipa": "/ˈpeərəntɪŋ/",
+      "band": "7.0",
+      "vi": "việc nuôi dạy con",
+      "def": "the activity of raising children",
+      "example": "Modern parenting places enormous pressure on working mothers in particular.",
+      "collocations": [
+        "parenting style",
+        "positive parenting"
+      ],
+      "synonyms": [
+        "child-rearing",
+        "childcare"
+      ]
+    },
+    {
+      "word": "sibling",
+      "pos": "noun",
+      "ipa": "/ˈsɪblɪŋ/",
+      "band": "6.5",
+      "vi": "anh chị em ruột",
+      "def": "a brother or sister",
+      "example": "Children with siblings develop negotiation skills earlier than only children.",
+      "collocations": [
+        "sibling rivalry",
+        "sibling relationship"
+      ],
+      "synonyms": [
+        "brother or sister",
+        "kin"
+      ]
+    },
+    {
+      "word": "extended family",
+      "pos": "collocation",
+      "ipa": "/ɪkˌstendɪd ˈfæməli/",
+      "band": "7.0",
+      "vi": "đại gia đình (nhiều thế hệ, họ hàng)",
+      "def": "a family including grandparents, aunts, uncles and cousins",
+      "example": "In many Asian societies the extended family still shares childcare duties.",
+      "collocations": [
+        "live with extended family",
+        "extended family network"
+      ],
+      "synonyms": [
+        "kinship group",
+        "wider family"
+      ]
+    },
+    {
+      "word": "nuclear family",
+      "pos": "collocation",
+      "ipa": "/ˌnjuːkliə ˈfæməli/",
+      "band": "7.0",
+      "vi": "gia đình hạt nhân (bố mẹ và con)",
+      "def": "a household of two parents and their children",
+      "example": "The nuclear family has replaced the multi-generational household in many cities.",
+      "collocations": [
+        "nuclear family household",
+        "traditional nuclear family"
+      ],
+      "synonyms": [
+        "immediate family",
+        "two-parent family"
+      ]
+    },
+    {
+      "word": "single-parent family",
+      "pos": "collocation",
+      "ipa": "/ˌsɪŋɡl ˈpeərənt ˈfæməli/",
+      "band": "7.5",
+      "vi": "gia đình đơn thân",
+      "def": "a household headed by one parent",
+      "example": "A single-parent family often struggles with childcare costs and inflexible jobs.",
+      "collocations": [
+        "single-parent household",
+        "growing number of single-parent families"
+      ],
+      "synonyms": [
+        "lone-parent family",
+        "one-parent household"
+      ]
+    },
+    {
+      "word": "generation gap",
+      "pos": "collocation",
+      "ipa": "/ˌdʒenəˈreɪʃən ɡæp/",
+      "band": "7.5",
+      "vi": "khoảng cách thế hệ",
+      "def": "differences in values between young and old people",
+      "example": "Technology has widened the generation gap within many households.",
+      "collocations": [
+        "bridge the generation gap",
+        "narrow the generation gap"
+      ],
+      "synonyms": [
+        "intergenerational divide",
+        "age gap"
+      ]
+    },
+    {
+      "word": "parental discipline",
+      "pos": "collocation",
+      "ipa": "/pəˌrentl ˈdɪsəplɪn/",
+      "band": "7.5",
+      "vi": "kỷ luật của cha mẹ",
+      "def": "the rules parents use to control children's behaviour",
+      "example": "Excessive parental discipline can damage a child's confidence rather than improve behaviour.",
+      "collocations": [
+        "firm parental discipline",
+        "lack of parental discipline"
+      ],
+      "synonyms": [
+        "child discipline",
+        "boundary-setting"
+      ]
+    },
+    {
+      "word": "nurture",
+      "pos": "verb",
+      "ipa": "/ˈnɜːtʃə/",
+      "band": "8.0",
+      "vi": "nuôi dưỡng, bồi đắp",
+      "def": "to care for and encourage the growth of someone",
+      "example": "Schools should nurture curiosity rather than reward passive obedience.",
+      "collocations": [
+        "nurture talent",
+        "nurture a child"
+      ],
+      "synonyms": [
+        "foster",
+        "cultivate"
+      ],
+      "family": [
+        "nurturing (adj)"
+      ]
+    },
+    {
+      "word": "adolescence",
+      "pos": "noun",
+      "ipa": "/ˌædəˈlesəns/",
+      "band": "7.5",
+      "vi": "tuổi vị thành niên",
+      "def": "the period between childhood and adulthood",
+      "example": "During adolescence, peer approval often matters more than parental advice.",
+      "collocations": [
+        "early adolescence",
+        "during adolescence"
+      ],
+      "synonyms": [
+        "teenage years",
+        "youth"
+      ],
+      "family": [
+        "adolescent (n)"
+      ]
+    },
+    {
+      "word": "toddler",
+      "pos": "noun",
+      "ipa": "/ˈtɒdlə/",
+      "band": "6.5",
+      "vi": "trẻ mới biết đi (1-3 tuổi)",
+      "def": "a child aged about one to three",
+      "example": "Screen time for toddlers should be limited, according to paediatric guidance.",
+      "collocations": [
+        "toddler group",
+        "a restless toddler"
+      ],
+      "synonyms": [
+        "small child",
+        "infant"
+      ]
+    },
+    {
+      "word": "childcare",
+      "pos": "noun",
+      "ipa": "/ˈtʃaɪldkeə/",
+      "band": "7.0",
+      "vi": "việc chăm sóc trẻ",
+      "def": "the care of children while parents work",
+      "example": "Affordable childcare enables more mothers to return to full-time work.",
+      "collocations": [
+        "childcare costs",
+        "childcare provision"
+      ],
+      "synonyms": [
+        "day care",
+        "child minding"
+      ]
+    },
+    {
+      "word": "maternity leave",
+      "pos": "collocation",
+      "ipa": "/məˈtɜːnəti liːv/",
+      "band": "7.5",
+      "vi": "nghỉ thai sản (cho mẹ)",
+      "def": "time off work for a mother around the birth of a child",
+      "example": "Generous maternity leave is associated with lower infant mortality.",
+      "collocations": [
+        "paid maternity leave",
+        "statutory maternity leave"
+      ],
+      "synonyms": [
+        "parental leave",
+        "birth leave"
+      ]
+    },
+    {
+      "word": "paternity leave",
+      "pos": "collocation",
+      "ipa": "/pəˈtɜːnəti liːv/",
+      "band": "8.0",
+      "vi": "nghỉ thai sản (cho cha)",
+      "def": "time off work for a father after a child is born",
+      "example": "Countries offering paternity leave report a more equal division of household work.",
+      "collocations": [
+        "paid paternity leave",
+        "take paternity leave"
+      ],
+      "synonyms": [
+        "father's leave",
+        "parental leave"
+      ]
+    },
+    {
+      "word": "breadwinner",
+      "pos": "noun",
+      "ipa": "/ˈbredwɪnə/",
+      "band": "7.5",
+      "vi": "người trụ cột kinh tế trong gia đình",
+      "def": "the person who earns most of a family's income",
+      "example": "When the breadwinner loses a job, the whole household is affected.",
+      "collocations": [
+        "sole breadwinner",
+        "main breadwinner"
+      ],
+      "synonyms": [
+        "earner",
+        "provider"
+      ]
+    },
+    {
+      "word": "household chores",
+      "pos": "collocation",
+      "ipa": "/ˈhaʊshəʊld tʃɔːz/",
+      "band": "7.0",
+      "vi": "việc nhà",
+      "def": "routine tasks such as cleaning and cooking",
+      "example": "Sharing household chores fairly reduces conflict between partners.",
+      "collocations": [
+        "share household chores",
+        "domestic chores"
+      ],
+      "synonyms": [
+        "domestic duties",
+        "housework"
+      ]
+    },
+    {
+      "word": "filial piety",
+      "pos": "collocation",
+      "ipa": "/ˌfɪliəl ˈpaɪəti/",
+      "band": "8.0",
+      "vi": "lòng hiếu thảo",
+      "def": "the duty of children to respect and care for parents",
+      "example": "Filial piety remains central to family life in much of East Asia.",
+      "collocations": [
+        "traditional filial piety",
+        "filial piety and duty"
+      ],
+      "synonyms": [
+        "family devotion",
+        "respect for elders"
+      ]
+    },
+    {
+      "word": "role model",
+      "pos": "collocation",
+      "ipa": "/ˈrəʊl mɒdl/",
+      "band": "7.0",
+      "vi": "hình mẫu để noi theo",
+      "def": "a person whose behaviour others copy",
+      "example": "Parents are the most influential role models for young children.",
+      "collocations": [
+        "positive role model",
+        "act as a role model"
+      ],
+      "synonyms": [
+        "example",
+        "inspiration"
+      ]
+    },
+    {
+      "word": "peer pressure",
+      "pos": "collocation",
+      "ipa": "/ˈpɪə preʃə/",
+      "band": "7.0",
+      "vi": "áp lực từ bạn bè",
+      "def": "influence from friends to behave in a particular way",
+      "example": "Peer pressure pushes many teenagers towards smoking and alcohol.",
+      "collocations": [
+        "strong peer pressure",
+        "give in to peer pressure"
+      ],
+      "synonyms": [
+        "social pressure",
+        "group influence"
+      ]
+    },
+    {
+      "word": "overprotective",
+      "pos": "adjective",
+      "ipa": "/ˌəʊvəprəˈtektɪv/",
+      "band": "8.0",
+      "vi": "bảo bọc quá mức",
+      "def": "too anxious to let a child become independent",
+      "example": "Overprotective parents may unintentionally prevent children from learning resilience.",
+      "collocations": [
+        "overprotective parents",
+        "overprotective attitude"
+      ],
+      "synonyms": [
+        "smothering",
+        "over-cautious"
+      ]
+    },
+    {
+      "word": "permissive",
+      "pos": "adjective",
+      "ipa": "/pəˈmɪsɪv/",
+      "band": "7.5",
+      "vi": "dễ dãi, buông lỏng",
+      "def": "allowing too much freedom, especially in parenting",
+      "example": "Permissive parenting is often blamed for poor self-discipline in teenagers.",
+      "collocations": [
+        "permissive parenting",
+        "permissive attitude"
+      ],
+      "synonyms": [
+        "lenient",
+        "indulgent"
+      ],
+      "antonyms": [
+        "strict"
+      ]
+    },
+    {
+      "word": "bonding",
+      "pos": "noun",
+      "ipa": "/ˈbɒndɪŋ/",
+      "band": "7.5",
+      "vi": "sự gắn kết tình cảm",
+      "def": "the development of a close emotional relationship",
+      "example": "Skin-to-skin contact encourages bonding between parents and newborn babies.",
+      "collocations": [
+        "parent-child bonding",
+        "family bonding"
+      ],
+      "synonyms": [
+        "attachment",
+        "closeness"
+      ],
+      "family": [
+        "bond (v)"
+      ]
+    },
+    {
+      "word": "offspring",
+      "pos": "noun",
+      "ipa": "/ˈɒfsprɪŋ/",
+      "band": "7.5",
+      "vi": "con cái, thế hệ sau",
+      "def": "the children of a person or animal",
+      "example": "Better education allows parents to invest more in each of their offspring.",
+      "collocations": [
+        "raise offspring",
+        "offspring of migrants"
+      ],
+      "synonyms": [
+        "children",
+        "descendants"
+      ]
+    },
+    {
+      "word": "kinship",
+      "pos": "noun",
+      "ipa": "/ˈkɪnʃɪp/",
+      "band": "8.0",
+      "vi": "quan hệ huyết thống, họ hàng",
+      "def": "the relationship between members of a family",
+      "example": "Kinship ties remain strong even among families separated by migration.",
+      "collocations": [
+        "kinship ties",
+        "kinship network"
+      ],
+      "synonyms": [
+        "family ties",
+        "blood relationship"
+      ]
+    },
+    {
+      "word": "dual-income household",
+      "pos": "collocation",
+      "ipa": "/ˌdjuːəl ˈɪnkʌm ˈhaʊshəʊld/",
+      "band": "8.0",
+      "vi": "hộ gia đình có hai nguồn thu nhập",
+      "def": "a household where both partners work for pay",
+      "example": "Dual-income households can afford better housing but have far less time at home.",
+      "collocations": [
+        "rising number of dual-income households",
+        "dual-income household finances"
+      ],
+      "synonyms": [
+        "two-earner family",
+        "working couple"
+      ]
+    }
+  ]
+}

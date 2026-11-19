@@ -1,0 +1,203 @@
+{
+  "slug": "prepositions-of-time-and-place",
+  "title": "Prepositions of time and place",
+  "titleVi": "Giới từ chỉ thời gian và nơi chốn",
+  "level": "B1",
+  "topic": "prepositions",
+  "bookUnits": [119, 120, 121, 123, 124, 125],
+  "bandFocus": "7.0",
+  "summary": "at/on/in cho thời gian, during/for/while, by/until, và in/on/at cho nơi chốn — nền tảng của mọi mô tả Task 1.",
+  "whyItMatters": "Task 1 là bài mô tả thời gian và vị trí, nên giới từ sai làm câu mô tả sai: *in 2010* đúng, *on 2010* sai; *during three years* sai, *for three years* đúng. Ở band 6, lỗi giới từ xuất hiện vài lần mỗi đoạn và khiến người đọc phải dừng lại. Sửa nhóm này là cách nhanh nhất để câu văn trôi.",
+  "sections": [
+    {
+      "heading": "at, on, in for time",
+      "body": [
+        "Think of it as a scale from **point** to **surface** to **container**. **At** marks a point in time: *at 7 o'clock*, *at noon*, *at midnight*, *at the weekend* (British English), *at Christmas*. **On** marks a day or date: *on Monday*, *on 3 May*, *on my birthday*, *on New Year's Day*.",
+        "**In** marks a longer period — month, year, season, decade, century, or part of the day: *in July*, *in 2019*, *in winter*, *in the 1990s*, *in the morning*. The main exception is **at night**.",
+        "Fixed phrases to memorise: *in the morning / afternoon / evening*, **but** *at night*; *on Monday morning*; *in time* (early enough) versus *on time* (punctual)."
+      ],
+      "table": {
+        "headers": ["Preposition", "Use", "Examples"],
+        "rows": [
+          ["at", "clock time, night, weekend, festivals", "at 6.30, at night, at the weekend, at Tet"],
+          ["on", "days, dates, day + part of day", "on Tuesday, on 1 July, on Friday evening"],
+          ["in", "month, year, season, decade, part of day", "in March, in 2024, in autumn, in the morning"],
+          ["by", "not later than a deadline", "by 2030, by the end of the year"],
+          ["until", "continuing up to a point", "until 2015, until midnight"]
+        ]
+      }
+    },
+    {
+      "heading": "during, for, while; by and until",
+      "body": [
+        "**During + noun** answers *when*: *during the recession*, *during the 1990s*. **For + period** answers *how long*: *for three years*, *for a decade*. **While + clause**: *while the economy was growing*.",
+        "A quick test: if you can ask *how long?*, use **for**; if you can ask *when?*, use **during**. *During three years* fails the test because *three years* is a length, not a point.",
+        "**By** = not later than (a deadline): *The target should be met by 2030.* **Until** = continuing up to (a stop): *The scheme ran until 2015.* So *by 2015* means at some point before 2015; *until 2015* means it continued and then stopped."
+      ],
+      "examples": [
+        { "right": "House prices doubled during the pandemic.", "wrong": "House prices doubled for the pandemic.", "note": "**during** + noun naming a period." },
+        { "right": "The programme ran for six years.", "note": "**for** + length of time." },
+        { "right": "The figure is projected to reach 40% by 2030.", "wrong": "The figure is projected to reach 40% until 2030.", "note": "**by** = deadline; *until* would mean it stays at 40% up to 2030." }
+      ]
+    },
+    {
+      "heading": "in, on, at for place",
+      "body": [
+        "**In** = inside a space or area: *in the room*, *in Hanoi*, *in Vietnam*, *in the north of the country*. **On** = on a surface or along a line: *on the table*, *on the wall*, *on the coast*, *on the second floor*, *on the left*.",
+        "**At** = at a point or at a place seen as a point of activity: *at the station*, *at the airport*, *at school*, *at work*, *at home*, *at the corner*. This is why *at school* means attending school, while *in the school* means physically inside the building.",
+        "For cities, countries and regions use **in**; for a precise address use **at**: *at 25 Tran Hung Dao Street*. For transport, **on** a bus/train/plane, **in** a car/taxi."
+      ],
+      "table": {
+        "headers": ["Preposition", "Meaning", "Examples"],
+        "rows": [
+          ["in", "enclosed space, city, country, region", "in the office, in Da Nang, in Asia"],
+          ["on", "surface, floor, line, coast, left/right", "on the wall, on the third floor, on the coast"],
+          ["at", "point, public place, activity", "at the bus stop, at university, at work"],
+          ["to", "movement towards", "to the station, to Hanoi"],
+          ["into", "movement inside", "into the building, into the water"]
+        ]
+      }
+    },
+    {
+      "heading": "Describing position in Task 1 maps and charts",
+      "body": [
+        "Maps and location descriptions need precise spatial phrases: *in the north of the city*, *to the south of the river*, *on the eastern edge*, *along the coast*, *at the junction of two roads*.",
+        "Note the difference between **in the north of** (inside the area) and **to the north of** (outside it): *Hanoi is in the north of Vietnam*, but *Haiphong lies to the east of Hanoi*.",
+        "For change over time on a map, combine place and time: *In 1990, the site to the west of the station was farmland; by 2020 it had become a car park.*"
+      ],
+      "examples": [
+        { "right": "The new housing estate lies to the south of the river.", "note": "**to the south of** = outside but on that side." },
+        { "right": "The factory is on the eastern edge of the town.", "note": "**on the edge** — surface/boundary." },
+        { "right": "In 2005, the area at the junction of the two roads was undeveloped.", "wrong": "In 2005, the area in the junction of the two roads was undeveloped.", "note": "A junction is a point → **at**." }
+      ]
+    },
+    {
+      "heading": "The preposition errors worth memorising",
+      "body": [
+        "Some phrases are fixed and cannot be reasoned out: *in the end* (finally) versus *at the end of* (at the final point); *on time* (punctual) versus *in time* (early enough); *at present* versus *in the present*.",
+        "Learn these as whole units, not as preposition + noun. A short list of ten fixed phrases will cover most of what Task 1 and Task 2 require.",
+        "When you are unsure in the exam, choose the simpler structure: *in 2019* rather than *in the year of 2019*, *for ten years* rather than *during ten years*."
+      ],
+      "examples": [
+        { "right": "In the end, the council approved the plan.", "wrong": "At the end, the council approved the plan.", "note": "**in the end** = finally; *at the end* needs *of + noun*." },
+        { "right": "The train arrived on time.", "note": "**on time** = punctual." },
+        { "right": "We arrived in time to catch the last bus.", "note": "**in time** = early enough." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The figure rose sharply on 2010.",
+      "right": "The figure rose sharply in 2010.",
+      "why": "Năm dùng **in**, không dùng *on*. *On* chỉ dùng cho ngày hoặc thứ."
+    },
+    {
+      "wrong": "Unemployment fell during three years.",
+      "right": "Unemployment fell for three years.",
+      "why": "**during** + danh từ chỉ khoảng thời gian cụ thể (*during the recession*); độ dài thời gian dùng **for**."
+    },
+    {
+      "wrong": "The target must be reached until 2030.",
+      "right": "The target must be reached by 2030.",
+      "why": "**by** = không muộn hơn một mốc; **until** = tiếp diễn đến mốc đó rồi dừng."
+    },
+    {
+      "wrong": "She studies in the university.",
+      "right": "She studies at university.",
+      "why": "**at university** = đang theo học (hoạt động); *in the university* = ở bên trong toà nhà."
+    },
+    {
+      "wrong": "There is a new bridge in the river.",
+      "right": "There is a new bridge over the river. / across the river.",
+      "why": "Cầu nằm **bên trên** dòng sông, không nằm trong nước. Giới từ không gian phải khớp với quan hệ thật."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, dùng **from … to …** và **between … and …** cho khoảng thời gian, và **by** cho mốc dự báo: *Between 2000 and 2010, sales doubled; **by** 2030, they are expected to triple.*",
+    "Với biểu đồ có mốc thời gian mở, dùng **since + mốc** và **over + khoảng**: *Since 2015, rents have risen sharply; **over** the past decade, the gap has widened.*",
+    "Trong Task 1 map, dùng **to the north/south/east/west of** khi vị trí nằm ngoài khu vực đang mô tả, và **in the north of** khi nằm bên trong: *The station is **to the east of** the park, while the market lies **in the north of** the town.*",
+    "Học thuộc mười cụm cố định thay vì học quy tắc: **in the end / at the end of**, **on time / in time**, **at night / in the morning**, **at the weekend**, **on the coast**, **in the north of**. Chúng xuất hiện gần như mọi bài Task 1."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The number of visitors peaked ___ 2018.",
+      "options": ["on", "at", "in", "by"],
+      "answerIndex": 2,
+      "explanation": "Years take **in**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The scheme ran ___ six years.",
+      "options": ["during", "for", "since", "by"],
+      "answerIndex": 1,
+      "explanation": "A length of time → **for**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The report must be submitted ___ Friday.",
+      "options": ["until", "by", "during", "for"],
+      "answerIndex": 1,
+      "explanation": "A deadline → **by**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "She is studying ___ university in Melbourne.",
+      "options": ["in", "on", "at", "to"],
+      "answerIndex": 2,
+      "explanation": "**at university** = attending it."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "The village lies ___ the south of the river.",
+      "options": ["in", "on", "at", "to"],
+      "answerIndex": 3,
+      "explanation": "Outside the area, on that side → **to the south of**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "House prices doubled ___ the pandemic.",
+      "answers": ["during"],
+      "hint": "when? + noun",
+      "explanation": "**during** + noun naming a period."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The factory is ___ the eastern edge of the town.",
+      "answers": ["on"],
+      "hint": "surface / boundary",
+      "explanation": "**on the edge** — a boundary is treated as a line."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "We arrived just ___ time to catch the last bus.",
+      "answers": ["in"],
+      "hint": "early enough",
+      "explanation": "**in time** = early enough; *on time* = punctual."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The temperature is highest ___ noon.",
+      "answers": ["at"],
+      "hint": "point in time",
+      "explanation": "**at noon** — a point in time."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "___ the end, the council approved the plan.",
+      "answers": ["in"],
+      "hint": "finally",
+      "explanation": "**in the end** = finally."
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+        The Forum Center
+
+
+
+
+IELTS WRITING TASK 1
+     Nguyễn Hoàng Huy
+
+
+
+
+             1 / 17
+                                    The Forum Center
+
+
+
+1. Cấu trúc bài viết
+    Task 1 yêu cầu bài viết dài ít nhất 150 từ. Thí sinh nên dành khoảng 20 phút cho phần
+này để còn đủ thời gian làm Task 2, phần có trọng số gấp đôi trong điểm Writing. Khi
+luyện tập, bạn có thể viết khoảng 170-190 (mốc này để bạn tham khảo, dựa trên kinh
+nghiệm của người viết) từ nếu độ dài này đủ để trình bày các đặc điểm chính và số liệu cần
+thiết.
+     Huy sử dụng cấu trúc bốn đoạn để phân chia công việc khi viết. Introduction giới
+thiệu về các biểu đồ, overview nêu những đặc điểm nổi bật còn hai đoạn body trình bày
+chi tiết theo từng nhóm thông tin.
+
+            Phần                        Nhiệm vụ                 Câu hỏi cần trả lời
+
+ Introduction                  Giới thiệu nội dung hình      Đo cái gì, ở đâu, khi nào?
+
+ Overview                      Khái quát các đặc điểm        Xu hướng, thứ hạng hoặc
+                               chính                         thay đổi nào nổi bật?
+
+ Body 1                        Trình bày nhóm thông tin      Những chi tiết nào nên
+                               thứ nhất                      đặt cạnh nhau?
+
+ Body 2                        Trình bày nhóm thông tin      Nhóm này bổ sung hoặc
+                               còn lại                       đối lập với nhóm trước thế
+                                                             nào?
+
+
+    Cách chia bốn đoạn giúp mỗi phần có một nhiệm vụ cụ thể, song IELTS không quy
+định số đoạn bắt buộc. Khi đã có overview, bài viết không cần thêm conclusion để nhắc lại
+cùng một nhận định. Bài làm cần được trình bày bằng các câu và đoạn hoàn chỉ, các bảng
+và danh sách trong tài liệu dùng để hướng dẫn cách viết.
+     Bài viết được chấm theo bốn tiêu chí Task Achievement, Coherence and Cohesion,
+Lexical Resource, Grammatical Range and Accuracy. Các tiêu chí này lần lượt xem xét
+cách chọn và mô tả thông tin, cách tổ chức ý, độ chính xác và phạm vi sử dụng từ vựng,
+cùng khả năng sử dụng ngữ pháp. Vì vậy, quá trình luyện tập cần kết hợp đọc hình, chọn
+ý, sắp xếp đoạn và viết câu.
+Introduction: The line graph compares the proportions of commuters in a city
+using cars, buses and bicycles as their main means of transport from 2010 to
+2025.
+   Câu Introduction trên cho biết biểu đồ thể hiện nội dung gì, nói về đối tượng nào, ở
+đâu và trong khoảng thời gian nào. Khi diễn đạt lại đề bài, có thể giữ những từ đã phù hợp
+
+
+
+
+                                          2 / 17
+                                    The Forum Center
+
+
+như percentage, commuters hoặc transport. Mỗi cách thay từ đều cần giữ đúng nghĩa của
+thông tin trong đề.
+Overview: Câu overview sau chỉ thông báo rằng có sự thay đổi, nên người đọc
+chưa biết đặc điểm nào đáng chú ý.
+      Overall, there were several changes in transport use.
+    Có thể nêu cụ thể phương tiện đứng đầu và hướng thay đổi của từng nhóm như sau:
+      Overall, cars remained the most widely used option, although their share declined.
+  Cycling gained ground, while bus use increased more modestly.
+    Người đọc nhờ đó biết rằng ô tô vẫn phổ biến nhất dù tỉ lệ sử dụng giảm, còn xe đạp và
+xe buýt đều tăng với mức độ khác nhau. Body sẽ trình bày các số liệu làm rõ những nhận
+định này. Overview thường chỉ cần một hoặc hai câu, tùy lượng thông tin cần khái quát.
+Có overview rõ là yêu cầu quan trọng của Task Achievement, còn band điểm của bài viết
+phụ thuộc vào kết quả đánh giá theo cả bốn tiêu chí.
+
+2. Quy trình xử lý dữ liệu
+    Trước khi chọn số liệu, bạn cần xác định hình đang đo đại lượng nào và các đối tượng
+có quan hệ ra sao. Năm câu hỏi sau giúp bạn kiểm tra lần lượt đơn vị, thời gian, đặc điểm
+nổi bật và cách chia đoạn:
+1.​ Đo cái gì? Số người, số lượt, tỉ lệ, tiền hay diện tích?
+2.​ Đơn vị là gì? Người hay nghìn người? Phần trăm hay triệu đô la?
+3.​ Mốc nào? Một thời điểm, nhiều thời điểm hay có dự báo?
+4.​ Điểm nổi bật? Cao nhất, thấp nhất, tăng giảm, bằng nhau, đổi thứ hạng, ngoại lệ?
+5.​ Chia nhóm thế nào? Nhóm xong, mỗi body có một nhiệm vụ rõ chưa?
+    Số mốc thời gian giúp xác định trọng tâm mô tả. Bar chart có nhiều năm cần thể hiện
+sự thay đổi qua thời gian, còn table chỉ có một năm chủ yếu yêu cầu so sánh các đối tượng.
+Vì thế, cách viết cần dựa vào dữ liệu cụ thể trong hình.
+Chọn cách nhóm theo quan hệ
+    Sau khi xác định các đặc điểm chính, có thể đặt những đối tượng có cùng xu hướng
+hoặc có sự đối lập đáng chú ý vào một nhóm. Cách nhóm phù hợp sẽ giúp từng body tập
+trung vào một quan hệ cụ thể, như cùng tăng, cùng giảm hoặc chênh lệch giữa hai đối
+tượng.
+
+ Dữ liệu đang cho thấy         Cách nhóm có thể dùng          Overview nên nhìn vào
+
+ Các nhóm tăng, giảm           Nhóm tăng/nhóm giảm            Hướng chính, thứ hạng,
+ khác nhau                     hoặc ổn định                   ngoại lệ
+
+
+
+
+                                          3 / 17
+                                      The Forum Center
+
+
+
+ Dữ liệu đang cho thấy           Cách nhóm có thể dùng           Overview nên nhìn vào
+
+ Nhiều đối tượng ở một           Nhóm cao/thấp hoặc cùng         Đối tượng dẫn đầu, đối
+ thời điểm                       đặc điểm                        tượng thấp nhất, khác biệt
+                                                                 nổi bật
+
+ Hai năm, nhiều hạng mục         Nhóm tăng/nhóm giảm             Cơ cấu và vị trí thay đổi
+                                 và không đổi                    thế nào
+
+ Hai hình khác đơn vị            Mỗi body xử lý một hình         Đặc điểm chính của cả hai
+                                 nếu hợp lý                      hình
+
+ Bản đồ                          Theo khu vực hoặc nhóm          Khu vực được tổ chức lại
+                                 thay đổi                        thế nào, gì được giữ lại
+
+ Quy trình                       Chia theo các chặng nối         Điểm đầu, đầu ra, tuyến
+                                 tiếp                            tính hay tuần hoàn
+
+
+    Các cách nhóm trong bảng là những lựa chọn tham khảo. Nếu chia theo thời gian
+giúp người đọc theo dõi dễ hơn thì có thể tổ chức body theo từng giai đoạn. Dù chọn cách
+nào, các chi tiết trong cùng một đoạn cần có quan hệ với nhau để người đọc hiểu vì sao
+chúng được trình bày cùng nhau.
+Nếu hình có quá nhiều số thì làm như thế nào cho hợp lý?
+    Với hình có nhiều số liệu, có thể bắt đầu từ giá trị đầu kỳ, cuối kỳ, mức cao nhất, thấp
+nhất và các mốc đổi hướng hoặc đổi thứ hạng. Các số ở giữa chỉ cần được chọn khi chúng
+giúp giải thích diễn biến mà hai đầu chưa thể hiện. Cách chọn này vẫn cần bao quát những
+nhóm thông tin quan trọng trong hình.
+    Chẳng hạn, ở bài 1, tỉ lệ sử dụng ô tô giảm từ 60% xuống 40%. Số liệu 45% năm 2020
+có thể được bổ sung để người đọc thấy diễn biến gần cuối kỳ. Mỗi mốc được chọn cần phục
+vụ nhận định đang trình bày, vì thế các năm có thể được mô tả với mức độ chi tiết khác
+nhau.
+    Các ví dụ trong tài liệu sử dụng trực tiếp số liệu đề bài cung cấp. Khi đặt hai giá trị phù
+hợp cạnh nhau, người viết thường đã có thể làm rõ sự khác biệt cần mô tả mà không phải
+tính thêm tổng, trung bình hoặc mức tăng tương đối.
+
+3. Các cấu trúc câu
+    Khi đã chọn được thông tin và cách nhóm, bước tiếp theo là chọn cấu trúc câu phù
+hợp với quan hệ cần diễn đạt. Bảng sau minh họa cách nêu giá trị, so sánh, mô tả thay đổi
+và trình bày quy trình bằng dữ liệu ở phần 4. Cụm the figure for có thể nhắc lại một đại
+lượng đã được xác định, miễn là người đọc hiểu figure đang chỉ số liệu nào.
+
+                                            4 / 17
+                              The Forum Center
+
+
+
+               Việc cần làm                         Cấu trúc và ví dụ
+
+Nêu một giá trị                         stood at + số: The proportion of car
+                                        commuters stood at 60% in 2010.
+
+So sánh hai đối tượng                   A…, compared with B…: Swimming
+                                        attracted 40% of men, compared with
+                                        45% of women.
+
+Đặt hai ý đối lập                       while/whereas + mệnh đề: Car use
+                                        declined, whereas cycling became more
+                                        common.
+
+Một đối tượng, hai mốc                  rose/fell from A to B: The share of
+                                        cyclists rose from 15% in 2010 to 30% in
+                                        2025.
+
+Hai đối tượng, hai mốc                  Bus use rose from 25% to 30%, while
+                                        cycling increased from 15% to 30%.
+
+Ba giá trị theo thứ hạng                Cars were the leading option in 2010 at
+                                        60%, followed by buses at 25% and
+                                        bicycles at 15%.
+
+Nhiều nhóm cùng hướng                   Visits to Libraries A and B increased,
+                                        reaching 160,000 and 140,000
+                                        respectively in 2025.
+
+Hai nhóm bằng nhau                      By 2025, buses and bicycles each
+                                        accounted for 30% of commuters.
+
+Tỉ trọng trong một tổng                 accounted for/made up + tỉ lệ: Housing
+                                        accounted for 40% of household
+                                        spending in 2025.
+
+Dự báo                                  is projected/expected to + động từ: Visits
+                                        to Library A are projected to reach
+                                        190,000 in 2035.
+
+Thay thế trên bản đồ                    was replaced by: The pond was replaced
+                                        by a café.
+
+
+
+
+                                   5 / 17
+                                    The Forum Center
+
+
+
+                Việc cần làm                               Cấu trúc và ví dụ
+
+ Một công đoạn                                 is/are + V3: The paper is sorted before
+                                               being mixed with water.
+
+
+    Quan hệ giữa các số liệu quyết định cách viết câu. Nếu sự khác biệt đáng chú ý thì nên
+so sánh, nếu các giá trị cùng thể hiện thứ hạng hoặc một xu hướng chung thì có thể liệt kê
+trong cùng câu. Vì vậy, một câu chứa ba số vẫn phù hợp khi người đọc thấy rõ quan hệ
+giữa chúng.
+     Cùng một dữ liệu có thể được trình bày bằng hai câu, gộp thành một câu hoặc kết hợp
+thêm nhận định về thứ hạng. Ba ví dụ sau cho thấy thông tin được bổ sung qua từng cách
+viết.
+   Cơ bản: Cars accounted for 60% of commuters in 2010. The figure fell to 40% in
+2025.
+    Nối ý: The share of car commuters fell from 60% in 2010 to 40% in 2025.
+   Thêm quan hệ: Although the share of car commuters fell from 60% to 40%, cars
+remained the leading option at every recorded point.
+    Câu cuối vừa mô tả mức giảm vừa cho biết ô tô vẫn đứng đầu tại các mốc được ghi
+nhận. Cách viết này phù hợp khi quan hệ về thứ hạng cần được làm rõ, độ dài câu cần đủ
+để thể hiện thông tin ấy chính xác.
+
+
+ Điểm cần kiểm tra                             Cách hiểu đúng
+
+ to/by                                         rose to 30%: mức cuối là 30%. rose by
+                                               30%: mức tăng tương đối là 30%, nghĩa
+                                               khác. Nếu đề cho hai đầu, dùng
+                                               from…to… cho rõ.
+
+ %/percentage points                           Phần trăm biểu thị tỉ lệ, percentage
+                                               points biểu thị chênh lệch giữa hai tỉ lệ
+                                               phần trăm. Không gọi mọi chênh lệch là
+                                               “percent”.
+
+ number/percentage                             the number of visitors khác the
+                                               percentage of visitors. Tỉ lệ cao hơn chưa
+                                               chắc số người nhiều hơn.
+
+
+
+
+                                          6 / 17
+                                    The Forum Center
+
+
+
+ Điểm cần kiểm tra                             Cách hiểu đúng
+
+ respectively                                  Ghép theo đúng thứ tự: A = số thứ nhất,
+                                               B = số thứ hai. Nếu phải đọc lại mới hiểu,
+                                               tách câu.
+
+ fluctuate/peak                                Fluctuate cần có dao động lên xuống,
+                                               peak phải là mức cao nhất trong phạm vi
+                                               đang mô tả. Hai mốc riêng lẻ không đủ
+                                               để khẳng định dao động giữa chúng.
+
+ thì của động từ                               Số liệu quá khứ: rose. Nhận định từ dự
+                                               báo: is projected to rise. Quy trình không
+                                               gắn thời gian: thường dùng hiện tại đơn.
+
+
+
+4. Các bài minh hoạ
+    Tám bài sau minh họa các cách chọn ý và sử dụng cấu trúc đã trình bày. Với mỗi bài,
+nên đọc hình, chọn đặc điểm chính, dự kiến hai nhóm thông tin cho body và thử viết
+overview trước khi xem bài mẫu. Bài làm cần dài ít nhất 150 từ, tóm tắt thông tin chính và
+so sánh khi phù hợp.
+
+
+
+
+                                          7 / 17
+                                     The Forum Center
+
+
+Bài 1 - Line graph
+   Đề: The line graph shows the percentages of commuters in a city who used cars,
+buses or bicycles as their main means of transport between 2010 and 2025.
+
+
+
+
+    Cách chọn ý: Tỉ lệ sử dụng ô tô giảm nhưng vẫn cao nhất tại các mốc được ghi nhận.
+Trong hai phương tiện còn lại, xe đạp tăng nhiều hơn xe buýt và đạt cùng tỉ lệ với xe buýt
+vào cuối kỳ. Vì thế, body 1 mô tả ô tô, còn body 2 so sánh xe buýt với xe đạp để thể hiện cả
+mức tăng và điểm bằng nhau.
+    Bài mẫu
+   The line graph compares the proportions of commuters in a city using cars, buses
+and bicycles as their main means of transport from 2010 to 2025.
+    Overall, cars remained the leading option at every recorded point, although their
+share declined. Both buses and bicycles became more common, with cycling showing the
+greater increase and matching bus use by the final year.
+    In 2010, cars accounted for 60% of commuters, well above the figures for the other
+two modes. This proportion fell to 55% in 2015 and then to 45% in 2020, before reaching
+40% in 2025. Despite this downward trend, cars still had the largest individual share at
+the end of the period.
+    Bus use stood at 25% in both 2010 and 2015, rose to 30% in 2020 and remained at
+that level in 2025. By comparison, cycling increased at each recorded point, from 15% to
+20%, then 25% and finally 30%. Bicycles therefore moved from being the least common
+option to sharing second place with buses.
+
+
+
+                                           8 / 17
+                                     The Forum Center
+
+
+    Lưu ý: At each recorded point giới hạn nhận định trong các mốc có số liệu. Cụm này
+giúp mô tả đúng phạm vi của biểu đồ, bởi dữ liệu chưa cho biết diễn biến ở những năm
+nằm giữa các mốc.
+Bài 2 - Bar chart
+    Đề: The bar chart compares the percentages of men and women in a town who
+participated in four leisure activities in 2025. Respondents could select more than one
+activity.
+
+
+
+
+    Một người có thể chọn nhiều hoạt động, các tỉ lệ không cần cộng thành 100%.
+    Cách chọn ý: Bơi có tỉ lệ tham gia cao nhất ở cả nam và nữ. Nữ có tỉ lệ cao hơn ở bơi và
+yoga, còn nam có tỉ lệ cao hơn ở chạy và đạp xe. Body 1 vì thế có thể trình bày bơi và yoga,
+còn body 2 trình bày chạy và đạp xe. Mỗi hoạt động đều được so sánh trực tiếp giữa nam
+và nữ để người đọc thấy ngay sự chênh lệch.
+    Bài mẫu
+     The bar chart compares male and female participation rates in four leisure activities
+in a town in 2025. People could report taking part in more than one activity.
+    Overall, swimming had the highest participation rate among both men and women.
+Women recorded higher figures for swimming and yoga, while men were more likely to
+participate in running and cycling. The difference between the two groups was greatest
+for yoga.
+
+
+
+
+                                           9 / 17
+                                    The Forum Center
+
+
+   Swimming attracted 45% of women, compared with 40% of men. The contrast was
+much more pronounced for yoga, which was reported by 35% of women but only 10% of
+men. This made yoga the second most common activity among women, whereas it
+ranked last among men.
+    The pattern was reversed for the remaining activities. Running was reported by 35%
+of men and 30% of women, while the corresponding figures for cycling were 30% and
+20%. Among men, running and cycling ranked second and third respectively. For
+women, however, cycling had the lowest participation rate of the four activities.
+    Lưu ý: Đề bài cho biết người tham gia đã thực hiện hoạt động nào, nên participated
+in phù hợp với dữ liệu. Dùng preferred sẽ chuyển nghĩa sang sở thích, trong khi hình
+chưa cung cấp thông tin đó.
+Bài 3 - Pie charts
+    Đề: The pie charts show how household spending in a country was divided among
+four categories in 2015 and 2025.
+
+
+
+
+    Cách chọn ý: Nhà ở chiếm tỉ trọng lớn nhất trong cả hai năm và là hạng mục duy nhất
+tăng. Thực phẩm và đi lại cùng giảm, còn nhóm chi tiêu khác giữ nguyên. Body 1 có thể so
+sánh nhà ở với nhóm chi tiêu khác, sau đó body 2 trình bày hai hạng mục cùng giảm.
+Cách nhóm này giúp làm rõ thay đổi trong cơ cấu chi tiêu.
+   Bài mẫu
+
+
+
+
+                                         10 / 17
+                                    The Forum Center
+
+
+    The pie charts compare the distribution of household spending across housing, food,
+transport and other items in a country in 2015 and 2025.
+    Overall, housing accounted for the largest share in both years and was the only
+category whose proportion increased. Food and transport took smaller shares in 2025,
+while the figure for other items was unchanged. Transport remained the smallest
+component of the budget.
+    Housing represented 30% of household expenditure in 2015 and rose to 40% in
+2025, becoming more dominant within the overall budget. Other items, by contrast,
+accounted for 25% in each year. This category was level with food in 2015 but ranked
+second on its own in 2025, behind housing.
+     The share allocated to food declined from 25% to 20%, moving it below other items
+by the end of the period. Transport also recorded a reduction, from 20% to 15%. Food
+therefore continued to account for a larger proportion than transport, despite the fall in
+its own share.
+    Lưu ý: A smaller share cho biết một hạng mục chiếm tỉ trọng thấp hơn trong tổng chi
+tiêu. Do tổng chi tiêu của hai năm chưa được cung cấp nên chưa thể kết luận số tiền dành
+cho hạng mục ấy giảm.
+Bài 4 - Table
+    Đề: The table shows annual visits to four libraries in 2015 and 2025, with projections
+for 2035. Figures are given in thousands.
+
+
+
+
+   Cách chọn ý: Lượt đến thư viện A và B tăng, thư viện C giảm, còn thư viện D giữ
+nguyên. A có số lượt đến cao nhất trong hai năm đã ghi nhận và dự kiến vẫn dẫn đầu vào
+
+
+                                          11 / 17
+                                     The Forum Center
+
+
+năm 2035. Body 1 trình bày A và B vì hai thư viện có cùng hướng thay đổi, còn body 2 so
+sánh C với D để thể hiện sự khác nhau giữa giảm và ổn định.
+    Bài mẫu
+    The table compares annual visits to four libraries in 2015 and 2025 and provides
+forecasts for 2035, with all figures expressed in thousands.
+    Overall, visits to Libraries A and B increased and are expected to rise further. Library
+C shows the opposite pattern, while Library D's figure is projected to remain unchanged.
+Library A had the highest attendance in both recorded years and is forecast to retain this
+position.
+    Visits to Library A rose from 120,000 in 2015 to 160,000 in 2025, and are projected
+to reach 190,000 in 2035. Library B followed a similar upward pattern, increasing from
+100,000 to 140,000. Its annual total is expected to reach 180,000 by 2035, still below
+that of Library A.
+    In contrast, Library C recorded a decline from 80,000 to 70,000 visits, with a
+further fall to 60,000 anticipated. Library D received 60,000 visits in both 2015 and
+2025 and is expected to record the same figure in 2035. The two libraries are therefore
+projected to have equal attendance in the final year.
+    Lưu ý: Visits được hiểu là số lượt đến thư viện, một người có thể được tính nhiều lần
+nếu đến vào những dịp khác nhau. Khi viết về năm 2035, cần dùng các cụm như is
+projected to để đánh dấu số liệu dự báo và phân biệt chúng với số liệu đã ghi nhận.
+
+
+
+
+                                           12 / 17
+                                    The Forum Center
+
+
+Bài 5 - Mixed charts
+   Đề: The charts show annual visits to a museum and its average admission price in
+2010, 2015, 2020 and 2025.
+
+
+
+
+     Cách chọn ý: Số lượt tham quan tăng qua các mốc, còn giá vé trung bình giảm.
+Overview cần khái quát cả hai xu hướng trước khi body 1 trình bày số lượt tham quan và
+body 2 trình bày giá vé. Phần mô tả có thể nhắc đến sự thay đổi ngược chiều, song mỗi đại
+lượng vẫn cần được đọc theo đơn vị riêng. Số 200 biểu thị nghìn lượt, còn số 7 biểu thị đô
+la, nên hai giá trị không thể được so sánh trực tiếp về độ lớn.
+    Bài mẫu
+   The charts present the number of annual visits to a museum and the average
+admission price at four points between 2010 and 2025. Visits are measured in
+thousands, while prices are given in dollars.
+    Overall, museum attendance increased at each recorded point, whereas the average
+ticket price declined. The highest attendance and the lowest price were both recorded in
+2025, with the opposite combination appearing in 2010.
+    The museum received 100,000 visits in 2010. This figure rose to 140,000 in 2015
+and then to 180,000 in 2020. A further increase brought the annual total to 200,000 in
+2025. The increase over the final interval was smaller than that over either of the
+preceding intervals.
+    The average admission price followed a downward pattern, falling from $10 in 2010
+to $9 in 2015 and $8 in 2020. By 2025, it had reached $7, the lowest figure shown. Thus,
+each recorded rise in attendance was accompanied by a lower average admission price.
+
+
+                                          13 / 17
+                                     The Forum Center
+
+
+    Lưu ý: Was accompanied by mô tả hai thay đổi diễn ra cùng nhau. Quan hệ này phù
+hợp với những gì hình thể hiện, còn kết luận rằng giá vé giảm khiến lượt tham quan tăng
+sẽ cần thêm bằng chứng về nguyên nhân.
+Bài 6 - Maps
+   Đề: The maps show the layout of a public park in 2010 and 2025.
+
+
+
+
+    Hình không có tỉ lệ để đo diện tích chính xác.
+     Cách chọn ý: Ba khu được thay bằng các tiện ích mới, còn sân chơi, cây, lối vào và hệ
+thống lối đi được giữ nguyên. Body 1 có thể mô tả nửa phía bắc, sau đó body 2 chuyển
+sang nửa phía nam. Các từ chỉ vị trí giúp nối những thay đổi theo không gian, vì thế bài
+viết có thể chuyển ý mà không cần Firstly, Secondly, Thirdly.
+    Bài mẫu
+    The maps compare the layout of a public park in 2010 and 2025.
+    Overall, the park gained a café, a car park and a sports court, replacing several
+existing features. However, the playground and the trees remained in place, as did the
+entrance and the paths connecting the southern part of the park with the playground.
+    In the northwestern corner, the pond shown in 2010 was replaced by a café by 2025.
+The playground occupied the central section of the northern part of the park in both
+years. To its east, the area containing trees was retained, so the main change in the
+northern section occurred to the west of the playground.
+   In the south, the flower garden on the western side was replaced by a car park. The
+open lawn to the east was also removed, with a sports court occupying its former
+
+
+                                          14 / 17
+                                     The Forum Center
+
+
+location. The entrance remained in the southwestern corner, and the path along the
+southern edge, together with its branch leading north to the playground, followed the
+same route in both years.
+    Lưu ý: Was replaced by giúp xác định khu vực hoặc công trình nào được thay thế và
+yếu tố mới là gì. Phần mô tả cần bám vào những thay đổi quan sát được trong hình, mục
+đích như “để thu hút khách” chỉ được nêu khi đề bài cung cấp thông tin đó.
+Bài 7 - Process
+   Đề: The diagram shows a simplified process for making notebooks from used paper.
+
+
+
+
+1.​ Thu gom giấy đã qua sử dụng.
+2.​ Phân loại giấy.
+3.​ Thêm nước và nghiền giấy thành bột.
+4.​ Lọc bột giấy.
+5.​ Ép thành các tờ giấy.
+6.​ Làm khô các tờ giấy.
+7.​ Cắt và đóng thành vở.
+     Cách chọn ý: Giấy đã qua sử dụng được xử lý qua bảy công đoạn để trở thành vở. Body
+1 trình bày các bước thu gom, phân loại, nghiền và lọc bột giấy, còn body 2 mô tả quá
+trình ép thành tờ, làm khô rồi cắt và đóng vở. Cách chia này theo sự biến đổi của vật liệu,
+một câu có thể nối nhiều bước khi thứ tự xử lý vẫn rõ ràng.
+    Bài mẫu
+
+
+
+
+                                          15 / 17
+                                    The Forum Center
+
+
+    The diagram shows how notebooks are made from used paper, illustrating the stages
+from the collection of the raw material to the production of the finished items.
+    Overall, this is a linear process consisting of seven main stages. Used paper is
+collected and turned into pulp in the first part of the sequence, before being formed into
+sheets and eventually bound into notebooks.
+     At the beginning of the process, used paper is collected. It then undergoes sorting,
+after which water is added and the paper is pulped. The resulting pulp passes through a
+filtering stage, completing the preparation of the material for the production of new
+sheets.
+     The final part begins with the filtered pulp being pressed into sheets. These sheets
+are then dried before moving to the last stage, where cutting and binding take place. The
+two operations are shown together in the diagram as a single stage that produces the
+finished notebooks.
+    Lưu ý: Câu bị động phù hợp khi mô tả cách giấy được xử lý qua từng công đoạn. Với
+quy trình tự nhiên, đối tượng có thể tự thực hiện quá trình biến đổi, như trong câu the
+plant grows. Vì thế, cần chọn chủ động hoặc bị động theo hành động và đối tượng đang
+mô tả.
+Bài 8 - Cycle
+   Đề: The diagram shows a simplified system for collecting and reusing drinking cups.
+
+
+
+
+    Phục vụ đồ uống trong cốc sạch → khách sử dụng → thu gom cốc trả lại → rửa → kiểm
+tra → lưu trữ cốc sạch → quay lại phục vụ đồ uống.
+
+
+
+                                          16 / 17
+                                      The Forum Center
+
+
+       Sơ đồ luyện tập này chỉ thể hiện vòng tái sử dụng, không có nhánh loại bỏ hay thay
+cốc.
+   Cách chọn ý: Cốc sau khi sử dụng được làm sạch và chuẩn bị để quay lại phục vụ đồ
+uống, nên phần mô tả cần thể hiện đường nối khép kín của chu trình. Body 1 trình bày các
+khâu phục vụ, sử dụng và thu gom, body 2 tiếp tục với rửa, kiểm tra, lưu trữ rồi quay lại
+phục vụ. Câu cuối cần nối được khâu lưu trữ với lần sử dụng tiếp theo.
+       Bài mẫu
+   The diagram shows a system for reusing drinking cups, illustrating how they move
+between being used by customers and being prepared for further use.
+    Overall, the system has six main stages arranged in a cycle. Cups are used and
+collected before being washed, inspected and stored, after which they return to the
+serving stage.
+    The cycle can be described from the point at which drinks are served in clean cups.
+Customers use the cups and subsequently return them. These returned cups are
+collected and passed to the washing stage, marking the transition from customer use to
+preparation for reuse.
+    The collected cups are washed and then inspected. Once inspection is complete, the
+clean cups are placed in storage. They remain there until they are needed for serving
+drinks again, at which point they return to the first stage. This link between storage and
+serving closes the loop and allows the sequence to be repeated.
+   Lưu ý: Cụm return to the serving stage mô tả mũi tên đưa cốc từ khâu lưu trữ trở lại
+khâu phục vụ. Các chi tiết như nhiệt độ rửa, thời gian lưu trữ hoặc cách loại cốc hỏng nằm
+ngoài sơ đồ nên cần được loại khỏi phần mô tả.
+
+
+
+
+                                           17 / 17
+

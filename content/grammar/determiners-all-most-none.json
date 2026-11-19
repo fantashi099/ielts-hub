@@ -1,0 +1,213 @@
+{
+  "slug": "determiners-all-most-none",
+  "title": "Determiners: all, most, none, both, either",
+  "titleVi": "Lượng từ: all, most, none, both, either",
+  "level": "B2",
+  "topic": "pronouns-determiners",
+  "bookUnits": [86, 88, 89, 90, 91],
+  "bandFocus": "7.5",
+  "summary": "Quy tắc of sau all/most/none, cách chia động từ với none, both/neither/either và every/each.",
+  "whyItMatters": "Đây là nhóm từ bạn dùng để khái quát hoá trong Task 2: *most people*, *the majority of households*, *few governments*. Sai cấu trúc *most of people* hay *every students* là lỗi ngữ pháp cơ bản, còn dùng *all* tuyệt đối thay vì *most* lại là lỗi lập luận — cả hai đều bị trừ điểm, ở hai tiêu chí khác nhau.",
+  "sections": [
+    {
+      "heading": "The of-rule: all, most, some, none, no",
+      "body": [
+        "These determiners go **directly before a noun** with no *of*: *all students, most people, some countries, no evidence*. They need **of** only when followed by **the, my/your/his, these/those** or an object pronoun: *all of the students, most of them, none of these countries*.",
+        "So *most people* and *most of the people* are both correct — but they mean different things. Without *of*, you generalise; with *of the*, you refer to a specific group already defined.",
+        "Object pronouns always need *of*: *all of them*, *most of us*, *none of it*. *All them* and *most us* do not exist."
+      ],
+      "table": {
+        "headers": ["Correct", "Incorrect"],
+        "rows": [
+          ["Most people prefer to work from home.", "Most of people prefer to work from home."],
+          ["Most of the people in the survey...", "Most the people in the survey..."],
+          ["All students must register.", "All of students must register."],
+          ["All of them agreed.", "All them agreed."],
+          ["None of the evidence supports this.", "None the evidence supports this."]
+        ]
+      }
+    },
+    {
+      "heading": "none, no and the verb",
+      "body": [
+        "**no + noun** is a determiner and makes the sentence negative on its own: *There is no evidence for this claim.* **none** stands alone as a pronoun: *None of the evidence supports this claim.*",
+        "After **none of + plural noun**, both singular and plural verbs occur. Formal writing prefers the singular: *None of the students was late.* Conversation prefers the plural: *None of the students were late.* Both are defensible; be consistent.",
+        "**none of** with an uncountable noun is always singular: *None of the information was accurate.*"
+      ],
+      "examples": [
+        { "right": "No solution has yet been found.", "note": "**no + singular noun** + singular verb." },
+        { "right": "None of the participants was informed in advance.", "note": "Formal register: singular verb after *none of* + plural." },
+        { "right": "None of the data was reliable.", "wrong": "None of the data were reliable in the singular reading.", "note": "Với danh từ không đếm được, *none of* luôn chia số ít." }
+      ]
+    },
+    {
+      "heading": "both, either, neither",
+      "body": [
+        "**both** refers to two together and takes a plural verb: *Both options are expensive.* The correlative form is **both ... and**: *The plan is both costly and unpopular.*",
+        "**either** means one of two, **neither** means not one and not the other. Both take a **singular** verb in formal writing: *Either answer is acceptable*, *Neither proposal is affordable.* The correlatives are **either ... or** and **neither ... nor**: *Neither the government nor the council has acted.*",
+        "Position matters for *both*. It goes before the main verb but after *be* and after the first auxiliary: *They both agreed*, *We have both read it*, *They are both wrong.*"
+      ],
+      "table": {
+        "headers": ["Form", "Example"],
+        "rows": [
+          ["both + plural noun", "Both reports were published."],
+          ["both of the + plural", "Both of the reports were published."],
+          ["either ... or", "Either the rent or the deposit has to be paid today."],
+          ["neither ... nor", "Neither the students nor the teacher was satisfied."],
+          ["either/neither of + plural + singular verb", "Neither of the answers is correct."]
+        ]
+      }
+    },
+    {
+      "heading": "every, each, all and whole",
+      "body": [
+        "**every** and **each** take a **singular** noun and a singular verb: *Every candidate receives feedback*, *Each student was interviewed.* **each of** takes a plural noun but still a singular verb: *Each of the students was interviewed.*",
+        "**every** generalises over a group; **each** considers members one by one. *Every child in the country has access* (all of them, as a group) versus *Each child was given a book* (individually).",
+        "**all + plural/uncountable** versus **whole + singular countable**: *all the students*, *all the water*, *the whole class*, *the whole day*. *Whole* needs *the/my/this* before it: not *whole day*. Compare *all day* (the entire duration, no article) with *the whole day* (the same meaning, more emphatic)."
+      ],
+      "examples": [
+        { "right": "Each of the proposals has been assessed.", "wrong": "Each of the proposals have been assessed.", "note": "**each of** → động từ số ít." },
+        { "right": "The whole population was affected.", "wrong": "The whole people was affected.", "note": "*whole* + danh từ số ít; với số nhiều dùng **all the people**." },
+        { "right": "Every household pays a fixed fee.", "note": "*every* + danh từ số ít, động từ số ít." }
+      ]
+    },
+    {
+      "heading": "Hedging: why most beats all in Task 2",
+      "body": [
+        "Absolute quantifiers make absolute claims, and absolute claims are easy to attack. *All governments waste money* invites a counter-example; *Most governments waste some money* is defensible and sounds more academic.",
+        "Useful hedged determiners: **most, the majority of, many, a significant proportion of, some, a minority of, few, hardly any**. Each signals a different strength of evidence, which is exactly what the Task 2 band descriptors reward under Task Response.",
+        "Pair the quantifier with a matching verb: *the majority of + plural + plural verb*, *a significant proportion of + uncountable + singular verb*. *The majority of research suggests* is a common slip — *research* is uncountable, so *the majority of the research suggests* is the precise form."
+      ],
+      "table": {
+        "headers": ["Claim strength", "Determiner", "Example"],
+        "rows": [
+          ["very strong", "the vast majority of", "The vast majority of respondents supported the ban."],
+          ["strong", "most", "Most cities face a housing shortage."],
+          ["moderate", "many / a significant proportion of", "Many employers now offer hybrid work."],
+          ["weak", "some / a minority of", "Some critics argue the cost is too high."],
+          ["minimal", "few / hardly any", "Few studies have examined this group."]
+        ]
+      }
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Most of people believe that education is free.",
+      "right": "Most people believe that education is free.",
+      "why": "Khi khái quát chung, **most + danh từ** không có *of*. Chỉ dùng *most of* khi phía sau là *the/my/these/them*: *most of the people*."
+    },
+    {
+      "wrong": "All of students have to submit the form.",
+      "right": "All students have to submit the form. / All of the students have to submit the form.",
+      "why": "Tiếng Việt *tất cả sinh viên* không phân biệt, nên người học chèn *of* vào giữa. Cần **all + danh từ** hoặc **all of + the + danh từ**."
+    },
+    {
+      "wrong": "Every students in the class passed the test.",
+      "right": "Every student in the class passed the test.",
+      "why": "**every** và **each** luôn đi với danh từ **số ít** và động từ số ít, dù nghĩa là nhiều người."
+    },
+    {
+      "wrong": "None of the participants were informed.",
+      "right": "None of the participants was informed.",
+      "why": "Trong văn viết trang trọng, **none of + số nhiều** chia động từ **số ít**. Dạng số nhiều tồn tại trong văn nói, nhưng bài thi nên chọn số ít cho nhất quán."
+    },
+    {
+      "wrong": "Both of the solutions is expensive.",
+      "right": "Both of the solutions are expensive.",
+      "why": "**both** luôn mang nghĩa số nhiều nên động từ chia số nhiều, khác với *neither/either* chia số ít."
+    }
+  ],
+  "ieltsTips": [
+    "Ưu tiên `most`, `the majority of`, `many` thay vì `all` — câu khẳng định tuyệt đối dễ bị phản bác và làm giảm Task Response.",
+    "Dùng `the majority of + danh từ số nhiều + động từ số nhiều`, nhưng `the majority of the research + động từ số ít`.",
+    "Trong Task 1, `most of the + danh từ xác định` dùng khi đã nêu nhóm cụ thể; `most + danh từ` dùng cho nhận định chung.",
+    "Kiểm tra vị trí `both`: sau *be* và sau trợ động từ thứ nhất — `They are both effective`, `We have both noticed`."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ of the participants was aware of the risks involved.",
+      "options": ["None", "No", "Any", "Every"],
+      "answerIndex": 0,
+      "explanation": "Có *of the* nên cần đại từ **none**: *None of the participants was...*"
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "___ households in the survey reported at least one car.",
+      "options": ["Most of", "Most", "The most", "Almost of"],
+      "answerIndex": 1,
+      "explanation": "Không có *the* sau đó nên dùng **most + danh từ**: *Most households*."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Each of the candidates ___ a short presentation.",
+      "options": ["give", "gives", "are giving", "have given"],
+      "answerIndex": 1,
+      "explanation": "**each of** + danh từ số nhiều nhưng động từ **số ít**: *gives*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Neither of the two proposals ___ affordable for local families.",
+      "options": ["are", "is", "were", "have been"],
+      "answerIndex": 1,
+      "explanation": "**neither of + danh từ số nhiều** chia động từ **số ít**: *is*."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Both of them was rejected.",
+        "Both of them were rejected.",
+        "Both them were rejected.",
+        "Both of the them were rejected."
+      ],
+      "answerIndex": 1,
+      "explanation": "**both of + đại từ tân ngữ** và động từ số nhiều."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "___ of the information in the report was accurate.",
+      "answers": ["none"],
+      "hint": "negative pronoun + of",
+      "explanation": "**None of + danh từ không đếm được** + động từ số ít."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "___ student in the class received individual feedback.",
+      "answers": ["every", "each"],
+      "hint": "singular noun follows",
+      "explanation": "**every/each + danh từ số ít**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "She spent ___ whole afternoon revising.",
+      "answers": ["the"],
+      "hint": "whole needs a determiner",
+      "explanation": "**whole** cần *the/my/this* phía trước: *the whole afternoon*."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "___ of the two proposals is financially viable.",
+      "answers": ["neither", "either"],
+      "hint": "one of two, singular verb",
+      "explanation": "**neither/either of + số nhiều** + động từ số ít."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The majority of the research ___ (suggest) a link between the two.",
+      "answers": ["suggests"],
+      "hint": "uncountable noun",
+      "explanation": "*research* không đếm được → động từ số ít: *suggests*."
+    }
+  ]
+}

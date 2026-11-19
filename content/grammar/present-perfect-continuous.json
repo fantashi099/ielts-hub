@@ -1,0 +1,219 @@
+{
+  "slug": "present-perfect-continuous",
+  "title": "Present perfect continuous",
+  "titleVi": "Hiện tại hoàn thành tiếp diễn",
+  "level": "B2",
+  "topic": "tenses",
+  "bookUnits": [9, 10, 11, 12],
+  "bandFocus": "7.5",
+  "summary": "Diễn tả hành động kéo dài đến hiện tại và giải thích kết quả trước mắt — cấu trúc ăn điểm trong Task 1 và Task 2.",
+  "whyItMatters": "Khi bạn viết *House prices have been rising since 2015*, bạn vừa nêu xu hướng vừa ngầm nói rằng nó vẫn đang tiếp diễn — điều mà `present perfect simple` không làm rõ. Đây là thì giúp câu văn học thuật có chiều sâu thời gian, và là điểm khác biệt rõ nhất giữa band 6.5 và 7.5.",
+  "sections": [
+    {
+      "heading": "Form and core meaning: an activity running up to now",
+      "body": [
+        "The present perfect continuous is **have/has been + -ing**. It presents an activity that started in the past and is still in progress, or has just stopped and still matters now.",
+        "The emphasis is on the *activity and its duration*, not on a completed result. *I've been writing the report* tells you what occupied my time; *I've written the report* tells you it is finished.",
+        "Because the action is unfinished, this tense almost always looks unfinished in time too: it pairs with *for*, *since*, *all day*, *recently*, *lately*."
+      ],
+      "examples": [
+        { "right": "The city has been investing in public transport since 2016.", "note": "Activity continuing to now, with **since**." },
+        { "right": "Researchers have been monitoring air quality for three years.", "note": "**for** + length of time, still ongoing." },
+        { "right": "I've been reading the same report all morning.", "note": "Duration emphasised, not completion." },
+        { "right": "She has been working here since she graduated.", "wrong": "She is working here since she graduated.", "note": "**since** + starting point requires a perfect form." }
+      ]
+    },
+    {
+      "heading": "How long: for, since and the question form",
+      "body": [
+        "**for** answers *how long*; **since** answers *from when*. Both are at home with the continuous when the situation is still true.",
+        "The natural question is *How long have you been ...?* — and the answer normally repeats the same tense: *I've been studying English for six years.*",
+        "A common Vietnamese-learner error is to answer a *how long* question with the present simple or the present continuous. Both sound wrong in English because the period reaches the present moment."
+      ],
+      "table": {
+        "headers": ["Time expression", "Meaning", "Example"],
+        "rows": [
+          ["for three years", "a length of time", "They have been negotiating for three years."],
+          ["since 2018", "a starting point", "The plant has been operating since 2018."],
+          ["all day / all week", "the whole period up to now", "It has been raining all day."],
+          ["lately / recently", "in the recent period", "Prices have been climbing recently."]
+        ]
+      }
+    },
+    {
+      "heading": "Continuous versus simple: activity or result",
+      "body": [
+        "Both tenses can describe the same situation, but they answer different questions. The continuous answers *what have you been doing?*; the simple answers *what have you done?*",
+        "Use the simple form when you care about **how much, how many, or whether it is finished**: *I've written three chapters.* Use the continuous when you care about **how long or how tiring it was**: *I've been writing all day.*",
+        "With *just* and *already*, the simple form is normal because the result is the point: *She has just finished the proposal.*"
+      ],
+      "examples": [
+        { "right": "I've been painting the flat, so the whole place smells of paint.", "note": "Recent activity with a visible present effect." },
+        { "right": "I've painted the flat — it's ready for the furniture.", "note": "Completed result." },
+        { "right": "They've been building the new bridge for two years.", "wrong": "They've built the new bridge for two years.", "note": "**for two years** with an unfinished project needs the continuous." },
+        { "right": "She has just finished the proposal.", "wrong": "She has just been finishing the proposal.", "note": "**just** + completed result → simple form." }
+      ]
+    },
+    {
+      "heading": "Explaining present evidence",
+      "body": [
+        "A very natural use is to explain something visible right now: *Your eyes are red — have you been crying?* The activity is offered as the cause of the present state.",
+        "This pattern is useful in Task 2 when you describe a consequence: *Coastal cities have been expanding rapidly, which is why flood damage has become so expensive.*",
+        "Do not use it for single completed events. *I've been breaking my leg* is impossible; a broken leg is a result, so say *I've broken my leg*."
+      ],
+      "examples": [
+        { "right": "The streets are wet — it has been raining.", "note": "Visible evidence explained by a recent activity." },
+        { "right": "You look exhausted. Have you been working all night?", "note": "Question form of the same pattern." },
+        { "right": "I've broken my leg, so I can't play on Saturday.", "wrong": "I've been breaking my leg, so I can't play on Saturday.", "note": "A single completed event with a result → simple form." }
+      ]
+    },
+    {
+      "heading": "Stative verbs and the limits of the continuous",
+      "body": [
+        "Stative verbs (*know, believe, own, belong, consist of, contain*) do not take the continuous, so they stay in the simple perfect: *I've known her for years*, never *I've been knowing her*.",
+        "A few verbs shift meaning. *I've been having trouble with the software* is acceptable because *have trouble* is an experience, not possession; but *I've been having a car* is not.",
+        "In formal writing, the continuous can sound informal if overused. One or two instances per paragraph create a sense of process; five make the essay feel like a diary."
+      ],
+      "examples": [
+        { "right": "The committee has known about the risk for months.", "wrong": "The committee has been knowing about the risk for months.", "note": "**know** is stative — simple form only." },
+        { "right": "The region has been experiencing unusually dry winters.", "note": "**experience** works in the continuous." },
+        { "right": "The building has belonged to the university since 1975.", "note": "**belong** is stative." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I have been knowing him for ten years.",
+      "right": "I have known him for ten years.",
+      "why": "`know` là stative verb, không dùng dạng tiếp diễn. Người Việt dịch 'tôi đã quen anh ấy được mười năm' và giữ nguyên cấu trúc tiếp diễn."
+    },
+    {
+      "wrong": "I have been living here since ten years.",
+      "right": "I have been living here for ten years.",
+      "why": "`since` đi với mốc thời điểm, `for` đi với khoảng thời gian. Nhầm `since` và `for` là lỗi phổ biến nhất trong nhóm thì hoàn thành."
+    },
+    {
+      "wrong": "She has been studied English for three years.",
+      "right": "She has been studying English for three years.",
+      "why": "Sau `have/has been` phải là V-ing, không phải V3. Cấu trúc đúng là `have/has been + V-ing`, không phải `have/has been + V3`."
+    },
+    {
+      "wrong": "I have been finishing my essay, so I can relax now.",
+      "right": "I have finished my essay, so I can relax now.",
+      "why": "Kết quả đã hoàn tất cần `present perfect simple`. Dùng tiếp diễn hàm ý bài luận vẫn còn đang viết dở."
+    },
+    {
+      "wrong": "How long are you working for this company?",
+      "right": "How long have you been working for this company?",
+      "why": "Câu hỏi về khoảng thời gian kéo dài đến hiện tại phải dùng thì hoàn thành. Tiếng Việt dùng 'đang làm' nên người học dễ bê nguyên `present continuous` sang."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Task 1, dùng `has/have been + V-ing` khi xu hướng bắt đầu trong quá khứ và vẫn tiếp diễn ở năm cuối của biểu đồ: *Emissions have been falling since 2015.*",
+    "Trong Task 2, dùng thì này để mô tả quá trình đang diễn ra và hệ quả của nó: *Cities have been growing faster than their infrastructure.*",
+    "Tránh dùng `present perfect continuous` cho số liệu đã chốt; nếu bạn nêu con số cụ thể của một giai đoạn đã kết thúc, hãy dùng `past simple`.",
+    "Khi phân vân, hỏi bản thân: người đọc cần biết *đã xong chưa* (simple) hay *kéo dài bao lâu* (continuous)? Chọn theo tiêu điểm, không theo thói quen."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "Which sentence uses a state verb correctly with 'since'?",
+      "options": [
+        "I have been knowing her since 2015.",
+        "I have known her since 2015.",
+        "I am knowing her since 2015.",
+        "I know her since 2015."
+      ],
+      "answerIndex": 1,
+      "explanation": "**know** là stative verb nên dùng **present perfect simple**, không dùng tiếp diễn."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "Which sentence emphasises how long an activity has lasted?",
+      "options": [
+        "I have written three chapters.",
+        "I have been writing all morning.",
+        "I wrote a chapter yesterday.",
+        "I will write a chapter tomorrow."
+      ],
+      "answerIndex": 1,
+      "explanation": "**have been writing all morning** nhấn mạnh thời lượng của hoạt động, không nhấn mạnh kết quả."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The pavement is wet. Which sentence explains it best?",
+      "options": ["It rained.", "It has been raining.", "It rains.", "It was raining tomorrow."],
+      "answerIndex": 1,
+      "explanation": "Hoạt động vừa diễn ra và để lại dấu hiệu trước mắt → **present perfect continuous**."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Choose the sentence with the correct time preposition.",
+      "options": [
+        "They have been negotiating since three years.",
+        "They have been negotiating for three years.",
+        "They are negotiating since three years.",
+        "They negotiate for three years."
+      ],
+      "answerIndex": 1,
+      "explanation": "**for** + khoảng thời gian; **since** + mốc thời điểm."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence reports a finished result?",
+      "options": [
+        "She has been finishing the report.",
+        "She has finished the report.",
+        "She is finishing the report.",
+        "She finishes the report."
+      ],
+      "answerIndex": 1,
+      "explanation": "Kết quả đã hoàn tất dùng **present perfect simple**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "House prices ___ (rise) steadily since 2016.",
+      "answers": ["have been rising"],
+      "hint": "since 2016 + xu hướng còn tiếp diễn",
+      "explanation": "Xu hướng bắt đầu năm 2016 và vẫn tiếp tục → present perfect continuous số nhiều."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "I ___ (work) on this essay for four hours and I still have two paragraphs to go.",
+      "answers": ["have been working"],
+      "hint": "for four hours + vẫn chưa xong",
+      "explanation": "Hoạt động kéo dài và chưa hoàn tất → present perfect continuous."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The research team ___ (collect) data since January, and the sample now covers 2,000 households.",
+      "answers": ["has been collecting"],
+      "hint": "since January",
+      "explanation": "Chủ ngữ số ít **team** + hoạt động kéo dài → **has been collecting**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Sorry for the delay — we ___ (discuss) your proposal all morning.",
+      "answers": ["have been discussing"],
+      "hint": "all morning",
+      "explanation": "**all morning** nhấn mạnh thời lượng của hoạt động vừa diễn ra."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "The government ___ (know) about the shortage for months but has not acted.",
+      "answers": ["has known"],
+      "hint": "know là stative verb",
+      "explanation": "**know** không có dạng tiếp diễn → present perfect simple."
+    }
+  ]
+}

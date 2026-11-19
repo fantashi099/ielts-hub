@@ -1,0 +1,435 @@
+{
+  "slug": "idioms-formal-core",
+  "title": "Formal idioms for academic writing",
+  "titleVi": "Thành ngữ trang trọng dùng trong bài luận học thuật",
+  "topic": "idioms-formal",
+  "description": "Bộ thành ngữ và cụm cố định đủ trang trọng để dùng trong Task 2. Mỗi mục có nghĩa tiếng Việt và ví dụ trong ngữ cảnh học thuật, tránh kiểu thành ngữ chỉ hợp văn nói.",
+  "ieltsUse": "Dùng ở câu mở bài, câu nhượng bộ và câu kết luận của Task 2; giúp bài viết tự nhiên hơn mà vẫn giữ được giọng học thuật.",
+  "words": [
+    {
+      "word": "a double-edged sword",
+      "pos": "phrase",
+      "ipa": "/ə ˌdʌbl edʒd ˈsɔːd/",
+      "band": "7.5",
+      "vi": "con dao hai lưỡi (lợi và hại song hành)",
+      "def": "something with equally significant benefits and drawbacks",
+      "example": "Social media is a double-edged sword: it connects people but also isolates them.",
+      "collocations": [
+        "prove a double-edged sword",
+        "a double-edged sword for"
+      ],
+      "synonyms": [
+        "a mixed blessing",
+        "a two-edged benefit"
+      ]
+    },
+    {
+      "word": "the tip of the iceberg",
+      "pos": "phrase",
+      "ipa": "/ðə ˌtɪp əv ði ˈaɪsbɜːɡ/",
+      "band": "8.0",
+      "vi": "phần nổi của tảng băng, chỉ là bề mặt của vấn đề",
+      "def": "a small visible part of a much larger problem",
+      "example": "Reported fraud cases are only the tip of the iceberg in online banking.",
+      "collocations": [
+        "just the tip of the iceberg",
+        "only the tip of the iceberg"
+      ],
+      "synonyms": [
+        "a fraction of the problem",
+        "the visible surface"
+      ]
+    },
+    {
+      "word": "a vicious circle",
+      "pos": "phrase",
+      "ipa": "/ə ˌvɪʃəs ˈsɜːkl/",
+      "band": "7.5",
+      "vi": "vòng luẩn quẩn",
+      "def": "a situation in which a problem causes the conditions that worsen it",
+      "example": "Poverty and poor schooling form a vicious circle that is hard to break.",
+      "collocations": [
+        "create a vicious circle",
+        "be trapped in a vicious circle"
+      ],
+      "synonyms": [
+        "a downward spiral",
+        "a self-reinforcing cycle"
+      ]
+    },
+    {
+      "word": "in the long run",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə ˈlɒŋ rʌn/",
+      "band": "6.5",
+      "vi": "về lâu dài",
+      "def": "over a long period rather than immediately",
+      "example": "Preventive spending saves money in the long run, even though it looks costly now.",
+      "collocations": [
+        "in the long run, this pays off",
+        "cheaper in the long run"
+      ],
+      "synonyms": [
+        "eventually",
+        "over time"
+      ]
+    },
+    {
+      "word": "at the expense of",
+      "pos": "phrase",
+      "ipa": "/ət ði ɪkˈspens əv/",
+      "band": "7.5",
+      "vi": "đánh đổi bằng cái gì, gây thiệt hại cho",
+      "def": "in a way that harms something else",
+      "example": "Economic growth achieved at the expense of the environment cannot last.",
+      "collocations": [
+        "at the expense of quality",
+        "at the expense of others"
+      ],
+      "synonyms": [
+        "to the detriment of",
+        "at the cost of"
+      ]
+    },
+    {
+      "word": "in the wake of",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə ˈweɪk əv/",
+      "band": "7.5",
+      "vi": "ngay sau, do hậu quả của",
+      "def": "following and as a result of an event",
+      "example": "In the wake of the pandemic, remote work became standard in many firms.",
+      "collocations": [
+        "in the wake of the crisis",
+        "in the wake of these changes"
+      ],
+      "synonyms": [
+        "following",
+        "as a consequence of"
+      ]
+    },
+    {
+      "word": "pave the way for",
+      "pos": "phrase",
+      "ipa": "/ˌpeɪv ðə ˈweɪ fɔː/",
+      "band": "7.5",
+      "vi": "mở đường cho",
+      "def": "to make something possible in the future",
+      "example": "Early investment in rail helped pave the way for rapid industrial growth.",
+      "collocations": [
+        "pave the way for reform",
+        "pave the way for innovation"
+      ],
+      "synonyms": [
+        "prepare the ground for",
+        "enable"
+      ]
+    },
+    {
+      "word": "a stepping stone",
+      "pos": "phrase",
+      "ipa": "/ə ˈstepɪŋ stəʊn/",
+      "band": "7.5",
+      "vi": "bước đệm",
+      "def": "a stage that helps someone reach a larger goal",
+      "example": "A vocational qualification is often a stepping stone to self-employment.",
+      "collocations": [
+        "a stepping stone to success",
+        "serve as a stepping stone"
+      ],
+      "synonyms": [
+        "a springboard",
+        "an intermediate stage"
+      ]
+    },
+    {
+      "word": "the status quo",
+      "pos": "phrase",
+      "ipa": "/ðə ˌsteɪtəs ˈkwəʊ/",
+      "band": "8.0",
+      "vi": "hiện trạng",
+      "def": "the existing state of affairs",
+      "example": "Defenders of the status quo argue that reform would disrupt services.",
+      "collocations": [
+        "maintain the status quo",
+        "challenge the status quo"
+      ],
+      "synonyms": [
+        "the current situation",
+        "existing arrangements"
+      ]
+    },
+    {
+      "word": "call into question",
+      "pos": "phrase",
+      "ipa": "/ˌkɔːl ˈɪntuː ˈkwestʃən/",
+      "band": "8.0",
+      "vi": "làm lung lay, đặt nghi vấn về",
+      "def": "to make people doubt something",
+      "example": "The scandal may call into question the reliability of official statistics.",
+      "collocations": [
+        "call into question the validity",
+        "seriously call into question"
+      ],
+      "synonyms": [
+        "cast doubt on",
+        "undermine"
+      ]
+    },
+    {
+      "word": "bear fruit",
+      "pos": "phrase",
+      "ipa": "/ˌbeə ˈfruːt/",
+      "band": "7.5",
+      "vi": "đơm hoa kết trái, mang lại kết quả",
+      "def": "to produce successful results after time",
+      "example": "The literacy programme began to bear fruit after three years of steady funding.",
+      "collocations": [
+        "begin to bear fruit",
+        "efforts bear fruit"
+      ],
+      "synonyms": [
+        "yield results",
+        "pay off"
+      ]
+    },
+    {
+      "word": "a level playing field",
+      "pos": "phrase",
+      "ipa": "/ə ˌlevl ˈpleɪɪŋ fiːld/",
+      "band": "8.0",
+      "vi": "sân chơi bình đẳng",
+      "def": "a situation in which everyone competes on equal terms",
+      "example": "Free tuition would create a level playing field for students from poorer families.",
+      "collocations": [
+        "ensure a level playing field",
+        "compete on a level playing field"
+      ],
+      "synonyms": [
+        "equal opportunity",
+        "fair competition"
+      ]
+    },
+    {
+      "word": "cut corners",
+      "pos": "phrase",
+      "ipa": "/ˌkʌt ˈkɔːnəz/",
+      "band": "7.0",
+      "vi": "làm tắt, làm ẩu để tiết kiệm",
+      "def": "to do something cheaply or quickly by ignoring standards",
+      "example": "Contractors who cut corners on safety eventually face far larger costs.",
+      "collocations": [
+        "cut corners on safety",
+        "tempted to cut corners"
+      ],
+      "synonyms": [
+        "take shortcuts",
+        "skimp on quality"
+      ]
+    },
+    {
+      "word": "in the face of",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə ˈfeɪs əv/",
+      "band": "7.5",
+      "vi": "trước, đối mặt với (khó khăn)",
+      "def": "when confronted with a difficult situation",
+      "example": "In the face of rising costs, many small firms have reduced staff.",
+      "collocations": [
+        "in the face of adversity",
+        "in the face of opposition"
+      ],
+      "synonyms": [
+        "despite",
+        "when confronted with"
+      ]
+    },
+    {
+      "word": "on the verge of",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə ˈvɜːdʒ əv/",
+      "band": "7.5",
+      "vi": "sắp sửa, trên bờ vực của",
+      "def": "very close to a particular state or event",
+      "example": "Several coastal towns are on the verge of being abandoned as sea levels rise.",
+      "collocations": [
+        "on the verge of collapse",
+        "on the verge of a breakthrough"
+      ],
+      "synonyms": [
+        "on the brink of",
+        "about to"
+      ]
+    },
+    {
+      "word": "come to terms with",
+      "pos": "phrase",
+      "ipa": "/ˌkʌm tə ˈtɜːmz wɪð/",
+      "band": "7.5",
+      "vi": "chấp nhận, làm quen với điều khó khăn",
+      "def": "to gradually accept something difficult",
+      "example": "Workers must come to terms with the fact that some roles will disappear.",
+      "collocations": [
+        "come to terms with reality",
+        "struggle to come to terms with"
+      ],
+      "synonyms": [
+        "accept",
+        "reconcile oneself to"
+      ]
+    },
+    {
+      "word": "take its toll",
+      "pos": "phrase",
+      "ipa": "/ˌteɪk ɪts ˈtəʊl/",
+      "band": "7.5",
+      "vi": "gây tác động xấu tích tụ, ăn mòn dần",
+      "def": "to cause gradual damage or suffering",
+      "example": "Years of underfunding continue to take its toll on rural clinics.",
+      "collocations": [
+        "take its toll on health",
+        "begin to take its toll"
+      ],
+      "synonyms": [
+        "cause damage",
+        "wear down"
+      ]
+    },
+    {
+      "word": "in hindsight",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈhaɪndsaɪt/",
+      "band": "8.0",
+      "vi": "nhìn lại thì, theo lẽ thường sau khi việc đã xảy ra",
+      "def": "looking back at a past event with present knowledge",
+      "example": "In hindsight, the decision to deregulate the banks was clearly reckless.",
+      "collocations": [
+        "in hindsight, it seems",
+        "easy in hindsight"
+      ],
+      "synonyms": [
+        "looking back",
+        "with the benefit of hindsight"
+      ]
+    },
+    {
+      "word": "for the sake of",
+      "pos": "phrase",
+      "ipa": "/fə ðə ˈseɪk əv/",
+      "band": "7.0",
+      "vi": "vì lợi ích của, vì mục đích của",
+      "def": "for the purpose or benefit of something",
+      "example": "Some argue that growth should be slowed for the sake of the environment.",
+      "collocations": [
+        "for the sake of clarity",
+        "for the sake of future generations"
+      ],
+      "synonyms": [
+        "in the interests of",
+        "for the benefit of"
+      ]
+    },
+    {
+      "word": "a drop in the ocean",
+      "pos": "phrase",
+      "ipa": "/ə ˌdrɒp ɪn ði ˈəʊʃn/",
+      "band": "7.5",
+      "vi": "giọt nước trong đại dương, quá nhỏ so với vấn đề",
+      "def": "an amount far too small to make a difference",
+      "example": "The aid package is a drop in the ocean compared with the damage caused.",
+      "collocations": [
+        "just a drop in the ocean",
+        "little more than a drop in the ocean"
+      ],
+      "synonyms": [
+        "a token amount",
+        "negligible in scale"
+      ]
+    },
+    {
+      "word": "a stumbling block",
+      "pos": "phrase",
+      "ipa": "/ə ˈstʌmblɪŋ blɒk/",
+      "band": "7.5",
+      "vi": "trở ngại",
+      "def": "an obstacle that prevents progress",
+      "example": "The cost of childcare is a stumbling block for many working mothers.",
+      "collocations": [
+        "a major stumbling block",
+        "remove a stumbling block"
+      ],
+      "synonyms": [
+        "an obstacle",
+        "a barrier"
+      ]
+    },
+    {
+      "word": "a myriad of",
+      "pos": "phrase",
+      "ipa": "/ə ˈmɪriəd əv/",
+      "band": "8.0",
+      "vi": "vô số, hàng loạt",
+      "def": "a very large number of things",
+      "example": "Students face a myriad of choices that their parents never had.",
+      "collocations": [
+        "a myriad of reasons",
+        "a myriad of possibilities"
+      ],
+      "synonyms": [
+        "a multitude of",
+        "countless"
+      ]
+    },
+    {
+      "word": "on balance",
+      "pos": "phrase",
+      "ipa": "/ɒn ˈbæləns/",
+      "band": "7.5",
+      "vi": "cân nhắc mọi mặt thì",
+      "def": "after considering all the advantages and disadvantages",
+      "example": "On balance, the benefits of university expansion outweigh the costs.",
+      "collocations": [
+        "on balance, the advantages",
+        "conclude on balance that"
+      ],
+      "synonyms": [
+        "all in all",
+        "overall"
+      ]
+    },
+    {
+      "word": "all things considered",
+      "pos": "phrase",
+      "ipa": "/ˌɔːl θɪŋz kənˈsɪdəd/",
+      "band": "7.5",
+      "vi": "xét mọi khía cạnh",
+      "def": "taking every relevant factor into account",
+      "example": "All things considered, raising the retirement age seems the least painful option.",
+      "collocations": [
+        "all things considered, it is",
+        "but all things considered"
+      ],
+      "synonyms": [
+        "on the whole",
+        "taking everything into account"
+      ]
+    },
+    {
+      "word": "a slippery slope",
+      "pos": "phrase",
+      "ipa": "/ə ˈslɪpəri sləʊp/",
+      "band": "8.0",
+      "vi": "dốc trượt (một khi bắt đầu sẽ dẫn tới hậu quả xấu hơn)",
+      "def": "a course of action that leads to increasingly bad consequences",
+      "example": "Critics see any relaxation of the rules as a slippery slope towards deregulation.",
+      "collocations": [
+        "a slippery slope towards",
+        "argue that it is a slippery slope"
+      ],
+      "synonyms": [
+        "a downward path",
+        "a point of no return"
+      ]
+    }
+  ]
+}

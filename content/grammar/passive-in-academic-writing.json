@@ -1,0 +1,204 @@
+{
+  "slug": "passive-in-academic-writing",
+  "title": "Passive voice in academic writing",
+  "titleVi": "Câu bị động trong văn phong học thuật",
+  "level": "C1",
+  "topic": "passive",
+  "bookUnits": [42, 43, 45],
+  "bandFocus": "8.0",
+  "summary": "Dùng bị động để ẩn tác nhân, mô tả quy trình và báo cáo nghiên cứu — đúng liều lượng, không lạm dụng.",
+  "whyItMatters": "Task 1 dạng process diagram gần như chỉ dùng bị động, còn Task 2 cần bị động để nêu quan điểm chung mà không quy cho ai. Dùng đúng thì câu văn khách quan và dày thông tin; lạm dụng thì bài viết trở nên vô chủ, nặng nề và mất điểm Grammatical Range.",
+  "sections": [
+    {
+      "heading": "Why academic writing hides the doer",
+      "body": [
+        "Academic English is interested in **what happens**, not in who did it. The passive moves the process or result to the front: *Samples were collected from twelve sites* rather than *We collected samples from twelve sites.* The method, not the researcher, becomes the topic of the sentence.",
+        "Keep the agent with **by** only when it carries information: *The study was funded by the Ministry of Health* — the funder matters. Drop it when the agent is obvious or irrelevant: *The data were analysed using SPSS*; adding *by us* only weakens the sentence.",
+        "Vietnamese academic style often relies on *người ta* or on an understood subject. Carried into English, that habit produces sentences with no subject at all (*Collected the data*) or a vague *they* (*They collected the data*). The passive is the standard repair."
+      ],
+      "examples": [
+        { "right": "The questionnaires were distributed to 500 households.", "wrong": "They distributed the questionnaires to 500 households.", "note": "*They* has no referent in an academic text; the passive removes the problem." },
+        { "right": "The samples were analysed at the university laboratory.", "note": "The place matters; the analyst does not." },
+        { "right": "The policy was criticised by both unions and employers.", "note": "The agents carry the argument, so **by** stays." }
+      ]
+    },
+    {
+      "heading": "Forming the passive in every tense",
+      "body": [
+        "The passive is always **be + past participle**, and only **be** changes. Learn the whole ladder: the perfect and continuous forms are where band-6 writers break down, because the auxiliary disappears under pressure.",
+        "Notice that modal passives keep the modal first: *must be checked*, *could be improved*, *should have been addressed*. The perfect infinitive passive (*to have been + V3*) appears constantly in academic citation: *The error appears to have been corrected.*"
+      ],
+      "table": {
+        "headers": ["Form", "Example", "Typical use"],
+        "rows": [
+          ["present simple", "Samples are tested twice.", "routine procedure"],
+          ["past simple", "The survey was conducted in 2022.", "finished method"],
+          ["present perfect", "The issue has been studied extensively.", "research to date"],
+          ["past perfect", "The site had been cleared before building began.", "an earlier step"],
+          ["future and modals", "The results will be published. / Data must be checked.", "prediction, obligation"],
+          ["continuous", "The building is being renovated.", "process in progress"],
+          ["infinitive", "The data need to be verified.", "after need, expect, seem"],
+          ["perfect infinitive", "The error appears to have been corrected.", "earlier action"]
+        ]
+      }
+    },
+    {
+      "heading": "Reporting research without 'I'",
+      "body": [
+        "The standard frames are fixed and worth memorising: *It has been shown that ...*, *X has been linked to Y*, *Participants were asked to ...*, *The findings are consistent with ...*.",
+        "Do not stack two impersonal frames: *It has been shown that it is believed that ...* is a chain of hedging that says nothing. Choose one reporting verb per claim.",
+        "Active reporting verbs are equally academic when the subject is a study or an author: *Nguyen (2021) argues that ...*, *The survey reveals ...*. Mixing active and passive reporting is a marker of range, not of inconsistency."
+      ],
+      "examples": [
+        { "right": "Participants were asked to rate their satisfaction on a five-point scale.", "note": "Standard methods reporting; the researcher is irrelevant." },
+        { "right": "Exposure to traffic noise has been linked to raised blood pressure.", "note": "Impersonal claim, agent deliberately absent." },
+        { "right": "The report concludes that funding should be increased.", "note": "Active verb with an inanimate subject — precise and shorter than a passive." }
+      ]
+    },
+    {
+      "heading": "The agent problem: by, with and verbs that refuse the passive",
+      "body": [
+        "Use **by** for the doer of the action and **with** for the instrument: *The surface was cleaned by a robot with a soft brush.* Swapping them produces quietly absurd sentences.",
+        "Some verbs resist the passive entirely because they are intransitive: **happen, occur, arise, consist of, appear, seem, belong, resemble**. *The accident was happened* is impossible in English, and it is a frequent error when learners translate *được xảy ra* word for word.",
+        "Get-passives (*got cancelled*, *got lost*, *got promoted*) are informal. They are fine in a Speaking test and out of place in Task 2."
+      ],
+      "table": {
+        "headers": ["Verb type", "Passive possible?", "Example"],
+        "rows": [
+          ["transitive: build, test, reject", "yes", "The plan was rejected."],
+          ["intransitive: happen, occur, arise", "no", "The change occurred in 2019."],
+          ["intransitive: consist of, belong to", "no", "The sample consists of three layers."],
+          ["linking: seem, appear, resemble", "no", "The results appear consistent."]
+        ]
+      }
+    },
+    {
+      "heading": "Passive in Task 1 processes and Task 2 argument",
+      "body": [
+        "Process diagrams are almost entirely passive: *The beans are washed, roasted and then ground.* Keep the sequence markers outside the passive (*First*, *After that*, *Once the mixture has cooled*) and never switch to *you* or *we* — the diagram contains no people.",
+        "In Task 2, one or two impersonal passives per paragraph is enough. Overuse produces the flat, agentless prose that holds candidates at 6.5: *It is believed that it should be considered that more should be done.*",
+        "Test yourself with one question: does the sentence tell the reader **who** does what? If nobody cares who, passive. If the actor is the point — a government, a company, a researcher — go active."
+      ],
+      "examples": [
+        { "right": "First, the cocoa beans are fermented and dried. They are then roasted at 120°C.", "note": "Process description: passive throughout, sequence markers keep it readable." },
+        { "right": "Governments should invest in public transport rather than widen roads.", "note": "Agent is the point of the argument, so the active is stronger." },
+        { "right": "It is often argued that university education should be free.", "note": "One impersonal frame to open the debate — enough." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The accident was happened at midnight.",
+      "right": "The accident happened at midnight.",
+      "why": "*Happen* là nội động từ, không có dạng bị động. Tiếng Việt nói *được xảy ra* nên người học dịch thẳng thành *was happened* — lỗi này giám khảo thấy ngay."
+    },
+    {
+      "wrong": "The results were consisted of three groups.",
+      "right": "The results consisted of three groups.",
+      "why": "*Consist of* không có bị động. Chữ *được* trong tiếng Việt không phải giấy phép để biến mọi động từ thành bị động."
+    },
+    {
+      "wrong": "The report has wrote by the committee.",
+      "right": "The report has been written by the committee.",
+      "why": "Thiếu **been** là lỗi bị động phổ biến nhất ở band 6. Mọi thì hoàn thành đều cần **have/has/had + been + V3**."
+    },
+    {
+      "wrong": "Many people are believed that taxes are too high.",
+      "right": "It is believed that taxes are too high.",
+      "why": "Khi đã đưa tân ngữ lên làm chủ ngữ thì không giữ được mệnh đề *that*; phải chọn mẫu **It is believed that** hoặc **People are believed to...**."
+    },
+    {
+      "wrong": "The samples were collected by us from the river.",
+      "right": "The samples were collected from the river.",
+      "why": "Tác nhân hiển nhiên (*by us*) không thêm thông tin mà chỉ làm câu nặng. Cụm **by** chỉ nên xuất hiện khi người đọc thật sự cần biết ai làm."
+    }
+  ],
+  "ieltsTips": [
+    "Task 1 process diagram: dựng toàn bộ mô tả trên `is/are + V3`, giữ tác nhân ở ngoài vì sơ đồ không có người.",
+    "Task 2: dùng `It is often argued that` một lần ở mở bài để dựng bối cảnh tranh luận, sau đó chuyển về chủ động cho chính kiến của bạn.",
+    "Đan xen bị động với động từ tường thuật chủ động (`the study shows`, `researchers found`) để bài không thành một chuỗi câu vô chủ.",
+    "Kiểm tra mọi câu bị động xem đã đủ trợ động từ đúng thì chưa: `has been`, `is being`, `will be` — thiếu trợ động từ mất điểm nặng hơn dùng sai từ vựng."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "The questionnaire ___ to 500 households last spring.",
+      "options": ["was sent", "has sent", "sent", "is sending"],
+      "answerIndex": 0,
+      "explanation": "Bị động quá khứ đơn **was sent**; *last spring* là mốc quá khứ đã kết thúc."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The new policy ___ by the cabinet at the moment.",
+      "options": ["is being discussed", "is discussing", "has discussed", "discusses"],
+      "answerIndex": 0,
+      "explanation": "*At the moment* cần bị động tiếp diễn: **is being + V3**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence cannot be made passive?",
+      "options": ["Someone stole the files.", "The storm damaged the roof.", "The accident happened at noon.", "They cancelled the flight."],
+      "answerIndex": 2,
+      "explanation": "*Happen* là nội động từ nên không có bị động; ba câu còn lại đều có tân ngữ nên chuyển được."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The findings ___ in a peer-reviewed journal next month.",
+      "options": ["will be published", "will publish", "are publishing", "have published"],
+      "answerIndex": 0,
+      "explanation": "Bị động tương lai **will be + V3**; bài báo được công bố, không tự công bố."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "The participants ___ to complete the survey anonymously.",
+      "options": ["were asked", "asked", "were asking", "have asked"],
+      "answerIndex": 0,
+      "explanation": "Người tham gia *được yêu cầu* → bị động **were asked + to V**."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "All the samples ___ (test) before they leave the laboratory.",
+      "answers": ["are tested"],
+      "hint": "routine procedure, present",
+      "explanation": "Quy trình lặp lại → bị động hiện tại đơn **are tested**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "The bridge ___ (close) since the earthquake.",
+      "answers": ["has been closed"],
+      "hint": "since + point in time",
+      "explanation": "*Since* mở khoảng thời gian kéo đến hiện tại → **has been closed**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The data ___ (collect) over a period of six months.",
+      "answers": ["were collected"],
+      "hint": "finished method",
+      "explanation": "Phương pháp đã hoàn tất trong quá khứ → bị động quá khứ đơn **were collected**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The results need ___ (check) by a second researcher.",
+      "answers": ["to be checked"],
+      "hint": "need + passive infinitive",
+      "explanation": "Sau *need* dùng bị động nguyên mẫu: **need to be checked**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "By the time the report was published, the figures ___ (revise) twice.",
+      "answers": ["had been revised"],
+      "hint": "earlier than another past event",
+      "explanation": "Hành động xảy ra trước một mốc quá khứ → bị động quá khứ hoàn thành **had been revised**."
+    }
+  ]
+}

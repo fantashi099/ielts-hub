@@ -1,0 +1,210 @@
+{
+  "slug": "dependent-prepositions",
+  "title": "Dependent prepositions",
+  "titleVi": "Giới từ đi kèm danh từ, tính từ, động từ",
+  "level": "B2",
+  "topic": "prepositions",
+  "bookUnits": [129, 130, 131, 132, 133, 134, 135, 136],
+  "bandFocus": "7.5",
+  "summary": "reason for, aware of, depend on, result in — giới từ cố định đi kèm từ, không suy luận được, phải học theo cụm.",
+  "whyItMatters": "Đây là lỗi khó tự nhận ra nhất vì câu vẫn hiểu được: *the reason of*, *depend of*, *interested on*. Giám khảo coi giới từ sai là lỗi **Lexical Resource** chứ không chỉ ngữ pháp, vì nó cho thấy bạn học từ đơn lẻ mà không học cụm. Tin tốt: danh sách cần học không dài, và các cụm này lặp lại trong mọi bài Task 2.",
+  "sections": [
+    {
+      "heading": "Noun + preposition",
+      "body": [
+        "Nominalisations keep the preposition of the verb they come from: *depend on → dependence on*, *increase in*, *result in → a result of*. Learn the pair together, never the noun alone.",
+        "High-frequency academic pairs: **reason for**, **cause of**, **increase/decrease/rise/fall in**, **solution to**, **effect/impact on**, **demand for**, **need for**, **access to**, **attitude to/towards**, **evidence of/for**, **advantage of**, **difference between**.",
+        "Note **solution to** and **access to** — not *solution of* or *access for*. These two appear constantly in Task 2 and are worth memorising first."
+      ],
+      "table": {
+        "headers": ["Noun + preposition", "Example"],
+        "rows": [
+          ["reason for", "There is no clear reason for the delay."],
+          ["cause of", "Traffic is the main cause of urban air pollution."],
+          ["increase in", "The increase in tuition fees deterred applicants."],
+          ["solution to", "There is no simple solution to the housing crisis."],
+          ["impact on", "The policy had a modest impact on employment."],
+          ["demand for", "Demand for skilled labour has grown."],
+          ["access to", "Access to clean water remains unequal."]
+        ]
+      }
+    },
+    {
+      "heading": "Adjective + preposition",
+      "body": [
+        "Adjectives of feeling and evaluation usually take a fixed preposition: **interested in**, **aware of**, **responsible for**, **capable of**, **similar to**, **dependent on**, **worried about**, **concerned about**, **good/bad at**, **keen on**, **subject to**, **consistent with**.",
+        "Some adjectives take **to** in a way that surprises learners: *similar to*, *identical to*, *opposed to*, *vulnerable to*, *due to*, *prone to*. Others take **of**: *capable of*, *aware of*, *typical of*, *critical of*.",
+        "A small set takes **for**: *responsible for*, *famous for*, *suitable for*, *essential for*. Group them by preposition rather than by meaning — that is how memory works."
+      ],
+      "table": {
+        "headers": ["Preposition", "Adjectives", "Example"],
+        "rows": [
+          ["of", "aware, capable, typical, critical, afraid", "Aware of the risks, the council acted."],
+          ["to", "similar, opposed, vulnerable, prone, due", "Young workers are vulnerable to exploitation."],
+          ["for", "responsible, famous, suitable, essential", "Employers are responsible for safety."],
+          ["with", "consistent, satisfied, associated, familiar", "The results are consistent with earlier studies."],
+          ["in", "interested, involved, engaged", "Few students are interested in engineering."]
+        ]
+      }
+    },
+    {
+      "heading": "Verb + preposition",
+      "body": [
+        "Three groups cover most academic verbs. **to**: *lead to*, *contribute to*, *refer to*, *object to*, *adapt to*. **on**: *depend on*, *rely on*, *focus on*, *insist on*, *base on*. **for**: *account for*, *allow for*, *call for*, *compensate for*.",
+        "Two more groups are frequent in data description: **in** (*result in*, *succeed in*, *invest in*, *believe in*) and **with** (*cope with*, *deal with*, *comply with*, *agree with*).",
+        "Watch verbs whose preposition changes the meaning: *result in* = cause; *result from* = be caused by. *Agree with* a person; *agree to* a proposal; *agree on* a price."
+      ],
+      "examples": [
+        { "right": "Poor planning resulted in significant delays.", "note": "**result in** = cause." },
+        { "right": "The delays resulted from poor planning.", "note": "**result from** = be caused by." },
+        { "right": "The report accounts for regional variation.", "note": "**account for** = explain / represent." }
+      ]
+    },
+    {
+      "heading": "Verbs of communication and blame",
+      "body": [
+        "These are frequent in Task 2 but easy to get wrong. **discuss** takes **no preposition**: *discuss the issue*, never *discuss about*. **explain** takes a direct object: *explain the reason*, not *explain me the reason* — use *explain to me*.",
+        "**Blame** patterns: *blame X for Y* (*critics blame the council for the delay*), *blame Y on X* (*critics blame the delay on the council*). **Accuse** takes **of**: *accused the firm of negligence*.",
+        "**Congratulate on**, **apologise for**, **thank for**, **criticise for**, **praise for** — all follow the same shape: verb + person + **for** + reason."
+      ],
+      "examples": [
+        { "right": "The chapter discusses the causes of migration.", "wrong": "The chapter discusses about the causes of migration.", "note": "**discuss** is transitive — no preposition." },
+        { "right": "Please explain the procedure to the new staff.", "wrong": "Please explain me the procedure.", "note": "**explain + object + to + person**." },
+        { "right": "Critics blamed the council for the delay.", "note": "**blame X for Y**." }
+      ]
+    },
+    {
+      "heading": "Getting the pair right under exam pressure",
+      "body": [
+        "When you are unsure, two strategies work. First, **use the verb form instead of the noun**: if you cannot remember whether it is *an increase of* or *an increase in*, write *X increased by 20%*. Second, **choose a different word with a known pattern**: *the effect on* → *X affected Y*.",
+        "In Task 1, the safest patterns are **increase/rise/fall/decrease in + what**, and **increase/rise/fall by + how much**: *an increase **in** enrolment **of** 12%*. The *of* here belongs to the quantity, not to the noun.",
+        "Keep a personal list of the ten pairs you get wrong most often. Ten is enough; the same ten recur in every essay."
+      ],
+      "examples": [
+        { "right": "There was a 12% increase in enrolment.", "note": "**increase in** + what changed." },
+        { "right": "Enrolment increased by 12%.", "note": "**by** + the size of the change." },
+        { "right": "The rise in rents has affected young workers most.", "wrong": "The rise of rents has affected young workers most.", "note": "**rise in** + what is rising; *rise of* is used for a movement or a person's ascent." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "The report discusses about the causes of migration.",
+      "right": "The report discusses the causes of migration.",
+      "why": "**discuss** là ngoại động từ, không cần giới từ. Người Việt hay thêm *about* vì dịch từ *bàn về*."
+    },
+    {
+      "wrong": "The outcome depends of several factors.",
+      "right": "The outcome depends on several factors.",
+      "why": "**depend on** là cụm cố định, không bao giờ dùng *of*."
+    },
+    {
+      "wrong": "There is no simple solution of the housing crisis.",
+      "right": "There is no simple solution to the housing crisis.",
+      "why": "**solution to** + vấn đề. Cặp này xuất hiện gần như mọi bài Task 2 problem–solution."
+    },
+    {
+      "wrong": "Young workers are vulnerable of exploitation.",
+      "right": "Young workers are vulnerable to exploitation.",
+      "why": "**vulnerable to** + tác nhân. Cùng nhóm với *prone to*, *opposed to*, *similar to*."
+    },
+    {
+      "wrong": "Please explain me the procedure.",
+      "right": "Please explain the procedure to me.",
+      "why": "**explain** không nhận hai tân ngữ trực tiếp. Cấu trúc đúng là `explain + vật + to + người`."
+    }
+  ],
+  "ieltsTips": [
+    "Học giới từ theo **cặp cố định** ngay khi học từ mới: ghi *a rise in*, *a solution to*, *responsible for* vào sổ, không ghi từ đơn. Giới từ sai bị tính là lỗi từ vựng, nên đây là điểm Lexical Resource rẻ nhất.",
+    "Trong Task 1, phân biệt **increase in + đối tượng** và **increase by + mức tăng**: *a 12% increase **in** enrolment* nhưng *enrolment increased **by** 12%*. Trộn hai cấu trúc là lỗi phổ biến nhất ở phần mô tả số liệu.",
+    "Dùng **result in / result from** để đổi hướng nhân quả mà không đổi từ: *Underinvestment **resulted in** overcrowding* ↔ *Overcrowding **resulted from** underinvestment.* Cặp này giúp đoạn văn tránh lặp *because*.",
+    "Khi không chắc giới từ, đổi sang dạng động từ: thay *the impact on X* bằng *X was affected*, thay *the reason for X* bằng *X happened because…*. Một cấu trúc chắc chắn luôn tốt hơn một cụm sai."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "There is no simple solution ___ the housing crisis.",
+      "options": ["of", "for", "to", "with"],
+      "answerIndex": 2,
+      "explanation": "**solution to** + problem."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "The outcome depends ___ several factors.",
+      "options": ["of", "on", "to", "in"],
+      "answerIndex": 1,
+      "explanation": "**depend on** is a fixed pair."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "The council is responsible ___ waste collection.",
+      "options": ["of", "to", "for", "with"],
+      "answerIndex": 2,
+      "explanation": "**responsible for** + task."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "Young workers are vulnerable ___ exploitation.",
+      "options": ["of", "to", "for", "about"],
+      "answerIndex": 1,
+      "explanation": "**vulnerable to** + risk."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The chapter discusses about migration.",
+        "The chapter discusses migration.",
+        "The chapter discusses on migration.",
+        "The chapter discusses for migration."
+      ],
+      "answerIndex": 1,
+      "explanation": "**discuss** takes a direct object, no preposition."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "There has been a sharp rise ___ rents since 2015.",
+      "answers": ["in"],
+      "hint": "rise ___ what",
+      "explanation": "**a rise in** + what is rising."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "Poor planning resulted ___ significant delays.",
+      "answers": ["in"],
+      "hint": "cause",
+      "explanation": "**result in** = cause."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "The delays resulted ___ poor planning.",
+      "answers": ["from"],
+      "hint": "be caused by",
+      "explanation": "**result from** = be caused by."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "Please explain the procedure ___ the new staff.",
+      "answers": ["to"],
+      "hint": "explain + object + ___ + person",
+      "explanation": "**explain something to someone**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "Critics blamed the council ___ the delay.",
+      "answers": ["for"],
+      "hint": "blame X ___ Y",
+      "explanation": "**blame X for Y**."
+    }
+  ]
+}

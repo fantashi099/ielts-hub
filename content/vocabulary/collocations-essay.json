@@ -1,0 +1,435 @@
+{
+  "slug": "collocations-essay",
+  "title": "Essay collocations",
+  "titleVi": "Cụm từ cố định dùng trong bài luận",
+  "topic": "collocations",
+  "description": "Bộ cụm động từ + danh từ và tính từ + danh từ mà giám khảo coi là dấu hiệu của band 7.5 trở lên. Học theo cụm giúp bạn tránh ghép sai từ và tăng tốc độ viết.",
+  "ieltsUse": "Dùng trực tiếp trong Task 2 ở phần mở bài, thân bài và kết luận; nhiều cụm cũng dùng được cho Task 1 khi mô tả tác động của một xu hướng.",
+  "words": [
+    {
+      "word": "pose a threat",
+      "pos": "collocation",
+      "ipa": "/ˌpəʊz ə ˈθret/",
+      "band": "7.0",
+      "vi": "gây ra mối đe doạ",
+      "def": "to create a danger to something",
+      "example": "Automation may pose a threat to routine jobs in manufacturing and administration.",
+      "collocations": [
+        "pose a serious threat",
+        "pose a threat to public health"
+      ],
+      "synonyms": [
+        "represent a danger",
+        "endanger"
+      ]
+    },
+    {
+      "word": "play a pivotal role",
+      "pos": "collocation",
+      "ipa": "/ˌpleɪ ə ˈpɪvətl ˈrəʊl/",
+      "band": "7.5",
+      "vi": "đóng vai trò then chốt",
+      "def": "to be the most important factor in a process",
+      "example": "Parents play a pivotal role in shaping their children's attitudes to learning.",
+      "collocations": [
+        "play a pivotal role in",
+        "play an increasingly pivotal role"
+      ],
+      "synonyms": [
+        "be central to",
+        "play a key part"
+      ]
+    },
+    {
+      "word": "grave concern",
+      "pos": "collocation",
+      "ipa": "/ˌɡreɪv kənˈsɜːn/",
+      "band": "7.5",
+      "vi": "mối lo ngại nghiêm trọng",
+      "def": "a matter that causes serious worry",
+      "example": "The decline in youth mental health is a matter of grave concern.",
+      "collocations": [
+        "cause grave concern",
+        "express grave concern"
+      ],
+      "synonyms": [
+        "serious worry",
+        "acute anxiety"
+      ]
+    },
+    {
+      "word": "address an issue",
+      "pos": "collocation",
+      "ipa": "/əˌdres ən ˈɪʃuː/",
+      "band": "7.0",
+      "vi": "giải quyết một vấn đề",
+      "def": "to take action to deal with a problem",
+      "example": "Policymakers have been slow to address an issue that affects millions of renters.",
+      "collocations": [
+        "address an issue directly",
+        "fail to address an issue"
+      ],
+      "synonyms": [
+        "tackle a problem",
+        "deal with a matter"
+      ]
+    },
+    {
+      "word": "alleviate the burden",
+      "pos": "collocation",
+      "ipa": "/əˌliːvieɪt ðə ˈbɜːdn/",
+      "band": "8.0",
+      "vi": "làm giảm gánh nặng",
+      "def": "to make a difficult load easier to bear",
+      "example": "Subsidised childcare would alleviate the burden on working parents.",
+      "collocations": [
+        "alleviate the financial burden",
+        "alleviate the burden on taxpayers"
+      ],
+      "synonyms": [
+        "ease the pressure",
+        "lighten the load"
+      ]
+    },
+    {
+      "word": "raise awareness",
+      "pos": "collocation",
+      "ipa": "/ˌreɪz əˈweənəs/",
+      "band": "7.0",
+      "vi": "nâng cao nhận thức",
+      "def": "to make people better informed about an issue",
+      "example": "Campaigns that raise awareness of recycling have changed household habits.",
+      "collocations": [
+        "raise awareness of",
+        "raise public awareness"
+      ],
+      "synonyms": [
+        "increase understanding",
+        "educate the public"
+      ]
+    },
+    {
+      "word": "implement a policy",
+      "pos": "collocation",
+      "ipa": "/ˌɪmplɪment ə ˈpɒləsi/",
+      "band": "7.5",
+      "vi": "triển khai một chính sách",
+      "def": "to put an official plan into practice",
+      "example": "The city was slow to implement a policy on low-emission zones.",
+      "collocations": [
+        "implement a policy effectively",
+        "implement a new policy"
+      ],
+      "synonyms": [
+        "put a policy into effect",
+        "enforce a policy"
+      ]
+    },
+    {
+      "word": "allocate resources",
+      "pos": "collocation",
+      "ipa": "/ˌæləkeɪt rɪˈzɔːsɪz/",
+      "band": "7.5",
+      "vi": "phân bổ nguồn lực",
+      "def": "to distribute money or staff for particular purposes",
+      "example": "Governments should allocate resources to preventive healthcare rather than to hospitals.",
+      "collocations": [
+        "allocate resources efficiently",
+        "allocate scarce resources"
+      ],
+      "synonyms": [
+        "distribute funding",
+        "assign resources"
+      ]
+    },
+    {
+      "word": "bear the cost",
+      "pos": "collocation",
+      "ipa": "/ˌbeə ðə ˈkɒst/",
+      "band": "7.5",
+      "vi": "gánh chịu chi phí",
+      "def": "to pay for something, often unwillingly",
+      "example": "Taxpayers ultimately bear the cost of cleaning up polluted rivers.",
+      "collocations": [
+        "bear the full cost",
+        "bear the cost of"
+      ],
+      "synonyms": [
+        "shoulder the expense",
+        "foot the bill"
+      ]
+    },
+    {
+      "word": "reap the benefits",
+      "pos": "collocation",
+      "ipa": "/ˌriːp ðə ˈbenɪfɪts/",
+      "band": "7.5",
+      "vi": "gặt hái lợi ích",
+      "def": "to gain the advantages of something after effort",
+      "example": "Countries that invest early in education reap the benefits for generations.",
+      "collocations": [
+        "reap the benefits of",
+        "reap the full benefits"
+      ],
+      "synonyms": [
+        "enjoy the advantages",
+        "profit from"
+      ]
+    },
+    {
+      "word": "gain insight into",
+      "pos": "collocation",
+      "ipa": "/ˌɡeɪn ˈɪnsaɪt ˈɪntuː/",
+      "band": "7.5",
+      "vi": "hiểu sâu hơn về",
+      "def": "to obtain a deeper understanding of something",
+      "example": "Longitudinal data allows researchers to gain insight into how habits form.",
+      "collocations": [
+        "gain insight into human behaviour",
+        "gain valuable insight"
+      ],
+      "synonyms": [
+        "develop an understanding of",
+        "learn about"
+      ]
+    },
+    {
+      "word": "reach a consensus",
+      "pos": "collocation",
+      "ipa": "/ˌriːtʃ ə kənˈsensəs/",
+      "band": "7.5",
+      "vi": "đạt được sự đồng thuận",
+      "def": "to arrive at general agreement among a group",
+      "example": "Delegates failed to reach a consensus on binding emission targets.",
+      "collocations": [
+        "reach a consensus on",
+        "build a consensus"
+      ],
+      "synonyms": [
+        "come to an agreement",
+        "settle on a position"
+      ]
+    },
+    {
+      "word": "draw a distinction",
+      "pos": "collocation",
+      "ipa": "/ˌdrɔː ə dɪˈstɪŋkʃən/",
+      "band": "8.0",
+      "vi": "phân biệt rõ giữa hai thứ",
+      "def": "to point out a meaningful difference between two things",
+      "example": "It is important to draw a distinction between correlation and causation.",
+      "collocations": [
+        "draw a clear distinction",
+        "draw a distinction between"
+      ],
+      "synonyms": [
+        "make a distinction",
+        "differentiate"
+      ]
+    },
+    {
+      "word": "a detrimental effect",
+      "pos": "collocation",
+      "ipa": "/ə ˌdetrɪˈmentl ɪˈfekt/",
+      "band": "7.5",
+      "vi": "tác động có hại",
+      "def": "a harmful influence on something",
+      "example": "Excessive screen time has a detrimental effect on children's sleep.",
+      "collocations": [
+        "have a detrimental effect on",
+        "a seriously detrimental effect"
+      ],
+      "synonyms": [
+        "an adverse impact",
+        "a harmful consequence"
+      ]
+    },
+    {
+      "word": "exert influence",
+      "pos": "collocation",
+      "ipa": "/ɪɡˌzɜːt ˈɪnfluəns/",
+      "band": "8.0",
+      "vi": "gây ảnh hưởng",
+      "def": "to use power to affect how something develops",
+      "example": "Advertising can exert influence over the spending habits of young consumers.",
+      "collocations": [
+        "exert influence over",
+        "exert a powerful influence"
+      ],
+      "synonyms": [
+        "wield influence",
+        "shape outcomes"
+      ]
+    },
+    {
+      "word": "meet a demand",
+      "pos": "collocation",
+      "ipa": "/ˌmiːt ə dɪˈmɑːnd/",
+      "band": "7.0",
+      "vi": "đáp ứng nhu cầu",
+      "def": "to supply as much as people want",
+      "example": "The new hospital was built to meet a demand for emergency care.",
+      "collocations": [
+        "meet a growing demand",
+        "meet a demand for housing"
+      ],
+      "synonyms": [
+        "satisfy demand",
+        "keep pace with demand"
+      ]
+    },
+    {
+      "word": "take precedence",
+      "pos": "collocation",
+      "ipa": "/ˌteɪk ˈpresɪdəns/",
+      "band": "8.0",
+      "vi": "được ưu tiên",
+      "def": "to be treated as more important than something else",
+      "example": "In most budgets, short-term relief will take precedence over long-term investment.",
+      "collocations": [
+        "take precedence over",
+        "should take precedence"
+      ],
+      "synonyms": [
+        "come first",
+        "be given priority"
+      ]
+    },
+    {
+      "word": "spark debate",
+      "pos": "collocation",
+      "ipa": "/ˌspɑːk dɪˈbeɪt/",
+      "band": "7.5",
+      "vi": "khơi mào tranh luận",
+      "def": "to cause a public discussion to begin",
+      "example": "The proposal to ban private cars is likely to spark debate across the city.",
+      "collocations": [
+        "spark a heated debate",
+        "spark public debate"
+      ],
+      "synonyms": [
+        "trigger discussion",
+        "provoke controversy"
+      ]
+    },
+    {
+      "word": "incur costs",
+      "pos": "collocation",
+      "ipa": "/ɪnˌkɜː ˈkɒsts/",
+      "band": "7.5",
+      "vi": "phát sinh chi phí",
+      "def": "to experience expenses as a result of an action",
+      "example": "Households that delay maintenance often incur costs far higher later on.",
+      "collocations": [
+        "incur additional costs",
+        "incur costs as a result"
+      ],
+      "synonyms": [
+        "run up expenses",
+        "incur expenditure"
+      ]
+    },
+    {
+      "word": "mitigate the impact",
+      "pos": "collocation",
+      "ipa": "/ˌmɪtɪɡeɪt ði ˈɪmpækt/",
+      "band": "7.5",
+      "vi": "giảm thiểu tác động",
+      "def": "to make the effect of something less severe",
+      "example": "Coastal defences can mitigate the impact of rising sea levels only to a point.",
+      "collocations": [
+        "mitigate the impact of",
+        "mitigate the negative impact"
+      ],
+      "synonyms": [
+        "lessen the effect",
+        "cushion the blow"
+      ]
+    },
+    {
+      "word": "a growing body of evidence",
+      "pos": "collocation",
+      "ipa": "/ə ˌɡrəʊɪŋ ˈbɒdi əv ˈevɪdəns/",
+      "band": "8.0",
+      "vi": "ngày càng nhiều bằng chứng",
+      "def": "an increasing amount of research supporting a view",
+      "example": "A growing body of evidence links air pollution to cognitive decline.",
+      "collocations": [
+        "a growing body of evidence suggests",
+        "build a body of evidence"
+      ],
+      "synonyms": [
+        "mounting evidence",
+        "accumulating research"
+      ]
+    },
+    {
+      "word": "a pressing issue",
+      "pos": "collocation",
+      "ipa": "/ə ˈpresɪŋ ˈɪʃuː/",
+      "band": "7.5",
+      "vi": "vấn đề cấp bách",
+      "def": "a problem that requires urgent attention",
+      "example": "Youth unemployment remains a pressing issue in many southern provinces.",
+      "collocations": [
+        "a pressing issue for",
+        "the most pressing issue"
+      ],
+      "synonyms": [
+        "an urgent problem",
+        "a matter of urgency"
+      ]
+    },
+    {
+      "word": "a viable solution",
+      "pos": "collocation",
+      "ipa": "/ə ˌvaɪəbl səˈluːʃən/",
+      "band": "7.5",
+      "vi": "giải pháp khả thi",
+      "def": "a solution that can realistically work",
+      "example": "Congestion charging is a viable solution where public transport already exists.",
+      "collocations": [
+        "offer a viable solution",
+        "the only viable solution"
+      ],
+      "synonyms": [
+        "a workable answer",
+        "a practical remedy"
+      ]
+    },
+    {
+      "word": "a profound impact",
+      "pos": "collocation",
+      "ipa": "/ə prəˌfaʊnd ˈɪmpækt/",
+      "band": "7.5",
+      "vi": "tác động sâu sắc",
+      "def": "a very great effect on something",
+      "example": "The arrival of the internet had a profound impact on rural businesses.",
+      "collocations": [
+        "have a profound impact on",
+        "a profound impact upon"
+      ],
+      "synonyms": [
+        "a far-reaching effect",
+        "a deep influence"
+      ]
+    },
+    {
+      "word": "strike a balance",
+      "pos": "collocation",
+      "ipa": "/ˌstraɪk ə ˈbæləns/",
+      "band": "7.0",
+      "vi": "tìm được sự cân bằng",
+      "def": "to find a sensible middle point between two needs",
+      "example": "Schools must strike a balance between academic rigour and creative freedom.",
+      "collocations": [
+        "strike a balance between",
+        "strike the right balance"
+      ],
+      "synonyms": [
+        "find a compromise",
+        "achieve equilibrium"
+      ]
+    }
+  ]
+}

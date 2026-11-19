@@ -1,0 +1,203 @@
+{
+  "slug": "participle-clauses",
+  "title": "Participle clauses",
+  "titleVi": "Mệnh đề phân từ",
+  "level": "C1",
+  "topic": "clauses",
+  "bookUnits": [68, 97],
+  "bandFocus": "8.0",
+  "summary": "Dùng -ing, -ed và having + V3 để nối hai ý trong một câu — mạch văn học thuật, ít liên từ.",
+  "whyItMatters": "Band 7 dùng `because`, `when`, `and` để nối câu. Band 8 dùng mệnh đề phân từ để hai hành động nằm gọn trong một câu mà vẫn rõ quan hệ thời gian, nguyên nhân và kết quả: *Having reviewed the evidence, the committee rejected the proposal.* Đây là cấu trúc giúp Coherence and Cohesion tăng mà không cần thêm từ nối — nhưng chủ ngữ lệch là câu sai ngay.",
+  "sections": [
+    {
+      "heading": "One clause, one hidden subject",
+      "body": [
+        "A participle clause is a subordinate clause built on **-ing** or a **past participle** that has no subject of its own. Its subject is understood to be the subject of the main clause: *[Walking through the old quarter], I noticed how quickly the shops had changed.*",
+        "It replaces a longer adverbial clause — *when I was walking*, *because I was walking* — and lets the reader infer the relation from meaning and position: at the front it usually signals **time** or **reason**; at the end it usually signals **result** or a **simultaneous action**.",
+        "Do not confuse it with a reduced relative clause. A reduced relative clause describes a **noun** (*the students living on campus*); a participle clause describes the **main verb's subject and action** (*Living on campus, students save money on transport*)."
+      ],
+      "examples": [
+        { "right": "Faced with rising costs, many families have cut back on heating.", "note": "Front position → reason; *many families* is the hidden subject of *faced*." },
+        { "right": "The government raised fuel taxes, triggering widespread protests.", "note": "End position → result." },
+        { "right": "While studying in Melbourne, she worked two part-time jobs.", "note": "**while + -ing** makes the simultaneity explicit." }
+      ]
+    },
+    {
+      "heading": "The -ing clause: same subject, active meaning",
+      "body": [
+        "Use **-ing** when the subject of the main clause is the **doer** of the participle action. The clause can sit before the main clause (time/reason), between subject and verb (comment), or after it (result).",
+        "The relation is not fixed by the form, so the main clause must make it obvious. *Opening the report, she sighed* reads as time; *Knowing the risks, they proceeded* reads as concession. If a reader could take two different meanings, add **when**, **because** or **although** and keep a full clause.",
+        "For an action completed **before** the main verb, use the perfect participle **having + past participle**: *Having consulted local residents, the council revised the plan.*"
+      ],
+      "examples": [
+        { "right": "Recognising that the data were incomplete, the authors added a caveat.", "wrong": "Recognising that the data were incomplete, a caveat was added by the authors.", "note": "The hidden subject must be the main subject — *a caveat* cannot recognise anything." },
+        { "right": "Having lived in the city for a decade, he knew which routes flooded.", "note": "**Having + V3** = the living happened first." },
+        { "right": "The company expanded rapidly, creating hundreds of jobs.", "note": "End position; the -ing clause states the result." }
+      ]
+    },
+    {
+      "heading": "The past participle clause: passive meaning",
+      "body": [
+        "Use a **past participle** when the subject **receives** the action: *Built in 1890, the bridge is now structurally unsafe* (= the bridge was built).",
+        "This is the natural choice for academic writing about institutions, policies and data, because the agent is often unimportant: *Written in plain language, the guidance reached a far wider audience.*",
+        "For a passive action completed earlier, use **having been + past participle**: *Having been rejected twice, the proposal was finally approved.* It is formal but precise, and examiners recognise it as C1 range."
+      ],
+      "examples": [
+        { "right": "Injured during the match, the striker missed the rest of the season.", "wrong": "Injuring during the match, the striker missed the rest of the season.", "note": "The striker was injured — passive, so V3." },
+        { "right": "Having been warned about the delays, most passengers rebooked in advance.", "note": "Passive action completed before the main verb." },
+        { "right": "Compared with nuclear power, solar generation creates far fewer long-term hazards.", "note": "A fixed participle frame for comparison — very common in Task 2." }
+      ]
+    },
+    {
+      "heading": "Dangling participles: the error examiners notice first",
+      "body": [
+        "A participle clause dangles when its hidden subject is not the subject of the main clause. *Walking home, the rain started* says the rain was walking. The sentence is not merely awkward; it is illogical, and one instance can pull Grammatical Range and Accuracy down.",
+        "The fix is mechanical: name the doer in the main clause, or turn the participle back into a full clause with its own subject.",
+        "Watch the passive trap too. *Being expensive, few people bought the product* dangles because *few people* were not expensive; write *Because the product was expensive, few people bought it.*"
+      ],
+      "examples": [
+        { "right": "Walking through the old quarter, I noticed how quickly the shops had changed.", "wrong": "Walking through the old quarter, the shops had changed quickly.", "note": "The shops were not walking." },
+        { "right": "When the results were published, they surprised even the researchers.", "wrong": "Being published, the results surprised even the researchers.", "note": "*Being published* suggests the results published something — recast the clause." },
+        { "right": "Having been told the deadline, the team worked through the weekend.", "wrong": "Having been told the deadline, the weekend was spent working.", "note": "The weekend did not hear the deadline." }
+      ]
+    },
+    {
+      "heading": "Using participle clauses for paragraph rhythm",
+      "body": [
+        "In a Task 2 body paragraph, participle clauses reduce the number of *because/and/so* links without losing logic. A typical band-8 sequence is: a claim, a participle clause giving the reason, then a full sentence for the consequence.",
+        "*Cities that invest in cycle lanes reduce congestion and improve public health. **Encouraged by lower accident rates**, commuters are also more willing to leave the car at home. **Having seen these effects**, several mid-sized municipalities have reallocated road space.*",
+        "Keep the density controlled. Two participle clauses in a three-sentence paragraph is plenty; four makes the prose breathless and the logic harder to follow."
+      ],
+      "examples": [
+        { "right": "Encouraged by lower accident rates, commuters are more willing to cycle.", "note": "Passive participle; the subject *commuters* is the receiver." },
+        { "right": "Having compared the two cohorts, the researchers adjusted for income.", "note": "Perfect participle marks the sequence clearly." },
+        { "right": "Faced with a shortage of teachers, rural schools have increased class sizes.", "wrong": "Facing with a shortage of teachers, rural schools have increased class sizes.", "note": "The fixed form is **faced with**, not *facing with*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "Walking along the beach, the sunset was beautiful.",
+      "right": "Walking along the beach, I thought the sunset was beautiful.",
+      "why": "Chủ ngữ ẩn của *walking* phải là chủ ngữ mệnh đề chính. Sunset không biết đi bộ. Đây là lỗi **dangling participle** kinh điển."
+    },
+    {
+      "wrong": "Having finishing the report, she sent it to her manager.",
+      "right": "Having finished the report, she sent it to her manager.",
+      "why": "Sau **having** luôn là V3, không phải V-ing. Cấu trúc là `having + past participle`."
+    },
+    {
+      "wrong": "Built in 1890, the council restored the bridge in 2010.",
+      "right": "Built in 1890, the bridge was restored by the council in 2010.",
+      "why": "Cầu mới là thứ được xây, không phải hội đồng. Chủ ngữ mệnh đề chính phải là đối tượng của phân từ."
+    },
+    {
+      "wrong": "Being a student, my tuition fees were paid by my parents.",
+      "right": "Being a student, I had my tuition fees paid by my parents.",
+      "why": "*Being a student* nói về người học, nhưng chủ ngữ lại là *tuition fees*. Sửa bằng cách đưa đúng chủ thể vào mệnh đề chính."
+    },
+    {
+      "wrong": "Facing with higher rents, young workers are moving to the suburbs.",
+      "right": "Faced with higher rents, young workers are moving to the suburbs.",
+      "why": "Cụm cố định là **be faced with**, nên phân từ là *faced with*. *Facing* không đi với *with* trong nghĩa này."
+    }
+  ],
+  "ieltsTips": [
+    "Dùng mệnh đề phân từ để nêu **nguyên nhân** ngay đầu câu, giúp đoạn văn Task 2 bớt `because`: ***Having been exposed to English from primary school**, many students arrive at university with strong receptive skills but weak academic writing.*",
+    "Trong Task 1, dùng phân từ để mô tả chuỗi thay đổi trong biểu đồ thời gian: ***Having risen steadily until 2010**, the figure plateaued for a decade before falling sharply.*",
+    "Đặt mệnh đề phân từ ở **cuối câu** để nêu kết quả — cách gọn nhất để tránh `which leads to`: *The city expanded its metro network, **cutting average commute times by 18%**.*",
+    "Tự kiểm tra bằng phép thử chủ ngữ: che mệnh đề chính lại, hỏi *ai làm hành động này?* Nếu câu trả lời không phải chủ ngữ mệnh đề chính, bạn đang có câu dangling và phải viết lại."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "___ the evidence carefully, the committee rejected the proposal.",
+      "options": ["Having reviewed", "Reviewing it", "Reviewed", "Having reviewing"],
+      "answerIndex": 0,
+      "explanation": "The review happened before the rejection → perfect participle **Having reviewed**."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "___ in 1890, the bridge is now structurally unsafe.",
+      "options": ["Building", "Built", "Having built", "To build"],
+      "answerIndex": 1,
+      "explanation": "The bridge was built — passive → past participle **Built**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "Which sentence has a dangling participle?",
+      "options": [
+        "Having finished the survey, the team analysed the results.",
+        "Driving to work, she listens to podcasts.",
+        "Walking through the market, the smells reminded me of my childhood.",
+        "Faced with budget cuts, the school reduced its staff."
+      ],
+      "answerIndex": 2,
+      "explanation": "*Walking* would have to describe *the smells*, which cannot walk. Rewrite: *Walking through the market, I was reminded of my childhood.*"
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "The factory closed in 2015, ___ about 400 jobs.",
+      "options": ["losing", "lost", "having lost", "to lose"],
+      "answerIndex": 0,
+      "explanation": "The -ing clause at the end expresses the **result**: it lost jobs as a consequence."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "Choose the correct passive perfect participle.",
+      "options": [
+        "Having been rejected twice, the proposal was finally approved.",
+        "Having rejected twice, the proposal was finally approved.",
+        "Being rejected twice, the proposal was finally approved.",
+        "Rejecting twice, the proposal was finally approved."
+      ],
+      "answerIndex": 0,
+      "explanation": "**Having been + V3** marks a passive action completed before the main verb."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "___ (face) with rising costs, many families have cut back on heating.",
+      "answers": ["faced"],
+      "hint": "be faced with",
+      "explanation": "The fixed expression is **be faced with**, so the participle is *faced*."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "___ (live) in the city for a decade, he knew which routes flooded.",
+      "answers": ["having lived"],
+      "hint": "the living happened first",
+      "explanation": "An earlier action → perfect participle **having lived**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "___ (write) in plain language, the guidance reached a far wider audience.",
+      "answers": ["written"],
+      "hint": "passive",
+      "explanation": "The guidance was written — passive → **written**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "The company expanded rapidly, ___ (create) hundreds of jobs.",
+      "answers": ["creating"],
+      "hint": "result at the end of the sentence",
+      "explanation": "The -ing clause at the end states the result → **creating**."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "___ (compare) with nuclear power, solar generation creates fewer long-term hazards.",
+      "answers": ["compared"],
+      "hint": "compared with",
+      "explanation": "The fixed frame is **compared with**; the subject is the thing being compared."
+    }
+  ]
+}

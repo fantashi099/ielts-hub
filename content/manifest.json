@@ -1,0 +1,82 @@
+{
+  "grammar": [
+    { "slug": "present-simple-and-continuous", "title": "Present simple and present continuous", "titleVi": "Thì hiện tại đơn và hiện tại tiếp diễn", "level": "B1", "topic": "tenses", "bookUnits": [1, 2, 3, 4], "bandFocus": "7.0" },
+    { "slug": "past-simple-and-past-continuous", "title": "Past simple and past continuous", "titleVi": "Thì quá khứ đơn và quá khứ tiếp diễn", "level": "B1", "topic": "tenses", "bookUnits": [5, 6], "bandFocus": "7.0" },
+    { "slug": "present-perfect-vs-past-simple", "title": "Present perfect vs past simple", "titleVi": "Hiện tại hoàn thành và quá khứ đơn", "level": "B2", "topic": "tenses", "bookUnits": [7, 8, 13, 14], "bandFocus": "7.5" },
+    { "slug": "present-perfect-continuous", "title": "Present perfect continuous", "titleVi": "Hiện tại hoàn thành tiếp diễn", "level": "B2", "topic": "tenses", "bookUnits": [9, 10, 11, 12], "bandFocus": "7.5" },
+    { "slug": "past-perfect-and-past-perfect-continuous", "title": "Past perfect and past perfect continuous", "titleVi": "Quá khứ hoàn thành và quá khứ hoàn thành tiếp diễn", "level": "B2", "topic": "tenses", "bookUnits": [15, 16], "bandFocus": "7.5" },
+    { "slug": "future-forms-will-and-going-to", "title": "Future forms: will, going to and the present", "titleVi": "Các cách diễn đạt tương lai", "level": "B1", "topic": "tenses", "bookUnits": [19, 20, 21, 23], "bandFocus": "7.0" },
+    { "slug": "future-perfect-and-future-continuous", "title": "Future perfect and future continuous", "titleVi": "Tương lai hoàn thành và tương lai tiếp diễn", "level": "C1", "topic": "tenses", "bookUnits": [24], "bandFocus": "8.0" },
+    { "slug": "used-to-and-past-habits", "title": "used to, would and past habits", "titleVi": "used to, would và thói quen trong quá khứ", "level": "B1", "topic": "tenses", "bookUnits": [17, 18], "bandFocus": "7.0" },
+
+    { "slug": "modals-ability-and-possibility", "title": "Modals of ability and possibility", "titleVi": "Động từ khuyết thiếu: khả năng và khả năng xảy ra", "level": "B1", "topic": "modals", "bookUnits": [26, 27], "bandFocus": "7.0" },
+    { "slug": "modals-obligation-and-advice", "title": "Modals of obligation, necessity and advice", "titleVi": "Động từ khuyết thiếu: bắt buộc, cần thiết và khuyên bảo", "level": "B2", "topic": "modals", "bookUnits": [31, 32, 33, 34], "bandFocus": "7.5" },
+    { "slug": "modals-deduction-and-speculation", "title": "Modals of deduction and speculation", "titleVi": "Động từ khuyết thiếu: suy đoán", "level": "B2", "topic": "modals", "bookUnits": [28, 29, 30], "bandFocus": "7.5" },
+    { "slug": "modal-perfects-past-speculation", "title": "Modal perfects: must have, could have, should have", "titleVi": "Modal hoàn thành: phỏng đoán và nuối tiếc trong quá khứ", "level": "C1", "topic": "modals", "bookUnits": [27, 40, 35], "bandFocus": "8.0" },
+
+    { "slug": "zero-and-first-conditional", "title": "Zero and first conditionals", "titleVi": "Câu điều kiện loại 0 và loại 1", "level": "B1", "topic": "conditionals", "bookUnits": [38], "bandFocus": "7.0" },
+    { "slug": "second-conditional-and-wish", "title": "Second conditional and wish", "titleVi": "Câu điều kiện loại 2 và wish", "level": "B2", "topic": "conditionals", "bookUnits": [39, 41], "bandFocus": "7.5" },
+    { "slug": "third-conditional-and-mixed", "title": "Third conditional and mixed conditionals", "titleVi": "Câu điều kiện loại 3 và hỗn hợp", "level": "C1", "topic": "conditionals", "bookUnits": [40], "bandFocus": "8.0" },
+
+    { "slug": "passive-voice-forms", "title": "Passive voice: forms and tenses", "titleVi": "Câu bị động: các dạng và thì", "level": "B2", "topic": "passive", "bookUnits": [42, 43, 44], "bandFocus": "7.5" },
+    { "slug": "impersonal-and-causative-passive", "title": "Impersonal and causative passives", "titleVi": "Bị động khách quan và bị động nhờ vả", "level": "C1", "topic": "passive", "bookUnits": [45, 46], "bandFocus": "8.0" },
+    { "slug": "passive-in-academic-writing", "title": "Passive voice in academic writing", "titleVi": "Câu bị động trong văn phong học thuật", "level": "C1", "topic": "passive", "bookUnits": [42, 43, 45], "bandFocus": "8.0" },
+    { "slug": "reported-speech-statements", "title": "Reported speech: statements", "titleVi": "Câu tường thuật: câu kể", "level": "B2", "topic": "reported-speech", "bookUnits": [47], "bandFocus": "7.5" },
+    { "slug": "reported-questions-and-commands", "title": "Reported questions and commands", "titleVi": "Câu tường thuật: câu hỏi và câu mệnh lệnh", "level": "B2", "topic": "reported-speech", "bookUnits": [48, 50], "bandFocus": "7.5" },
+
+    { "slug": "gerund-vs-infinitive", "title": "Gerund vs infinitive", "titleVi": "Danh động từ và động từ nguyên mẫu", "level": "B2", "topic": "verb-patterns", "bookUnits": [53, 54, 56, 57], "bandFocus": "7.5" },
+    { "slug": "verb-object-infinitive-patterns", "title": "Verb + object + infinitive patterns", "titleVi": "Cấu trúc động từ + tân ngữ + nguyên mẫu", "level": "B2", "topic": "verb-patterns", "bookUnits": [55, 67], "bandFocus": "7.5" },
+    { "slug": "adjective-and-preposition-patterns", "title": "Adjective and preposition patterns", "titleVi": "Tính từ và giới từ đi kèm", "level": "B2", "topic": "verb-patterns", "bookUnits": [62, 65, 66], "bandFocus": "7.5" },
+    { "slug": "prefer-would-rather-had-better", "title": "prefer, would rather, had better", "titleVi": "prefer, would rather, had better", "level": "B2", "topic": "verb-patterns", "bookUnits": [35, 59], "bandFocus": "7.5" },
+
+    { "slug": "articles-a-an-the", "title": "Articles: a, an and the", "titleVi": "Mạo từ a, an và the", "level": "B1", "topic": "articles-nouns", "bookUnits": [69, 70, 71, 72, 73], "bandFocus": "7.0" },
+    { "slug": "articles-advanced-zero-article", "title": "Articles: zero article and generic reference", "titleVi": "Mạo từ: không dùng mạo từ và danh từ khái quát", "level": "C1", "topic": "articles-nouns", "bookUnits": [74, 75, 76, 77, 78], "bandFocus": "8.0" },
+    { "slug": "countable-uncountable-and-quantifiers", "title": "Countable, uncountable and quantifiers", "titleVi": "Danh từ đếm được, không đếm được và lượng từ", "level": "B1", "topic": "articles-nouns", "bookUnits": [69, 70, 87], "bandFocus": "7.0" },
+    { "slug": "singular-plural-and-compound-nouns", "title": "Singular, plural and compound nouns", "titleVi": "Danh từ số ít, số nhiều và danh từ ghép", "level": "B2", "topic": "articles-nouns", "bookUnits": [79, 80, 81], "bandFocus": "7.5" },
+
+    { "slug": "determiners-all-most-none", "title": "Determiners: all, most, none, both, either", "titleVi": "Lượng từ: all, most, none, both, either", "level": "B2", "topic": "pronouns-determiners", "bookUnits": [86, 88, 89, 90, 91], "bandFocus": "7.5" },
+    { "slug": "referencing-this-that-such", "title": "Referencing: this, that, such and it", "titleVi": "Từ thay thế: this, that, such và it", "level": "B2", "topic": "pronouns-determiners", "bookUnits": [84, 85], "bandFocus": "8.0" },
+    { "slug": "defining-relative-clauses", "title": "Defining relative clauses", "titleVi": "Mệnh đề quan hệ xác định", "level": "B2", "topic": "relative-clauses", "bookUnits": [92, 93], "bandFocus": "7.5" },
+    { "slug": "non-defining-relative-clauses", "title": "Non-defining relative clauses", "titleVi": "Mệnh đề quan hệ không xác định", "level": "C1", "topic": "relative-clauses", "bookUnits": [95, 96], "bandFocus": "8.0" },
+    { "slug": "reduced-relative-clauses", "title": "Reduced relative clauses", "titleVi": "Rút gọn mệnh đề quan hệ", "level": "C1", "topic": "relative-clauses", "bookUnits": [97], "bandFocus": "8.0" },
+    { "slug": "participle-clauses", "title": "Participle clauses", "titleVi": "Mệnh đề phân từ", "level": "C1", "topic": "clauses", "bookUnits": [68, 97], "bandFocus": "8.0" },
+
+    { "slug": "adjective-order-and-ed-ing-adjectives", "title": "Adjective order and -ed/-ing adjectives", "titleVi": "Trật tự tính từ và tính từ đuôi -ed/-ing", "level": "B1", "topic": "adjectives-adverbs", "bookUnits": [98, 99], "bandFocus": "7.0" },
+    { "slug": "adverbs-and-adverb-placement", "title": "Adverbs and adverb placement", "titleVi": "Trạng từ và vị trí trạng từ", "level": "B2", "topic": "adjectives-adverbs", "bookUnits": [100, 101, 110], "bandFocus": "7.5" },
+    { "slug": "comparatives-and-much-far", "title": "Comparatives: as ... as, much, far", "titleVi": "So sánh hơn: as ... as, much, far", "level": "B1", "topic": "comparison", "bookUnits": [105, 106, 107], "bandFocus": "7.0" },
+    { "slug": "superlatives-and-so-such", "title": "Superlatives, so and such", "titleVi": "So sánh nhất, so và such", "level": "B1", "topic": "comparison", "bookUnits": [102, 108], "bandFocus": "7.0" },
+    { "slug": "enough-too-quite-rather", "title": "enough, too, quite and rather", "titleVi": "enough, too, quite và rather", "level": "B2", "topic": "adjectives-adverbs", "bookUnits": [103, 104], "bandFocus": "7.5" },
+    { "slug": "word-order-verb-object-place-time", "title": "Word order: verb, object, place and time", "titleVi": "Trật tự từ: động từ, tân ngữ, nơi chốn, thời gian", "level": "B2", "topic": "word-order", "bookUnits": [109], "bandFocus": "7.5" },
+    { "slug": "emphasis-and-inversion", "title": "Emphasis, cleft sentences and inversion", "titleVi": "Nhấn mạnh, câu chẻ và đảo ngữ", "level": "C1", "topic": "word-order", "bookUnits": [109, 110, 112], "bandFocus": "8.0" },
+    { "slug": "still-yet-already-anymore", "title": "still, yet, already and anymore", "titleVi": "still, yet, already và anymore", "level": "B2", "topic": "adjectives-adverbs", "bookUnits": [111], "bandFocus": "7.5" },
+
+    { "slug": "contrast-linkers", "title": "Contrast linkers", "titleVi": "Từ nối chỉ sự tương phản", "level": "B2", "topic": "conjunctions", "bookUnits": [112, 113, 117, 118], "bandFocus": "7.5" },
+    { "slug": "cause-effect-and-purpose-linkers", "title": "Cause, effect and purpose linkers", "titleVi": "Từ nối chỉ nguyên nhân, kết quả và mục đích", "level": "B2", "topic": "conjunctions", "bookUnits": [64, 115, 116], "bandFocus": "7.5" },
+    { "slug": "condition-and-concession-linkers", "title": "Condition and concession linkers", "titleVi": "Từ nối chỉ điều kiện và nhượng bộ", "level": "C1", "topic": "conjunctions", "bookUnits": [114, 115], "bandFocus": "8.0" },
+    { "slug": "prepositions-of-time-and-place", "title": "Prepositions of time and place", "titleVi": "Giới từ chỉ thời gian và nơi chốn", "level": "B1", "topic": "prepositions", "bookUnits": [119, 120, 121, 123, 124, 125], "bandFocus": "7.0" },
+    { "slug": "dependent-prepositions", "title": "Dependent prepositions", "titleVi": "Giới từ đi kèm danh từ, tính từ, động từ", "level": "B2", "topic": "prepositions", "bookUnits": [129, 130, 131, 132, 133, 134, 135, 136], "bandFocus": "7.5" },
+    { "slug": "phrasal-verbs-for-ielts", "title": "Phrasal verbs for IELTS", "titleVi": "Cụm động từ cho IELTS", "level": "B2", "topic": "phrasal-verbs", "bookUnits": [137, 138, 139, 140, 141, 142, 143, 144, 145], "bandFocus": "8.0" }
+  ],
+  "vocabulary": [
+    { "slug": "education-core", "title": "Education — core set", "titleVi": "Giáo dục — bộ từ cốt lõi", "topic": "education" },
+    { "slug": "environment-core", "title": "Environment — core set", "titleVi": "Môi trường — bộ từ cốt lõi", "topic": "environment" },
+    { "slug": "technology-core", "title": "Technology — core set", "titleVi": "Công nghệ — bộ từ cốt lõi", "topic": "technology" },
+    { "slug": "health-core", "title": "Health and lifestyle — core set", "titleVi": "Sức khoẻ và lối sống — bộ từ cốt lõi", "topic": "health" },
+    { "slug": "society-core", "title": "Society and community — core set", "titleVi": "Xã hội và cộng đồng — bộ từ cốt lõi", "topic": "society" },
+    { "slug": "economy-work-core", "title": "Economy and work — core set", "titleVi": "Kinh tế và việc làm — bộ từ cốt lõi", "topic": "economy-work" },
+    { "slug": "government-core", "title": "Government and public policy — core set", "titleVi": "Chính phủ và chính sách công — bộ từ cốt lõi", "topic": "government" },
+    { "slug": "media-advertising-core", "title": "Media and advertising — core set", "titleVi": "Truyền thông và quảng cáo — bộ từ cốt lõi", "topic": "media-advertising" },
+    { "slug": "culture-travel-core", "title": "Culture and travel — core set", "titleVi": "Văn hoá và du lịch — bộ từ cốt lõi", "topic": "culture-travel" },
+    { "slug": "urbanisation-core", "title": "Urbanisation — core set", "titleVi": "Đô thị hoá — bộ từ cốt lõi", "topic": "urbanisation" },
+    { "slug": "family-children-core", "title": "Family and children — core set", "titleVi": "Gia đình và trẻ em — bộ từ cốt lõi", "topic": "family-children" },
+    { "slug": "crime-law-core", "title": "Crime and law — core set", "titleVi": "Tội phạm và pháp luật — bộ từ cốt lõi", "topic": "crime-law" },
+    { "slug": "science-research-core", "title": "Science and research — core set", "titleVi": "Khoa học và nghiên cứu — bộ từ cốt lõi", "topic": "science-research" },
+    { "slug": "globalisation-core", "title": "Globalisation — core set", "titleVi": "Toàn cầu hoá — bộ từ cốt lõi", "topic": "globalisation" },
+    { "slug": "academic-verbs-core", "title": "Academic verbs for essays", "titleVi": "Động từ học thuật cho bài luận", "topic": "academic-verbs" },
+    { "slug": "academic-adjectives-core", "title": "Academic adjectives for essays", "titleVi": "Tính từ học thuật cho bài luận", "topic": "academic-adjectives" },
+    { "slug": "linking-signposting", "title": "Linking and signposting phrases", "titleVi": "Cụm từ nối và dẫn dắt", "topic": "linking-signposting" },
+    { "slug": "describing-trends", "title": "Describing trends and data", "titleVi": "Mô tả xu hướng và số liệu", "topic": "describing-trends" },
+    { "slug": "collocations-essay", "title": "High-value essay collocations", "titleVi": "Collocation giá trị cao cho bài luận", "topic": "collocations" },
+    { "slug": "idioms-formal-core", "title": "Formal idioms and fixed phrases", "titleVi": "Thành ngữ và cụm cố định trang trọng", "topic": "idioms-formal" }
+  ]
+}

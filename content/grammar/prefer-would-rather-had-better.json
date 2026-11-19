@@ -1,0 +1,209 @@
+{
+  "slug": "prefer-would-rather-had-better",
+  "title": "prefer, would rather, had better",
+  "titleVi": "prefer, would rather, had better",
+  "level": "B2",
+  "topic": "verb-patterns",
+  "bookUnits": [35, 59],
+  "bandFocus": "7.5",
+  "summary": "Bốn cấu trúc diễn tả lựa chọn và lời khuyên, cùng quy tắc chia thì bất ngờ phía sau chúng.",
+  "whyItMatters": "Đây là nhóm cấu trúc bạn dùng liên tục trong Speaking Part 3 để nêu quan điểm (*I'd rather see the money spent on schools*) và trong Task 2 để đề xuất giải pháp. Chúng có ba quy tắc dễ sai: không dùng *to* sau *would rather/had better*, dùng **-ing** sau *prefer* khi so sánh, và dùng **quá khứ** sau *I'd rather you...* dù nghĩa là hiện tại.",
+  "sections": [
+    {
+      "heading": "prefer: general preference",
+      "body": [
+        "**prefer** expresses a general taste and accepts both forms with almost no difference: *I prefer to read paper books* / *I prefer reading paper books.*",
+        "When you compare two things, the pattern changes. Use **prefer X to Y**: *I prefer trains to planes.* With verbs, both sides take **-ing**: *I prefer reading to watching television.* Note **to**, never *than*.",
+        "The **rather than** pattern is the alternative: *I prefer to walk rather than take the bus* or *I prefer walking rather than taking the bus.* Keep the two sides parallel — do not mix *to walk* with *taking*."
+      ],
+      "table": {
+        "headers": ["Pattern", "Example"],
+        "rows": [
+          ["prefer to do / prefer doing", "I prefer to travel by train. / I prefer travelling by train."],
+          ["prefer X to Y", "Most commuters prefer the metro to the bus."],
+          ["prefer doing to doing", "She prefers cycling to driving."],
+          ["prefer to do rather than (do)", "I prefer to cook rather than order takeaway."],
+          ["prefer doing rather than doing", "They prefer renting rather than buying."]
+        ]
+      }
+    },
+    {
+      "heading": "would prefer: one specific choice",
+      "body": [
+        "**would prefer** is for a particular situation, not a general taste. It almost always takes the **to-infinitive**: *I'd prefer to stay in tonight* (this evening, not always).",
+        "You can add a person: *I'd prefer you to keep this confidential.* This is polite but firm — useful in formal emails and in Speaking when you disagree.",
+        "In comparisons, use **rather than** with the bare infinitive on both sides: *I'd prefer to walk rather than wait for a bus.* Never *would prefer ... than* without *rather*."
+      ],
+      "examples": [
+        { "right": "I'd prefer to discuss this in person.", "note": "Specific situation → **would prefer + to V**." },
+        { "right": "I'd prefer you not to mention it to anyone.", "wrong": "I'd prefer you don't mention it to anyone.", "note": "**would prefer + object + not to V**." },
+        { "right": "She'd prefer to reschedule rather than cancel.", "note": "**rather than + bare infinitive**." }
+      ]
+    },
+    {
+      "heading": "would rather: no to, ever",
+      "body": [
+        "**would rather** takes the **bare infinitive**: *I'd rather stay at home.* The negative is *I'd rather not go.* Adding *to* — *I'd rather to stay* — is a classic band-6 error.",
+        "To compare, use **than + bare infinitive**: *I'd rather walk than drive.* Both sides stay bare.",
+        "When you want someone else to do something, English uses a **past form** with present meaning: *I'd rather you came at six* (not *come*), *I'd rather she didn't know.* This is the same ‘unreal past’ logic as *It's time we left* and conditionals."
+      ],
+      "table": {
+        "headers": ["Structure", "Example", "Meaning"],
+        "rows": [
+          ["I'd rather + bare inf", "I'd rather take the early train.", "my own preference"],
+          ["I'd rather not + bare inf", "I'd rather not discuss it now.", "polite refusal"],
+          ["I'd rather do A than do B", "I'd rather rent than buy.", "comparison"],
+          ["I'd rather somebody DID", "I'd rather you told me the truth.", "present/future wish about another person"],
+          ["I'd rather somebody didn't do", "I'd rather you didn't smoke here.", "polite request"]
+        ]
+      }
+    },
+    {
+      "heading": "had better: advice with a consequence",
+      "body": [
+        "**had better** gives strong advice about a **specific** situation, with an implied warning: *You'd better see a doctor* suggests something bad will happen otherwise. It takes the bare infinitive, and the negative is **had better not**. Never *had better to*.",
+        "Although *had* is a past form, the meaning is present or future. The question tag is *hadn't you?* — rare in modern usage but correct.",
+        "Do not use *had better* for general opinions. *People had better exercise more* sounds like a threat; use **should** for general advice and save *had better* for immediate, concrete situations."
+      ],
+      "table": {
+        "headers": ["Form", "Example"],
+        "rows": [
+          ["had better + bare inf", "You'd better book the tickets today."],
+          ["had better not + bare inf", "We'd better not mention the delay."],
+          ["vs should (general)", "People should drink more water."],
+          ["vs should (specific warning)", "You'd better drink something before the run."],
+          ["it's time + to do", "It's time to reconsider the policy."],
+          ["it's time + somebody DID", "It's time the government acted on housing."]
+        ]
+      }
+    },
+    {
+      "heading": "Choosing the right frame under exam pressure",
+      "body": [
+        "**prefer** states a general taste; **would prefer** and **would rather** state a choice now; **had better** warns; **it's time** criticises an overdue situation. That is the whole system, and it maps neatly onto essay moves.",
+        "In Task 2, *I'd rather* is too personal for an academic register. Use the impersonal equivalents: *It would be preferable to...*, *Policymakers would do better to...*, *It is time that governments invested in...* — the last one keeps the past form after *it is time that*.",
+        "In Speaking, the contracted forms are an asset: *I'd rather*, *I'd sooner*, *you'd better*. Contracted auxiliaries signal natural fluency, and the examiner is listening for exactly that."
+      ],
+      "examples": [
+        { "right": "It is time that authorities treated this as a public health issue.", "wrong": "It is time that authorities treat this as a public health issue.", "note": "**it is time that + past form** for present meaning." },
+        { "right": "Governments would do better to fund prevention than treatment.", "note": "Formal impersonal version of *had better*." },
+        { "right": "I'd rather live in a smaller city than commute two hours a day.", "note": "Speaking register: bare infinitive after *rather*, bare after *than*." }
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "wrong": "I prefer watching films than reading books.",
+      "right": "I prefer watching films to reading books.",
+      "why": "Tiếng Việt dùng *hơn* cho mọi so sánh, nên người học chọn *than*. Với **prefer** phải là **to**, và hai vế đều ở dạng **-ing**."
+    },
+    {
+      "wrong": "I would rather to stay at home tonight.",
+      "right": "I would rather stay at home tonight.",
+      "why": "**would rather** đi với động từ nguyên mẫu **không có to**. Đây là lỗi rất phổ biến vì *would prefer* lại cần *to*."
+    },
+    {
+      "wrong": "I'd rather you don't tell anyone.",
+      "right": "I'd rather you didn't tell anyone.",
+      "why": "Sau **I'd rather + người** phải dùng **quá khứ** dù nghĩa là hiện tại — đây là dạng *unreal past* giống câu điều kiện loại 2."
+    },
+    {
+      "wrong": "You had better to see a doctor.",
+      "right": "You had better see a doctor.",
+      "why": "**had better + động từ nguyên mẫu không to**. Nhiều người học thêm *to* vì nghe giống *ought to*."
+    },
+    {
+      "wrong": "It's time we go home.",
+      "right": "It's time we went home.",
+      "why": "**It's time + somebody + quá khứ** diễn tả việc lẽ ra phải làm rồi. Giữ hiện tại là lỗi ngữ pháp, không phải lựa chọn văn phong."
+    }
+  ],
+  "ieltsTips": [
+    "Trong Writing, tránh `I'd rather`; dùng `It would be preferable to...` hoặc `Governments would do better to...` để giữ giọng học thuật.",
+    "`It is time that + quá khứ` là cấu trúc mạnh để kết đoạn đề xuất: `It is time that employers offered flexible hours as standard.`",
+    "Trong Speaking Part 3, `I'd rather` và `I'd sooner` giúp câu trả lời tự nhiên và thể hiện quan điểm cá nhân rõ ràng.",
+    "Nhớ ba quy tắc vàng: **would rather + V**, **prefer + to/-ing**, **prefer X to Y** — không bao giờ dùng *than* với *prefer*."
+  ],
+  "exercises": [
+    {
+      "id": "ex1",
+      "type": "mcq",
+      "question": "I prefer cycling ___ taking the bus during rush hour.",
+      "options": ["than", "to", "over", "from"],
+      "answerIndex": 1,
+      "explanation": "**prefer X to Y** — giới từ cố định là *to*."
+    },
+    {
+      "id": "ex2",
+      "type": "mcq",
+      "question": "I'd rather ___ the early train than risk being late.",
+      "options": ["to take", "taking", "take", "took"],
+      "answerIndex": 2,
+      "explanation": "**would rather + động từ nguyên mẫu không to**."
+    },
+    {
+      "id": "ex3",
+      "type": "mcq",
+      "question": "I'd rather you ___ anything about the surprise party.",
+      "options": ["don't say", "didn't say", "not say", "won't say"],
+      "answerIndex": 1,
+      "explanation": "**I'd rather + somebody + quá khứ**: *didn't say*."
+    },
+    {
+      "id": "ex4",
+      "type": "mcq",
+      "question": "You'd better ___ an umbrella — the forecast is terrible.",
+      "options": ["to take", "take", "taking", "took"],
+      "answerIndex": 1,
+      "explanation": "**had better + động từ nguyên mẫu không to**."
+    },
+    {
+      "id": "ex5",
+      "type": "mcq",
+      "question": "It's time the city ___ its public transport network.",
+      "options": ["upgrades", "upgrade", "upgraded", "will upgrade"],
+      "answerIndex": 2,
+      "explanation": "**It's time + chủ ngữ + quá khứ**: *upgraded*."
+    },
+    {
+      "id": "ex6",
+      "type": "gap",
+      "question": "I'd prefer ___ (stay) in tonight rather than go out.",
+      "answers": ["to stay"],
+      "hint": "would prefer + ?",
+      "explanation": "**would prefer + to-infinitive**."
+    },
+    {
+      "id": "ex7",
+      "type": "gap",
+      "question": "She prefers working from home ___ (prep) commuting every day.",
+      "answers": ["to"],
+      "hint": "prefer X ___ Y",
+      "explanation": "**prefer X to Y**."
+    },
+    {
+      "id": "ex8",
+      "type": "gap",
+      "question": "We'd better ___ (not / tell) him the news until Monday.",
+      "answers": ["not tell"],
+      "hint": "had better + negative",
+      "explanation": "**had better not + động từ nguyên mẫu**."
+    },
+    {
+      "id": "ex9",
+      "type": "gap",
+      "question": "I'd rather you ___ (come) a little earlier tomorrow.",
+      "answers": ["came"],
+      "hint": "I'd rather you + ?",
+      "explanation": "Dùng quá khứ **came** với nghĩa hiện tại/tương lai."
+    },
+    {
+      "id": "ex10",
+      "type": "gap",
+      "question": "It's about time we ___ (start) thinking about the conclusion.",
+      "answers": ["started"],
+      "hint": "it's about time + subject + ?",
+      "explanation": "**It's (about) time + chủ ngữ + quá khứ**: *started*."
+    }
+  ]
+}
